@@ -1,0 +1,31 @@
+{
+  "chapter": "Animal Kingdom",
+  "subject": "Biology",
+  "isPremium": false,
+  "questions": [
+    {
+      "id": "q_1",
+      "question": "बिना कोशिका भित्ति वाले बहुकोशिकीय जंतुओं को निम्न में से किस समूह के अंतर्गत रखा जा सकता है?\n\n(RRB Group D 26/10/2018 Shift 3)",
+      "options": [
+        "एनिमेलिया",
+        "प्लांटी",
+        "मोनेरा",
+        "प्रोटिस्टा"
+      ],
+      "correctIndex": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q_2",
+      "question": "किस सरल बहुकोशिकीय जीव में हाइफ़े पर स्पोरैन्जिया का विकास होता है और स्पोरैन्जिया में बीजाणु बनते हैं?\n\n(RRB Technician Grade III : 23 Dec, 2024 Shift 1)",
+      "options": [
+        "राइजोपस",
+        "लीशमैनिया",
+        "यीस्ट",
+        "अमीबा"
+      ],
+      "correctIndex": 0,
+      "explanation": ""
+    }
+  ]
+}
