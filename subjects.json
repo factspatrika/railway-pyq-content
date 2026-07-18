@@ -1,0 +1,76 @@
+[
+  {
+    "subjectId": "sub_physics",
+    "subjectName": "Physics (भौतिक विज्ञान)",
+    "topics": [
+      {
+        "topicId": "top_units",
+        "topicName": "मात्रक और मापन (Units and Measurement)",
+        "isPremium": false,
+        "mocks": [
+          { "mockId": "mock_1", "mockName": "Mock Test 1", "questions": [] },
+          { "mockId": "mock_2", "mockName": "Mock Test 2", "questions": [] }
+        ]
+      },
+      {
+        "topicId": "top_motion",
+        "topicName": "गति (Motion)",
+        "isPremium": false,
+        "mocks": [
+          { "mockId": "mock_3", "mockName": "Mock Test 1", "questions": [] }
+        ]
+      },
+      {
+        "topicId": "top_work",
+        "topicName": "कार्य, ऊर्जा और शक्ति (Work, Energy & Power)",
+        "isPremium": false,
+        "mocks": [
+          { "mockId": "mock_4", "mockName": "Mock Test 1", "questions": [] },
+          { "mockId": "mock_5", "mockName": "Mock Test 2", "questions": [] },
+          { "mockId": "mock_6", "mockName": "Mock Test 3", "questions": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "subjectId": "sub_chemistry",
+    "subjectName": "Chemistry (रसायन विज्ञान)",
+    "topics": [
+      {
+        "topicId": "top_atoms",
+        "topicName": "परमाणु संरचना (Atomic Structure)",
+        "isPremium": false,
+        "mocks": [
+          { "mockId": "mock_7", "mockName": "Mock Test 1", "questions": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "subjectId": "sub_biology",
+    "subjectName": "Biology (जीव विज्ञान)",
+    "topics": [
+      {
+        "topicId": "top_cells",
+        "topicName": "कोशिका (Cell Biology)",
+        "isPremium": false,
+        "mocks": [
+          { "mockId": "mock_8", "mockName": "Mock Test 1", "questions": [] }
+        ]
+      },
+      {
+        "topicId": "top_animal_kingdom",
+        "topicName": "जंतु जगत (Animal Kingdom)",
+        "isPremium": false,
+        "mocks": [
+          { "mockId": "mock_animal_kingdom_1", "mockName": "Mock Test 1 (Q. 1-30)", "questions": [] },
+          { "mockId": "mock_animal_kingdom_2", "mockName": "Mock Test 2 (Q. 31-60)", "questions": [] },
+          { "mockId": "mock_animal_kingdom_3", "mockName": "Mock Test 3 (Q. 61-90)", "questions": [] },
+          { "mockId": "mock_animal_kingdom_4", "mockName": "Mock Test 4 (Q. 91-120)", "questions": [] },
+          { "mockId": "mock_animal_kingdom_5", "mockName": "Mock Test 5 (Q. 121-150)", "questions": [] },
+          { "mockId": "mock_animal_kingdom_6", "mockName": "Mock Test 6 (Q. 151-171)", "questions": [] }
+        ]
+      }
+    ]
+  }
+]
