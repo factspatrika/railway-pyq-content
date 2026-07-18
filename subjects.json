@@ -1235,6 +1235,123 @@
         ]
       },
       {
+        "topicId": "top_chemical_reactions_and_equations",
+        "topicName": "रासायनिक अभिक्रियाएं (Chemical Reactions)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_chemical_reactions_and_equations_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_9",
+            "mockName": "Mock Test 9 (Q. 241-270)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_10",
+            "mockName": "Mock Test 10 (Q. 271-300)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_11",
+            "mockName": "Mock Test 11 (Q. 301-330)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_12",
+            "mockName": "Mock Test 12 (Q. 331-360)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_13",
+            "mockName": "Mock Test 13 (Q. 361-390)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_14",
+            "mockName": "Mock Test 14 (Q. 391-420)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_15",
+            "mockName": "Mock Test 15 (Q. 421-450)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_16",
+            "mockName": "Mock Test 16 (Q. 451-480)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_17",
+            "mockName": "Mock Test 17 (Q. 481-510)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_18",
+            "mockName": "Mock Test 18 (Q. 511-540)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_19",
+            "mockName": "Mock Test 19 (Q. 541-570)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_20",
+            "mockName": "Mock Test 20 (Q. 571-600)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_21",
+            "mockName": "Mock Test 21 (Q. 601-630)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_reactions_and_equations_22",
+            "mockName": "Mock Test 22 (Q. 631-642)",
+            "questions": []
+          }
+        ]
+      },
+      {
         "topicId": "top_electrochemistry",
         "topicName": "वैद्युत रसायन (Electrochemistry)",
         "isPremium": true,
@@ -2040,6 +2157,63 @@
           {
             "mockId": "mock_photosynthesis_2",
             "mockName": "Mock Test 2 (Q. 31-59)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_plant_kingdom_botany",
+        "topicName": "पादप जगत (Plant Kingdom)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_plant_kingdom_botany_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_plant_kingdom_botany_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_plant_kingdom_botany_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_plant_kingdom_botany_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_plant_kingdom_botany_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_plant_kingdom_botany_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_plant_kingdom_botany_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_plant_kingdom_botany_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_plant_kingdom_botany_9",
+            "mockName": "Mock Test 9 (Q. 241-270)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_plant_kingdom_botany_10",
+            "mockName": "Mock Test 10 (Q. 271-299)",
             "questions": []
           }
         ]
