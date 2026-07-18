@@ -1,11 +1,11 @@
 [
   {
     "subjectId": "sub_physics",
-    "subjectName": "Physics (à¤­à¥Œà¤¤à¤¿à¤• à¤µà¤¿à¤œà¥à¤žà¤¾à¤¨)",
+    "subjectName": "Physics (भौतिक विज्ञान)",
     "topics": [
       {
         "topicId": "top_units",
-        "topicName": "à¤®à¤¾à¤¤à¥à¤°à¤• à¤”à¤° à¤®à¤¾à¤ªà¤¨ (Units and Measurement)",
+        "topicName": "मात्रक और मापन (Units and Measurement)",
         "isPremium": false,
         "mocks": [
           {
@@ -22,7 +22,7 @@
       },
       {
         "topicId": "top_motion",
-        "topicName": "à¤—à¤¤à¤¿ (Motion)",
+        "topicName": "गति (Motion)",
         "isPremium": false,
         "mocks": [
           {
@@ -34,7 +34,7 @@
       },
       {
         "topicId": "top_work",
-        "topicName": "à¤•à¤¾à¤°à¥à¤¯, à¤Šà¤°à¥à¤œà¤¾ à¤”à¤° à¤¶à¤•à¥à¤¤à¤¿ (Work, Energy & Power)",
+        "topicName": "कार्य, ऊर्जा और शक्ति (Work, Energy & Power)",
         "isPremium": false,
         "mocks": [
           {
@@ -58,11 +58,11 @@
   },
   {
     "subjectId": "sub_chemistry",
-    "subjectName": "Chemistry (à¤°à¤¸à¤¾à¤¯à¤¨ à¤µà¤¿à¤œà¥à¤žà¤¾à¤¨)",
+    "subjectName": "Chemistry (रसायन विज्ञान)",
     "topics": [
       {
         "topicId": "top_atoms",
-        "topicName": "à¤ªà¤°à¤®à¤¾à¤£à¥ à¤¸à¤‚à¤°à¤šà¤¨à¤¾ (Atomic Structure)",
+        "topicName": "परमाणु संरचना (Atomic Structure)",
         "isPremium": false,
         "mocks": [
           {
@@ -76,11 +76,11 @@
   },
   {
     "subjectId": "sub_biology",
-    "subjectName": "Biology (à¤œà¥€à¤µ à¤µà¤¿à¤œà¥à¤žà¤¾à¤¨)",
+    "subjectName": "Biology (जीव विज्ञान)",
     "topics": [
       {
         "topicId": "top_cells",
-        "topicName": "à¤•à¥‹à¤¶à¤¿à¤•à¤¾ (Cell Biology)",
+        "topicName": "कोशिका (Cell Biology)",
         "isPremium": false,
         "mocks": [
           {
@@ -92,15 +92,39 @@
       },
       {
         "topicId": "top_animal_kingdom",
-        "topicName": "à¤œà¤‚à¤¤à¥ à¤œà¤—à¤¤ (Animal Kingdom)",
+        "topicName": "जंतु जगत (Animal Kingdom)",
         "isPremium": false,
         "mocks": [
-          { "mockId": "mock_animal_kingdom_1", "mockName": "Mock Test 1 (Q. 1-30)", "questions": [] },
-          { "mockId": "mock_animal_kingdom_2", "mockName": "Mock Test 2 (Q. 31-60)", "questions": [] },
-          { "mockId": "mock_animal_kingdom_3", "mockName": "Mock Test 3 (Q. 61-90)", "questions": [] },
-          { "mockId": "mock_animal_kingdom_4", "mockName": "Mock Test 4 (Q. 91-120)", "questions": [] },
-          { "mockId": "mock_animal_kingdom_5", "mockName": "Mock Test 5 (Q. 121-150)", "questions": [] },
-          { "mockId": "mock_animal_kingdom_6", "mockName": "Mock Test 6 (Q. 151-171)", "questions": [] }
+          {
+            "mockId": "mock_animal_kingdom_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_animal_kingdom_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_animal_kingdom_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_animal_kingdom_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_animal_kingdom_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_animal_kingdom_6",
+            "mockName": "Mock Test 6 (Q. 151-171)",
+            "questions": []
+          }
         ]
       }
     ]
