@@ -4,18 +4,40 @@
     "subjectName": "Physics (भौतिक विज्ञान)",
     "topics": [
       {
-        "topicId": "top_units",
-        "topicName": "मात्रक और मापन (Units and Measurement)",
-        "isPremium": false,
+        "topicId": "top_waves",
+        "topicName": "तरंगें (Waves)",
+        "isPremium": true,
         "mocks": [
           {
-            "mockId": "mock_1",
-            "mockName": "Mock Test 1",
+            "mockId": "mock_waves_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
             "questions": []
           },
           {
-            "mockId": "mock_2",
-            "mockName": "Mock Test 2",
+            "mockId": "mock_waves_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_waves_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_waves_4",
+            "mockName": "Mock Test 4 (Q. 91-92)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_simple_machines_and_mechanics",
+        "topicName": "सरल मशीनें और यांत्रिकी (Simple Machines)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_simple_machines_and_mechanics_1",
+            "mockName": "Mock Test 1 (Q. 1-14)",
             "questions": []
           }
         ]
@@ -23,33 +45,917 @@
       {
         "topicId": "top_motion",
         "topicName": "गति (Motion)",
-        "isPremium": false,
+        "isPremium": true,
         "mocks": [
           {
-            "mockId": "mock_3",
-            "mockName": "Mock Test 1",
+            "mockId": "mock_motion_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_motion_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_motion_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_motion_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_motion_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_motion_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_motion_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_motion_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_motion_9",
+            "mockName": "Mock Test 9 (Q. 241-270)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_motion_10",
+            "mockName": "Mock Test 10 (Q. 271-300)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_motion_11",
+            "mockName": "Mock Test 11 (Q. 301-330)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_motion_12",
+            "mockName": "Mock Test 12 (Q. 331-360)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_motion_13",
+            "mockName": "Mock Test 13 (Q. 361-372)",
             "questions": []
           }
         ]
       },
       {
-        "topicId": "top_work",
-        "topicName": "कार्य, ऊर्जा और शक्ति (Work, Energy & Power)",
-        "isPremium": false,
+        "topicId": "top_work_power_and_energy",
+        "topicName": "कार्य, शक्ति और ऊर्जा (Work, Power & Energy)",
+        "isPremium": true,
         "mocks": [
           {
-            "mockId": "mock_4",
-            "mockName": "Mock Test 1",
+            "mockId": "mock_work_power_and_energy_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
             "questions": []
           },
           {
-            "mockId": "mock_5",
-            "mockName": "Mock Test 2",
+            "mockId": "mock_work_power_and_energy_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
             "questions": []
           },
           {
-            "mockId": "mock_6",
-            "mockName": "Mock Test 3",
+            "mockId": "mock_work_power_and_energy_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_work_power_and_energy_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_work_power_and_energy_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_work_power_and_energy_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_work_power_and_energy_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_work_power_and_energy_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_work_power_and_energy_9",
+            "mockName": "Mock Test 9 (Q. 241-270)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_work_power_and_energy_10",
+            "mockName": "Mock Test 10 (Q. 271-300)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_work_power_and_energy_11",
+            "mockName": "Mock Test 11 (Q. 301-330)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_work_power_and_energy_12",
+            "mockName": "Mock Test 12 (Q. 331-360)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_work_power_and_energy_13",
+            "mockName": "Mock Test 13 (Q. 361-390)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_work_power_and_energy_14",
+            "mockName": "Mock Test 14 (Q. 391-420)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_work_power_and_energy_15",
+            "mockName": "Mock Test 15 (Q. 421-423)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_gravitation",
+        "topicName": "गुरुत्वाकर्षण (Gravitation)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_gravitation_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_gravitation_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_gravitation_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_gravitation_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_gravitation_5",
+            "mockName": "Mock Test 5 (Q. 121-130)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_magnetic_effects_of_current",
+        "topicName": "धारा के चुंबकीय प्रभाव (Magnetic Effects)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_magnetic_effects_of_current_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_magnetic_effects_of_current_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_magnetic_effects_of_current_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_magnetic_effects_of_current_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_magnetic_effects_of_current_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_magnetic_effects_of_current_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_magnetic_effects_of_current_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_magnetic_effects_of_current_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_magnetic_effects_of_current_9",
+            "mockName": "Mock Test 9 (Q. 241-253)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_heat_and_thermodynamics",
+        "topicName": "ऊष्मा और ऊष्मागतिकी (Heat & Thermodynamics)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_heat_and_thermodynamics_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_heat_and_thermodynamics_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_heat_and_thermodynamics_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_heat_and_thermodynamics_4",
+            "mockName": "Mock Test 4 (Q. 91-108)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_modern_physics_and_radioactivity",
+        "topicName": "आधुनिक भौतिकी और रेडियोधर्मिता (Modern Physics)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_modern_physics_and_radioactivity_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_modern_physics_and_radioactivity_2",
+            "mockName": "Mock Test 2 (Q. 31-40)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_measurement_and_units",
+        "topicName": "मापन और मात्रक (Measurement & Units)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_measurement_and_units_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_9",
+            "mockName": "Mock Test 9 (Q. 241-270)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_10",
+            "mockName": "Mock Test 10 (Q. 271-300)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_11",
+            "mockName": "Mock Test 11 (Q. 301-330)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_12",
+            "mockName": "Mock Test 12 (Q. 331-360)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_13",
+            "mockName": "Mock Test 13 (Q. 361-390)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_14",
+            "mockName": "Mock Test 14 (Q. 391-420)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_15",
+            "mockName": "Mock Test 15 (Q. 421-450)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_16",
+            "mockName": "Mock Test 16 (Q. 451-480)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_17",
+            "mockName": "Mock Test 17 (Q. 481-510)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_18",
+            "mockName": "Mock Test 18 (Q. 511-540)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_19",
+            "mockName": "Mock Test 19 (Q. 541-570)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_20",
+            "mockName": "Mock Test 20 (Q. 571-600)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_21",
+            "mockName": "Mock Test 21 (Q. 601-630)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_22",
+            "mockName": "Mock Test 22 (Q. 631-660)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_23",
+            "mockName": "Mock Test 23 (Q. 661-690)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_24",
+            "mockName": "Mock Test 24 (Q. 691-720)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_25",
+            "mockName": "Mock Test 25 (Q. 721-750)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_26",
+            "mockName": "Mock Test 26 (Q. 751-780)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_27",
+            "mockName": "Mock Test 27 (Q. 781-810)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_28",
+            "mockName": "Mock Test 28 (Q. 811-840)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_29",
+            "mockName": "Mock Test 29 (Q. 841-870)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_30",
+            "mockName": "Mock Test 30 (Q. 871-900)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_31",
+            "mockName": "Mock Test 31 (Q. 901-930)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_measurement_and_units_32",
+            "mockName": "Mock Test 32 (Q. 931-955)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_sound",
+        "topicName": "ध्वनि (Sound)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_sound_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_sound_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_sound_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_sound_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_sound_5",
+            "mockName": "Mock Test 5 (Q. 121-135)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_force_and_laws_of_motion",
+        "topicName": "बल और गति के नियम (Force & Laws of Motion)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_force_and_laws_of_motion_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_force_and_laws_of_motion_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_force_and_laws_of_motion_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_force_and_laws_of_motion_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_force_and_laws_of_motion_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_force_and_laws_of_motion_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_force_and_laws_of_motion_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_force_and_laws_of_motion_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_force_and_laws_of_motion_9",
+            "mockName": "Mock Test 9 (Q. 241-270)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_force_and_laws_of_motion_10",
+            "mockName": "Mock Test 10 (Q. 271-300)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_force_and_laws_of_motion_11",
+            "mockName": "Mock Test 11 (Q. 301-330)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_force_and_laws_of_motion_12",
+            "mockName": "Mock Test 12 (Q. 331-360)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_force_and_laws_of_motion_13",
+            "mockName": "Mock Test 13 (Q. 361-390)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_force_and_laws_of_motion_14",
+            "mockName": "Mock Test 14 (Q. 391-415)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_light_and_optics",
+        "topicName": "प्रकाश और प्रकाशिकी (Light & Optics)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_light_and_optics_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_9",
+            "mockName": "Mock Test 9 (Q. 241-270)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_10",
+            "mockName": "Mock Test 10 (Q. 271-300)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_11",
+            "mockName": "Mock Test 11 (Q. 301-330)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_12",
+            "mockName": "Mock Test 12 (Q. 331-360)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_13",
+            "mockName": "Mock Test 13 (Q. 361-390)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_14",
+            "mockName": "Mock Test 14 (Q. 391-420)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_15",
+            "mockName": "Mock Test 15 (Q. 421-450)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_16",
+            "mockName": "Mock Test 16 (Q. 451-480)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_17",
+            "mockName": "Mock Test 17 (Q. 481-510)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_18",
+            "mockName": "Mock Test 18 (Q. 511-540)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_19",
+            "mockName": "Mock Test 19 (Q. 541-570)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_20",
+            "mockName": "Mock Test 20 (Q. 571-600)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_21",
+            "mockName": "Mock Test 21 (Q. 601-630)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_22",
+            "mockName": "Mock Test 22 (Q. 631-660)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_23",
+            "mockName": "Mock Test 23 (Q. 661-690)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_24",
+            "mockName": "Mock Test 24 (Q. 691-720)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_25",
+            "mockName": "Mock Test 25 (Q. 721-750)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_26",
+            "mockName": "Mock Test 26 (Q. 751-780)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_27",
+            "mockName": "Mock Test 27 (Q. 781-810)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_28",
+            "mockName": "Mock Test 28 (Q. 811-840)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_light_and_optics_29",
+            "mockName": "Mock Test 29 (Q. 841-856)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_others",
+        "topicName": "विविध (Others)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_others_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_others_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_others_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_others_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_others_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_others_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_others_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_others_8",
+            "mockName": "Mock Test 8 (Q. 211-238)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_electricity",
+        "topicName": "विद्युत (Electricity)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_electricity_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_9",
+            "mockName": "Mock Test 9 (Q. 241-270)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_10",
+            "mockName": "Mock Test 10 (Q. 271-300)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_11",
+            "mockName": "Mock Test 11 (Q. 301-330)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_12",
+            "mockName": "Mock Test 12 (Q. 331-360)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_13",
+            "mockName": "Mock Test 13 (Q. 361-390)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_14",
+            "mockName": "Mock Test 14 (Q. 391-420)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_15",
+            "mockName": "Mock Test 15 (Q. 421-450)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_16",
+            "mockName": "Mock Test 16 (Q. 451-480)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_17",
+            "mockName": "Mock Test 17 (Q. 481-510)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_18",
+            "mockName": "Mock Test 18 (Q. 511-540)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_19",
+            "mockName": "Mock Test 19 (Q. 541-570)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_20",
+            "mockName": "Mock Test 20 (Q. 571-600)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_21",
+            "mockName": "Mock Test 21 (Q. 601-630)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_22",
+            "mockName": "Mock Test 22 (Q. 631-660)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electricity_23",
+            "mockName": "Mock Test 23 (Q. 661-666)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_dual_nature_of_matter",
+        "topicName": "द्रव्य की द्वैत प्रकृति (Dual Nature of Matter)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_dual_nature_of_matter_1",
+            "mockName": "Mock Test 1 (Q. 1-3)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_pressure_and_fluid_mechanics",
+        "topicName": "दाब और द्रव यांत्रिकी (Pressure & Fluid Mechanics)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_pressure_and_fluid_mechanics_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_pressure_and_fluid_mechanics_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_pressure_and_fluid_mechanics_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_pressure_and_fluid_mechanics_4",
+            "mockName": "Mock Test 4 (Q. 91-99)",
             "questions": []
           }
         ]
@@ -61,13 +967,646 @@
     "subjectName": "Chemistry (रसायन विज्ञान)",
     "topics": [
       {
-        "topicId": "top_atoms",
-        "topicName": "परमाणु संरचना (Atomic Structure)",
-        "isPremium": false,
+        "topicId": "top_acids_bases_and_salts",
+        "topicName": "अम्ल, क्षार और लवण (Acids, Bases & Salts)",
+        "isPremium": true,
         "mocks": [
           {
-            "mockId": "mock_7",
-            "mockName": "Mock Test 1",
+            "mockId": "mock_acids_bases_and_salts_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_acids_bases_and_salts_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_acids_bases_and_salts_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_acids_bases_and_salts_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_acids_bases_and_salts_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_acids_bases_and_salts_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_acids_bases_and_salts_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_acids_bases_and_salts_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_acids_bases_and_salts_9",
+            "mockName": "Mock Test 9 (Q. 241-270)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_acids_bases_and_salts_10",
+            "mockName": "Mock Test 10 (Q. 271-300)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_acids_bases_and_salts_11",
+            "mockName": "Mock Test 11 (Q. 301-330)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_acids_bases_and_salts_12",
+            "mockName": "Mock Test 12 (Q. 331-360)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_acids_bases_and_salts_13",
+            "mockName": "Mock Test 13 (Q. 361-390)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_acids_bases_and_salts_14",
+            "mockName": "Mock Test 14 (Q. 391-420)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_acids_bases_and_salts_15",
+            "mockName": "Mock Test 15 (Q. 421-443)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_atomic_structure",
+        "topicName": "परमाणु संरचना (Atomic Structure)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_atomic_structure_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_atomic_structure_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_atomic_structure_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_atomic_structure_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_atomic_structure_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_atomic_structure_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_atomic_structure_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_atomic_structure_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_atomic_structure_9",
+            "mockName": "Mock Test 9 (Q. 241-270)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_atomic_structure_10",
+            "mockName": "Mock Test 10 (Q. 271-300)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_atomic_structure_11",
+            "mockName": "Mock Test 11 (Q. 301-330)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_atomic_structure_12",
+            "mockName": "Mock Test 12 (Q. 331-360)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_atomic_structure_13",
+            "mockName": "Mock Test 13 (Q. 361-377)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_carbon_and_its_compounds",
+        "topicName": "कार्बन और उसके यौगिक (Carbon & Compounds)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_carbon_and_its_compounds_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_carbon_and_its_compounds_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_carbon_and_its_compounds_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_carbon_and_its_compounds_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_carbon_and_its_compounds_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_carbon_and_its_compounds_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_carbon_and_its_compounds_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_carbon_and_its_compounds_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_carbon_and_its_compounds_9",
+            "mockName": "Mock Test 9 (Q. 241-269)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_chemical_bonding",
+        "topicName": "रासायनिक आबंध (Chemical Bonding)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_chemical_bonding_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_bonding_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_bonding_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_bonding_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_bonding_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_bonding_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_bonding_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_bonding_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_bonding_9",
+            "mockName": "Mock Test 9 (Q. 241-270)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_bonding_10",
+            "mockName": "Mock Test 10 (Q. 271-300)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_chemical_bonding_11",
+            "mockName": "Mock Test 11 (Q. 301-319)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_electrochemistry",
+        "topicName": "वैद्युत रसायन (Electrochemistry)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_electrochemistry_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_electrochemistry_2",
+            "mockName": "Mock Test 2 (Q. 31-42)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_fuels_and_combustion",
+        "topicName": "ईंधन और दहन (Fuels & Combustion)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_fuels_and_combustion_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_fuels_and_combustion_2",
+            "mockName": "Mock Test 2 (Q. 31-50)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_matter_and_its_states",
+        "topicName": "पदार्थ और उसकी अवस्थाएं (Matter & States)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_matter_and_its_states_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_matter_and_its_states_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_matter_and_its_states_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_matter_and_its_states_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_matter_and_its_states_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_matter_and_its_states_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_matter_and_its_states_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_matter_and_its_states_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_matter_and_its_states_9",
+            "mockName": "Mock Test 9 (Q. 241-270)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_matter_and_its_states_10",
+            "mockName": "Mock Test 10 (Q. 271-300)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_matter_and_its_states_11",
+            "mockName": "Mock Test 11 (Q. 301-330)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_matter_and_its_states_12",
+            "mockName": "Mock Test 12 (Q. 331-360)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_matter_and_its_states_13",
+            "mockName": "Mock Test 13 (Q. 361-390)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_matter_and_its_states_14",
+            "mockName": "Mock Test 14 (Q. 391-393)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_metals_and_nonmetals",
+        "topicName": "धातु और अधातु (Metals & Non-Metals)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_metals_and_nonmetals_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_metals_and_nonmetals_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_metals_and_nonmetals_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_metals_and_nonmetals_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_metals_and_nonmetals_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_metals_and_nonmetals_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_metals_and_nonmetals_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_metals_and_nonmetals_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_metals_and_nonmetals_9",
+            "mockName": "Mock Test 9 (Q. 241-270)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_metals_and_nonmetals_10",
+            "mockName": "Mock Test 10 (Q. 271-284)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_others",
+        "topicName": "विविध (Others)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_others_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_others_2",
+            "mockName": "Mock Test 2 (Q. 31-39)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_periodic_table_and_classification",
+        "topicName": "आवर्त सारणी और वर्गीकरण (Periodic Table)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_periodic_table_and_classification_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_periodic_table_and_classification_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_periodic_table_and_classification_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_periodic_table_and_classification_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_periodic_table_and_classification_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_periodic_table_and_classification_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_periodic_table_and_classification_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_periodic_table_and_classification_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_periodic_table_and_classification_9",
+            "mockName": "Mock Test 9 (Q. 241-270)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_periodic_table_and_classification_10",
+            "mockName": "Mock Test 10 (Q. 271-300)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_periodic_table_and_classification_11",
+            "mockName": "Mock Test 11 (Q. 301-330)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_periodic_table_and_classification_12",
+            "mockName": "Mock Test 12 (Q. 331-360)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_periodic_table_and_classification_13",
+            "mockName": "Mock Test 13 (Q. 361-390)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_periodic_table_and_classification_14",
+            "mockName": "Mock Test 14 (Q. 391-420)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_periodic_table_and_classification_15",
+            "mockName": "Mock Test 15 (Q. 421-450)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_periodic_table_and_classification_16",
+            "mockName": "Mock Test 16 (Q. 451-480)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_periodic_table_and_classification_17",
+            "mockName": "Mock Test 17 (Q. 481-499)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_solutions_and_mixtures",
+        "topicName": "विलयन और मिश्रण (Solutions & Mixtures)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_solutions_and_mixtures_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_solutions_and_mixtures_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_solutions_and_mixtures_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_solutions_and_mixtures_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_solutions_and_mixtures_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_solutions_and_mixtures_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_solutions_and_mixtures_7",
+            "mockName": "Mock Test 7 (Q. 181-207)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_laboratory_chemistry",
+        "topicName": "प्रयोगशाला रसायन (Laboratory Chemistry)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_laboratory_chemistry_1",
+            "mockName": "Mock Test 1 (Q. 1-28)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_polymers_and_plastics",
+        "topicName": "बहुलक और प्लास्टिक (Polymers & Plastics)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_polymers_and_plastics_1",
+            "mockName": "Mock Test 1 (Q. 1-28)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_oxidation_and_reduction",
+        "topicName": "ऑक्सीकरण और अपचयन (Oxidation & Reduction)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_oxidation_and_reduction_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_oxidation_and_reduction_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_oxidation_and_reduction_3",
+            "mockName": "Mock Test 3 (Q. 61-63)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_corrosion_and_rusting",
+        "topicName": "संक्षारण और जंग (Corrosion & Rusting)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_corrosion_and_rusting_1",
+            "mockName": "Mock Test 1 (Q. 1-25)",
             "questions": []
           }
         ]
@@ -79,28 +1618,654 @@
     "subjectName": "Biology (जीव विज्ञान)",
     "topics": [
       {
-        "topicId": "top_cells",
-        "topicName": "कोशिका (Cell Biology)",
+        "topicId": "top_animal_kingdom_zoology",
+        "topicName": "जंतु जगत (Animal Kingdom)",
         "isPremium": false,
         "mocks": [
           {
-            "mockId": "mock_8",
-            "mockName": "Mock Test 1",
+            "mockId": "mock_animal_kingdom_zoology_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_animal_kingdom_zoology_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_animal_kingdom_zoology_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_animal_kingdom_zoology_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_animal_kingdom_zoology_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_animal_kingdom_zoology_6",
+            "mockName": "Mock Test 6 (Q. 151-171)",
             "questions": []
           }
         ]
       },
       {
-        "topicId": "top_animal_kingdom",
-        "topicName": "जंतु जगत (Animal Kingdom)",
-        "isPremium": false,
+        "topicId": "top_cell_structure_and_function",
+        "topicName": "कोशिका संरचना और कार्य (Cell Structure)",
+        "isPremium": true,
         "mocks": [
-          { "mockId": "mock_animal_kingdom_1", "mockName": "Mock Test 1 (Q. 1-30)", "questions": [] },
-          { "mockId": "mock_animal_kingdom_2", "mockName": "Mock Test 2 (Q. 31-60)", "questions": [] },
-          { "mockId": "mock_animal_kingdom_3", "mockName": "Mock Test 3 (Q. 61-90)", "questions": [] },
-          { "mockId": "mock_animal_kingdom_4", "mockName": "Mock Test 4 (Q. 91-120)", "questions": [] },
-          { "mockId": "mock_animal_kingdom_5", "mockName": "Mock Test 5 (Q. 121-150)", "questions": [] },
-          { "mockId": "mock_animal_kingdom_6", "mockName": "Mock Test 6 (Q. 151-171)", "questions": [] }
+          {
+            "mockId": "mock_cell_structure_and_function_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_cell_structure_and_function_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_cell_structure_and_function_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_cell_structure_and_function_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_cell_structure_and_function_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_cell_structure_and_function_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_cell_structure_and_function_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_cell_structure_and_function_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_cell_structure_and_function_9",
+            "mockName": "Mock Test 9 (Q. 241-270)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_cell_structure_and_function_10",
+            "mockName": "Mock Test 10 (Q. 271-300)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_cell_structure_and_function_11",
+            "mockName": "Mock Test 11 (Q. 301-330)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_cell_structure_and_function_12",
+            "mockName": "Mock Test 12 (Q. 331-342)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_circulatory_system",
+        "topicName": "परिसंचरण तंत्र (Circulatory System)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_circulatory_system_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_circulatory_system_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_circulatory_system_3",
+            "mockName": "Mock Test 3 (Q. 61-69)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_digestive_system",
+        "topicName": "पाचन तंत्र (Digestive System)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_digestive_system_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_digestive_system_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_digestive_system_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_digestive_system_4",
+            "mockName": "Mock Test 4 (Q. 91-96)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_genetics_and_dna",
+        "topicName": "आनुवंशिकी और डीएनए (Genetics & DNA)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_genetics_and_dna_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_genetics_and_dna_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_genetics_and_dna_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_genetics_and_dna_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_genetics_and_dna_5",
+            "mockName": "Mock Test 5 (Q. 121-121)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_heredity_and_evolution",
+        "topicName": "आनुवंशिकता और विकास (Heredity & Evolution)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_heredity_and_evolution_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_heredity_and_evolution_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_heredity_and_evolution_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_heredity_and_evolution_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_heredity_and_evolution_5",
+            "mockName": "Mock Test 5 (Q. 121-134)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_hormones_and_endocrine_system",
+        "topicName": "हार्मोन और अंतःस्रावी तंत्र (Hormones)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_hormones_and_endocrine_system_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_hormones_and_endocrine_system_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_hormones_and_endocrine_system_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_hormones_and_endocrine_system_4",
+            "mockName": "Mock Test 4 (Q. 91-97)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_human_diseases_and_immunity",
+        "topicName": "मानव रोग और प्रतिरक्षा (Human Diseases)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_human_diseases_and_immunity_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_human_diseases_and_immunity_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_human_diseases_and_immunity_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_human_diseases_and_immunity_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_human_diseases_and_immunity_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_human_diseases_and_immunity_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_human_diseases_and_immunity_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_human_diseases_and_immunity_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_human_diseases_and_immunity_9",
+            "mockName": "Mock Test 9 (Q. 241-270)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_human_diseases_and_immunity_10",
+            "mockName": "Mock Test 10 (Q. 271-300)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_human_diseases_and_immunity_11",
+            "mockName": "Mock Test 11 (Q. 301-330)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_human_diseases_and_immunity_12",
+            "mockName": "Mock Test 12 (Q. 331-360)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_human_diseases_and_immunity_13",
+            "mockName": "Mock Test 13 (Q. 361-390)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_human_diseases_and_immunity_14",
+            "mockName": "Mock Test 14 (Q. 391-420)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_human_diseases_and_immunity_15",
+            "mockName": "Mock Test 15 (Q. 421-446)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_nervous_system_and_sense_organs",
+        "topicName": "तंत्रिका तंत्र और ज्ञानेंद्रियां (Nervous System)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_nervous_system_and_sense_organs_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_nervous_system_and_sense_organs_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_nervous_system_and_sense_organs_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_nervous_system_and_sense_organs_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_nervous_system_and_sense_organs_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_nervous_system_and_sense_organs_6",
+            "mockName": "Mock Test 6 (Q. 151-157)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_nutrition_in_plants_and_animals",
+        "topicName": "पौधों और जंतुओं में पोषण (Nutrition)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_nutrition_in_plants_and_animals_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_nutrition_in_plants_and_animals_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_nutrition_in_plants_and_animals_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_nutrition_in_plants_and_animals_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_nutrition_in_plants_and_animals_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_nutrition_in_plants_and_animals_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_nutrition_in_plants_and_animals_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_nutrition_in_plants_and_animals_8",
+            "mockName": "Mock Test 8 (Q. 211-235)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_photosynthesis",
+        "topicName": "प्रकाश संश्लेषण (Photosynthesis)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_photosynthesis_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_photosynthesis_2",
+            "mockName": "Mock Test 2 (Q. 31-59)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_reproduction",
+        "topicName": "प्रजनन (Reproduction)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_reproduction_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_reproduction_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_reproduction_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_reproduction_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_reproduction_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_reproduction_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_reproduction_7",
+            "mockName": "Mock Test 7 (Q. 181-210)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_reproduction_8",
+            "mockName": "Mock Test 8 (Q. 211-240)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_reproduction_9",
+            "mockName": "Mock Test 9 (Q. 241-270)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_reproduction_10",
+            "mockName": "Mock Test 10 (Q. 271-300)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_reproduction_11",
+            "mockName": "Mock Test 11 (Q. 301-330)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_reproduction_12",
+            "mockName": "Mock Test 12 (Q. 331-360)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_reproduction_13",
+            "mockName": "Mock Test 13 (Q. 361-390)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_reproduction_14",
+            "mockName": "Mock Test 14 (Q. 391-411)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_respiration",
+        "topicName": "श्वसन (Respiration)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_respiration_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_respiration_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_respiration_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_skeletal_and_muscular_system",
+        "topicName": "कंकाल और मांसपेशी तंत्र (Skeletal System)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_skeletal_and_muscular_system_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_skeletal_and_muscular_system_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_skeletal_and_muscular_system_3",
+            "mockName": "Mock Test 3 (Q. 61-64)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_tissues",
+        "topicName": "ऊतक (Tissues)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_tissues_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_tissues_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_tissues_3",
+            "mockName": "Mock Test 3 (Q. 61-90)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_tissues_4",
+            "mockName": "Mock Test 4 (Q. 91-120)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_tissues_5",
+            "mockName": "Mock Test 5 (Q. 121-150)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_tissues_6",
+            "mockName": "Mock Test 6 (Q. 151-180)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_tissues_7",
+            "mockName": "Mock Test 7 (Q. 181-205)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_transportation_in_plants_and_animals",
+        "topicName": "परिवहन (Transportation in Plants & Animals)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_transportation_in_plants_and_animals_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_transportation_in_plants_and_animals_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_transportation_in_plants_and_animals_3",
+            "mockName": "Mock Test 3 (Q. 61-71)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_others",
+        "topicName": "विविध (Others)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_others_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_others_2",
+            "mockName": "Mock Test 2 (Q. 31-53)",
+            "questions": []
+          }
+        ]
+      },
+      {
+        "topicId": "top_excretion",
+        "topicName": "उत्सर्जन तंत्र (Excretion)",
+        "isPremium": true,
+        "mocks": [
+          {
+            "mockId": "mock_excretion_1",
+            "mockName": "Mock Test 1 (Q. 1-30)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_excretion_2",
+            "mockName": "Mock Test 2 (Q. 31-60)",
+            "questions": []
+          },
+          {
+            "mockId": "mock_excretion_3",
+            "mockName": "Mock Test 3 (Q. 61-73)",
+            "questions": []
+          }
         ]
       }
     ]
