@@ -1,5 +1,5 @@
 {
-  "razorpayKey": "",
+  "razorpayKey": "rzp_test_mock_key",
   "premiumPriceRs": 29,
   "googleSheetsUrl": ""
 }
