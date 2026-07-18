@@ -1,75 +1,2570 @@
 {
-  "chapter": "जंतु जगत (Animal Kingdom)",
-  "subject": "Biology",
-  "isPremium": false,
+  "total": 171,
   "questions": [
     {
-      "id": "q_test_standard_work",
+      "id": "q_animal_kingdom_1",
+      "question": "1)बिना कोशिका भित्ति वाले बहुकोशिकीय जंतुओं को निम्न में से किस समूह के अंतर्गत\nरखा जा सकता है ?",
       "type": "standard",
-      "question": "1) कार्य (Work) का मात्रक क्या है?",
       "options": [
-        "जूल (Joule)",
-        "न्यूटन (Newton)",
-        "वाट (Watt)",
-        "डाईन (Dyne)"
+        "एनिमेलिया ",
+        "प्लांटी",
+        "मोनेरा ",
+        "प्रॉटिस्टा "
       ],
       "correctIndex": 0,
-      "explanation": "कार्य का मात्रक जूल है। न्यूटन बल का मात्रक है और वाट शक्ति का मात्रक है।",
-      "examName": "RRB ALP",
+      "explanation": "सही उत्तर: (A) एनिमेलिया । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_2",
+      "question": "किस सरल बहुकोशिकीय जीव में हाइफ़े पर स्पोरैन्जिया का विकास होता है और\nस्पोरैन्जिया में बीजाणु बनते हैं ?",
+      "type": "standard",
+      "options": [
+        "राइजोपस ",
+        "लीशमैनिया",
+        "यीस्ट ",
+        "अमीबा "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) राइजोपस । यह प्रश्न RRB Technician (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
       "examYear": "2024"
     },
     {
-      "id": "q_test_blank_liver",
-      "type": "fillInBlanks",
-      "question": "2) मानव शरीर की सबसे बड़ी ग्रंथि (Gland) ___________ है।",
+      "id": "q_animal_kingdom_3",
+      "question": "किस समूह के सदस्य को सामान्यतः स्पंज कहा जाता है ?",
+      "type": "standard",
       "options": [
-        "यकृत (Liver)",
-        "अग्न्याशय (Pancreas)",
-        "थायरॉइड (Thyroid)",
-        "पीयूष ग्रंथि (Pituitary)"
+        "टिनोफोरा ",
+        "सीलेन्टरेटा",
+        "पोरिफेरा ",
+        "प्लेटिहेल्मेंटिज़ "
       ],
-      "correctIndex": 0,
-      "explanation": "यकृत (Liver) मानव शरीर की सबसे बड़ी ग्रंथि है। यह पित्त (Bile) का स्राव करती है।",
-      "examName": "RRB Group D",
-      "examYear": "2022"
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) पोरिफेरा । यह प्रश्न RPF SI (2018) परीक्षा में पूछा गया था।",
+      "examName": "RPF SI",
+      "examYear": "2018"
     },
     {
-      "id": "q_test_match_vitamins",
-      "type": "matchFollowing",
-      "question": "3) सूची I (विटामिन) को सूची II (कमी से होने वाले रोग) से सुमेलित कीजिए:",
-      "matchList1": [
-        "A. विटामिन A",
-        "B. विटामिन C"
-      ],
-      "matchList2": [
-        "1. स्कर्वी (Scurvy)",
-        "2. रतौंधी (Night Blindness)"
-      ],
+      "id": "q_animal_kingdom_4",
+      "question": "________ एक वास्तविक समुद्री मछली है।",
+      "type": "standard",
       "options": [
-        "A-2, B-1",
-        "A-1, B-2"
+        "जेलिफ़श ",
+        "स्टारफ़श",
+        "सिल्वरफ़श ",
+        "डॉगफ़श   "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) डॉगफ़श   । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_5",
+      "question": "निम्नलिखित में से कौन - सा अजैविक कारक , कृषि उपज में भंडारण होंन के लिए\nजिम्मेदार है ?",
+      "type": "standard",
+      "options": [
+        "कृंतक ( Rodents) ",
+        "आद्रतिा ( Moisture)",
+        "कटि ( Insects) ",
+        "कवक ( Fungi) "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) आद्रतिा ( Moisture)। यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_6",
+      "question": "निम्नलिखित में से कौन सा शब्द पशु व्यवहार के जैविक अध्ययन का सवोंत्तम वणनि\nकरता है ?",
+      "type": "standard",
+      "options": [
+        "आचारविान ",
+        "मानव जोंत विान",
+        "कटिविान ",
+        "हेतुविान "
       ],
       "correctIndex": 0,
-      "explanation": "विटामिन A की कमी से रतौंधी (Night Blindness) होती है तथा विटामिन C की कमी से स्कर्वी (Scurvy) होता है।",
+      "explanation": "सही उत्तर: (A) आचारविान । यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
       "examName": "RRB NTPC",
       "examYear": "2021"
     },
     {
-      "id": "q_test_statement_cell",
-      "type": "multiStatement",
-      "question": "4) कोशिका (Cell) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
-      "statements": [
-        "1. माइटोकॉन्ड्रिया को कोशिका का बिजलीघर (Powerhouse) कहा जाता है।",
-        "2. राइबोसोम कोशिका के अंदर प्रोटीन संश्लेषण का कार्य करते हैं।"
-      ],
+      "id": "q_animal_kingdom_7",
+      "question": "निम्नलिखित में से किसे सामान्यतः स्पंज कहा जाता है ?",
+      "type": "standard",
       "options": [
-        "केवल कथन 1 सही है",
-        "कथन 1 और 2 दोनों सही हैं"
+        "निमेटोडा ",
+        "सीलेन्टरेटा",
+        "पोरिफेरा ",
+        "प्लेटिहेल्मन्टीज़ "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) पोरिफेरा । यह प्रश्न RPF Constable (2018) परीक्षा में पूछा गया था।",
+      "examName": "RPF Constable",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_8",
+      "question": "निम्नलिखित में से कौन सी दुधारू पशुओं क नस्ल है ?",
+      "type": "standard",
+      "options": [
+        "हल्लाक्कर ",
+        "नागौरी",
+        "सोंहहवाल ",
+        "हरनाडी "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) सोंहहवाल । यह प्रश्न RPF SI (2018) परीक्षा में पूछा गया था।",
+      "examName": "RPF SI",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_9",
+      "question": "निम्नलिखित में से दूसरा सबसे बड़ा फाइलम कौन - सा है ?",
+      "type": "standard",
+      "options": [
+        "मोलस्का ",
+        "आथ्रोंपोड़ा",
+        "एस्केल्मिथीज ",
+        "एेनेलिडा "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) मोलस्का । यह प्रश्न RPF SI (2019) परीक्षा में पूछा गया था।",
+      "examName": "RPF SI",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_10",
+      "question": "निम्नलिखित में से किसका वैज्ञोंनक नाम Saccharomyces cerevisiae है ?",
+      "type": "standard",
+      "options": [
+        "अमीबा क एक प्रजोंत ",
+        "एक प्रकार का विषाणु",
+        "एक प्रकार का जीवोंणु ",
+        "यीस्ट क एक प्रजोंत "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) यीस्ट क एक प्रजोंत । यह प्रश्न RPF Constable (2024) परीक्षा में पूछा गया था।",
+      "examName": "RPF Constable",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_11",
+      "question": "मत्स्य उत्पादन में , कवचप्राणी ( shellfish) श्रेणी में निम्नलिखित में से कौन - सा\nविकल्प आता है ?",
+      "type": "standard",
+      "options": [
+        "बंबिल ( Bombay duck)\n",
+        "मोलस्क ( Molluscs)",
+        "सिल्वर काप ( Silver carp)\n",
+        "ट्यूना ( Tuna) "
       ],
       "correctIndex": 1,
-      "explanation": "कथन 1 और 2 दोनों सही हैं। माइटोकॉन्ड्रिया ऊर्जा (ATP) उत्पन्न करता है और राइबोसोम प्रोटीन का निर्माण करते हैं।",
+      "explanation": "सही उत्तर: (B) मोलस्क ( Molluscs)। यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_12",
+      "question": "पक्षियों में निम्न में से कितने कक्ष वाले हृदय होते हैं ?",
+      "type": "standard",
+      "options": [
+        "दो - कक्ष वाले हृदय  \n",
+        "एक - कक्ष वाले हृदय",
+        "चार - कक्ष वाले हृदय  \n",
+        "तीन - कक्ष वाले हृदय   "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) चार - कक्ष वाले हृदय  \n। यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_13",
+      "question": "' सेरीकल्चर ' शब्द निम्नलिखित में से किससे संबंधित है ?",
+      "type": "standard",
+      "options": [
+        "रेशम क खेती ",
+        "मछली पालन",
+        "पक्षी पालन ",
+        "मधुमक्खी पालन "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) रेशम क खेती । यह प्रश्न RRB NTPC (2020) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2020"
+    },
+    {
+      "id": "q_animal_kingdom_14",
+      "question": "निम्नलिखित में से कौन सा एककोशिकयि पक्ष्माभी जीव है ?",
+      "type": "standard",
+      "options": [
+        "पैरामीशियम ",
+        "घुन",
+        "जोंक ",
+        "अमीबा "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) पैरामीशियम । यह प्रश्न RRB Technician (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_15",
+      "question": "________ संघ के प्राणी अनन्य रूप से समुद्र में मुक्तजीवी प्राणी हैं।",
+      "type": "standard",
+      "options": [
+        "निमेटोडा ",
+        "मोलस्का",
+        "आथोंपोडा ",
+        "इकाइनोडमेंटा "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) इकाइनोडमेंटा । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_16",
+      "question": "निम्नलिखित में से कौन सा जीव कशेरुकी नहैं है ?",
+      "type": "standard",
+      "options": [
+        "कचिुआ ",
+        "छिपकली",
+        "मछली ",
+        "मेंढक "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) कचिुआ । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_17",
+      "question": "निम्नलिखित में से किस जीव समूह में लिगि निधोंरण पियोंवरणीय तापमान के कारण\nहोता है ?",
+      "type": "standard",
+      "options": [
+        "कुछ सरीसृपों ",
+        "सभी मछलियों",
+        "सभी पक्षियों ",
+        "मनुष्ियों "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) कुछ सरीसृपों । यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_18",
+      "question": "निम्नलिखित में से कौन - सा उपसंघ कशेरुकी का वर्ग नहैं है ?",
+      "type": "standard",
+      "options": [
+        "एेरेक्निडा ",
+        "स्तनधारी",
+        "सरीसृप ",
+        "एवीज "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) एेरेक्निडा । यह प्रश्न RPF SI (2024) परीक्षा में पूछा गया था।",
+      "examName": "RPF SI",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_19",
+      "question": "निम्नलिखित में से कौन कवक के अध्ययन से संबंधित है ?",
+      "type": "standard",
+      "options": [
+        "पक्षीविान ",
+        "माइकोलॉजी",
+        "सरीसृप ",
+        "मत्स्य पालन "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) माइकोलॉजी। यह प्रश्न RPF Constable (2018) परीक्षा में पूछा गया था।",
+      "examName": "RPF Constable",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_20",
+      "question": "निम्नलिखित में से कौन सा जानवर पराध्वनि  ( अल्टासाउंड ) निकाल सकता है ?",
+      "type": "standard",
+      "options": [
+        "पतंगा\n",
+        "सूंस ( एक प्रकार क मछली )",
+        "शाक\n",
+        "हाथी "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) सूंस ( एक प्रकार क मछली )। यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_21",
+      "question": "मधुमक्खी क वह कौन - सी किस्म है , जिसे सामान्यतः भारतीय मक्खी के रूप में\nजाना जाता है और व्यावसोंयक स्तर पर मधु उत्पादन के लिए उपयोग किया जाता है ?",
+      "type": "standard",
+      "options": [
+        "एेपिस मेलीफेरा ",
+        "एेपिस डोरसेटा",
+        "एेपिस फ्लोरी ",
+        "एेपिस सेरना इंडिका "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) एेपिस सेरना इंडिका । यह प्रश्न RRB JE (2026) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2026"
+    },
+    {
+      "id": "q_animal_kingdom_22",
+      "question": "निम्नलिखित में से किसे ' टी ॉग ' के रूप में भी जाना जाता है ?",
+      "type": "standard",
+      "options": [
+        "राना टिग्रीना ",
+        "हायला",
+        "सैलामेंडर ",
+        "मेंढक "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) हायला। यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_23",
+      "question": "जोंक किस संघ से संबंधित है :",
+      "type": "standard",
+      "options": [
+        "एनेलिडा ",
+        "प्लैटिहेल्मिेंथेस",
+        "मोलस्का ",
+        "प्रोटोकॉडटिा "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) एनेलिडा । यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_24",
+      "question": "कौन - सा जीव स्वस्थ जलीय पोंरस्थितिक तंत्र का प्रमुख संकेतक है ?",
+      "type": "standard",
+      "options": [
+        "तिलचट्टा ",
+        "मछली",
+        "लाइकेन ",
+        "कचिुआ "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) मछली। यह प्रश्न RRB Group D (2026) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2026"
+    },
+    {
+      "id": "q_animal_kingdom_25",
+      "question": "निपाह वायरस के प्राकृतिक मेजबान कौन / क्या हैं ?",
+      "type": "standard",
+      "options": [
+        "पक्षी ",
+        "सूअर",
+        "बकरियाँ ",
+        "फलभक्षी चमगादड़ "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) फलभक्षी चमगादड़ । यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_26",
+      "question": "________ का शरीर कोशिकाओं क दो परतों से बिना होता है।",
+      "type": "standard",
+      "options": [
+        "प्लेटीहेल्मिेंन्थज ",
+        "एेनेलिडा",
+        "सीलेन्टरेटा ",
+        "निमेटोडा "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) सीलेन्टरेटा । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_27",
+      "question": "निम्नलिखित में से किस जीव में बीजाणु निमोंण देखा जाता है ?",
+      "type": "standard",
+      "options": [
+        "पैरामीशियम ",
+        "प्लास्मोडियम",
+        "अमीबा ",
+        "राइजोपस "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) राइजोपस । यह प्रश्न RRB Technician (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_28",
+      "question": "निम्नलिखित में से कौन सा जीव स्वपोषी और परपोषी दोनों प्रकार के पोषण को\nप्रदशिति करता है ?",
+      "type": "standard",
+      "options": [
+        "अमीबा ",
+        "यूग्लीना",
+        "प्लाज्मोडियम ",
+        "पैरामीशियम "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) यूग्लीना। यह प्रश्न RRB NTPC (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_29",
+      "question": "एक एककोशिकयि जीव का एक निश्चित आकार होता है , वह एक विशिष्ट स्थान पर\nभोजन ग्रहण करता है , और उस स्थान पर भोजन ले जाने के लिए बालों जैसे सिलिया का\nउपयोग करता है। जीव क पहचान कर।",
+      "type": "standard",
+      "options": [
+        "जूँ ",
+        "पैरामीशियम",
+        "यूग्लीना ",
+        "प्लाज्मोडियम "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) पैरामीशियम। यह प्रश्न RRB Group D (2022) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2022"
+    },
+    {
+      "id": "q_animal_kingdom_30",
+      "question": "________ में हामोंन सामान्यतः अनुपस्थित होते हैं।",
+      "type": "standard",
+      "options": [
+        "चूहों ",
+        "बंदरों",
+        "बिल्ली ",
+        "बैक्टीरिया ( जीवोंणु ) "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) बैक्टीरिया ( जीवोंणु ) । यह प्रश्न RRB JE (2019) परीक्षा में पूछा गया था।",
       "examName": "RRB JE",
       "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_31",
+      "question": "निम्नलिखित में से किस मछली में सिर , हैंी , आँख या नाक नहैं होती है ?",
+      "type": "standard",
+      "options": [
+        "सितारा मछली ",
+        "जेलीफ़श",
+        "अलास्का मछली ",
+        "कैटफ़श "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) सितारा मछली । यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_32",
+      "question": "______ गमें रक्त वाले जन्तु होते हैं।",
+      "type": "standard",
+      "options": [
+        "मछली ",
+        "स्तनधारी",
+        "सरीसृप   ",
+        "उभयचर "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) स्तनधारी। यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_33",
+      "question": "निम्नलिखित में से किस जीव में श्वसन अंग (Spiracles) होते हैं ?",
+      "type": "standard",
+      "options": [
+        "कचिुआ ",
+        "इंसान",
+        "मछली ",
+        "तिलचट्टा "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) तिलचट्टा । यह प्रश्न RRB Group D (2022) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2022"
+    },
+    {
+      "id": "q_animal_kingdom_34",
+      "question": "अकशेरुकी में कौन शोंमल नहैं है ?",
+      "type": "standard",
+      "options": [
+        "मोलस्क ",
+        "सरीसृप",
+        "एरेक्निड ",
+        "कटि "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) सरीसृप। यह प्रश्न RRB NTPC (2020) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2020"
+    },
+    {
+      "id": "q_animal_kingdom_35",
+      "question": "निम्नलिखित में से कौन - सा , पशुपालन हमें शहद उत्पादन में मदद करता है ?",
+      "type": "standard",
+      "options": [
+        "मवेशी पालन ",
+        "मत्स्यपालन",
+        "मधुमक्खी पालन ",
+        "मुगपिालन "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) मधुमक्खी पालन । यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_36",
+      "question": "इनमें से किस जीव के दांत नहैं होते हैं ?",
+      "type": "standard",
+      "options": [
+        "कछुए ",
+        "सुअर",
+        "कु त्ते ",
+        "घोड़े "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) कछुए । यह प्रश्न RRB JE (2019) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_37",
+      "question": "दिए गए समूह में से असंगत क पहचान कजिए।\nहाइडा , समुद्री एनीमोन , साइकॉन , जेलीफ़श",
+      "type": "standard",
+      "options": [
+        "साइकॉन ",
+        "समुद्री एनिमोन",
+        "जेलीफ़श ",
+        "हाइडा "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) साइकॉन । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_38",
+      "question": "शहद क गुणवत्ता और स्वाद मुख्यतः निम्नलिखित में से किस कारक पर निभरि करता\nहै ?",
+      "type": "standard",
+      "options": [
+        "मधुमेंक्खियों क आयु\n",
+        "मधुछत्र के प्रकार",
+        "पुष्पों के प्रकार और उपलब्धता\n",
+        "छत्ते में कमें मधुमेंक्खियों क संख्या "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) पुष्पों के प्रकार और उपलब्धता\n। यह प्रश्न RRB Technician (2026) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2026"
+    },
+    {
+      "id": "q_animal_kingdom_39",
+      "question": "_______ नाम के एक चपटेकृमि में बहुत ही सरल ' आंख ' होती हैं जो वास्तव में केवल\nआंख के धब्बे होती हैं जो प्रकाश का पता लगाती हैं।",
+      "type": "standard",
+      "options": [
+        "एस्केरिस ",
+        "टैपवामें",
+        "लीवर फ्लूक ",
+        "प्लेनेरिया "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) प्लेनेरिया । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_40",
+      "question": "निम्नलिखित में से कौन - सा जीव DDT क अधिकतम सांद्रता संचित करेगा ?",
+      "type": "standard",
+      "options": [
+        "बकरी ",
+        "मकड़ी",
+        "घास ",
+        "मानव "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) मानव । यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_41",
+      "question": "निम्नलिखित में से किसके हृदय में केवल दो कक्ष होते हैं ?",
+      "type": "standard",
+      "options": [
+        "सैलामेंडर ",
+        "कोबरा",
+        "मेंढक ",
+        "रोहु "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) रोहु । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_42",
+      "question": "निम्नलिखित में से कौन सा जीव विखंडन के माध्यमें से अलर्गिक प्रजनन नहैं दशोंता\nहै ?",
+      "type": "standard",
+      "options": [
+        "लीशमैनिया ",
+        "अमीबा",
+        "कचिुआ ",
+        "प्लाज्मोडियम "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) कचिुआ । यह प्रश्न RRB ALP (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB ALP",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_43",
+      "question": "निम्नलिखित में से कौन सा बीजों के प्रकणिनि का कारक नहैं है ?",
+      "type": "standard",
+      "options": [
+        "हवा ",
+        "सूय प्रकाश",
+        "जानवर ",
+        "जल "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) सूय प्रकाश। यह प्रश्न RRB JE (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_44",
+      "question": "निम्नलिखित में से किसको \" अल्फाल्फा \" के रूप में संबोधित किया जाता है ?",
+      "type": "standard",
+      "options": [
+        "जीवोंश्म ",
+        "मेमेल",
+        "सतीवा ",
+        "मछली "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) सतीवा । यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_45",
+      "question": "निम्नलिखित में से कौन सा / से परजीवी जीव नहैं है / हैं ?",
+      "type": "standard",
+      "options": [
+        "कुटक ",
+        "अमरबेल",
+        "अमीबा ",
+        "जूँ "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) अमीबा । यह प्रश्न RRB Technician (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_46",
+      "question": "गोलकृमि किस संघ से संबंधित हैं ?",
+      "type": "standard",
+      "options": [
+        "एेनेलिडा ",
+        "क्टेनोफोरा",
+        "एस्केल्मिन्थीज ",
+        "प्लेटीहेल्मिन्थीज "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) एस्केल्मिन्थीज । यह प्रश्न RPF SI (2024) परीक्षा में पूछा गया था।",
+      "examName": "RPF SI",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_47",
+      "question": "कुक्कुट पालन में ब्रॉयलर ( broilers) को लेयस ( layers) से क्या अलैंगिकरता है ?",
+      "type": "standard",
+      "options": [
+        "मांस के लिए लेयस पाले जाते हैं ; अंडों के लिए ब्रॉयलर\n",
+        "दोनों को मांस और अंडों के लिए समान रूप से पाला जाता है",
+        "केवल ब्रॉयलर अंडे देते हैं\n",
+        "ब्रॉयलर को मांस के लिए पाला जाता है ; लेयस को अंडों के लिए "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) ब्रॉयलर को मांस के लिए पाला जाता है ; लेयस को अंडों के लिए । यह प्रश्न RRB Technician (2026) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2026"
+    },
+    {
+      "id": "q_animal_kingdom_48",
+      "question": "कशेरुकी जीवों के किस वर्ग में ठंडे रक्त के अभिलक्षण और शल्क त्वचा पाई जाती\nहै ?",
+      "type": "standard",
+      "options": [
+        "रेप्टीलिया ( Reptilia)\n",
+        "मैमेलिया / स्तनीवर्ग ( Mammalia)",
+        "एवीज / पक्षिवर्ग ( Aves)\n",
+        "उभयचर ( Amphibia) "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) रेप्टीलिया ( Reptilia)\n। यह प्रश्न RRB NTPC (2026) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2026"
+    },
+    {
+      "id": "q_animal_kingdom_49",
+      "question": "दी गइ एनालॉजी ( analogy) को पूरा करने के लिए पद का चयन कजिए।\nद्वि - खंडन : जीवोंणु :: खंडन : _________",
+      "type": "standard",
+      "options": [
+        "पक्षी ",
+        "शैवाल",
+        "स्तनधारी ",
+        "कटि "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) शैवाल। यह प्रश्न RRB Technician (2026) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2026"
+    },
+    {
+      "id": "q_animal_kingdom_50",
+      "question": "निम्नलिखित में से कौन मुकुलन द्वारा प्रजनन करता है ?",
+      "type": "standard",
+      "options": [
+        "शैवाल ",
+        "हाइडा",
+        "मच्छर ",
+        "लीवर फ्लूक "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) हाइडा। यह प्रश्न RRB Technician (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_51",
+      "question": "निम्नलिखित में से किनक खेती मोती बिनाने के लिए क जाती है ?",
+      "type": "standard",
+      "options": [
+        "सारडीन ( Sardines) ",
+        "झगिे ( Prawns)",
+        "पोम्फ्रेट ( Pomfrets) ",
+        "सीपियाँ ( Oysters) "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) सीपियाँ ( Oysters) । यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_52",
+      "question": "निम्नलिखित में से कौन अकशेरुकी हैं ?",
+      "type": "standard",
+      "options": [
+        "स्तनधारी ",
+        "ऑथ्रोंपोड",
+        "सरीसृप ",
+        "मछली "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) ऑथ्रोंपोड। यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_53",
+      "question": "स्यूडोपोडिया ( Pseudopodia) पर मौजूद अंगुली जैसी आकृति वाली संरचनाए हैं।",
+      "type": "standard",
+      "options": [
+        "अमीबा ",
+        "पैरामीशियम",
+        "कचिुआ ",
+        "हाइडा "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) अमीबा । यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_54",
+      "question": "________ संघ विशेष रूप से समुद्री जंतुओं में होता है।",
+      "type": "standard",
+      "options": [
+        "प्लैटिहेल्मिन्थेस ",
+        "एकाइनोडमेंटा",
+        "सीलेन्टेटा ",
+        "नेमाटोड   "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) एकाइनोडमेंटा। यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_55",
+      "question": "निम्नलिखित में से कौन - सा विकल्प संचलन ( movement) दशोंता है लेकिन गमन",
+      "type": "standard",
+      "options": [
+        "कु त्ता ",
+        "पक्षी",
+        "पौधा ",
+        "मानव "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) पौधा । यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_56",
+      "question": "जैविक आवधनि क परिघटना के माध्यमें से , निम्नलिखित में से किसमें पीड़कनाशी\nक सांद्रता सवोंधिक है ?",
+      "type": "standard",
+      "options": [
+        "टिा ( Grasshopper) ",
+        "घास ( Grass)",
+        "साँप ( Snake) ",
+        "मेंढक ( Frog) "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) साँप ( Snake) । यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_57",
+      "question": "खच्चर _________ के संकरण से उत्पन्न एक संकर प्रजोंत है।",
+      "type": "standard",
+      "options": [
+        "मादा गधा और नर घोड़ा ",
+        "गधा और जेब्रा",
+        "घोड़ा और जेब्रा ",
+        "नर गधा और मादा घोड़ा "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) नर गधा और मादा घोड़ा । यह प्रश्न RRB JE (2019) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_58",
+      "question": "प्रजनन कोशिकाओं का उपयोग मुकुलन क प्रक्रिया में किसमें होता है ?",
+      "type": "standard",
+      "options": [
+        "प्लेनेरिया ",
+        "अमीबा",
+        "स्पाईरोगाइरा ",
+        "हाइडा "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) हाइडा । यह प्रश्न RRB Technician (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_59",
+      "question": "वे जन्तु जिनक कोशिकाएँ बाह्य और आंतरिक झिल्ली के बीच भ्रूण परत में\nव्यवस्थित होती हैं , उन्हैं ________ कहा जाता है।",
+      "type": "standard",
+      "options": [
+        "मोनोब्लोंस्टक जानवर ",
+        "टिपिलोब्लोंस्टक जानवर",
+        "समेंमत जानवर ",
+        "डायप्लोब्लोंस्टक जानवर "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) डायप्लोब्लोंस्टक जानवर । यह प्रश्न RPF SI (2018) परीक्षा में पूछा गया था।",
+      "examName": "RPF SI",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_60",
+      "question": "' इचथियोफिस बेडोमी ', एक कृमि के समान उभयचर जो तैर सकता है , किस वंश से\nसंबंधित है ?",
+      "type": "standard",
+      "options": [
+        "लंबे पिछले अंग वाले उभयचर\n",
+        "कम हुए अग्र अंग वाले उभयचर",
+        "पादहीन उभयचर\n",
+        "छोटे अंग वाले उभयचर "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) पादहीन उभयचर\n। यह प्रश्न RPF SI (2024) परीक्षा में पूछा गया था।",
+      "examName": "RPF SI",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_61",
+      "question": "किस संघ में जानवर गमें रक्त वाले होते हैं ?",
+      "type": "standard",
+      "options": [
+        "पाईसेस ",
+        "एव्स",
+        "उभयचर ",
+        "सरीसृप "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) एव्स। यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_62",
+      "question": "निम्नलिखित में से कौन - सा जीव , द्वि - खंडन द्वारा प्रजनन करता है ?",
+      "type": "standard",
+      "options": [
+        "प्लैनेरिया ",
+        "स्पाईरोगाइरा",
+        "हाइडा ",
+        "अमीबा "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) अमीबा । यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_63",
+      "question": "जानवरों द्वारा फैलाए जाने वाले बीज अक्सर :",
+      "type": "standard",
+      "options": [
+        "काँटे या खाने योग्य गूदे वाले होते हैं\n",
+        "बहुत छोटे और हल्के होते हैं",
+        "आसानी से पानी में तैर सकते हैं\n",
+        "पंख या पैराशूट वाले होते हैं "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) काँटे या खाने योग्य गूदे वाले होते हैं\n। यह प्रश्न RRB JE (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_64",
+      "question": "घन वाद्य ( Ghana Vadya) या इडियोफोन वाद्य यंत्र वे गैर - डमि आघात वाद्य यंत्र हैं\nजिन्हैं समस्वरण क आवश्यकता नहैं होती है। _________, घन वाद्य का एक उदाहरण है।",
+      "type": "standard",
+      "options": [
+        "पुंगी ",
+        "सारंगी",
+        "घटम ",
+        "शहनाइ "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) घटम । यह प्रश्न RRB NTPC (2026) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2026"
+    },
+    {
+      "id": "q_animal_kingdom_65",
+      "question": "निम्नलिखित में से कौन - से जीव , अवश्रव्य ध्वनि उत्पन्न करते हैं ?",
+      "type": "standard",
+      "options": [
+        "घोड़ा और गाय ",
+        "पक्षी और साँप",
+        "कु त्ता और बिल्ली ",
+        "व्हेल और हाथी "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) व्हेल और हाथी । यह प्रश्न RRB Group D (2026) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2026"
+    },
+    {
+      "id": "q_animal_kingdom_66",
+      "question": "फिलैमे कोलटिेट्स का आधुनिक नाम क्या है ?",
+      "type": "standard",
+      "options": [
+        "निडेरिया ( जेलीफ़श )\n",
+        "नीमेटो ( राउंडकैट )",
+        "एनीलिडा ( नुपुरक )\n",
+        "प्लेटिहेल्मिेंथिस ( पट्टी के ) "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) निडेरिया ( जेलीफ़श )\n। यह प्रश्न RPF Constable (2018) परीक्षा में पूछा गया था।",
+      "examName": "RPF Constable",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_67",
+      "question": "भारत में डेयरी उद्देश्ियों के लिए मुख्य रूप से किस नस्ल के मवेशियों का उपयोग किया\nजाता है ?",
+      "type": "standard",
+      "options": [
+        "साहीवाल ",
+        "ओंगोल",
+        "गिर ",
+        "कांकरेज "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) साहीवाल । यह प्रश्न RRB ALP (2026) परीक्षा में पूछा गया था।",
+      "examName": "RRB ALP",
+      "examYear": "2026"
+    },
+    {
+      "id": "q_animal_kingdom_68",
+      "question": "क्षय रोग या टीबी रोग ________ के कारण होता है।",
+      "type": "standard",
+      "options": [
+        "प्रोटोजोआ ",
+        "कुकुरमुत्ता",
+        "वायरस ",
+        "जीवोंणु "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) जीवोंणु । यह प्रश्न RPF Constable (2018) परीक्षा में पूछा गया था।",
+      "examName": "RPF Constable",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_69",
+      "question": "निम्नलिखित में से किस जीव में वण लवक पाया जाता है ?",
+      "type": "standard",
+      "options": [
+        "गुलाब ",
+        "अमीबा",
+        "हाइडा ",
+        "स्टार मछली "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) गुलाब । यह प्रश्न RRB JE (2026) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2026"
+    },
+    {
+      "id": "q_animal_kingdom_70",
+      "question": "निम्नलिखित में से कौन सा अंतःपरजीवी का एक उदाहरण है ?",
+      "type": "standard",
+      "options": [
+        "सिर के जूं ",
+        "शरीर के जूँ",
+        "किलनी ( Ticks) ",
+        "फतिाकृमि "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) फतिाकृमि । यह प्रश्न RRB JE (2019) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_71",
+      "question": "निम्नलिखित में से कौन सा जानवर ‘ उभयचर ’ वर्ग के अंतर्गत आता है ?",
+      "type": "standard",
+      "options": [
+        "कबूतर ",
+        "कछुआ",
+        "टोड ",
+        "बिल्ली "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) टोड । यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_72",
+      "question": "निम्नलिखित में से कौन - से जीव संक्रामक रोग उत्पन्न करते हैं ?",
+      "type": "standard",
+      "options": [
+        "कृमि ",
+        "विषाणु",
+        "सभी विकल्प ",
+        "प्रोटोजोआ "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) सभी विकल्प । यह प्रश्न RRB JE (2019) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_73",
+      "question": "निम्नलिखित में से कौन सा जोड़ा ( प्रजोंत - श्रेणी ) भारत के संदभ में सही है ?",
+      "type": "standard",
+      "options": [
+        "एशियाइ हाथी - स्थोंनक\n",
+        "काला हिरण - दुलभि",
+        "महान सगि वाला सारंग - संकटग्रस्त\n",
+        "निकोबार कबूतर - लुप्तप्राय "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) महान सगि वाला सारंग - संकटग्रस्त\n। यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_74",
+      "question": "निम्नलिखित में से कौन - सा जीव , पुनजनिन क घटना दशोंता है ?",
+      "type": "standard",
+      "options": [
+        "मच्छर ",
+        "प्लैनेरिया",
+        "घरेलू मक्खी ",
+        "मधुमक्खी "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) प्लैनेरिया। यह प्रश्न RRB Group D (2026) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2026"
+    },
+    {
+      "id": "q_animal_kingdom_75",
+      "question": "जंतु वर्गकिरण का पदानुक्रम है :",
+      "type": "standard",
+      "options": [
+        "उपजगत , वर्ग ,  जगत ,  उपवर्ग , जोंत , वंश  \n",
+        "उपजगत , वर्ग ,  जगत ,  उपवर्ग , वंश ,  जोंत",
+        "उपजगत , वर्ग ,  उपवर्ग ,  जगत ,  वंश ,  जोंत\n",
+        "उपजगत ,  उपवर्ग ,  जगत ,  वर्ग ,  वंश ,  जोंत "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) उपजगत , वर्ग ,  उपवर्ग ,  जगत ,  वंश ,  जोंत\n। यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_76",
+      "question": "निम्नलिखित में से किस जीव में आनुवंशिक रूप से पूव निधोंरित लिगि नहैं होता है ?",
+      "type": "standard",
+      "options": [
+        "मानव ",
+        "कु त्ते",
+        "कबूतर ",
+        "घोंघा "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) घोंघा । यह प्रश्न RRB Technician (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_77",
+      "question": "निम्नलिखित में से कौन - सा चूणप्रिावार ( मोलस्क ) संघ से संबंधित नहैं है ?",
+      "type": "standard",
+      "options": [
+        "घोंघा ",
+        "काइटन",
+        "ऑक्टोपस ",
+        "एटिीडोन "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) एटिीडोन । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_78",
+      "question": "स्तनधोंरियों में ______ होता है।",
+      "type": "standard",
+      "options": [
+        "रोम के साथ ग्रंथिल त्वचा\n",
+        "पंखों के साथ सूखी और गैर - ग्रंथिल त्वचा",
+        "शल्कों के साथ सूखी और गैर - ग्रंथिल त्वचा\n",
+        "पंखों के साथ सूखी और ग्रंथिल त्वचा "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) रोम के साथ ग्रंथिल त्वचा\n। यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_79",
+      "question": "निम्नलिखित में से कौन सा जानवर पुनजनिन क शक्ति प्रदशिति करता है ?",
+      "type": "standard",
+      "options": [
+        "कचिुआ ",
+        "टिक",
+        "प्लैनरिया ",
+        "जोंक "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) प्लैनरिया । यह प्रश्न RRB ALP (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB ALP",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_80",
+      "question": "मधुमेंक्खयां किस प्रकार शहद ग्रहण करती हैं ?",
+      "type": "standard",
+      "options": [
+        "वमेंकल्चर ",
+        "एपिकल्चर",
+        "जंगल - विान ",
+        "रेशम के कड़ों का पालन "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) एपिकल्चर। यह प्रश्न RPF Constable (2018) परीक्षा में पूछा गया था।",
+      "examName": "RPF Constable",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_81",
+      "question": "निम्नलिखित में से कौन सा कटि को ‘ सामोंजक कटि ’ नहैं कहा जा सकता है ?",
+      "type": "standard",
+      "options": [
+        "मधुमेंक्खयाँ ",
+        "झगिुर",
+        "दीमक ",
+        "चीटियाँ "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) झगिुर। यह प्रश्न RRB NTPC (2016) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2016"
+    },
+    {
+      "id": "q_animal_kingdom_82",
+      "question": "प्रजनन क विखंडन विधि ______ में दिखाइ जाती है",
+      "type": "standard",
+      "options": [
+        "अमीबा ",
+        "स्पाईरोगाइरा",
+        "हाइडा ",
+        "प्लाज्मोडियम "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) स्पाईरोगाइरा। यह प्रश्न RRB Technician (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_83",
+      "question": "तारामीन ( स्टारफ़श ) _______ समूह से संबंधित है।",
+      "type": "standard",
+      "options": [
+        "एकाइनोडमेंटा ",
+        "एेनेलिडा",
+        "पोरिफेरा ",
+        "नेमाटोड "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) एकाइनोडमेंटा । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_84",
+      "question": "एपिस फ्लोरिया ( Apis florae) का सामान्य नाम क्या है ?",
+      "type": "standard",
+      "options": [
+        "जायन्ट बी ( giant bee)\n",
+        "ड्वाफ बी ( dwarf bee)",
+        "एशियन बी ( Asian bee)\n",
+        "लिटिल बी ( little bee) "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) लिटिल बी ( little bee) । यह प्रश्न RRB Group D (2026) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2026"
+    },
+    {
+      "id": "q_animal_kingdom_85",
+      "question": "निम्न में से किस वर्ग में , जंतुओं में शल्कों का अभाव और त्वचा में ेष्म ग्रंथियां होती\nहैं ?",
+      "type": "standard",
+      "options": [
+        "सरीसृप ",
+        "मत्स्य",
+        "उभयचर ",
+        "पक्षी   "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) उभयचर । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_86",
+      "question": "एक कोशिकयि जीव क पहचान कर।",
+      "type": "standard",
+      "options": [
+        "अमीबा ",
+        "समुद्री शैवाल",
+        "जोंक ",
+        "यकृत् पणकिृमि "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) अमीबा । यह प्रश्न RRB ALP (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB ALP",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_87",
+      "question": "संघ ________ के सदस्य विशेष रूप से स्वतंत्र रूप से रहने वाले समुद्री हैं।",
+      "type": "standard",
+      "options": [
+        "मोलस्का ",
+        "निमेटोडा",
+        "आथ्रोंपोडा ",
+        "इकाइनोडमेंटा "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) इकाइनोडमेंटा । यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_88",
+      "question": "एक सरकारी स्कमि कृत्रिम रूप से नियंत्रित मीठे जल के तालाबों में मत्स्य पालन को\nबढ़ावा देती है। इस प्रकार के मत्स्यन को क्या कहा जाता है ?",
+      "type": "standard",
+      "options": [
+        "मत्स्य संवधनि ( Culture fishing)\n",
+        "प्रग्रहण मत्स्यन ( Capture fishing)",
+        "समुद्री मत्स्यन ( Marine fishing)\n",
+        "लवणजल मत्स्यन ( Saltwater fishing) "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) मत्स्य संवधनि ( Culture fishing)\n। यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_89",
+      "question": "_______ एस्केरिस का सामान्य नाम है।",
+      "type": "standard",
+      "options": [
+        "फ़तिा कृमि ",
+        "कचिुआ",
+        "पिनकृमि   ",
+        "गोलकृमि   "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) गोलकृमि   । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_90",
+      "question": "स्तनधोंरियों के बारे में गलत कथन क पहचान कर।",
+      "type": "standard",
+      "options": [
+        "सामान्यतः स्तनधोंरियों में बाल होते हैं।\n",
+        "कुछ स्तनधारी अंडे देते हैं।",
+        "हृदय तीन कक्षीय होता है।\n",
+        "शिशुओं को दूध पिलाने के लिए स्तन ग्रंथि मौजूद होती है। "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) हृदय तीन कक्षीय होता है।\n। यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_91",
+      "question": "पेरीप्लेनेटारिप्लेनेटा अमेंरकाना का सामान्य नाम क्या है ?",
+      "type": "standard",
+      "options": [
+        "अमरीकन फ्रोग ",
+        "अमरीकन कॉकरोच",
+        "अमरीकन फ्लैटवामें ",
+        "अमरीकन अथकिुएक "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) अमरीकन कॉकरोच। यह प्रश्न RPF SI (2019) परीक्षा में पूछा गया था।",
+      "examName": "RPF SI",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_92",
+      "question": "पक्षी वर्ग में _______ होते हैं।",
+      "type": "standard",
+      "options": [
+        "रोम रहित शुष्क और ग्रंथिल त्वचा\n",
+        "पंखों के साथ शुष्क और ग्रंथिल त्वचा",
+        "पंखों के बिना शुष्क और ग्रंथिल त्वचा\n",
+        "रोमों के साथ शुष्क और ग्रंथिल त्वचा "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) पंखों के साथ शुष्क और ग्रंथिल त्वचा। यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_93",
+      "question": "स्कूल के बगीचे में , तितलियाँ अक्सर फूलों पर आती हैं जबकि गिलहैंरयाँ काष्ठफल",
+      "type": "standard",
+      "options": [
+        "तितलियाँ – शाकाहारी , गिलहरी – शाकाहारी\n",
+        "तितलियाँ – मांसाहारी , गिलहरी – सवोंहारी",
+        "तितलियाँ - परजीवी , गिलहरी - अपघटक\n",
+        "तितलियाँ - सवोंहारी , गिलहरी - मांसाहारी "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) तितलियाँ – शाकाहारी , गिलहरी – शाकाहारी\n। यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_94",
+      "question": "निम्नलिखित में से कौन डगिू वायरस का वाहक है ?",
+      "type": "standard",
+      "options": [
+        "नर एनोफिलीज मच्छर ",
+        "मादा एडीज मच्छर",
+        "नर एडिीज मच्छर ",
+        "मादा एनोफिलीज मच्छर "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) मादा एडीज मच्छर। यह प्रश्न RPF Constable (2018) परीक्षा में पूछा गया था।",
+      "examName": "RPF Constable",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_95",
+      "question": "आधे में कट जाने के बाद कौन सा जीव पुनः बढ़ता है ?",
+      "type": "standard",
+      "options": [
+        "कचिुआ ",
+        "तिलचट्टा",
+        "छिपकली ",
+        "मेंढक "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) कचिुआ । यह प्रश्न RRB JE (2019) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_96",
+      "question": "नीचे दिए गए विकल्पों में से निम्न वाक्य में रिक्त स्थान भरिये।\n_______ एक वास्तविक मछली है।",
+      "type": "standard",
+      "options": [
+        "डॉग फिश ",
+        "जेलिफ़श",
+        "सांप ",
+        "कटलफिश "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) डॉग फिश । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_97",
+      "question": "निम्नलिखित में से जीवों का कौन - सा समूह , अगुणित - प्रभावी जीवन चक्र क घटना\nको प्रदशिति करता है ?",
+      "type": "standard",
+      "options": [
+        "उभयचर ",
+        "कवक",
+        "आवृतबीजी ",
+        "स्तनधारी "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) कवक। यह प्रश्न RRB NTPC (2026) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2026"
+    },
+    {
+      "id": "q_animal_kingdom_98",
+      "question": "________ के प्राणी अचल होते हैं।",
+      "type": "standard",
+      "options": [
+        "पोरीफेरा ",
+        "सिलटिेट",
+        "प्लेटिहेल्मिेंथीज़ ",
+        "नेमेटोडा "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) पोरीफेरा । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_99",
+      "question": "वह कौन - से पोल्टि पक्षी हैं जिन्हे अंडे उत्पादन के लिए पाला जाता है ?",
+      "type": "standard",
+      "options": [
+        "मिल्च ( Milch)\n",
+        "ब्रॉयलर ( broilers)",
+        "कॉमन काप ( Common carp)\n",
+        "लेयर ( Layers) "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) लेयर ( Layers) । यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_100",
+      "question": "निम्नलिखित में से कौन लिगि बदल सकता है , यह दशोंता है कि लिगि आनुवंशिक\nरूप से निधोंरित नहैं है ?",
+      "type": "standard",
+      "options": [
+        "मेंढक ",
+        "घोंघा",
+        "सांप ",
+        "मछली "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) घोंघा। यह प्रश्न RRB Group D (2022) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2022"
+    },
+    {
+      "id": "q_animal_kingdom_101",
+      "question": "जुताइ , सिचिाइ और गाड़ी से ढोने के लिए उपयोग किए जाने वाले पशुओं को क्या\nकहा जाता है ?",
+      "type": "standard",
+      "options": [
+        "दुधारू पशु ( Milch animals)\n",
+        "जंगली पशु ( Wild animals)",
+        "भारवाहक पशु ( Draught animals)\n",
+        "मांसाहारी पशु ( Carnivorous animals) "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) भारवाहक पशु ( Draught animals)\n। यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_102",
+      "question": "निम्नलिखित में से कौन - सा , विखंडन के माध्यमें से पुनरुत्पादन ( reproduce) के\nलिए नहैं जाना जाता है ?",
+      "type": "standard",
+      "options": [
+        "हाइडा ( Hydra)\n",
+        "पैरामीशियम ( Paramecium)",
+        "लीशमैनिया ( Leishmania)\n",
+        "अमीबा ( Amoeba) "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) हाइडा ( Hydra)\n। यह प्रश्न RRB Technician (2026) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2026"
+    },
+    {
+      "id": "q_animal_kingdom_103",
+      "question": "कश्मीर क्षेत्र में निम्नलिखित में से कौन - सी मत्स्य उत्पादन विधियाँ अपनाइ जाती हैं ?",
+      "type": "standard",
+      "options": [
+        "मोती कृषि ( Pearl Culture)\n",
+        "समुद्री मत्स्यक ( Marine Fisheries)",
+        "जलकृषि ( Aqua Culture)\n",
+        "खारा जल मत्स्यक ( Brackish Water Fisheries) "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) जलकृषि ( Aqua Culture)\n। यह प्रश्न RRB Group D (2026) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2026"
+    },
+    {
+      "id": "q_animal_kingdom_104",
+      "question": "प्रवाल , जंतुसमूह __________ के वर्ग एन्थोजोआ के समुद्री अकशेरुकी हैं।",
+      "type": "standard",
+      "options": [
+        "आथ्रोंपोडा ",
+        "निडेरिया",
+        "मोलस्का ",
+        "नेमाटोडा "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) निडेरिया। यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_105",
+      "question": "किस जीव में कोशिका विभाजन या विखंडन से नए जीवों का निमोंण होता है ?",
+      "type": "standard",
+      "options": [
+        "स्तनधारी ",
+        "पौधे",
+        "एककोशिकयि जीव ",
+        "सरीसृप "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) एककोशिकयि जीव । यह प्रश्न RRB ALP (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB ALP",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_106",
+      "question": "_______ एनीलिडा वर्ग से संबंधित नहैं है।",
+      "type": "standard",
+      "options": [
+        "नेरिस ",
+        "कचिुआ",
+        "जोंक ",
+        "एस्केरिस "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) एस्केरिस । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_107",
+      "question": "निम्नलिखित सजीवों में से किस सजीव में अस्थियां होती हैं जो शरीर क\nगतिशीलता में सहायक होती हैं ?",
+      "type": "standard",
+      "options": [
+        "सांप ",
+        "तिलचट्टा",
+        "कचिुआ ",
+        "घोंघा "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) सांप । यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_108",
+      "question": "निम्नलिखित में से कौन सा प्राणी प्रायः अपने घोंसले में अंडे नहैं देता है ?",
+      "type": "standard",
+      "options": [
+        "गौरैया ",
+        "कोयल",
+        "तोता ",
+        "कबूतर "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) कोयल। यह प्रश्न RRB JE (2019) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_109",
+      "question": "मांस उत्पादन के उद्देश्य से पाले जाने वाले पोल्टी पक्षियों को क्या कहा जाता है ?",
+      "type": "standard",
+      "options": [
+        "लेयर ( Layers) ",
+        "ब्रॉइलर ( Broilers)",
+        "फॉउल ( Fowls) ",
+        "कॉक ( Cocks) "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) ब्रॉइलर ( Broilers)। यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_110",
+      "question": "तलवार - चोंच वाली हैंम्मेंग्बड क ख़ोंसयत क्या है ?",
+      "type": "standard",
+      "options": [
+        "यह दुनिया क सबसे बड़ी चिड़या है ।\n",
+        "इसक चोंच उसके शरीर से बड़ी होती है ।",
+        "यह केवल अंटोंटकिा में रहती है ।\n",
+        "यह उड़ नहैं सकती । "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) इसक चोंच उसके शरीर से बड़ी होती है ।। यह प्रश्न RRB NTPC (2016) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2016"
+    },
+    {
+      "id": "q_animal_kingdom_111",
+      "question": "कैवेलियर - स्मिथ ने जीवों को ________ जगत में वर्गकिृत किया था।  ",
+      "type": "standard",
+      "options": [
+        "4 ",
+        "5",
+        "3 ",
+        "6 "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) 6 । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_112",
+      "question": "निम्नलिखित में से कौन प्रोटोकॉडटिा से सम्बंधित है ?",
+      "type": "standard",
+      "options": [
+        "डॉग फिश   ",
+        "एम्फऑक्सस",
+        "रोहू   ",
+        "ट्यूना "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) एम्फऑक्सस। यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_113",
+      "question": "बिल्ली परिवार के सदस्ियों को दिया जाने वाला सामान्य नाम क्या है ?",
+      "type": "standard",
+      "options": [
+        "कैनाइन ",
+        "बोवाइन",
+        "कैप्रीन ",
+        "फेलिन "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) फेलिन । यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_114",
+      "question": "निम्नलिखित में से किस जीव में तीन - कक्षीय हृदय होता है ?",
+      "type": "standard",
+      "options": [
+        "स्तनधारी ",
+        "पक्षी",
+        "उभयचर ",
+        "मछली "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) उभयचर । यह प्रश्न RRB Technician (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_115",
+      "question": "निम्नलिखित में से किसका / किनका उपयोग मुगपिालन में किया जाता है ?",
+      "type": "standard",
+      "options": [
+        "कटला ",
+        "झगिा",
+        "लेगहॉन नस्ल ",
+        "सोंडनि "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) लेगहॉन नस्ल । यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_116",
+      "question": "नीचे दिए गए जीवों में से शीष परभक्षी का चयन कजिए।",
+      "type": "standard",
+      "options": [
+        "अजगर ",
+        "चूहा",
+        "गरुड़ ",
+        "टिा "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) गरुड़ । यह प्रश्न RRB Group D (2022) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2022"
+    },
+    {
+      "id": "q_animal_kingdom_117",
+      "question": "________ संभवतः प्रोंणियों का सबसे विशाल समूह   है।",
+      "type": "standard",
+      "options": [
+        "आथोंपोडा ",
+        "इकाइनोडमेंटा",
+        "एनेलिडा ",
+        "मोलस्का "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) आथोंपोडा । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_118",
+      "question": "' टिटिकम एस्टिवम ' किसका वैज्ञोंनक नाम है ?",
+      "type": "standard",
+      "options": [
+        "बंदर ",
+        "आम",
+        "गेहूँ ",
+        "मानव "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) गेहूँ । यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_119",
+      "question": "निम्नलिखित में से क्या मछलियों क विशेषता नहैं है ?",
+      "type": "standard",
+      "options": [
+        "हैंियों के बाह्य कंकाल\n",
+        "गलफड़ों के माध्यमें से श्वास",
+        "हैंी / उपोंस्थ के अंतः कंकाल\n",
+        "आभासी देहगुहा क उपस्थिति "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) आभासी देहगुहा क उपस्थिति । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_120",
+      "question": "निम्नलिखित में से कौन - सी एक समुद्री मछली नहैं है ?",
+      "type": "standard",
+      "options": [
+        "मैकेरेल ( Mackerel) ",
+        "भेटक ( Bhetki)",
+        "पॉम्फ्रेट ( Pomfret) ",
+        "रोहू ( Rohu) "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) रोहू ( Rohu) । यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_121",
+      "question": "________ अल्पविकसित बच्चों को जन्म देता है।",
+      "type": "standard",
+      "options": [
+        "एकिडना ",
+        "कंगारू",
+        "प्लैटिपस ",
+        "खरगोश "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) कंगारू। यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_122",
+      "question": "निम्नलिखित में से किस जंतु का हृदय तीन कक्षीय होता है ?",
+      "type": "standard",
+      "options": [
+        "स्टिगि रे ",
+        "सैलामेंडर",
+        "रोहू ",
+        "गौरैया "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) सैलामेंडर। यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_123",
+      "question": "प्रजनन कोशिकाओं का उपयोग मुकुलन क प्रक्रिया में किसमें होता है ?",
+      "type": "standard",
+      "options": [
+        "प्लेनेरिया ",
+        "अमीबा",
+        "स्पाईरोगायरा ",
+        "हाइडा "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) हाइडा । यह प्रश्न RRB Technician (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_124",
+      "question": "त्वचीय श्वसन किसमें होता है ?",
+      "type": "standard",
+      "options": [
+        "कचिुआ ",
+        "मछली",
+        "मानव ",
+        "पक्षी "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) कचिुआ । यह प्रश्न RRB JE (2019) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_125",
+      "question": "निम्नलिखित में से किसे सामान्यत : भारतीय मधुमक्खी ( Indian bee) के नामें से\nजाना जाता है ?",
+      "type": "standard",
+      "options": [
+        "एेपिस मेलिफेरा ( Apis mellifera)\n",
+        "एेपिस सेराना इंडिका ( Apis cerana indica)",
+        "एेपिस फ्लोरिया ( Apis florea)\n",
+        "एेपिस डॉसटिा ( Apis dorsata) "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) एेपिस सेराना इंडिका ( Apis cerana indica)। यह प्रश्न RRB ALP (2026) परीक्षा में पूछा गया था।",
+      "examName": "RRB ALP",
+      "examYear": "2026"
+    },
+    {
+      "id": "q_animal_kingdom_126",
+      "question": "निम्नलिखित में से कौन सा पैरामीशियम को पोषण प्राप्त करने के लिए भोजन को\nकोशिका में विशिष्ट स्थान पर ले जाने में मदद करता है ?",
+      "type": "standard",
+      "options": [
+        "पैरापोडिया ",
+        "पक्ष्माभ",
+        "स्यूडोपोडिया ",
+        "कशोंभका "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) पक्ष्माभ। यह प्रश्न RRB Technician (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_127",
+      "question": "विभाजन के दौरान दो कोशिकाओं का विभाजन किसी भी तल में हो सकता है। इस\nप्रकार के खंडन के पैटन किस प्रोटोजोआ में देखे गए हैं ?",
+      "type": "standard",
+      "options": [
+        "प्लास्मोडियम ",
+        "लीशमैनिया",
+        "हाइडा ",
+        "अमीबा "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) अमीबा । यह प्रश्न RRB Technician (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_128",
+      "question": "कुछ जीव किसी भी तल से विभाजन द्वारा द्वि - खंडन दशोंते हैं , लेकिन कुछ निधोंरित\nअभिविन्यास से विभाजन दशोंते हैं। निम्नलिखित में से कौन - सा , द्वि - खंडन का निधोंरित\nअभिविन्यास दशोंता है ?",
+      "type": "standard",
+      "options": [
+        "पैरामीशियम ( Paramecium)\n",
+        "लीशमैनिया ( Leishmania)",
+        "प्लाज्मोडियम ( Plasmodium)\n",
+        "अमीबा ( Amoeba) "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) लीशमैनिया ( Leishmania)। यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_129",
+      "question": "निम्नलिखित में से किस जीव में , खंडन और बीजाणु निमोंण दोनों होते हैं ?",
+      "type": "standard",
+      "options": [
+        "अमीबा ",
+        "प्लेनेरिया",
+        "यीस्ट ",
+        "कवक "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) कवक । यह प्रश्न RRB Group D (2026) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2026"
+    },
+    {
+      "id": "q_animal_kingdom_130",
+      "question": "बाह्य निषेचन निम्नलिखित में से किस प्रोंण में पाया जाता है ?",
+      "type": "standard",
+      "options": [
+        "मछली ",
+        "मुग",
+        "मनुष्य ",
+        "गाय "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) मछली । यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_131",
+      "question": "फतिाकृमि ( टेपवमें ) के जीवन चक्र में निम्नलिखित में से कौन एक परपोषी है ?",
+      "type": "standard",
+      "options": [
+        "सुअर ",
+        "बंदर",
+        "मछली ",
+        "खरगोश "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) सुअर । यह प्रश्न RRB JE (2019) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_132",
+      "question": "कचिुओं में निम्नलिखित में से कौन - सा श्वसन अंग होता है ?",
+      "type": "standard",
+      "options": [
+        "श्वासरंध्र ",
+        "गिल पाउच",
+        "फेफड़े ( वायु कोष्ठ ) ",
+        "त्वचा "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) त्वचा । यह प्रश्न RRB Group D (2022) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2022"
+    },
+    {
+      "id": "q_animal_kingdom_133",
+      "question": "निम्नलिखित में से कौन बाह्यपरजीवी का एक उदाहरण है ?",
+      "type": "standard",
+      "options": [
+        "मच्छर ",
+        "टैपवामें",
+        "जीवोंणु ",
+        "( अंकुश कृमि ) हुकवमें "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) मच्छर । यह प्रश्न RRB JE (2019) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_134",
+      "question": "निम्न में से मवेशियों क किस नस्ल का उपयोग दो उद्देश्ियों के लिए होता है ?",
+      "type": "standard",
+      "options": [
+        "देवनी ",
+        "साहीवाल",
+        "गिर ",
+        "ओंगोल "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) ओंगोल । यह प्रश्न RPF SI (2018) परीक्षा में पूछा गया था।",
+      "examName": "RPF SI",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_135",
+      "question": "निम्नलिखित में से किस जन्तु संघ में जोड़युक्त पैर होते हैं ?",
+      "type": "standard",
+      "options": [
+        "आथ्रोंपोडा ",
+        "इकाइनोडमेंटा",
+        "एनिलिडा ",
+        "निमेटोडा "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) आथ्रोंपोडा । यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_136",
+      "question": "निम्नलिखित में से कौन - सी लोकप्रिय समुद्री मछली क किस्म भारत में पाई जाती\nहै ?",
+      "type": "standard",
+      "options": [
+        "मृगल ( Mrigal) ",
+        "पॉम्फ्रेट ( Pomfret)",
+        "कतला ( Catla) ",
+        "रोहू ( Rohu) "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) पॉम्फ्रेट ( Pomfret)। यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_137",
+      "question": "पक्षियों के अध्ययन को _______ कहते हैं।",
+      "type": "standard",
+      "options": [
+        "हरपेरीप्लेनेटाटोलॉजी ",
+        "ओनिथिोलॉजी",
+        "एथ्रिोपोलॉजी ",
+        "ऑप्थल्मोलॉजी "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) ओनिथिोलॉजी। यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_138",
+      "question": "निम्नलिखित में से कौन सा एककोशिकयि जीव अपना आकार बदलता है ?",
+      "type": "standard",
+      "options": [
+        "यीस्ट ",
+        "बैक्टीरिया",
+        "पैरामीशियम ",
+        "अमीबा "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) अमीबा । यह प्रश्न RRB Technician (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_139",
+      "question": "अपने जीवनकाल में कइ परपोषियों का उपभोग करने वाला जीव क्या कहलाता है ?",
+      "type": "standard",
+      "options": [
+        "परजीव्याभ ",
+        "परजीवी",
+        "मृतजीवी ",
+        "परभक्षी "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) परभक्षी । यह प्रश्न RRB JE (2019) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_140",
+      "question": "ओंकर्मिडीज सिद्धांत का प्रयोग निम्नलिखित में से किसके डिजाइन के लिए किया\nजाता है ?",
+      "type": "standard",
+      "options": [
+        "कार ",
+        "हवाइ जहाज",
+        "पनडुब्बियों ",
+        "टकि "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) पनडुब्बियों । यह प्रश्न RRB JE (2019) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_141",
+      "question": "निम्नलिखित में से किसके कारण काला - अजार होता है ?",
+      "type": "standard",
+      "options": [
+        "कवक ",
+        "विषाणु",
+        "जीवोंणु ",
+        "प्रोटोजोआ "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) प्रोटोजोआ । यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_142",
+      "question": "राना टिग्रिना किस जन्तु का वैज्ञोंनक नाम है ?",
+      "type": "standard",
+      "options": [
+        "बाघ ",
+        "भेड़या",
+        "तदिुआ ",
+        "एशियाइ मेंढक "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) एशियाइ मेंढक । यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_143",
+      "question": "एक मुगपिालक एेसे पक्षी चाहता है जो कम चारा खाएँ , ज़्यादा गमें सहन कर सक\nऔर अच्छ गुणवत्ता वाले चूज़े पैदा कर। उसे कौन सी रणनीति अपनानी चोंहए ?",
+      "type": "standard",
+      "options": [
+        "मछली पालन क ओर रुख\n",
+        "केवल देशी पक्षियों का उपयोग कर",
+        "विदेशी और स्थानीय मुगपिालन का संकरण\n",
+        "पक्षियों को दिन में दो बार खाना खिलाएँ "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) विदेशी और स्थानीय मुगपिालन का संकरण\n। यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_144",
+      "question": "कौन सा एककोशिकयि जीव बहुखंडन द्वारा एक साथ कइ संतति कोशिकाओं में\nविभोंजत होता है ?",
+      "type": "standard",
+      "options": [
+        "अमीबा ",
+        "प्लास्मोडियम",
+        "यीस्ट ",
+        "लीशमैनिया "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) प्लास्मोडियम। यह प्रश्न RRB Technician (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_145",
+      "question": "वैज्ञोंनक नामकरण या नामावली _________ के द्वारा प्रारंभ क गइ थी।",
+      "type": "standard",
+      "options": [
+        "लिनियस ",
+        "हेक्केल",
+        "डोंवनि ",
+        "डॉबेराइनर "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) लिनियस । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_146",
+      "question": "निम्नलिखित में से किस वर्ग में ताप कुछ प्रजोंतियों में लिगि का निधोंरण करता है ?",
+      "type": "standard",
+      "options": [
+        "सरीसृप ",
+        "स्तनधारी",
+        "पक्षी ",
+        "उभयचर "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) सरीसृप । यह प्रश्न RRB Group D (2022) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2022"
+    },
+    {
+      "id": "q_animal_kingdom_147",
+      "question": "किस जीव में मुकुलन क प्रक्रिया में प्रजनन के लिए पुनियोंजी कोशिकाओं का\nउपयोग होता है ?",
+      "type": "standard",
+      "options": [
+        "लीशमैनिया ",
+        "यीस्ट",
+        "अमीबा ",
+        "हाइडा "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) हाइडा । यह प्रश्न RRB Technician (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_148",
+      "question": "निम्नलिखित में से किसे एनिमेलिया जगत के अंतर्गत वर्गकिृत नहैं किया गया है ?",
+      "type": "standard",
+      "options": [
+        "मेटाजोआ ",
+        "प्रोटोजोआ",
+        "चोआनोजोआ ",
+        "पिपियंस "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) प्रोटोजोआ। यह प्रश्न RRB NTPC (2020) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2020"
+    },
+    {
+      "id": "q_animal_kingdom_149",
+      "question": "निम्नलिखित में से कौन सा जीव विखंडन के माध्यमें से अलर्गिक प्रजनन नहैं\nदशोंता है ?",
+      "type": "standard",
+      "options": [
+        "प्लास्मोडियम ",
+        "कचिुआ",
+        "अमीबा ",
+        "लीशमैनिया "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) कचिुआ। यह प्रश्न RRB ALP (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB ALP",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_150",
+      "question": "इन जानवरों में से किसके पास खुद को बचाने के लिए रीढ़ का एक आवरण ( coat\nof spines) होता है ?",
+      "type": "standard",
+      "options": [
+        "विशालकाय पांडा ",
+        "मृग ( Antelope)",
+        "बारहैंसहिा ",
+        "साही ( Hedgehog) "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) साही ( Hedgehog) । यह प्रश्न RRB JE (2019) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_151",
+      "question": "कौन - सा जन्तु इन्ासाउंड का उपयोग करके संचार करने के लिए जाना जाता है ?",
+      "type": "standard",
+      "options": [
+        "चूहा ",
+        "चमगादड़",
+        "गडिा ",
+        "डॉल्फिन "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) गडिा । यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_152",
+      "question": "निम्नलिखित में से किस जीव में लिगि परिवतनि हो सकता है , जो यह दशोंता है कि\nलिगि आनुवंशिक रूप से निधोंरित नहैं होता है ?",
+      "type": "standard",
+      "options": [
+        "घोंघा ",
+        "छिपकली",
+        "मेंढक ",
+        "शुतुरमुग "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) घोंघा । यह प्रश्न RRB Technician (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_153",
+      "question": "जानवर अक्सर सुरक्षा के लिए अपने परिवेश में घुलमिल जाते हैं। निम्नलिखित में से\nकौन एेसा करता है ?",
+      "type": "standard",
+      "options": [
+        "गिरगिट ",
+        "कछुए",
+        "बिल्लियाँ ",
+        "जेरबोआ "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) गिरगिट । यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_154",
+      "question": "द्विपाश्र्व समेंत वाले खंडित जीवों का समूह क्या है ?",
+      "type": "standard",
+      "options": [
+        "स्पंज ",
+        "एेनेलिडा",
+        "आथ्रोंपोडा ",
+        "मोलस्क "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) एेनेलिडा। यह प्रश्न RPF Constable (2018) परीक्षा में पूछा गया था।",
+      "examName": "RPF Constable",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_155",
+      "question": "निम्नलिखित में से कौन - सा जीव , पुष्प के परागण में सहायक होता है ?",
+      "type": "standard",
+      "options": [
+        "मधुमक्खी ( Honey bee)\n",
+        "अमीबा ( Amoeba)",
+        "प्लाज़्मोडियम ( Plasmodium)\n",
+        "यूग्लीना ( Euglena) "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) मधुमक्खी ( Honey bee)\n। यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_156",
+      "question": "नदि क बीमारी किसके कारण होती है ?",
+      "type": "standard",
+      "options": [
+        "मच्छर ",
+        "घरेलू मक्खी",
+        "रेत मक्खी ",
+        "टसेटसे मक्खी "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) टसेटसे मक्खी । यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_157",
+      "question": "निम्नलिखित में से कौन एक समतापी प्राणी   है ?",
+      "type": "standard",
+      "options": [
+        "कबूतर ",
+        "मगरमच्छ",
+        "मेंढक ",
+        "मछली "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) कबूतर । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_158",
+      "question": "कौन सा प्राणी सामान्यतः अपने शिकार को फंसाने के लिए एक जाल बुनता है ?",
+      "type": "standard",
+      "options": [
+        "तिलचट्टा ",
+        "कैटरपिलर",
+        "मकड़ी ",
+        "रेशम का कड़ा "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) मकड़ी । यह प्रश्न RRB JE (2019) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_159",
+      "question": "दो सतहों क अनियमितताओं से क्या होता है , जो स्थैतिक घषणि का कारण बनता\nहै ?",
+      "type": "standard",
+      "options": [
+        "सपणि ",
+        "अंतगथिन",
+        "लोपन ",
+        "लोटनिक "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) अंतगथिन। यह प्रश्न RRB JE (2019) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_160",
+      "question": "वर्ग _______ के जंतु समतापी जंतु हैं।",
+      "type": "standard",
+      "options": [
+        "एवीज   ",
+        "मत्स्यवर्ग",
+        "सरिसृप ",
+        "उभयचर "
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: (A) एवीज   । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_161",
+      "question": "पशुपालन में , दूध देने वाली भसिों को _______ कहा जाता है।",
+      "type": "standard",
+      "options": [
+        "ब्रॉयलर ( broilers) ",
+        "दुधारू ( milch)",
+        "लेयस ( layers) ",
+        "शंख ( shellfish) "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) दुधारू ( milch)। यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_162",
+      "question": "उस एकमात्र पक्षी का नाम बताइए जो पीछे क ओर उड़ सकता है।",
+      "type": "standard",
+      "options": [
+        "पगिुइन ",
+        "कठफोड़वा",
+        "गौरैया ",
+        "हैंमेंगबड "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) हैंमेंगबड । यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_163",
+      "question": "इनमें से किस कटि के दांत होते हैं ?",
+      "type": "standard",
+      "options": [
+        "तितलियाँ ",
+        "ततैया और भोंरा",
+        "मेंक्खयाँ ",
+        "मधुमेंक्खयाँ "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) ततैया और भोंरा। यह प्रश्न RRB JE (2019) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_164",
+      "question": "निम्नलिखित में से कौन सा जीव मेंुकुलन द्वारा प्रजनन करता है ?",
+      "type": "standard",
+      "options": [
+        "कचिुआ ",
+        "हाइडा",
+        "मेंढक ",
+        "तिलचट्टा "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) हाइडा। यह प्रश्न RRB ALP (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB ALP",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_165",
+      "question": "________ संभवतः जंतुओं का सबसे बड़ा समूह है।",
+      "type": "standard",
+      "options": [
+        "मोलस्का ",
+        "एेनेलिडा",
+        "इचिनोडमेंटा ",
+        "आथोंपोडा "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) आथोंपोडा । यह प्रश्न RRB Group D (2018) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2018"
+    },
+    {
+      "id": "q_animal_kingdom_166",
+      "question": "निम्नलिखित में से गाियों क कौन - सी नस्ल रोगों के प्रति प्रतिरोधी है ?",
+      "type": "standard",
+      "options": [
+        "जस ( Jersey)\n",
+        "रेड सिधिी ( Red Sindhi)",
+        "ब्राउन स्विस ( Brown Swiss)\n",
+        "असील ( Aseel) "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) रेड सिधिी ( Red Sindhi)। यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
+    },
+    {
+      "id": "q_animal_kingdom_167",
+      "question": "नक्षत्र उसों माइनर में सितारों का समूह होता है , जिसे सामान्यतः क्या कहा जाता है ?",
+      "type": "standard",
+      "options": [
+        "लिटिल लायन ",
+        "बिग डिप्पर",
+        "हंटर ",
+        "लिटिल डिप्पर "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) लिटिल डिप्पर । यह प्रश्न RRB JE (2019) परीक्षा में पूछा गया था।",
+      "examName": "RRB JE",
+      "examYear": "2019"
+    },
+    {
+      "id": "q_animal_kingdom_168",
+      "question": "मीन ( Pisces) विशेष रूप से जलीय प्राणी हैं। निम्नलिखित में से कौन सी उनक\nविशेषता नहैं है ?",
+      "type": "standard",
+      "options": [
+        "उनके हृदय में केवल दो कक्ष होते हैं।\n",
+        "वे अपने गलफड़ों का उपयोग करके पानी में घुली ऑक्सीजन प्राप्त करते हैं।",
+        "वे गमें रक्त वाले होते हैं।\n",
+        "उनक त्वचा शल्क से ढक होती है। "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) वे गमें रक्त वाले होते हैं।\n। यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_169",
+      "question": "' ऊंट को रेगिस्तान का जहाज कहा जाता है ' यह किस धारणा से लिया गया है ?",
+      "type": "standard",
+      "options": [
+        "ऊंटों के कूबड होते हैं।\n",
+        "ऊंटों का उपयोग रेगिस्तान में परिवहन के लिए किया जाता है।",
+        "ऊंट स्तनधारी हैं।\n",
+        "ऊंट का आकार जहाज जैसा होता है। "
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: (B) ऊंटों का उपयोग रेगिस्तान में परिवहन के लिए किया जाता है।। यह प्रश्न RRB NTPC (2021) परीक्षा में पूछा गया था।",
+      "examName": "RRB NTPC",
+      "examYear": "2021"
+    },
+    {
+      "id": "q_animal_kingdom_170",
+      "question": "निम्नलिखित में से कौन सा जीव बीजाणु निमोंण द्वारा प्रजनन करता है ?",
+      "type": "standard",
+      "options": [
+        "कचिुआ ",
+        "हाइडा",
+        "राइजोपस ",
+        "लीशमैनिया "
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: (C) राइजोपस । यह प्रश्न RRB Technician (2024) परीक्षा में पूछा गया था।",
+      "examName": "RRB Technician",
+      "examYear": "2024"
+    },
+    {
+      "id": "q_animal_kingdom_171",
+      "question": "भारत में , गाियों को किस वैज्ञोंनक स्पीशीज के नामें से वर्गकिृत किया जाता है ?",
+      "type": "standard",
+      "options": [
+        "बॉस बुबैलिस ( Bos bubalis)\n",
+        "बुबैलस बुबैलिस ( Bubalus bubalis)",
+        "बॉस टॉरस ( Bos taurus)\n",
+        "बॉस इंडिकस ( Bos indicus) "
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: (D) बॉस इंडिकस ( Bos indicus) । यह प्रश्न RRB Group D (2025) परीक्षा में पूछा गया था।",
+      "examName": "RRB Group D",
+      "examYear": "2025"
     }
   ]
 }

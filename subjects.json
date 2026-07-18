@@ -95,11 +95,12 @@
         "topicName": "जंतु जगत (Animal Kingdom)",
         "isPremium": false,
         "mocks": [
-          {
-            "mockId": "mock_animal_kingdom_1",
-            "mockName": "Mock Test 1 (Q. 1-4)",
-            "questions": []
-          }
+          { "mockId": "mock_animal_kingdom_1", "mockName": "Mock Test 1 (Q. 1-30)", "questions": [] },
+          { "mockId": "mock_animal_kingdom_2", "mockName": "Mock Test 2 (Q. 31-60)", "questions": [] },
+          { "mockId": "mock_animal_kingdom_3", "mockName": "Mock Test 3 (Q. 61-90)", "questions": [] },
+          { "mockId": "mock_animal_kingdom_4", "mockName": "Mock Test 4 (Q. 91-120)", "questions": [] },
+          { "mockId": "mock_animal_kingdom_5", "mockName": "Mock Test 5 (Q. 121-150)", "questions": [] },
+          { "mockId": "mock_animal_kingdom_6", "mockName": "Mock Test 6 (Q. 151-171)", "questions": [] }
         ]
       }
     ]
