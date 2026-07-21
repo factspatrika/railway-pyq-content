@@ -960,7 +960,16 @@
           }
         ]
       }
-    ]
+    ],
+    "question": "",
+    "options": [
+      "विकल्प A",
+      "विकल्प B",
+      "विकल्प C",
+      "विकल्प D"
+    ],
+    "answer": "विकल्प A",
+    "explanation": ""
   },
   {
     "subjectId": "sub_chemistry",
@@ -1728,7 +1737,16 @@
           }
         ]
       }
-    ]
+    ],
+    "question": "",
+    "options": [
+      "विकल्प A",
+      "विकल्प B",
+      "विकल्प C",
+      "विकल्प D"
+    ],
+    "answer": "विकल्प A",
+    "explanation": ""
   },
   {
     "subjectId": "sub_biology",
@@ -2442,6 +2460,15 @@
           }
         ]
       }
-    ]
+    ],
+    "question": "",
+    "options": [
+      "विकल्प A",
+      "विकल्प B",
+      "विकल्प C",
+      "विकल्प D"
+    ],
+    "answer": "विकल्प A",
+    "explanation": ""
   }
 ]
