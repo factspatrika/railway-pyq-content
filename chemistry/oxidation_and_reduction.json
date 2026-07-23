@@ -49,7 +49,7 @@
       "id": "q_oxidation_and_reduction_3"
     },
     {
-      "question": "नीचे दी गई अभिक्रिया के बारे में कौन-सा/से कथन सही है/हैं?\n2ZnO (s) + C (s) → 2Zn (s) + CO₂(g)\n(i) जस्ता (Zinc Oxide) अपचयित हो रहा है।\n(ii) कार्बन ऑक्सीकृत हो रहा है।\n(iii) जस्ता ऑक्सीकृत हो रहा है।\n(iv) कार्बन अपचयित हो रहा है।",
+      "question": "नीचे दी गई अभिक्रिया के बारे में कौन-सा/से कथन सही है/हैं?\n2ZnO (s) + C (s) → 2Zn (s) + CO₂(g)",
       "options": [
         "केवल (ii)",
         "(i) और (ii) दोनों",
@@ -60,8 +60,14 @@
       "explanation": "सही उत्तर: (i) और (ii) दोनों\n\n📝 व्याख्या:\nदी गई अभिक्रिया में:\n2ZnO (s) + C (s) → 2Zn (s) + CO₂(g)\n\n🔑 विश्लेषण:\n• जस्ता ऑक्साइड (ZnO) से ऑक्सीजन निकल रही है और यह जिंक (Zn) धातु में बदल रहा है। ऑक्सीजन का हटना अपचयन कहलाता है। अतः जस्ता अपचयित (Reduced) हो रहा है (कथन i सत्य है)।\n• कार्बन (C) ऑक्सीजन प्राप्त करके कार्बन डाइऑक्साइड (CO₂) में बदल रहा है। ऑक्सीजन का जुड़ना ऑक्सीकरण कहलाता है। अतः कार्बन ऑक्सीकृत (Oxidised) हो रहा है (कथन ii सत्य है)।\n• अतः कथन (i) and (ii) दोनों सही हैं।",
       "examName": "RRB Group D 29 /8/2022 Shift 2",
       "examYear": "2022",
-      "type": "standard",
-      "id": "q_oxidation_and_reduction_4"
+      "type": "multiStatement",
+      "id": "q_oxidation_and_reduction_4",
+      "statements": [
+        "(i) जस्ता (Zinc Oxide) अपचयित हो रहा है।",
+        "(ii) कार्बन ऑक्सीकृत हो रहा है।",
+        "(iii) जस्ता ऑक्सीकृत हो रहा है।",
+        "(iv) कार्बन अपचयित हो रहा है।"
+      ]
     },
     {
       "question": "किसी पदार्थ को रेडॉक्स अभिक्रिया में कम किया जाना कहा जाता है यदि:",
@@ -165,7 +171,7 @@
       "explanation": "सही उत्तर: अपचयन (Reduction)\n\n📝 व्याख्या:\nसल्फर (S) से सल्फाइड आयन (S²⁻) का बनना एक अपचयन (Reduction) अभिक्रिया है।\n\n🔑 रासायनिक अभिक्रिया:\nS + 2e⁻ → S²⁻\n• यहाँ सल्फर परमाणु दो इलेक्ट्रॉन ग्रहण (Gain of electrons) कर रहा है।\n• इलेक्ट्रॉन ग्रहण करने की प्रक्रिया को आधुनिक इलेक्ट्रॉनिक सिद्धांत के अनुसार अपचयन (Reduction) कहा जाता है।",
       "examName": "RRB Group D 26 /9/2022 Shift 1",
       "examYear": "2022",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_oxidation_and_reduction_11"
     },
     {
@@ -195,7 +201,7 @@
       "explanation": "सही उत्तर: अनॉक्सीय श्वसन (Anaerobic Respiration)\n\n📝 व्याख्या:\nऑक्सीजन की अनुपस्थिति में कार्बनिक पदार्थों (जैसे ग्लूकोज) के अपूर्ण विघटन को अनॉक्सीय श्वसन (Anaerobic Respiration) या किण्वन (Fermentation) कहा जाता है।\n\n🔑 मुख्य बिंदु:\n• इस प्रक्रिया में कम ऊर्जा उत्पन्न होती है।\n• यीस्ट में अनॉक्सीय श्वसन से एथेनॉल और CO₂ बनते हैं:\n C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ + 2ATP\n• मनुष्य की मांसपेशियों में ऑक्सीजन की कमी के कारण लैक्टिक अम्ल का निर्माण होता है जिससे ऐंठन (cramps) होती है।",
       "examName": "RRB Group D 5/10/2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_oxidation_and_reduction_13"
     },
     {
@@ -214,7 +220,7 @@
       "id": "q_oxidation_and_reduction_14"
     },
     {
-      "question": "निम्नलिखित में से कौन रेडॉक्स अभिक्रिया का उदाहरण नहीं है?\n(i) ZnO + C → Zn + CO\n(ii) MnO₂ + 4HCl → MnCl₂ + 2H₂O + Cl₂\n(iii)₄Na + O₂ → 2Na₂O\n(iv) AgNO₃ + NaCl → AgCl + NaNO₃",
+      "question": "निम्नलिखित में से कौन रेडॉक्स अभिक्रिया का उदाहरण नहीं है?",
       "options": [
         "iv",
         "iii",
@@ -225,8 +231,14 @@
       "explanation": "सही उत्तर: iv (AgNO₃ + NaCl → AgCl + NaNO₃)\n\n📝 व्याख्या:\nअभिक्रिया AgNO₃ + NaCl → AgCl↓ + NaNO₃ एक द्विविस्थापन (Double Displacement) और अवक्षेपण अभिक्रिया है, रेडॉक्स अभिक्रिया नहीं।\n\n🔑 रेडॉक्स न होने का\n\n• कारण:\n• इस अभिक्रिया में किसी भी तत्व की ऑक्सीकरण संख्या में कोई परिवर्तन नहीं होता:\n - Ag = +1 → +1\n - N = +5 → +5\n - Na = +1 → +1\n - Cl = -1 → -1\n• अन्य तीनों विकल्प (i, ii, iii) रेडॉक्स अभिक्रियाएं हैं क्योंकि उनमें तत्वों की ऑक्सीकरण संख्या बदल रही है।",
       "examName": "RRB Group D 17 /8/2022 Shift 2",
       "examYear": "2022",
-      "type": "standard",
-      "id": "q_oxidation_and_reduction_15"
+      "type": "multiStatement",
+      "id": "q_oxidation_and_reduction_15",
+      "statements": [
+        "(i) ZnO + C → Zn + CO",
+        "(ii) MnO₂ + 4HCl → MnCl₂ + 2H₂O + Cl₂",
+        "(iii)₄Na + O₂ → 2Na₂O",
+        "(iv) AgNO₃ + NaCl → AgCl + NaNO₃"
+      ]
     },
     {
       "question": "ZnO + C → Zn + CO दी गई अभिक्रिया में, कौन सा कथन गलत है?",
@@ -316,7 +328,7 @@
       "explanation": "सही उत्तर: अपचायक कमक (Reducing Agent)\n\n📝 व्याख्या:\nदी गई विस्थापन अभिक्रिया में:\nCuSO₄ + Mg → MgSO₄ + Cu\nमैग्नीशियम (Mg) एक अपचायक कारक (Reducing Agent / कमक) के रूप में कार्य करता है।\n\n🔑\n\n• कारण:\n• मैग्नीशियम की अभिक्रियाशीलता कॉपर से अधिक है।\n• अभिक्रिया में Mg दो इलेक्ट्रॉन त्यागकर Mg²⁺ में ऑक्सीकृत हो जाता है:\n Mg → Mg²⁺ + 2e⁻\n• यह Cu²⁺ आयनों को इलेक्ट्रॉन प्रदान कर उन्हें कॉपर धातु (Cu) में अपचयित कर देता है:\n Cu²⁺ + 2e⁻ → Cu\n• जो पदार्थ स्वयं ऑक्सीकृत होकर दूसरे को अपचयित करता है, उसे अपचायक कहते हैं।",
       "examName": "RRB Group D 1 /9/2022 Shift 1",
       "examYear": "2022",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_oxidation_and_reduction_21"
     },
     {
@@ -361,7 +373,7 @@
       "explanation": "सही उत्तर: ऑक्सीकृत हो जाता है\n\n📝 व्याख्या:\nअभिक्रिया:\nFe (s) + CuSO₄(aq) → FeSO₄(aq) + Cu (s)\nइस अभिक्रिया में लोहा (Fe) ऑक्सीकृत हो जाता है।\n\n🔑 विश्लेषण:\n• लोहे की ऑक्सीकरण संख्या 0 (मुक्त अवस्था में) से बढ़कर +2 (FeSO₄ में) हो जाती है।\n• इलेक्ट्रॉनों के रूप में:\n Fe → Fe²⁺ + 2e⁻ (ऑक्सीकरण)\n• कॉपर (Cu²⁺) की ऑक्सीकरण संख्या +2 से घटकर 0 हो जाती है (अपचयन)।",
       "examName": "RRB Level 01 Stage I 03/12/2025 4:30 PM - 6:00 PM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_oxidation_and_reduction_24"
     },
     {
@@ -751,7 +763,7 @@
       "explanation": "सही उत्तर: ऑक्सीकरण अभिक्रिया (Oxidation Reaction)\n\n📝 व्याख्या:\nहवा और नमी की उपस्थिति में चांदी या तांबे के आभूषणों का धूमिल होना (Tarnishing of ornaments) एक ऑक्सीकरण (Oxidation) अभिक्रिया और संक्षारण का उदाहरण है।\n\n🔑 विवरण:\n• चांदी के आभूषण हवा में मौजूद हाइड्रोजन सल्फाइड (H₂S) गैस से क्रिया करके काले रंग की सिल्वर सल्फाइड (Ag₂S) की परत बना लेते हैं:\n 4Ag + 2H₂S + O₂ → 2Ag₂S (काला) + 2H₂O\n• यह चांदी का ऑक्सीकरण दर्शाता है।",
       "examName": "RRB Group D 9 /9/2022 Shift 1",
       "examYear": "2022",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_oxidation_and_reduction_50"
     },
     {
@@ -766,7 +778,7 @@
       "explanation": "सही उत्तर: ऑक्सीकृत हुआ (Oxidised)\n\n📝 व्याख्या:\nयदि कोई पदार्थ रासायनिक अभिक्रिया के दौरान ऑक्सीजन ग्रहण करता है (जैसे 2Mg + O₂ → 2MgO), तो उसे ऑक्सीकृत हुआ (Oxidised) कहा जाता.\n\n🔑 मूल परिभाषा:\n• ऑक्सीजन का योग = ऑक्सीकरण (Oxidation)\n• हाइड्रोजन का ह्रास = ऑक्सीकरण (Oxidation)\n• इलेक्ट्रॉनों की हानि = ऑक्सीकरण (Oxidation)",
       "examName": "RRB Group D 26 /8/2022 Shift 2",
       "examYear": "2022",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_oxidation_and_reduction_51"
     },
     {
@@ -811,7 +823,7 @@
       "explanation": "सही उत्तर: ऑक्सीकरण और अपचयन एक साथ होते हैं\n\n📝 व्याख्या:\nरेडॉक्स (Redox) अभिक्रिया वह रासायनिक अभिक्रिया है जिसमें ऑक्सीकरण (Oxidation) और अपचयन (Reduction) दोनों प्रक्रियाएं एक ही समय पर एक साथ (simultaneously) संपन्न होती हैं।\n\n🔑 उदाहरण:\nZn + CuSO₄ → ZnSO₄ + Cu\n• यहाँ जिंक का ऑक्सीकरण और कॉपर का अपचयन एक साथ हो रहा है।",
       "examName": "RRB Group D 6/10/2022 Shift 3",
       "examYear": "2022",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_oxidation_and_reduction_54"
     },
     {
@@ -901,7 +913,7 @@
       "explanation": "सही उत्तर: निर्जलीकरण (Dehydration)\n\n📝 व्याख्या:\nजब एथेनॉल (C₂H₅OH) को सांद्र सल्फ्यूरिक अम्ल (H₂SO₄) की अधिकता में 443 K (170°C) पर गर्म किया जाता है, तो होने वाला परिवर्तन निर्जलीकरण (Dehydration) कहलाता है।\n\n🔑 रासायनिक अभिक्रिया:\nCH₃CH₂OH (सांद्र H₂SO₄, 443 K) → CH₂=CH₂ (एथीन) + H₂O\n• सांद्र सल्फ्यूरिक अम्ल यहाँ एक निर्जलीकारक (Dehydrating Agent) के रूप में कार्य करता है जो अल्कोहल से जल के अणु को बाहर निकाल देता है।",
       "examName": "RRB Level 01 Stage I 28/11/2025 12:45 PM - 2:15 PM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_oxidation_and_reduction_60"
     },
     {
@@ -946,7 +958,7 @@
       "explanation": "सही उत्तर: अपचयन (Reduction)\n\n📝 व्याख्या:\nएक रासायनिक अभिक्रिया में, जब कोई पदार्थ हाइड्रोजन ग्रहण करता है, तो इस प्रक्रिया को अपचयन (Reduction) कहा जाता है।\n\n🔑 सारांश:\n• ऑक्सीजन का ह्रास / हाइड्रोजन का योग = अपचयन (Reduction)\n• ऑक्सीजन का योग / हाइड्रोजन का ह्रास = ऑक्सीकरण (Oxidation)",
       "examName": "RRB Group D 30 /9/2022 Shift 3",
       "examYear": "2022",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_oxidation_and_reduction_63"
     }
   ]

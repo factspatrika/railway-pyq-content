@@ -45,7 +45,7 @@
       "explanation": "सही उत्तर: दोगुना हो जाएगा\n\n📝 व्याख्या:\nन्यूटन के गुरुत्वाकर्षण नियम (F = G·m₁·m₂ / r²) के अनुसार, गुरुत्वाकर्षण बल दोनों द्रव्यमानों के सीधे अनुक्रमानुपाती होता है।\n\nयदि दूरी (r) को स्थिर रखते हुए चंद्रमा का द्रव्यमान दोगुना (2m₂) कर दिया जाए, तो बल F' = G·m₁·(2m₂) / r² = 2F हो जाएगा। अर्थात् **बल ठीक दोगुना हो जाएगा**।",
       "examName": "RRB Level 01 Stage I 02/12/2025 4:30 PM - 6:00 PM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_3"
     },
     {
@@ -60,7 +60,7 @@
       "explanation": "सही उत्तर: 625 J\n\n📝 व्याख्या:\nकिया गया कार्य (Work done) = बल (Force) × विस्थापन (Displacement)।\nसूत्र: W = F × d\n\nयहाँ बल F = 125 N और विस्थापन d = 5 m है (दोनों एक ही दिशा में हैं, अतः cos 0° = 1)।\nW = 125 × 5 = **625 जूल (J)**।",
       "examName": "RRB Group D 9/10/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_4"
     },
     {
@@ -105,7 +105,7 @@
       "explanation": "सही उत्तर: 1/2 mv²\n\n📝 व्याख्या:\nगतिज ऊर्जा (Kinetic Energy) का प्रामाणिक गणितीय सूत्र **K.E. = ½ mv²** होता है।\n\nजहाँ 'm' वस्तु का द्रव्यमान (Mass) और 'v' उसका एकसमान वेग (Velocity) है। यह सूत्र दर्शाता है कि गतिज ऊर्जा वेग के वर्ग के अनुक्रमानुपाती होती है।",
       "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 3",
       "examYear": "2024",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_7"
     },
     {
@@ -195,7 +195,7 @@
       "explanation": "सही उत्तर: किलोवाट घंटा\n\n📝 व्याख्या:\nघरेलू और औद्योगिक स्तर पर विद्युत ऊर्जा की खपत को मापने के लिए **किलोवाट-घंटा (kWh)** का उपयोग किया जाता है।\n\nइसे आम बोलचाल में 'यूनिट (Unit)' भी कहते हैं। 1 kWh का अर्थ है कि 10⁰⁰ वॉट के उपकरण को 1 घंटे तक चलाने पर खर्च हुई कुल ऊर्जा (3.6 × 10⁶ जूल)।",
       "examName": "RRB Group D 18 Sept 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_13"
     },
     {
@@ -285,7 +285,7 @@
       "explanation": "सही उत्तर: आवेग\n\n📝 व्याख्या:\nरॉकेट का प्रक्षेपण **संवेग संरक्षण (Conservation of Momentum)** या रैखिक संवेग के सिद्धांत पर आधारित है। कभी-कभी इसे न्यूटन के तीसरे नियम से भी समझाया जाता है।\n\nयहाँ दिए गए विकल्पों में, 'संवेग (Momentum)' अनुपस्थित है, परंतु संवेग में परिवर्तन ही **आवेग (Impulse)** कहलाता है। इसलिए दिए गए विकल्पों के अनुसार आवेग सबसे उपयुक्त उत्तर है (रॉकेट प्रणोदन में गैसें पीछे की ओर एक आवेग उत्पन्न करती हैं)।",
       "examName": "RRB NTPC CBT-I : 31 Jan 2021 Shift 1",
       "examYear": "2021",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_19"
     },
     {
@@ -375,7 +375,7 @@
       "explanation": "सही उत्तर: 25 जूल\n\n📝 व्याख्या:\nव्यक्ति द्वारा भार को ऊपर उठाने में किया गया कार्य वस्तु की स्थितिज ऊर्जा में वृद्धि के बराबर होता है।\nकार्य (W) = m × g × h\n\nm = 1 kg, g = 10 m/s², h = 2.5 m\nW = 1 × 10 × 2.5 = **25 जूल (J)**।",
       "examName": "RRB ALP CBT-I 2024 : 27 Nov, 2024 Shift 1",
       "examYear": "2024",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_25"
     },
     {
@@ -435,7 +435,7 @@
       "explanation": "सही उत्तर: चार गुनी\n\n📝 व्याख्या:\nगतिज ऊर्जा (K) और संवेग (p) के बीच संबंध: K = p² / 2m होता है।\n\nयहाँ K, संवेग के वर्ग (p²) के अनुक्रमानुपाती है। यदि संवेग को दोगुना (2p) कर दिया जाए, तो नई गतिज ऊर्जा K' = (2p)² / 2m = 4 (p² / 2m) = 4K।\nअर्थात्गतिज ऊर्जा पहले की तुलना में **चार गुनी (4 times)** हो जाएगी।",
       "examName": "RRB Group D 23 Sept 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_29"
     },
     {
@@ -450,7 +450,7 @@
       "explanation": "सही उत्तर: जूल\n\n📝 व्याख्या:\nभौतिकी में **कार्य (Work)** और **ऊर्जा (Energy)** दोनों की अंतर्राष्ट्रीय (SI) इकाई **जूल (Joule)** होती है।\n\n1 जूल का अर्थ है कि यदि 1 न्यूटन का बल लगाकर किसी वस्तु को 1 मीटर विस्थापित किया जाए, तो 1 जूल कार्य संपन्न हुआ है (1 J = 1 N·m)।",
       "examName": "RRB Group D 27 Nov 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_30"
     },
     {
@@ -480,7 +480,7 @@
       "explanation": "सही उत्तर: स्थितिज ऊर्जा और गतिज ऊर्जा\n\n📝 व्याख्या:\nकिसी भी प्रणाली या वस्तु की कुल **यांत्रिक ऊर्जा (Mechanical Energy)** उसकी कुल गतिज ऊर्जा (Kinetic Energy) और स्थितिज ऊर्जा (Potential Energy) का योग (Sum) होती है।\n\nघर्षण रहित वातावरण में, वस्तु के मुक्त पतन के दौरान किसी भी बिंदु पर इन दोनों का योग हमेशा एक समान (नियत) रहता है।",
       "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 2",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_32"
     },
     {
@@ -540,7 +540,7 @@
       "explanation": "सही उत्तर: आधा रह जाएगा\n\n📝 व्याख्या:\nन्यूटन के गति के दूसरे नियम (F = m × a) के अनुसार, बल (F) सीधे त्वरण (a) के अनुक्रमानुपाती होता है (यदि द्रव्यमान m स्थिर हो)।\n\nइसलिए, यदि हम द्रव्यमान को स्थिर रखते हुए त्वरण को आधा (a/2) कर दें, तो **लगाया गया बल भी आधा (F/2)** रह जाएगा।",
       "examName": "RRB Level 01 Stage I 05/02/2026 9:00 AM - 10:30 AM",
       "examYear": "2026",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_36"
     },
     {
@@ -735,7 +735,7 @@
       "explanation": "सही उत्तर: 20 जूल\n\n📝 व्याख्या:\nकिया गया कार्य = बल (F) × बल की दिशा में विस्थापन (d)।\nसूत्र: W = F × d\n\nबल (F) = 10 N, विस्थापन (d) = 2 मीटर।\nW = 10 × 2 = **20 जूल (J)**।",
       "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 2",
       "examYear": "2024",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_49"
     },
     {
@@ -750,7 +750,7 @@
       "explanation": "सही उत्तर: 180 J\n\n📝 व्याख्या:\nगेंद को ऊँचाई तक उठाने में किया गया कार्य उसकी स्थितिज ऊर्जा (Potential Energy) बन जाता है।\nसूत्र: PE = m × g × h\n\nm = 3 kg, h = 6 m, g = 10 m/s²\nPE = 3 × 10 × 6 = **180 जूल (J)**।",
       "examName": "RRB Level 01 Stage I 09/12/2025 4:30 PM - 6:00 PM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_50"
     },
     {
@@ -765,7 +765,7 @@
       "explanation": "सही उत्तर: गतिज ऊर्जा\n\n📝 व्याख्या:\nजब कोई वस्तु किसी ऊँचाई पर होती है, तो उसमें अधिकतम स्थितिज ऊर्जा (Potential Energy) होती है।\n\nजब यह वस्तु स्वतंत्र रूप से नीचे गिरती है, तो उसकी ऊँचाई कम होने लगती है, जिससे स्थितिज ऊर्जा घटने लगती है। ऊर्जा संरक्षण के कारण यह नष्ट हुई स्थितिज ऊर्जा वस्तु के वेग (Motion) में बदल जाती है, अर्थात् **गतिज ऊर्जा (Kinetic Energy)** में परिवर्तित हो जाती है।",
       "examName": "RRB Level 01 Stage I 04/12/2025 9:00 AM - 10:30 AM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_51"
     },
     {
@@ -855,7 +855,7 @@
       "explanation": "सही उत्तर: 2\n\n📝 व्याख्या:\nगतिज ऊर्जा (KE) = ½ mv²\nचूँकि दोनों का वेग (v) समान है, इसलिए गतिज ऊर्जा केवल द्रव्यमान (m) के अनुक्रमानुपाती (KE ∝ m) होगी।\n\nदिया है: m_A = 2 × m_B\nअनुपात (KE_A / KE_B) = m_A / m_B = (2 m_B) / m_B = **2 / 1 (यानी 2)**।",
       "examName": "RRB Group D 19 Sept 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_57"
     },
     {
@@ -870,7 +870,7 @@
       "explanation": "सही उत्तर: 125 J\n\n📝 व्याख्या:\nगतिज ऊर्जा (K.E) का सूत्र: K.E = ½ mv²\n\nयहाँ, वस्तु का द्रव्यमान (m) = 10 kg, चाल (v) = 5 m/s\nK.E = ½ × 10 × (5)² = 5 × 25 = **125 जूल (J)**।",
       "examName": "RRB Group D 19/9/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_58"
     },
     {
@@ -900,7 +900,7 @@
       "explanation": "सही उत्तर: 300 J\n\n📝 व्याख्या:\nवस्तु के नीचे गिरने पर, गुरुत्वाकर्षण बल (mg) और विस्थापन (h) दोनों एक ही दिशा (नीचे) में होते हैं। अतः किया गया कार्य धनात्मक होगा।\n\nगुरुत्वाकर्षण द्वारा किया गया कार्य W = m × g × h\nm = 1 kg, g = 10 m/s², h = 30 m\nW = 1 × 10 × 30 = **300 जूल (J)**।",
       "examName": "RRB Group D 19/9/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_60"
     },
     {
@@ -915,7 +915,7 @@
       "explanation": "सही उत्तर: 150 W\n\n📝 व्याख्या:\nलड़की द्वारा किया गया कार्य (W) = m × g × h\nW = 40 kg × 10 m/s² × 6 m = 2400 जूल।\n\nव्यय की गई शक्ति (Power) = कुल कार्य (W) / लिया गया समय (t)\nP = 2400 J / 16 s = **150 वाट (W)**।",
       "examName": "RRB ALP CBT 2 Electrician Previous Paper : 22 Jan 2019 Shift 3",
       "examYear": "2019",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_61"
     },
     {
@@ -990,7 +990,7 @@
       "explanation": "सही उत्तर: W/t\n\n📝 व्याख्या:\nभौतिक विज्ञान में, **शक्ति (Power)** को किसी कारक द्वारा कार्य करने की दर (Rate of doing work) के रूप में परिभाषित किया जाता है।\n\nगणितीय रूप से, **शक्ति = किया गया कार्य (W) / लिया गया समय (t)**। इसलिए इसका सूत्र **W/t** है और इसकी इकाई वाट (J/s) होती है।",
       "examName": "RRB Group D 24/9/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_66"
     },
     {
@@ -1050,7 +1050,7 @@
       "explanation": "सही उत्तर: 5 W\n\n📝 व्याख्या:\nशक्ति (Power) = कुल ऊर्जा खपत (E) / लिया गया समय (t)\n\nदिए गए मान: ऊर्जा (E) = 10⁰ J (जूल), समय (t) = 20 सेकंड।\nशक्ति (P) = 10⁰ J / 20 s = 5 J/s।\nचूँकि 1 जूल/सेकंड = 1 वाट, अतः बल्ब की शक्ति **5 वाट (5 W)** होगी।",
       "examName": "RRB Group D 27 Sept 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_70"
     },
     {
@@ -1080,7 +1080,7 @@
       "explanation": "सही उत्तर: परिवर्तन से पहले और बाद में कुल ऊर्जा समान रहती है\n\n📝 व्याख्या:\nयह 'ऊर्जा संरक्षण का नियम (Law of Conservation of Energy)' है।\n\nजब कोई वस्तु मुक्त रूप से गिरती है, तो हर बिंदु पर उसकी स्थितिज ऊर्जा (PE) कम होती जाती है और गतिज ऊर्जा (KE) बढ़ती जाती है। लेकिन किसी भी क्षण इन दोनों का योग (कुल यांत्रिक ऊर्जा = PE + KE) हमेशा **नियत (स्थिर) रहता है**। ऊर्जा का केवल रूप बदलता है, मात्रा नहीं।",
       "examName": "RRB Level 01 Stage I 10/12/2025 9:00 AM - 10:30 AM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_72"
     },
     {
@@ -1125,7 +1125,7 @@
       "explanation": "सही उत्तर: ऊष्माक्षेपी\n\n📝 व्याख्या:\nयदि रासायनिक अभिक्रिया (Chemical reaction) से पहले अभिकारकों (Reactants) की कुल ऊर्जा उत्पादों (Products) की कुल ऊर्जा से अधिक होती है, तो यह बची हुई अतिरिक्त ऊर्जा **ऊष्मा (Heat)** के रूप में बाहर निकल जाती है।\n\nजिस रासायनिक अभिक्रिया में ऊष्मा या ऊर्जा बाहर निकलती है (मुक्त होती है), उसे **ऊष्माक्षेपी अभिक्रिया (Exothermic Reaction)** कहा जाता है।",
       "examName": "RRB ALP Electrician : 22 Jan, 2019 Shift 2",
       "examYear": "2019",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_75"
     },
     {
@@ -1170,7 +1170,7 @@
       "explanation": "सही उत्तर: कार्य\n\n📝 व्याख्या:\nभौतिक विज्ञान में, **कार्य (Work)** की परिभाषा उस ऊर्जा के माप के रूप में की जाती है जो तब स्थानांतरित होती है जब किसी वस्तु पर कोई बल (F) लगाया जाता है और वस्तु बल की दिशा में कुछ दूरी (s) तक विस्थापित होती है।\n\nगणितीय रूप में, कार्य बल और विस्थापन के अदिश गुणनफल (Dot product) के बराबर होता है: **W = F × s**।",
       "examName": "RRB Group D 19/9/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_78"
     },
     {
@@ -1215,7 +1215,7 @@
       "explanation": "सही उत्तर: गतिज ऊर्जा\n\n📝 व्याख्या:\nजब वस्तु किसी ऊँचाई पर थी, तो उसमें केवल स्थितिज ऊर्जा (PE) थी और गतिज ऊर्जा शून्य थी।\n\nगिरते समय वस्तु की ऊँचाई कम होती है (PE घटती है) और वेग बढ़ता है (KE बढ़ती है)। जिस क्षण वस्तु ठीक ज़मीन को छूने वाली होती है (h = 0), उसकी सारी स्थितिज ऊर्जा **गतिज ऊर्जा (Kinetic energy)** में बदल चेकी होती है, और गतिज ऊर्जा अपने अधिकतम (Maximum) मान पर होती है।",
       "examName": "RRB Group D 18 Sept 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_81"
     },
     {
@@ -1260,7 +1260,7 @@
       "explanation": "सही उत्तर: गतिज ऊर्जा\n\n📝 व्याख्या:\nविज्ञान में ऊर्जा के दो मुख्य रूप होते हैं:\n1. **स्थितिज ऊर्जा (Potential energy):** जो वस्तु की स्थिति (ऊँचाई) या आकार के कारण होती है।\n2. **गतिज ऊर्जा (Kinetic energy):** जो किसी वस्तु में उसकी **गति (Motion)** के कारण उत्पन्न होती है। (जैसे चलती हुई कार, बहती हवा)।",
       "examName": "RRB Level 01 Stage I 03/12/2025 4:30 PM - 6:00 PM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_84"
     },
     {
@@ -1395,7 +1395,7 @@
       "explanation": "सही उत्तर: ऊष्मा ऊर्जा\n\n📝 व्याख्या:\nइलेक्ट्रॉनरिक वॉटर हीटर (Electric water heater) के अंदर उच्च प्रतिरोध (High resistance) वाले तार (जैसे नाइक्रोम) की कुंडली (Coil) लगी होती है।\n\nजब इसमें से विद्युत धारा गुजरती है, तो जूल के ऊष्मीय प्रभाव (Joule heating) के कारण तार गर्म हो जाता है। अतः यह उपकरण **विद्युत ऊर्जा को ऊष्मा ऊर्जा (Heat energy)** में परिवर्तित करता है, जिससे पानी गर्म होता है।",
       "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
       "examYear": "2024",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_93"
     },
     {
@@ -1440,7 +1440,7 @@
       "explanation": "सही उत्तर: बढ़ती, घटती\n\n📝 व्याख्या:\nजब किसी पिंड को ऊपर की ओर फेंका जाता है, तो गुरुत्वाकर्षण बल के कारण उसका वेग लगातार कम होने लगता है (अर्थात् **गतिज ऊर्जा घटती है**)।\n\nलेकिन साथ ही, पृथ्वी की सतह से उसकी ऊँचाई (h) लगातार बढ़ती जाती है, जिसके कारण उसकी **स्थितिज ऊर्जा (PE = mgh) लगातार बढ़ती है**।",
       "examName": "RRB Group D 20 Sept 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_96"
     },
     {
@@ -1470,7 +1470,7 @@
       "explanation": "सही उत्तर: 0\n\n📝 व्याख्या:\nकार्य का सूत्र: W = F × d (बल × विस्थापन)।\n\nभले ही वस्तु पर 2 न्यूटन (F = 2N) का बल लगाया गया हो, यदि वस्तु अपनी जगह से बिल्कुल नहीं हिली है (विस्थापन d = 0), तो भौतिक विज्ञान के अनुसार किया गया कुल **यांत्रिक कार्य शून्य (0 जूल)** ही होगा।",
       "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 3",
       "examYear": "2024",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_98"
     },
     {
@@ -1500,7 +1500,7 @@
       "explanation": "सही उत्तर: 25 जूल\n\n📝 व्याख्या:\nगतिज ऊर्जा (K.E) का सूत्र: K.E = ½ mv²\n\nद्रव्यमान (m) = 2 kg, वेग (v) = 5 m/s\nK.E = ½ × 2 × (5)² = 1 × 25 = **25 जूल (J)**।",
       "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 3",
       "examYear": "2024",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_100"
     },
     {
@@ -1515,7 +1515,7 @@
       "explanation": "सही उत्तर: शक्ति\n\n📝 व्याख्या:\nभौतिकी में, **शक्ति (Power)** की परिभाषा \"कार्य करने की दर (Rate of doing work)\" या \"ऊर्जा के स्थानांतरण (खपत) की दर\" के रूप में की जाती है।\n\nइसका सूत्र P = W/t (कार्य / समय) है, और इसे वाट (Watt) में मापा जाता है।",
       "examName": "RRB Group D 15/10/2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_101"
     },
     {
@@ -1740,7 +1740,7 @@
       "explanation": "सही उत्तर: 24 J\n\n📝 व्याख्या:\nकार्य = गतिज ऊर्जा में परिवर्तन (W = ΔKE)\nW = ½ m (v₂² - v₁²)\n\nm = 1.0 kg, v₁ = 4 m/s, v₂ = 8 m/s\nW = ½ × 1.0 × (8² - 4²) = 0.5 × (64 - 16)\nW = 0.5 × 48 = **24 जूल (J)**।",
       "examName": "RRB Group D 17/9/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_116"
     },
     {
@@ -2070,7 +2070,7 @@
       "explanation": "सही उत्तर: 1200 W\n\n📝 व्याख्या:\nविद्युत परिपथ में क्षयित शक्ति (Power) का सूत्र: P = I²R होता है।\n\nधारा (I) = 4 A, प्रतिरोध (R) = 75 Ω\nP = (4)² × 75 = 16 × 75\nP = **1200 वाट (W)**।",
       "examName": "RRB Technician Grade III 09/03/2026 9:00 AM - 10:30 AM",
       "examYear": "2026",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_138"
     },
     {
@@ -2085,7 +2085,7 @@
       "explanation": "सही उत्तर: शून्य\n\n📝 व्याख्या:\nवृत्ताकार पथ पर एक पूर्ण चक्कर लगाने के बाद, वस्तु ठीक उसी स्थान पर वापस आ जाती है जहाँ से उसने शुरू किया था।\n\nअर्थात्, वस्तु का **कुल विस्थापन (Displacement) शून्य (0)** हो जाता है। चूँकि विस्थापन शून्य है, इसलिए अभिकेंद्रीय बल द्वारा किया गया **कुल कार्य (W = F × s) भी शून्य होगा**।",
       "examName": "RRB Group D 6 Dec 2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_139"
     },
     {
@@ -2100,7 +2100,7 @@
       "explanation": "सही उत्तर: स्थितिज ऊर्जा\n\n📝 व्याख्या:\nजब हम किसी स्प्रिंग को खींचते (Stretch) या दबाते (Compress) हैं, तो हम उसके प्रत्यानयन बल (Restoring force) के विरुद्ध कार्य करते हैं।\n\nयह किया गया यांत्रिक कार्य स्प्रिंग के आकार और विन्यास में परिवर्तन के कारण उसमें **प्रत्यास्थ स्थितिज ऊर्जा (Elastic Potential Energy)** के रूप में संचित (Store) हो जाता है।",
       "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
       "examYear": "2024",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_140"
     },
     {
@@ -2145,7 +2145,7 @@
       "explanation": "सही उत्तर: औद्योगिक ऊर्जा की आवश्यकता में कमी और उत्पादों की प्रतिस्पधात्मकता में सुधार\n\n📝 व्याख्या:\nउद्योगों में ऊर्जा दक्ष (Energy-efficient) मशीनों का उपयोग करने से दो मुख्य लाभ होते हैं:\n1. **ऊर्जा खपत में भारी कमी:** मशीनें कम बिजली/ईंधन में समान कार्य करती हैं।\n2. **उत्पादों की प्रतिस्पर्धात्मकता (Competitiveness) में सुधार:** उत्पादन लागत कम हो जाती है, जिससे कंपनी अपने उत्पादों को बाजार में बेहतर और सस्ते दामों पर बेच सकती है।",
       "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 1",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_143"
     },
     {
@@ -2250,7 +2250,7 @@
       "explanation": "सही उत्तर: ऊर्जा\n\n📝 व्याख्या:\nविज्ञान की दृष्टि से, किसी भी वस्तु, व्यक्ति या मशीन के **\"कार्य करने की क्षमता (Capacity to do work)\"** को ही उसकी **ऊर्जा (Energy)** कहा जाता है।\n\nजिस वस्तु में जितनी अधिक ऊर्जा होगी, वह उतना ही अधिक कार्य कर सकती है। कार्य और ऊर्जा दोनों की इकाई जूल (J) होती है।",
       "examName": "RRB Group D 27/9/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_150"
     },
     {
@@ -2265,7 +2265,7 @@
       "explanation": "सही उत्तर: गतिज ऊर्जा\n\n📝 व्याख्या:\nविज्ञान में, किसी वस्तु में उसकी **गति (Motion)** के कारण जो ऊर्जा उत्पन्न होती है, उसे **गतिज ऊर्जा (Kinetic Energy)** कहा जाता है।\n\nयह ऊर्जा वस्तु के वेग (Velocity) और द्रव्यमान (Mass) पर निर्भर करती है। जितनी तेज गति होगी, गतिज ऊर्जा उतनी ही अधिक होगी।",
       "examName": "RPF Constable 2018 20 Jan 2019 Shift 3",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_151"
     },
     {
@@ -2280,7 +2280,7 @@
       "explanation": "सही उत्तर: विद्युत, यांत्रिक\n\n📝 व्याख्या:\nजल पंप (Water pump) एक ऐसी मशीन है जो बिजली से चलती है और पानी को खींचकर ऊपर पहुँचाने का कार्य करती है।\n\nअतः, जल पंप अपने इनपुट के रूप में **विद्युत ऊर्जा (Electrical energy)** लेता है और उसे मोटर के माध्यम से **यांत्रिक ऊर्जा (Mechanical energy)** में परिवर्तित करता है।",
       "examName": "RRB Group D 13 /9/2022 Shift 1",
       "examYear": "2022",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_152"
     },
     {
@@ -2355,7 +2355,7 @@
       "explanation": "सही उत्तर: ऊर्जा\n\n📝 व्याख्या:\nकार्य-ऊर्जा प्रमेय (Work-Energy Theorem) के अनुसार, किसी वस्तु पर किया गया कार्य उसकी ऊर्जा में परिवर्तन के बराबर होता है।\n\nजब भी कोई यांत्रिक कार्य किया जाता है, तो किसी न किसी रूप में **ऊर्जा (Energy)** का स्थानांतरण या रूपांतरण (परिवर्तन) अवश्य होता है। कार्य करने की क्षमता को ही ऊर्जा कहते हैं।",
       "examName": "RRB Group D 26/9/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_157"
     },
     {
@@ -2415,7 +2415,7 @@
       "explanation": "सही उत्तर: पिंड की गतिज ऊर्जा में परिवर्तन\n\n📝 व्याख्या:\nकार्य-ऊर्जा प्रमेय (Work-Energy Theorem) भौतिकी का एक मूलभूत सिद्धांत है।\n\nयह स्पष्ट रूप से कहता है कि किसी पिंड पर सभी बलों द्वारा किया गया कुल कार्य (Net work done) उस पिंड की **गतिज ऊर्जा में परिवर्तन (Change in kinetic energy, ΔKE)** के ठीक बराबर होता है (W_net = KE_final - KE_initial)।",
       "examName": "RRB Level 01 Stage I 30/12/2025 9:00 AM - 10:30 AM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_161"
     },
     {
@@ -2430,7 +2430,7 @@
       "explanation": "सही उत्तर: कार्य करने वाली वस्तु की स्थिति और अवस्था\n\n📝 व्याख्या:\nकिसी वस्तु में निहित ऊर्जा उसकी अवस्था (State) और स्थिति (Position) पर निर्भर करती है।\n\nउदाहरण के लिए, यदि स्प्रिंग दबी हुई (अवस्था) है या हथौड़ा ऊँचाई पर (स्थिति) है, तो उनमें कार्य करने की क्षमता (ऊर्जा) आ जाती है। अतः ऊर्जा **कार्य करने वाली वस्तु की स्थिति और अवस्था** पर निर्भर करती है।",
       "examName": "RRB Group D 16/10/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_162"
     },
     {
@@ -2475,7 +2475,7 @@
       "explanation": "सही उत्तर: गतिज ऊर्जा\n\n📝 व्याख्या:\nकिसी गतिमान वस्तु में केवल उसकी 'गति (Motion)' के कारण जो ऊर्जा उत्पन्न होती है, उसे **गतिज ऊर्जा (Kinetic energy)** कहा जाता है (KE = ½ mv²)।",
       "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 3",
       "examYear": "2024",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_165"
     },
     {
@@ -2535,7 +2535,7 @@
       "explanation": "सही उत्तर: 3 यूनिट\n\n📝 व्याख्या:\nऊर्जा (E) = शक्ति (P) × समय (t)\n\nशक्ति P = 750 वाट = 0.75 किलोवाट (kW)\nसमय t = 4 घंटे\nप्रतिदिन खपत = 0.75 kW × 4 h = 3 kWh।\nचूँकि 1 kWh को ही 1 यूनिट कहा जाता है, अतः ऊर्जा खपत **3 यूनिट** होगी।",
       "examName": "RRB Group D 23/9/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_169"
     },
     {
@@ -2610,7 +2610,7 @@
       "explanation": "सही उत्तर: स्थितिज ऊर्जा\n\n📝 व्याख्या:\nजब स्प्रिंग को संकुचित (Compress) किया जाता है, तो उसके आकार में परिवर्तन होता है।\n\nआकार में इस परिवर्तन के कारण स्प्रिंग में जो ऊर्जा संग्रहीत होती है, उसे **प्रत्यास्थ स्थितिज ऊर्जा (Elastic Potential Energy)** कहते हैं।",
       "examName": "RRB Group D 22 Sept 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_174"
     },
     {
@@ -2625,7 +2625,7 @@
       "explanation": "सही उत्तर: 1.45 × 10⁶ J\n\n📝 व्याख्या:\nउत्पन्न ऊष्मा (H) = (V² / R) × t\n\nवोल्टेज V = 220 V, प्रतिरोध R = 20 Ω\nसमय t = 10 मिनट = 10 × 60 = 600 सेकंड\nH = (220² / 20) × 600 = (48400 / 20) × 600 = 2420 × 600\nH = 1,452,000 जूल = **1.452 × 10⁶ जूल (J)** (विकल्प 1.45 × 10⁶ J सबसे निकटतम है)।",
       "examName": "RRB Level 01 Stage I 01/12/2025 12:45 PM - 2:15 PM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_175"
     },
     {
@@ -2670,7 +2670,7 @@
       "explanation": "सही उत्तर: 36,00,000 J\n\n📝 व्याख्या:\n1 किलोवाट-घंटा (KWh) ऊर्जा की एक इकाई है।\n1 KWh = 10⁰⁰ W × 3600 s\n1 KWh = 3,600,000 जूल (या **36,00,000 J**)।",
       "examName": "RRB Group D 18 Sept 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_178"
     },
     {
@@ -2715,7 +2715,7 @@
       "explanation": "सही उत्तर: ऊर्जा का स्थानांतरण\n\n📝 व्याख्या:\nजब हम किसी वस्तु को गुरुत्वाकर्षण के विरुद्ध ऊपर उठाते हैं, तो हम उस पर कार्य करते हैं।\n\nयह किया गया कार्य वस्तु में **ऊर्जा के स्थानांतरण** (Transfer of energy) के रूप में स्थितिज ऊर्जा (Potential Energy) बनकर संचित हो जाता है।",
       "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 2",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_181"
     },
     {
@@ -2730,7 +2730,7 @@
       "explanation": "सही उत्तर: ऊष्मा\n\n📝 व्याख्या:\nऊर्जा संरक्षण के नियम के अनुसार ऊर्जा कभी नष्ट नहीं होती।\n\nजब किसी मशीन या सतह पर घर्षण (Friction) कार्य करता है, तो घर्षण के विरुद्ध किया गया कार्य **ऊष्मा (Heat) ऊर्जा** के रूप में परिवर्तित और स्थानांतरित हो जाता है (जैसे हाथ रगड़ने पर गर्माहट महसूस होना)।",
       "examName": "RRB Group D 20 Sept 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_182"
     },
     {
@@ -2745,7 +2745,7 @@
       "explanation": "सही उत्तर: 50 J\n\nव्याख्या:\nW = F × s = 10 × 5 = 50 J\n\nगलत विकल्प:\n• 50 Pa → Pa (पास्कल) दाब का मात्रक\n• 50 N → N बल का मात्रक, कार्य का नहीं\n• 50 kg → kg द्रव्यमान का मात्रक\n\n📌 कार्य का SI मात्रक J (जूल) है, N·m के बराबर। गलत मात्रक वाले विकल्पों को पहचानें।",
       "examName": "RRB Group D 1 Nov 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_183"
     },
     {
@@ -2880,7 +2880,7 @@
       "explanation": "सही उत्तर: 2 W\n\n📝 व्याख्या:\nगुरुत्वीय त्वरण (g) = G·M / R²।\nग्रह का द्रव्यमान (M') = M/2, त्रिज्या (R') = R/2।\nग्रह पर गुरुत्वीय त्वरण g' = G·(M/2) / (R/2)² = G·(M/2) / (R²/4) = 2 × (G·M / R²) = 2g।\n\nचूँकि उस ग्रह पर गुरुत्वीय त्वरण पृथ्वी से दोगुना (2g) है, इसलिए वहाँ वस्तु का भार (W = mg) भी **पृथ्वी के भार का दोगुना (2 W)** हो जाएगा।",
       "examName": "RRB ALP Electrician : 22 Jan, 2019 Shift 2",
       "examYear": "2019",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_192"
     },
     {
@@ -2940,7 +2940,7 @@
       "explanation": "सही उत्तर: m g h\n\n📝 व्याख्या:\nपृथ्वी की सतह (संदर्भ स्तर) से 'h' ऊँचाई पर स्थित 'm' द्रव्यमान की वस्तु की **गुरुत्वीय स्थितिज ऊर्जा (Gravitational Potential Energy)** का सीधा सूत्र **mgh** होता है (जहाँ g गुरुत्वीय त्वरण है)।",
       "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 1",
       "examYear": "2024",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_196"
     },
     {
@@ -2955,7 +2955,7 @@
       "explanation": "सही उत्तर: गतिज ऊर्जा\n\n📝 व्याख्या:\nबांध में रके हुए पानी में स्थितिज ऊर्जा (PE) होती है।\n\nजब पानी को टरबाइन के ब्लेड पर गिराया जाता है, तो यह ऊँचाई से नीचे तेजी से बहता है, जिससे उसकी स्थितिज ऊर्जा **गतिज ऊर्जा (Kinetic energy)** में बदल जाती है। इसी गतिज ऊर्जा की मदद से टरबाइन घूमती है।",
       "examName": "RPF Constable 2024 : 18 Mar, 2025 Shift 1",
       "examYear": "2024",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_197"
     },
     {
@@ -3016,7 +3016,7 @@
       "explanation": "सही उत्तर: कुल यांत्रिक ऊर्जा\n\n📝 व्याख्या:\nकिसी भी वस्तु या निकार्य की **कुल यांत्रिक ऊर्जा (Total Mechanical Energy)** हमेशा उसमें मौजूद गतिज ऊर्जा (Kinetic Energy) और स्थितिज ऊर्जा (Potential Energy) के योग के बराबर होती है।\n\nयांत्रिक ऊर्जा (ME) = KE + PE।",
       "examName": "RPF Constable 2018 19 Jan 2019 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_201"
     },
     {
@@ -3031,7 +3031,7 @@
       "explanation": "सही उत्तर: कोई कार्य नहीं होता है。\n\n📝 व्याख्या:\nकार्य का सूत्र W = F × s × cos (θ) होता है।\n\nयदि बल (F) और विस्थापन/गति (s) की दिशा परस्पर लंबवत (Perpendicular) हैं, तो उनके बीच का कोण θ = 90° होगा।\nचूँकि cos (90°) = 0 होता है, इसलिए **किया गया कुल कार्य शून्य (0)** होगा।",
       "examName": "RRB Group D 24/10/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_202"
     },
     {
@@ -3076,7 +3076,7 @@
       "explanation": "सही उत्तर: स्थिर ऊर्जा\n\n📝 व्याख्या:\nनील्स बोहर के परमाणु मॉडल के अनुसार, इलेक्ट्रॉन नाभिक के चारों ओर केवल कुछ निश्चित, स्थिर कक्षाओं (Stationary orbits) में ही चक्कर लगाते हैं।\n\nइन कक्षाओं में घूमते समय इलेक्ट्रॉन ऊर्जा का विकिरण (Radiate) नहीं करते हैं, इसलिए प्रत्येक विशिष्ट कक्षा से जुड़ी **ऊर्जा स्थिर (Constant / Fixed)** होती है।",
       "examName": "RRB JE CBT I - : 1 June 2019 Shift 3",
       "examYear": "2019",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_205"
     },
     {
@@ -3091,7 +3091,7 @@
       "explanation": "सही उत्तर: 3.6 × 10⁶\n\n📝 व्याख्या:\n1 किलोवाट-घंटा (kWh) ऊर्जा की इकाई है।\n1 kWh = 10⁰⁰ वाट × 3600 सेकंड = 3,600,000 जूल।\n\nवैज्ञानिक अंकन में इसे **3.6 × 10⁶ जूल** लिखा जाता है।",
       "examName": "RRB Group D 27/9/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_206"
     },
     {
@@ -3151,7 +3151,7 @@
       "explanation": "सही उत्तर: वाट\n\n📝 व्याख्या:\nभौतिकी में **शक्ति (Power)** की अंतर्राष्ट्रीय (SI) इकाई **वाट (Watt)** है।\n\n1 वाट का अर्थ है 1 जूल कार्य 1 सेकंड में करना (1 W = 1 J/s)।",
       "examName": "RRB Group D 1/10/2018 Shift 3",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_210"
     },
     {
@@ -3166,7 +3166,7 @@
       "explanation": "सही उत्तर: 3.6 x 10⁶ जूल\n\n📝 व्याख्या:\n1 किलोवाट-घंटा (1 kWh) विद्युत ऊर्जा की वाणिज्यिक (कमर्शियल) इकाई है।\n1 किलोवाट = 10⁰⁰ वाट और 1 घंटा = 3600 सेकंड।\n1 kWh = 10⁰⁰ × 3600 = 3,600,000 जूल = **3.6 × 10⁶ जूल**।",
       "examName": "RRB Group D 20 Sept 2018 Shift 3",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_211"
     },
     {
@@ -3301,7 +3301,7 @@
       "explanation": "सही उत्तर: ऋणात्मक\n\n📝 व्याख्या:\nहवा कार के सामने (विपरीत दिशा) से आ रही है, इसलिए हवा द्वारा लगाया गया बल कार की गति की दिशा के ठीक **विपरीत (180° कोण पर)** है।\n\nजब बल और विस्थापन विपरीत दिशा में होते हैं (cos 180° = -1), तो किया गया कार्य **ऋणात्मक (Negative)** होता है।",
       "examName": "RRB Group D 1/10/2018 Shift 3",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_220"
     },
     {
@@ -3346,7 +3346,7 @@
       "explanation": "सही उत्तर: कार्य\n\n📝 व्याख्या:\nयदि बल (F) और विस्थापन (s) एक ही दिशा में हों, तो उनके गुणनफल को **कार्य (Work)** कहा जाता है।\n\nकार्य (W) = बल (F) × विस्थापन (s)।",
       "examName": "RRB Group D 1 Nov 2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_223"
     },
     {
@@ -3376,7 +3376,7 @@
       "explanation": "सही उत्तर: 44%\n\n📝 व्याख्या:\nगतिज ऊर्जा (K) और संवेग (p) का संबंध: K = p² / (2m)।\n\nयदि संवेग 20% बढ़ जाए, तो नया संवेग p' = 1.2p हो जाएगा।\nनई गतिज ऊर्जा K' = (1.2p)² / 2m = 1.44 (p²/2m) = 1.44 K।\nयह स्पष्ट करता है कि नई गतिज ऊर्जा प्रारंभिक गतिज ऊर्जा का 1.44 गुना है, अर्थात्इसमें **44% की वृद्धि** हुई है।",
       "examName": "RRB Group D 6 Dec 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_225"
     },
     {
@@ -3391,7 +3391,7 @@
       "explanation": "सही उत्तर: 500 W\n\n📝 व्याख्या:\nशक्ति (Power) = किया गया कार्य (W) / लिया गया समय (t)।\n\nकार्य W = 10⁰⁰ J, समय t = 2 s\nशक्ति P = 10⁰⁰ / 2 = **500 वाट (W)**।",
       "examName": "RRB Group D 17 Sept 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_226"
     },
     {
@@ -3406,7 +3406,7 @@
       "explanation": "सही उत्तर: गतिज ऊर्जा\n\n📝 व्याख्या:\nकिसी वस्तु के **गतिमान होने (Motion)** के कारण उसमें जो कार्य करने की क्षमता (ऊर्जा) आ जाती है, उसे **गतिज ऊर्जा (Kinetic energy)** कहा जाता है (जैसे बहती हवा या दौड़ता हुआ व्यक्ति)।",
       "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 1",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_227"
     },
     {
@@ -3436,7 +3436,7 @@
       "explanation": "सही उत्तर: विभव ऊर्जा\n\n📝 व्याख्या:\nवस्तु की विशेष स्थिति (जैसे ऊँचाई) या विन्यास (जैसे खींची हुई रबर) के कारण उत्पन्न ऊर्जा को **स्थितिज ऊर्जा (Potential energy)** या **विभव ऊर्जा** कहा जाता है।",
       "examName": "RRB Level 01 Stage I 14/12/2025 4:30 PM - 6:00 PM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_229"
     },
     {
@@ -3481,7 +3481,7 @@
       "explanation": "सही उत्तर: यांत्रिक ऊर्जा को विद्युतीय ऊर्जा में\n\n📝 व्याख्या:\nजनरेटर (Generator) एक ऐसा उपकरण है जिसकी शाफ्ट को घुमाने (यांत्रिक कार्य) पर वह बिजली पैदा करता है (विद्युत चमें्बकीय प्रेरण के सिद्धांत पर)।\n\nअतः, जनरेटर **यांत्रिक ऊर्जा (Mechanical energy) को विद्युत ऊर्जा (Electrical energy)** में परिवर्तित करता है।",
       "examName": "RRB NTPC Tier I : 6 Apr 2016 Shift 2",
       "examYear": "2016",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_232"
     },
     {
@@ -3646,7 +3646,7 @@
       "explanation": "सही उत्तर: गतिज ऊर्जा\n\n📝 व्याख्या:\nसंपीडित (दबी हुई) स्प्रिंग में प्रत्यास्थ स्थितिज ऊर्जा होती है।\n\nजब इसे मुक्त किया जाता है, तो यह तेजी से अपनी मूल स्थिति में वापस लौटने का प्रयास करती है (यानी इसमें गति आ जाती है)। अतः इसकी स्थितिज ऊर्जा **गतिज ऊर्जा (Kinetic Energy)** में बदल जाती है।",
       "examName": "RRB Group D 31/10/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_243"
     },
     {
@@ -3691,7 +3691,7 @@
       "explanation": "सही उत्तर: ऊर्जा-संरक्षण का नियम\n\n📝 व्याख्या:\n**ऊर्जा-संरक्षण का नियम (Law of Conservation of Energy)** यह सिद्ध करता है कि ऊर्जा को न तो उत्पन्न (create) किया जा सकता है और न ही नष्ट (destroy) किया जा सकता है; यह केवल एक रूप से दूसरे रूप में परिवर्तित होती है।",
       "examName": "RRB Group D 11/10/2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_246"
     },
     {
@@ -3871,7 +3871,7 @@
       "explanation": "सही उत्तर: ऊष्मा के रूप में पूर्णतः क्षयित\n\n📝 व्याख्या:\nएक विशुद्ध रूप से प्रतिरोधक परिपथ (Purely resistive circuit) में केवल प्रतिरोध (Resistance) होता है, न कि कोई प्रेरक (Inductor) या संधारित्र (Capacitor)।\n\nजूल के तापन नियम के अनुसार, ऐसे परिपथ में बैटरी द्वारा प्रदान की गई पूरी विद्युत ऊर्जा **ऊष्मा (Heat)** के रूप में व्यय (क्षयित) हो जाती है (H = I²Rt)।",
       "examName": "RRB Level 01 Stage I 08/12/2025 4:30 PM - 6:00 PM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_258"
     },
     {
@@ -3901,7 +3901,7 @@
       "explanation": "सही उत्तर: 3.75\n\n📝 व्याख्या:\nविद्युत ऊर्जा (E) = शक्ति (P) × समय (t)\n\nशक्ति P = 1250 W = 1.25 kW\nसमय t = 3 घंटे\nप्रतिदिन उपभेक्त ऊर्जा = 1.25 kW × 3 h = **3.75 kWh (यूनिट)**।",
       "examName": "RRB Group D 12/10/2018 Shift 3",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_260"
     },
     {
@@ -3931,7 +3931,7 @@
       "explanation": "सही उत्तर: संवेग\n\n📝 व्याख्या:\nरॉकेट का प्रक्षेपण **संवेग संरक्षण के नियम (Law of Conservation of Momentum)** पर आधारित है।\n\nजब रॉकेट से गर्म गैसें बहुत अधिक संवेग (Momentum) के साथ पीछे की ओर निकलती हैं, तो यह रॉकेट को आगे की ओर एक समान और विपरीत संवेग (आवेग) प्रदान करता है, जिससे रॉकेट उड़ता है।",
       "examName": "RRB JE CE 29 Aug 2019 Shift 2 CBT 2",
       "examYear": "2019",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_262"
     },
     {
@@ -3946,7 +3946,7 @@
       "explanation": "सही उत्तर: स्थितिज ऊर्जा और गतिज ऊर्जा दोनों\n\n📝 व्याख्या:\nकिसी भी वस्तु या निकार्य की कुल **यांत्रिक ऊर्जा (Mechanical Energy)** उसकी कुल **स्थितिज ऊर्जा (PE)** और **गतिज ऊर्जा (KE)** का योग होती है। (ME = PE + KE)।",
       "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 2",
       "examYear": "2024",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_263"
     },
     {
@@ -3991,7 +3991,7 @@
       "explanation": "सही उत्तर: 50 जूल\n\nव्याख्या:\nW = V × Q = 5 × 10 = 50 J\n\nयह विद्युत कार्य — आवेश को विभवांतर के विरुद्ध ले जाने में किया गया कार्य।\n\nगलत विकल्प:\n• 20 J → Q/V नहीं\n• 2 J → Q−V या V/Q\n• 5 J → केवल V\n\n📌 V = W/Q ⇒ W = VQ। 1 V = 1 J/C।",
       "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 2",
       "examYear": "2024",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_266"
     },
     {
@@ -4021,7 +4021,7 @@
       "explanation": "सही उत्तर: सौर, विद्युत\n\n📝 व्याख्या:\nसौर पैनल (Solar panel) में फोटोवोल्टिक (Photovoltaic) सेल लगे होते हैं।\n\nइनका मुख्य कार्य सूर्य से प्राप्त होने वाली **सौर ऊर्जा (Solar / Light energy) को विद्युत ऊर्जा (Electrical energy)** में परिवर्तित करना है, जिससे घरों में बिजली मिलती है।",
       "examName": "RRB Group D 6 /9/2022 Shift 3",
       "examYear": "2022",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_268"
     },
     {
@@ -4066,7 +4066,7 @@
       "explanation": "सही उत्तर: गतिज ऊर्जा\n\n📝 व्याख्या:\nपदार्थ के कण (विशेषकर गैसों और द्रवों में) कभी स्थिर नहीं रहते; वे हमेशा यादृच्छिक रूप से गति करते रहते हैं।\n\nइस निरंतर गति (Motion) के कारण ही कणों में **गतिज ऊर्जा (Kinetic energy)** मौजूद होती है। तापमान बढ़ाने पर यह गतिज ऊर्जा और बढ़ जाती है।",
       "examName": "RRB ALP CBT-I 2024 : 28 Nov, 2024 Shift 2",
       "examYear": "2024",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_271"
     },
     {
@@ -4096,7 +4096,7 @@
       "explanation": "सही उत्तर: यांत्रिक ऊर्जा\n\n📝 व्याख्या:\nकिसी भी वस्तु की **कुल यांत्रिक ऊर्जा (Mechanical Energy)** उसकी कुल गतिज ऊर्जा (Kinetic Energy) और स्थितिज ऊर्जा (Potential Energy) के योग के बराबर होती है।",
       "examName": "RRB Group D 15/10/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_273"
     },
     {
@@ -4111,7 +4111,7 @@
       "explanation": "सही उत्तर: 20 J\n\n📝 व्याख्या:\nकार्य (W) = बल (F) × बल की दिशा में विस्थापन (s)।\n\nबल F = 10 N, विस्थापन s = 2 m\nW = 10 × 2 = **20 जूल (J)** (ध्यान दें, यहाँ द्रव्यमान 5 kg का उपयोग नहीं होगा क्योंकि बल सीधे दिया गया है)।",
       "examName": "RRB Group D 20 Sept 2018 Shift 3",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_274"
     },
     {
@@ -4126,7 +4126,7 @@
       "explanation": "सही उत्तर: अपरिवर्तित रहेगा\n\n📝 व्याख्या:\nगुरुत्वाकर्षण बल: F = G (m₁m₂) / r²\n\nयदि दोनों द्रव्यमानों को आधा कर दिया जाए (m₁/2 और m₂/2) और दूरी को भी आधा कर दिया जाए (r/2), तो:\nनया बल F' = G ((m₁/2)(m₂/2)) / (r/2)² = G (m₁m₂/4) / (r²/4)\nF' = G (m₁m₂) / r² = F। अर्थात्बल **अपरिवर्तित (Unchanged)** रहेगा।",
       "examName": "RRB Level 01 Stage I 09/12/2025 9:00 AM - 10:30 AM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_275"
     },
     {
@@ -4201,7 +4201,7 @@
       "explanation": "सही उत्तर: 4.36 kJ/s\n\n📝 व्याख्या:\nऊष्मा प्रवाह की दर (Q/t) = k·A·(ΔT) / d\n\nk = 10⁹ J/(s·m·K), A = 0.04 m², ΔT = 200°C (या K)\nd (लंबाई) = 20 cm = 0.20 m\nQ/t = [10⁹ × 0.04 × 200] / 0.20 = 872 / 0.20 = 4360 J/s।\nइसे kJ में बदलने पर = 4360 / 10⁰⁰ = **4.36 kJ/s**।",
       "examName": "RRB ALP Fitter 23 Jan 2019 Shift 3",
       "examYear": "2019",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_280"
     },
     {
@@ -4216,7 +4216,7 @@
       "explanation": "सही उत्तर: स्थितिज ऊर्जा\n\n📝 व्याख्या:\nजब हम किसी रबर बैंड को खींचते हैं, तो हम उसके प्रत्यानयन बल (Restoring force) के विरुद्ध कार्य करते हैं।\n\nयह कार्य रबर बैंड के आकार और विन्यास में परिवर्तन के कारण उसमें **प्रत्यास्थ स्थितिज ऊर्जा (Elastic Potential Energy)** के रूप में संचित (Store) हो जाता है।",
       "examName": "RRB Group D 10/10/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_281"
     },
     {
@@ -4231,7 +4231,7 @@
       "explanation": "सही उत्तर: 1: 3\n\n📝 व्याख्या:\nसंवेग (p) और गतिज ऊर्जा (K) का संबंध: p = √(2mK) होता है।\n\nचूँकि दोनों की गतिज ऊर्जा (K) समान है, इसलिए संवेग (p) द्रव्यमान (m) के वर्गमूल के अनुक्रमानुपाती होगा (p ∝ √m)।\nअनुपात (p₁ / p₂) = √(m₁) / √(m₂) = √(m) / √(9m) = √1 / √9 = **1/3 (यानी 1:3)**।",
       "examName": "RRB Group D 6 Dec 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_282"
     },
     {
@@ -4276,7 +4276,7 @@
       "explanation": "सही उत्तर: ऊँचाई\n\n📝 व्याख्या:\nगुरुत्वीय स्थितिज ऊर्जा का सूत्र PE = mgh होता है।\n\nइस सूत्र से स्पष्ट है कि स्थितिज ऊर्जा वस्तु के द्रव्यमान (m) और उसकी **ऊँचाई (h)** के सीधे अनुक्रमानुपाती होती है। जैसे-जैसे वस्तु की ऊँचाई बढ़ती है, उसकी स्थितिज ऊर्जा में भी वृद्धि होती है।",
       "examName": "RRB Group D 10/10/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_285"
     },
     {
@@ -4291,7 +4291,7 @@
       "explanation": "सही उत्तर: जब बॉक्स स्थिर हो तो उसके अणुओं की गतिज और संभावित ऊर्जाओं का योग\n\n📝 व्याख्या:\nऊष्मागतिकी में, किसी निकाय (जैसे गैस से भरा बॉक्स) की **आंतरिक ऊर्जा (Internal Energy)** उस निकायिकी के भीतर मौजूद सभी सूक्ष्म कणों (अणुओं/परमाणुओं) की **कुल गतिज ऊर्जा (Kinetic energy) और स्थितिज ऊर्जा (Potential energy) का योग** होती है।\n\n(आदर्श गैसों के मामले में इसमें मुख्य रूप से केवल गतिज ऊर्जा होती है, लेकिन वास्तविक गैसों में दोनों का योग होता है)।",
       "examName": "RRB NTPC UG CBT-I : 09 Sept, 2025 Shift 2",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_286"
     },
     {
@@ -4321,7 +4321,7 @@
       "explanation": "सही उत्तर: 384 kJ\n\n📝 व्याख्या:\nउत्पन्न ऊष्मा (H) = I²Rt\n\nधारा (I) = 4 A, प्रतिरोध (R) = 50 Ω\nसमय (t) = 8 मिनट = 8 × 60 = 480 सेकंड\nH = (4)² × 50 × 480 = 16 × 50 × 480 = 800 × 480 = 384,000 जूल।\nइसे kJ में बदलने पर = 384,000 / 10⁰⁰ = **384 किलोजूल (kJ)**।",
       "examName": "RRB Level 01 Stage I 16/12/2025 9:00 AM - 10:30 AM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_288"
     },
     {
@@ -4396,7 +4396,7 @@
       "explanation": "सही उत्तर: t₃/2\n\n📝 व्याख्या:\nयदि मशीन निरंतर (Constant) शक्ति (P) प्रदान कर रही है, तो किया गया कार्य W = P·t होगा।\nकार्य = गतिज ऊर्जा → ½mv² = P·t → v = √(2P/m)·t^(1/2)।\nवेग v = ds/dt। अतः ds = C·t^(1/2) dt।\nसमाकलन (Integration) करने पर, तय की गई दूरी s ∝ t^(1/2 + 1) = **t^(3/2)** होती है।",
       "examName": "RRB Group D 6 Dec 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_293"
     },
     {
@@ -4456,7 +4456,7 @@
       "explanation": "सही उत्तर: 4 गुना\n\n📝 व्याख्या:\nगतिज ऊर्जा (KE) वेग के वर्ग के अनुक्रमानुपाती होती है (KE ∝ v²)।\n\nयदि चक्र की गति (वेग, v) को दोगुना (2v) कर दिया जाए, तो नई गतिज ऊर्जा (2)² = **4 गुना** हो जाएगी।",
       "examName": "RRB Group D 22 Sept 2018 Shift 3",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_297"
     },
     {
@@ -4501,7 +4501,7 @@
       "explanation": "सही उत्तर: यांत्रिक ऊर्जा को विद्युत ऊर्जा में\n\n📝 व्याख्या:\nजनरेटर (Generator) या डायनमेंो एक ऐसा उपकरण है जिसे टरबाइन या इंजन के माध्यम से घुमाया जाता है (यांत्रिक कार्य)।\n\nयह घूर्णन के माध्यम से **यांत्रिक ऊर्जा (Mechanical energy) को विद्युत ऊर्जा (Electrical energy)** में परिवर्तित करता है।",
       "examName": "RRB NTPC CBT-I : 5 April 2021 Shift 2",
       "examYear": "2021",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_300"
     },
     {
@@ -4531,7 +4531,7 @@
       "explanation": "सही उत्तर: 9 J\n\nव्याख्या:\nKE = ½ mv² = ½ × 2 × (3)² = 1 × 9 = 9 J\n\nगलत विकल्प:\n• 6 J → mv = 2×3 = 6 (संवेग)\n• 3 J → m×v/2\n• 18 J → mv² = 2×9 (½ भूलने पर)\n\n📌 KE = ½mv², संवेग p = mv — दोनों में भ्रम न करें।",
       "examName": "RRB Level 01 Stage I 02/12/2025 9:00 AM - 10:30 AM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_302"
     },
     {
@@ -4666,7 +4666,7 @@
       "explanation": "सही उत्तर: 180°\n\n📝 व्याख्या:\nकार्य का सूत्र W = F × s × cos (θ) होता है।\n\nजब बल और विस्थापन एक-दूसरे के ठीक विपरीत दिशा में होते हैं, तो उनके बीच का कोण **180°** होता है। चूँकि cos (180°) = -1 होता है, इसलिए किया गया कार्य **ऋणात्मक (Negative)** होता है (जैसे घर्षण द्वारा किया गया कार्य)।",
       "examName": "RRB Group D 9/10/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_311"
     },
     {
@@ -4711,7 +4711,7 @@
       "explanation": "सही उत्तर: गतिज ऊर्जा\n\n📝 व्याख्या:\nगैस, द्रव या ठोस के कण लगातार कंपन या गति करते रहते हैं। इस निरंतर गति के कारण इन कणों में **गतिज ऊर्जा (Kinetic energy)** होती है।\n\nतापमान के साथ कणों की यह गतिज ऊर्जा बदलती रहती है (गैसों में सबसे अधिक, ठोस में सबसे कम)।",
       "examName": "RRB JE CBT I - : 1 June 2019 Shift 2",
       "examYear": "2019",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_314"
     },
     {
@@ -4831,7 +4831,7 @@
       "explanation": "सही उत्तर: सामर्थ्यय\n\n📝 व्याख्या:\nभौतिकी में, कार्य करने की दर या प्रति इकाई समय (जैसे 1 सेकंड) में उपभेक्त/खपत की गई ऊर्जा को **शक्ति या सामर्थ्य (Power)** कहा जाता है।\n\nशक्ति (P) = ऊर्जा / समय।",
       "examName": "RRB Group D 15 /9/2022 Shift 1",
       "examYear": "2022",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_322"
     },
     {
@@ -4906,7 +4906,7 @@
       "explanation": "सही उत्तर: 2400 जूल\n\n📝 व्याख्या:\nजूल का तापन नियम: उत्पन्न ऊष्मा H = I²Rt\n\nधारा। = 2 A, प्रतिरोध R = 5 Ω\nसमय t = 2 मिनट = 2 × 60 = 120 सेकंड\nH = (2)² × 5 × 120 = 4 × 5 × 120 = 20 × 120 = **2400 जूल (J)**।",
       "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 1",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_327"
     },
     {
@@ -4981,7 +4981,7 @@
       "explanation": "सही उत्तर: बढ़ती\n\n📝 व्याख्या:\nजब आप स्प्रिंग को संपीडित (Compress) या खींचते हैं, तो आप उसके प्रत्यानयन बल के विरुद्ध कार्य करते हैं।\n\nयह कार्य स्प्रिंग में ऊर्जा के रूप में संचित हो जाता है, जिससे उसकी **प्रत्यास्थ स्थितिज ऊर्जा (Potential Energy) बढ़ती** है।",
       "examName": "RRB Group D 4 Dec 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_332"
     },
     {
@@ -5101,7 +5101,7 @@
       "explanation": "सही उत्तर: गतिज ऊर्जा\n\n📝 व्याख्या:\nबंदूक से निकली गोली का वेग (Velocity) बहुत अधिक होता है।\n\nइस अत्यधिक वेग के कारण गोली में बहुत अधिक **गतिज ऊर्जा (Kinetic energy)** होती है (KE = ½mv²), जो लक्ष्य से टकराने पर कार्य (Work) में बदल जाती है और गोली को गहराई तक भेदने में मदद करती है।",
       "examName": "RRB Group D 10/10/2018 Shift 3",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_340"
     },
     {
@@ -5221,7 +5221,7 @@
       "explanation": "सही उत्तर: पुस्तक के वजन और बुकशेल्फ़ की ऊंचाई\n\n📝 व्याख्या:\nपुस्तक को उठाने में किया गया कार्य (W) गुरुत्वाकर्षण बल के विरुद्ध किया गया कार्य है, जिसका सूत्र W = mgh होता है (यहाँ mg = पुस्तक का वजन (Weight), और h = ऊँचाई है)।\n\nइसमें समय (t) का कोई महत्व नहीं है (समय शक्ति को प्रभावित करता है)। अतः किया गया कार्य केवल **पुस्तक के वजन (mg) और बुकशेल्फ़ की ऊँचाई (h)** पर निर्भर करेगा।",
       "examName": "RRB Group D 17 Dec 2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_348"
     },
     {
@@ -5266,7 +5266,7 @@
       "explanation": "सही उत्तर: स्थितिज ऊर्जा\n\n📝 व्याख्या:\nकिसी भी पिंड या वस्तु में उसकी विशिष्ट **स्थिति (Position)** या आकार/विन्यास (Configuration) के कारण जो ऊर्जा मौजूद होती है, उसे भौतिकी में **स्थितिज ऊर्जा (Potential Energy)** कहा जाता है।",
       "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 1",
       "examYear": "2024",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_351"
     },
     {
@@ -5401,7 +5401,7 @@
       "explanation": "सही उत्तर: 240 W\n\n📝 व्याख्या:\nकुल किया गया कार्य (W) = m × g × h = 75 × 10 × 8 = 6000 जूल।\n\nऔसत शक्ति (P) = कुल कार्य (W) / समय (t)\nP = 6000 / 25 = 600 × 10 / 25 = 24 × 10 = **240 वाट (W)**।",
       "examName": "RRB Level 01 Stage I 12/12/2025 12:45 PM - 2:15 PM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_360"
     },
     {
@@ -5461,7 +5461,7 @@
       "explanation": "सही उत्तर: 0.2 m\n\n📝 व्याख्या:\nस्थितिज ऊर्जा (PE) = m × g × h\n\nPE = 2 J, द्रव्यमान m = 1 kg, g = 10 m/s²\n2 = 1 × 10 × h\nh = 2 / 10 = **0.2 मीटर (m)**।",
       "examName": "RRB Group D 23 Sept 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_364"
     },
     {
@@ -5491,7 +5491,7 @@
       "explanation": "सही उत्तर: समान रहती है\n\n📝 व्याख्या:\nतरंग का वेग (v) = आवृत्ति (f) × तरंगदैर्घ्य (λ)\n\nअतः आवृत्ति (f) = v / λ।\nयदि गति (वेग)₃ गुना हो जाए और तरंगदैर्घ्य भी 3 गुना हो जाए, तो नया f' = (3v) / (3λ) = v / λ = f।\nअर्थात्, **आवृत्ति समान रहती है**।",
       "examName": "RRB Level 01 Stage I 29/12/2025 12:45 PM - 2:15 PM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_366"
     },
     {
@@ -5521,7 +5521,7 @@
       "explanation": "सही उत्तर: स्थितिज ऊर्जा और गतिज ऊर्जा\n\n📝 व्याख्या:\nकिसी भी पिंड या प्रणाली की **कुल यांत्रिक ऊर्जा** उसकी **स्थितिज ऊर्जा (PE)** और **गतिज ऊर्जा (KE)** के योग (PE + KE) के बराबर होती है।",
       "examName": "RRB Level 01 Stage I 14/12/2025 12:45 PM - 2:15 PM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_368"
     },
     {
@@ -5551,7 +5551,7 @@
       "explanation": "सही उत्तर: विस्थापन\n\n📝 व्याख्या:\nकार्य (Work) = बल × विस्थापन (W = F × s)।\n\nयदि वस्तु में कोई **विस्थापन (Displacement)** नहीं होता है (s = 0), तो किया गया कार्य हमेशा शून्य होगा, चाहे कितना भी बल क्यों न लगाया जाए।",
       "examName": "RRB Group D 11/10/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_370"
     },
     {
@@ -5611,7 +5611,7 @@
       "explanation": "सही उत्तर: 50 J\n\nव्याख्या:\nW = F × s = 10 × 5 = 50 J\n\nगलत विकल्प:\n• 2 J → s/F = 5/10 = 0.5 (×4 नहीं)\n• 15 J → F+s = 15 (जोड़ गलत)\n• 5 J → केवल s\n\n📌 जब बल और विस्थापन समान दिशा में → W = Fs (अधिकतम कार्य)।",
       "examName": "RRB Level 01 Stage I 05/12/2025 9:00 AM - 10:30 AM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_374"
     },
     {
@@ -5626,7 +5626,7 @@
       "explanation": "सही उत्तर: शक्ति\n\n📝 व्याख्या:\nइकाई समय में किए गए कार्य की दर (Rate of doing work) को **शक्ति (Power)** कहा जाता है।\nशक्ति (P) = कार्य (W) / समय (t)।",
       "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 1",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_375"
     },
     {
@@ -5776,7 +5776,7 @@
       "explanation": "सही उत्तर: स्थितिज ऊर्जा से गतिज ऊर्जा\n\n📝 व्याख्या:\nजब धनुष की डोरी को खींचा जाता है, तो उसमें **प्रत्यास्थ स्थितिज ऊर्जा** संचित होती है।\n\nजब तीर को छोड़ा जाता है, तो डोरी अपनी मूल स्थिति में आती है और संचित स्थितिज ऊर्जा, तीर की **गतिज ऊर्जा (Kinetic energy)** में बदल जाती है।",
       "examName": "RRB Group D 27 Sept 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_385"
     },
     {
@@ -5791,7 +5791,7 @@
       "explanation": "सही उत्तर: 63 J\n\nव्याख्या:\nW = F × s = 21 × 3 = 63 J\n\nगलत विकल्प:\n• 24 J → F+s = 21+3\n• 18 J → F−s = 21−3\n• 7 J → F/s = 21/3 = 7\n\n📌 कार्य = बल × विस्थापन (समान दिशा में) — जोड़, घटाव, भाग नहीं।",
       "examName": "RRB Technician Grade III 10/03/2026 9:00 AM - 10:30 AM",
       "examYear": "2026",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_386"
     },
     {
@@ -5806,7 +5806,7 @@
       "explanation": "सही उत्तर: किसी वस्तु की गतिज ऊर्जा और स्थितिज ऊर्जा का योगफल\n\n📝 व्याख्या:\nभौतिकी में **यांत्रिक ऊर्जा (Mechanical energy)** को किसी वस्तु की कुल गतिज ऊर्जा और स्थितिज ऊर्जा के **योगफल (Sum)** के रूप में परिभाषित किया जाता है।",
       "examName": "RRB Group D 19/9/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_387"
     },
     {
@@ -5851,7 +5851,7 @@
       "explanation": "सही उत्तर: पूववत रहेगा\n\n📝 व्याख्या:\nप्रतिरोध (R) = ρ (L / A)।\n\nजहाँ ρ प्रतिरोधकता है, L लंबाई है और A अनुप्रस्थ काट का क्षेत्रफल है।\nयदि लंबाई को आधा (L/2) और क्षेत्रफल को भी आधा (A/2) कर दिया जाए, तो नया प्रतिरोध R' = ρ ((L/2) / (A/2)) = ρ (L / A) = R।\nअतः प्रतिरोध में कोई परिवर्तन नहीं होगा, वह **पूर्ववत्रहेगा**।",
       "examName": "RRB Level 01 Stage I 03/02/2026 4:30 PM - 6:00 PM",
       "examYear": "2026",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_390"
     },
     {
@@ -5911,7 +5911,7 @@
       "explanation": "सही उत्तर: विद्युत, ऊष्मा\n\n📝 व्याख्या:\nविद्युत गीजर (Electric Geyser) एक घरेलू उपकरण है जिसका उपयोग पानी गर्म करने के लिए किया जाता है।\n\nयह अपने इनपुट के रूप में बिजली (विद्युत ऊर्जा) लेता है और उसे जूल के तापन नियम के अनुसार **ऊष्मा ऊर्जा (Heat energy)** में परिवर्तित कर देता है।",
       "examName": "RRB Group D 14 /9/2022 Shift 3",
       "examYear": "2022",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_394"
     },
     {
@@ -5926,7 +5926,7 @@
       "explanation": "सही उत्तर: 3600000\n\n📝 व्याख्या:\n1 किलोवाट-घंटा (1 kWh) विद्युत ऊर्जा की इकाई है।\n\n1 किलोवाट = 10⁰⁰ वाट, 1 घंटा = 3600 सेकंड\n1 kWh = 10⁰⁰ × 3600 = **3,600,000 जूल (J)** (या 3.6 × 10⁶ J)।",
       "examName": "RRB Group D 14 Dec 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_395"
     },
     {
@@ -6031,7 +6031,7 @@
       "explanation": "सही उत्तर: W = V × q\n\n📝 व्याख्या:\nविभवांतर (Voltage, V) की परिभाषा ही यह है कि यह किसी इकाई आवेश को स्थानांतरित करने में किए गए कार्य के बराबर है (V = W / q)।\n\nइसलिए, किया गया कुल कार्य **W = V × q** (विभवांतर × आवेश) होगा।",
       "examName": "RRB Level 01 Stage I 09/01/2026 4:30 PM - 6:00 PM",
       "examYear": "2026",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_402"
     },
     {
@@ -6151,7 +6151,7 @@
       "explanation": "सही उत्तर: 500 वाट\n\n📝 व्याख्या:\nलड़की द्वारा किया गया कार्य (W) = m × g × h\nद्रव्यमान m = 40 kg, g = 10 m/s², ऊँचाई h = 5 m\nW = 40 × 10 × 5 = 2000 जूल।\n\nशक्ति (P) = कार्य (W) / समय (t) = 2000 / 4 = **500 वाट (W)**।",
       "examName": "RRB Group D 18/9/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_410"
     },
     {
@@ -6166,7 +6166,7 @@
       "explanation": "सही उत्तर: अपरिवर्तित रहती है\n\n📝 व्याख्या:\nऊर्जा संरक्षण के नियम के अनुसार, ऊर्जा को केवल एक रूप से दूसरे रूप में परिवर्तित किया जा सकता है, इसे नष्ट या उत्पन्न नहीं किया जा सकता।\n\nइसलिए, किसी भी बंद निकाय (System) में ऊर्जा रूपांतरण के दौरान कुल ऊर्जा हमेशा **अपरिवर्तित (Constant/स्थिर) रहती है**।",
       "examName": "RRB Level 01 Stage I 24/12/2025 9:00 AM - 10:30 AM",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_411"
     },
     {
@@ -6196,7 +6196,7 @@
       "explanation": "सही उत्तर: अधिक संवेग\n\n📝 व्याख्या:\nसंवेग (p) = √(2mK), जहाँ m द्रव्यमान और K गतिज ऊर्जा है।\n\nयदि दोनों वस्तुओं की गतिज ऊर्जा (K) समान है, तो संवेग (p) सीधे द्रव्यमान (m) के वर्गमूल पर निर्भर करेगा। इसलिए, जिस वस्तु का द्रव्यमान अधिक (भारी) होगा, उसका **संवेग भी अधिक होगा**।",
       "examName": "RRB Group D 18/9/2018 Shift 1",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_413"
     },
     {
@@ -6287,7 +6287,7 @@
       "explanation": "सही उत्तर: दोगुना हो जाएगा\n\n📝 व्याख्या:\nभार (Weight, W) का सूत्र W = m × g होता है।\n\nयदि गुरुत्वीय त्वरण (g) नियत (स्थिर) रहे और द्रव्यमान (m) को दोगुना (2m) कर दिया जाए, तो नया भार W' = (2m) × g = 2 (mg) = 2 W हो जाएगा।\nअतः भार **दोगुना हो जाएगा**।",
       "examName": "RRB Technician Grade III 06/03/2026 12:45 PM - 2:15 PM",
       "examYear": "2026",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_419"
     },
     {
@@ -6302,7 +6302,7 @@
       "explanation": "सही उत्तर: 240 J\n\n📝 व्याख्या:\nरमेश द्वारा किया गया कार्य (W) = m × g × h\n\nद्रव्यमान m = 12 kg, ऊँचाई h = 2.0 m, g = 10 m/s²\nW = 12 × 10 × 2.0 = 120 × 2 = **240 जूल (J)**।",
       "examName": "RRB Group D 27 Nov 2018 Shift 2",
       "examYear": "2018",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_420"
     },
     {
@@ -6332,7 +6332,7 @@
       "explanation": "सही उत्तर: 746 × 10¹⁰⁻⁶ MW\n\n📝 व्याख्या:\n1 अश्वशक्ति (Horsepower, hp) = 746 वाट (W)।\n\nहम जानते हैं कि 1 मेगावाट (MW) = 1,000,000 (10⁶) वाट होता है।\nअतः 746 वाट को मेगावाट में बदलने के लिए 10⁶ से भाग देना होगा:\n1 hp = 746 / 10⁶ MW = **746 × 10⁻⁶ MW**।",
       "examName": "RPF Constable 2024 : 11 Mar, 2025 Shift 1",
       "examYear": "2024",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_422"
     },
     {
@@ -6347,7 +6347,7 @@
       "explanation": "सही उत्तर: नाभिकीय ऊर्जा\n\n📝 व्याख्या:\nरेडियोधर्मी समस्थानिक (Radioactive isotopes, जैसे यूरेनियम, प्लूटोनियम) अस्थिर होते हैं।\n\nइनके नाभिकों के विखंडन (Fission) या क्षय से जो अपार ऊर्जा प्राप्त होती है, उसे **नाभिकीय ऊर्जा (Nuclear energy)** या परमाणु ऊर्जा कहा जाता है।",
       "examName": "RRB JE CE 22 Apr 2025 Shift 2 CBT 2",
       "examYear": "2025",
-      "type": "standard",
+      "type": "fillInBlanks",
       "id": "q_work_power_and_energy_423"
     },
     {
