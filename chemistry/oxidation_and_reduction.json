@@ -4,9 +4,9 @@
   "isPremium": false,
   "questions": [
     {
-      "question": "MnO₂ + 4HCl → MnCl2 + 2H2O + Cl₂ दी गई अभिक्रिया के अनुसार, निम्नलिखित में से कौन-सा कथन गलत है?",
+      "question": "MnO₂ + 4HCl → MnCl₂ + 2H₂O + Cl₂ दी गई अभिक्रिया के अनुसार, निम्नलिखित में से कौन-सा कथन गलत है?",
       "options": [
-        "MnO₂ का MnCl2 में अपचयन होता है।",
+        "MnO₂ का MnCl₂ में अपचयन होता है।",
         "यह एक रेडॉक्स अभिक्रिया है।",
         "HCl का Cl₂ में ऑक्सीकरण होता है।",
         "Cl₂ का HCl में ऑक्सीकरण होता है।"
@@ -21,9 +21,9 @@
     {
       "question": "अरुण प्रयोगशाला में एक प्रयोग कर रहा था। उसने फेरिक क्लोराइड का विलयन लिया और उसमें जिंक के कुछ छोटे टुकड़ों को मिलाया। जब फेरिक क्लोराइड का पीला रंग लुप्त हो गया तो कौन-सा यौगिक बना?",
       "options": [
-        "ZnCl2",
+        "ZnCl₂",
         "Fe (OH)₃",
-        "FeCl2",
+        "FeCl₂",
         "Zn (OH)₂"
       ],
       "correctIndex": 0,
@@ -214,7 +214,7 @@
       "id": "q_oxidation_and_reduction_14"
     },
     {
-      "question": "निम्नलिखित में से कौन रेडॉक्स अभिक्रिया का उदाहरण नहीं है?\n(i) ZnO + C → Zn + CO\n(ii) MnO₂ + 4HCl → MnCl₂ + 2H₂O + Cl₂\n(iii) 4Na + O₂ → 2Na₂O\n(iv) AgNO₃ + NaCl → AgCl + NaNO₃",
+      "question": "निम्नलिखित में से कौन रेडॉक्स अभिक्रिया का उदाहरण नहीं है?\n(i) ZnO + C → Zn + CO\n(ii) MnO₂ + 4HCl → MnCl₂ + 2H₂O + Cl₂\n(iii)₄Na + O₂ → 2Na₂O\n(iv) AgNO₃ + NaCl → AgCl + NaNO₃",
       "options": [
         "iv",
         "iii",
