@@ -1,0 +1,1404 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Railway Prep Dashboard - Content Manager</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- Tailwind Config -->
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Plus Jakarta Sans', 'sans-serif'],
+            outfit: ['Outfit', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    /* Custom scrollbar */
+    ::-webkit-scrollbar {
+      width: 6px;
+      height: 6px;
+    }
+    ::-webkit-scrollbar-track {
+      background: #0f172a;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: #334155;
+      border-radius: 4px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: #475569;
+    }
+    .truncate-2-lines {
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;  
+      overflow: hidden;
+    }
+  </style>
+</head>
+<body class="bg-[#0b0f19] text-[#e2e8f0] font-sans antialiased min-h-screen flex flex-col">
+
+  <!-- Header -->
+  <header class="border-b border-[#1e293b] bg-[#0f172a] px-6 py-4 flex items-center justify-between sticky top-0 z-50 shadow-md">
+    <div class="flex items-center space-x-3">
+      <div class="bg-gradient-to-tr from-amber-400 to-amber-600 p-2.5 rounded-xl shadow-lg shadow-amber-500/10">
+        <svg class="w-6 h-6 text-[#0b0f19]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"></path>
+        </svg>
+      </div>
+      <div>
+        <h1 class="text-lg font-extrabold tracking-tight font-outfit text-white font-outfit">Railway Prep Dashboard</h1>
+        <p class="text-xs text-slate-400 font-medium font-outfit">Dynamic Subject & Topic Manager</p>
+      </div>
+    </div>
+    <div class="flex items-center space-x-4">
+      <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-[#1e293b] text-amber-400 border border-amber-500/20">
+        <span class="w-1.5 h-1.5 rounded-full bg-amber-400 mr-2 animate-pulse"></span>
+        Zero Server-Cost Mode
+      </span>
+    </div>
+  </header>
+
+  <!-- Main Content Container -->
+  <div class="flex flex-1 flex-col lg:flex-row h-[calc(100vh-73px)] overflow-hidden">
+    
+    <!-- LEFT SIDEBAR: CONFIG & APP TREE EXPLORER -->
+    <aside class="w-full lg:w-80 border-r border-[#1e293b] bg-[#0f172a] flex flex-col shrink-0 overflow-y-auto">
+      
+      <!-- GitHub settings panel -->
+      <div class="p-5 border-b border-[#1e293b] space-y-4">
+        <h2 class="text-xs font-bold text-slate-400 uppercase tracking-wider font-outfit">GitHub Configuration</h2>
+        <div>
+          <label class="block text-[10px] font-semibold text-slate-500 mb-1">GitHub Token</label>
+          <input type="password" id="gitToken" placeholder="ghp_xxxxxxxxxxxx" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-xs font-mono text-white focus:outline-none focus:border-amber-400">
+        </div>
+        <div class="grid grid-cols-2 gap-2">
+          <div>
+            <label class="block text-[10px] font-semibold text-slate-500 mb-1">Repo Owner</label>
+            <input type="text" id="gitOwner" value="factspatrika" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-xs text-white focus:outline-none">
+          </div>
+          <div>
+            <label class="block text-[10px] font-semibold text-slate-500 mb-1">Repo Name</label>
+            <input type="text" id="gitRepo" value="railway-pyq-content" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-xs text-white focus:outline-none">
+          </div>
+        </div>
+        <div>
+          <label class="block text-[10px] font-semibold text-slate-500 mb-1">Branch</label>
+          <input type="text" id="gitBranch" value="main" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-xs text-white focus:outline-none">
+        </div>
+        <div class="border-t border-slate-800/80 pt-3 space-y-3">
+          <h3 class="text-[10px] font-bold text-amber-400 uppercase tracking-wider font-outfit">Remote App Configs</h3>
+          <div>
+            <label class="block text-[9px] font-semibold text-slate-500 mb-0.5">Razorpay Key (API Key)</label>
+            <input type="text" id="razorpayKey" placeholder="rzp_test_xxxxxx" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.25 text-xs text-white focus:outline-none">
+          </div>
+          <div class="grid grid-cols-3 gap-2 items-center">
+            <div class="col-span-1">
+              <label class="block text-[9px] font-semibold text-slate-500 mb-0.5">Price (₹)</label>
+              <input type="number" id="premiumPriceRs" placeholder="29" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-2 py-1.25 text-xs text-white focus:outline-none">
+            </div>
+            <div class="col-span-2">
+              <label class="block text-[9px] font-semibold text-slate-500 mb-0.5">Google Sheets URL</label>
+              <input type="text" id="googleSheetsUrl" placeholder="https://..." class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.25 text-xs text-white focus:outline-none">
+            </div>
+          </div>
+          <!-- AdMob Ads Remote Configs -->
+          <div class="border-t border-slate-800/80 pt-2 space-y-2">
+            <div class="flex items-center justify-between">
+              <label class="text-[9px] font-semibold text-amber-400">Enable Google Ads</label>
+              <input type="checkbox" id="showAds" checked class="w-3.5 h-3.5 accent-amber-400 rounded cursor-pointer">
+            </div>
+            <div>
+              <label class="block text-[9px] font-semibold text-slate-500 mb-0.5">Android AdMob Banner ID</label>
+              <input type="text" id="admobAndroidBannerId" placeholder="ca-app-pub-xxx/yyy" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1 text-[11px] font-mono text-white focus:outline-none">
+            </div>
+            <div>
+              <label class="block text-[9px] font-semibold text-slate-500 mb-0.5">iOS AdMob Banner ID</label>
+              <input type="text" id="admobIosBannerId" placeholder="ca-app-pub-xxx/zzz" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1 text-[11px] font-mono text-white focus:outline-none">
+            </div>
+          </div>
+        </div>
+        <button onclick="saveSettings()" class="w-full bg-slate-800 hover:bg-slate-700 text-slate-200 font-bold py-2 rounded-xl text-xs transition-colors border border-slate-700">
+          Save Settings & Reload
+        </button>
+      </div>
+
+      <!-- App Explorer (Subjects and Topics nesting) -->
+      <div class="p-5 flex-grow flex flex-col space-y-4 min-h-[300px]">
+        <div class="flex items-center justify-between border-b border-[#1e293b] pb-2">
+          <h2 class="text-xs font-bold text-slate-400 uppercase tracking-wider font-outfit">App Explorer</h2>
+          <button onclick="loadAppStructure()" class="text-amber-400 hover:text-amber-300 text-xs font-bold flex items-center space-x-1">
+            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 1121.21 8H18.2M4 9h5M4 9V4"></path></svg>
+            <span>Refresh</span>
+          </button>
+        </div>
+
+        <!-- Add Subject Button -->
+        <button onclick="addNewSubject()" class="w-full py-2 bg-slate-900 hover:bg-slate-850 border border-slate-800 rounded-xl text-xs font-bold text-slate-300 transition-all flex items-center justify-center space-x-1">
+          <span>📚 Add New Subject</span>
+        </button>
+
+        <!-- Dynamic tree lists of subjects -->
+        <div id="explorerTree" class="space-y-3 overflow-y-auto max-h-[300px] lg:max-h-none">
+          <div class="text-xs text-slate-500 py-4 text-center">Click Refresh to load layout tree</div>
+        </div>
+      </div>
+
+      <!-- System status console logs -->
+      <div class="p-5 border-t border-[#1e293b] bg-slate-950/20">
+        <label class="block text-[10px] font-bold text-slate-500 uppercase tracking-wider mb-2 font-outfit">System Console Logs</label>
+        <div id="logConsole" class="bg-[#0b0f19] rounded-xl p-3 text-[9px] font-mono text-slate-500 overflow-y-auto h-24 space-y-1 border border-[#1e293b]">
+          <div>Ready. Select a config to start.</div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- RIGHT MAIN WORKSPACE AREA -->
+    <main class="flex-1 bg-[#0b0f19] flex flex-col overflow-hidden relative">
+      
+      <!-- TOPIC QUESTIONS WORKSPACE -->
+      <div id="topicWorkspace" class="flex-1 flex flex-col overflow-hidden hidden">
+        
+        <!-- Header status bar -->
+        <div class="px-6 py-4 border-b border-[#1e293b] bg-[#0f172a] flex flex-col md:flex-row md:items-center justify-between shrink-0 gap-4">
+          <div class="flex items-center space-x-3">
+            <span class="p-2 rounded-lg bg-amber-500/10 text-amber-400">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+            </span>
+            <div>
+              <h2 id="workspaceTitle" class="text-sm font-bold text-white font-outfit">Biology -> Cell Biology</h2>
+              <p id="workspacePath" class="text-xs text-slate-400 font-mono">Path: biology/cells.json</p>
+            </div>
+          </div>
+          <button id="deployBtn" onclick="deployTopicChanges()" class="bg-gradient-to-r from-emerald-500 to-emerald-600 hover:from-emerald-400 hover:to-emerald-500 text-white font-extrabold px-6 py-2.5 rounded-xl text-xs transition-all shadow-lg shadow-emerald-500/10 flex items-center space-x-2">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M8.684 10.742l3.263 3.262 6.102-6.102m-13.824 2.84l3.262 3.262-6.101-6.102M3 18h18M3 21h18"></path></svg>
+            <span>🚀 SAVE & DEPLOY LIVE (AUTO-SPLIT MOCKS)</span>
+          </button>
+        </div>
+
+        <!-- Scrollable Workspace details -->
+        <div class="flex-1 overflow-y-auto p-6 space-y-6">
+          
+          <!-- Metadata Chapter configs -->
+          <div class="bg-[#0f172a] border border-[#1e293b] rounded-2xl p-5 space-y-4">
+            <h3 class="text-xs font-bold text-slate-400 uppercase tracking-wider font-outfit border-b border-[#1e293b] pb-2">Topic configurations</h3>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 items-center">
+              <div>
+                <label class="block text-xs font-semibold text-slate-400 mb-1">Topic Name (चैप्टर का नाम)</label>
+                <input type="text" id="topicNameInput" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-xs text-white focus:outline-none focus:border-amber-400">
+              </div>
+              <div class="flex items-center pt-5">
+                <input type="checkbox" id="topicPremiumCheck" class="rounded bg-[#1e293b] border-slate-700 text-amber-500 w-4 h-4 mr-2">
+                <label class="text-xs font-bold text-slate-300">Premium Locked (Complete Chapter lock)</label>
+              </div>
+            </div>
+          </div>
+
+          <!-- BULK JSON IMPORTER & FORMAT REFERENCE -->
+          <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+            
+            <!-- Drag zone & paste (8 Cols) -->
+            <div class="lg:col-span-8 bg-[#0f172a] border border-[#1e293b] rounded-2xl p-5 space-y-4">
+              <h3 class="text-xs font-bold text-slate-400 uppercase tracking-wider font-outfit border-b border-[#1e293b] pb-2">📥 Bulk JSON Import (Overwrite Workspace)</h3>
+              
+              <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <div class="md:col-span-2">
+                  <label class="block text-[11px] font-semibold text-slate-400 mb-2">Drag & Drop Questions JSON File</label>
+                  <div class="border-2 border-dashed border-slate-800 hover:border-amber-500/50 rounded-xl p-5 text-center cursor-pointer transition-colors relative bg-slate-950/20">
+                    <input type="file" id="bulkFileInput" accept=".json" onchange="handleBulkFileInput(event)" class="absolute inset-0 opacity-0 cursor-pointer">
+                    <svg class="w-8 h-8 text-slate-500 mx-auto mb-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12"></path></svg>
+                    <span id="uploadLabelText" class="text-xs font-bold text-slate-350">Select questions.json file from PC</span>
+                  </div>
+                </div>
+                <div>
+                  <label class="block text-[11px] font-semibold text-slate-400 mb-2">Paste questions list JSON directly</label>
+                  <textarea id="bulkPasteTextarea" placeholder="Paste [...] questions array..." class="w-full bg-[#1e293b] border border-[#334155] rounded-xl p-2.5 text-[9px] font-mono text-white focus:outline-none resize-none h-20"></textarea>
+                  <button onclick="handleBulkPasteInput()" class="w-full mt-2 bg-slate-850 hover:bg-slate-800 text-slate-200 border border-slate-750 font-bold py-1.5 rounded-lg text-[10px] transition-colors">
+                    Load Pasted JSON
+                  </button>
+                </div>
+              </div>
+            </div>
+
+            <!-- Format Reference (4 Cols) -->
+            <div class="lg:col-span-4 bg-[#0f172a] border border-[#1e293b] rounded-2xl p-5 flex flex-col justify-between space-y-2">
+              <div class="flex items-center justify-between border-b border-[#1e293b] pb-1.5">
+                <h3 class="text-xs font-bold text-amber-400 uppercase tracking-wider font-outfit">Required Template</h3>
+                <button onclick="copyTemplateCode()" class="bg-slate-800 hover:bg-slate-700 text-slate-300 text-[10px] font-bold px-2 py-0.5 rounded border border-slate-755">
+                  Copy
+                </button>
+              </div>
+              <pre id="jsonTemplateCode" class="bg-slate-950 p-2 rounded-xl text-[9px] font-mono text-emerald-400 overflow-x-auto border border-slate-800 max-h-[110px]"></pre>
+            </div>
+
+          </div>
+
+          <!-- MANUAL QUESTION CREATOR FORM -->
+          <div class="bg-[#0f172a] border border-[#1e293b] rounded-2xl p-5 space-y-4">
+            <h3 class="text-xs font-bold text-slate-400 uppercase tracking-wider font-outfit border-b border-[#1e293b] pb-2">➕ Add Question Manually (To list below)</h3>
+            
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-4 text-xs">
+              <div class="md:col-span-3">
+                <label class="block text-slate-400 mb-1">Question Description (Hindi or English)</label>
+                <input type="text" id="manualText" placeholder="Write question description..." class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-2 text-white focus:outline-none">
+              </div>
+              <div>
+                <label class="block text-slate-400 mb-1">Question Type</label>
+                <select id="manualType" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-2 text-white focus:outline-none">
+                  <option value="standard">Standard (Single Choice)</option>
+                  <option value="fillInBlanks">Fill In Blanks</option>
+                  <option value="matchFollowing">Match the Following</option>
+                  <option value="multiStatement">Multi-Statement</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="grid grid-cols-1 sm:grid-cols-4 gap-4 text-xs">
+              <div>
+                <label class="block text-slate-400 mb-1">Option A</label>
+                <input type="text" id="manualOpt0" placeholder="Option A" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-white focus:outline-none">
+              </div>
+              <div>
+                <label class="block text-slate-400 mb-1">Option B</label>
+                <input type="text" id="manualOpt1" placeholder="Option B" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-white focus:outline-none">
+              </div>
+              <div>
+                <label class="block text-slate-400 mb-1">Option C</label>
+                <input type="text" id="manualOpt2" placeholder="Option C" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-white focus:outline-none">
+              </div>
+              <div>
+                <label class="block text-slate-400 mb-1">Option D</label>
+                <input type="text" id="manualOpt3" placeholder="Option D" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-white focus:outline-none">
+              </div>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs">
+              <div>
+                <label class="block text-slate-400 mb-1">Correct Answer Index</label>
+                <select id="manualCorrectIndex" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-white focus:outline-none">
+                  <option value="0">Option A</option>
+                  <option value="1">Option B</option>
+                  <option value="2">Option C</option>
+                  <option value="3">Option D</option>
+                </select>
+              </div>
+              <div>
+                <label class="block text-slate-400 mb-1">Exam Reference (e.g. RRB NTPC)</label>
+                <input type="text" id="manualExam" placeholder="Exam Name" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-white focus:outline-none">
+              </div>
+              <div>
+                <label class="block text-slate-400 mb-1">Exam Year (e.g. 2022)</label>
+                <input type="text" id="manualYear" placeholder="Year" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-white focus:outline-none">
+              </div>
+            </div>
+
+            <div>
+              <label class="block text-slate-400 mb-1">Detailed Explanation (व्याख्या)</label>
+              <textarea id="manualExplanation" rows="2" placeholder="Write answer explanation details..." class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-2 text-white focus:outline-none text-xs resize-none"></textarea>
+            </div>
+
+            <button onclick="appendManualQuestion()" class="w-full py-2 bg-slate-800 hover:bg-slate-700 text-amber-400 border border-amber-500/20 font-bold rounded-xl text-xs transition-colors">
+              ➕ Append Question to Workspace List
+            </button>
+          </div>
+
+          <!-- QUESTIONS LIST IN WORKSPACE -->
+          <div class="bg-[#0f172a] border border-[#1e293b] rounded-2xl p-5 space-y-4">
+            <div class="flex items-center justify-between border-b border-[#1e293b] pb-2 flex-wrap gap-2">
+              <h3 class="text-xs font-bold text-slate-400 uppercase tracking-wider font-outfit">Active Questions List in Workspace</h3>
+              <div class="flex items-center space-x-3">
+                <input type="text" id="questionsSearchInput" placeholder="🔍 Search questions..." oninput="filterQuestionsList()" class="bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1 text-xs text-white focus:outline-none focus:border-amber-400 w-48 sm:w-64">
+                <span id="questionsCountLabel" class="bg-amber-500/10 text-amber-400 border border-amber-500/20 text-xs px-3 py-0.5 rounded-full font-bold">0 Questions</span>
+              </div>
+            </div>
+            
+            <div id="questionsContainer" class="space-y-3">
+              <!-- Rendered list of questions -->
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+      <!-- No topic loaded placeholder -->
+      <div id="workspacePlaceholder" class="flex-grow flex flex-col items-center justify-center p-8 text-center">
+        <div class="bg-[#0f172a] border border-[#1e293b] p-6 rounded-2xl shadow-xl max-w-sm space-y-4">
+          <div class="text-amber-400 inline-flex p-3 rounded-full bg-amber-400/10">
+            <svg class="w-12 h-12" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
+          </div>
+          <h3 class="text-lg font-bold text-white font-outfit">No Topic Selected</h3>
+          <p class="text-xs text-slate-400 leading-relaxed">
+            Please click on any 📚 <b>Subject</b> in the App Explorer on the left sidebar to expand it, and select a 📄 <b>Topic/Chapter</b> JSON file to start editing!
+          </p>
+        </div>
+      </div>
+
+    </main>
+  </div>
+
+  <!-- MODAL: EDIT QUESTIONS INLINE -->
+  <div id="inlineEditModal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 hidden backdrop-blur-sm">
+    <div class="bg-[#0f172a] border border-[#1e293b] w-full max-w-2xl rounded-2xl p-6 space-y-4 max-h-[90vh] overflow-y-auto">
+      <h3 class="text-base font-bold text-white font-outfit">Modify Loaded Question</h3>
+      
+      <div class="space-y-3 text-xs">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div>
+            <label class="block text-slate-400 mb-1">Question ID</label>
+            <input type="text" id="editQId" disabled class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-xs text-slate-500 font-mono">
+          </div>
+          <div>
+            <label class="block text-slate-400 mb-1">Question Type</label>
+            <select id="editQType" onchange="toggleEditTypeSpecificFields()" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-xs text-white">
+              <option value="standard">Standard (Single Choice)</option>
+              <option value="fillInBlanks">Fill In Blanks</option>
+              <option value="matchFollowing">Match the Following</option>
+              <option value="multiStatement">Multi-Statement</option>
+            </select>
+          </div>
+        </div>
+
+        <div>
+          <label class="block text-slate-400 mb-1">Question Description</label>
+          <input type="text" id="editQText" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-2 text-white focus:outline-none">
+        </div>
+
+        <!-- TYPE SPECIFIC: MATCH THE FOLLOWING (List I & II) -->
+        <div id="editMatchFieldWrapper" class="hidden space-y-3 p-3 bg-slate-900/50 border border-slate-800 rounded-xl">
+          <h4 class="text-[10px] font-bold text-amber-400 uppercase tracking-wider">Match Lists (Separate entries by newline)</h4>
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div>
+              <label class="block text-slate-400 mb-1">List I Items</label>
+              <textarea id="editMatchList1" rows="3" placeholder="A. Newton&#10;B. Galileo" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-xs text-white"></textarea>
+            </div>
+            <div>
+              <label class="block text-slate-400 mb-1">List II Items</label>
+              <textarea id="editMatchList2" rows="3" placeholder="1. Gravity&#10;2. Telescope" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-xs text-white"></textarea>
+            </div>
+          </div>
+        </div>
+
+        <!-- TYPE SPECIFIC: MULTI-STATEMENT LIST -->
+        <div id="editMultiStatementWrapper" class="hidden space-y-2 p-3 bg-slate-900/50 border border-slate-800 rounded-xl">
+          <label class="block text-[10px] font-bold text-amber-400 uppercase tracking-wider mb-1">Statements (One statement per line)</label>
+          <textarea id="editStatements" rows="3" placeholder="1. Gravity pulls downward.&#10;2. Light travels in a straight line." class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-xs text-white"></textarea>
+        </div>
+
+        <div class="grid grid-cols-2 gap-2">
+          <div>
+            <label class="block text-slate-400 mb-1">Option A</label>
+            <input type="text" id="editOpt0" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-white">
+          </div>
+          <div>
+            <label class="block text-slate-400 mb-1">Option B</label>
+            <input type="text" id="editOpt1" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-white">
+          </div>
+          <div>
+            <label class="block text-slate-400 mb-1">Option C</label>
+            <input type="text" id="editOpt2" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-white">
+          </div>
+          <div>
+            <label class="block text-slate-400 mb-1">Option D</label>
+            <input type="text" id="editOpt3" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-white">
+          </div>
+        </div>
+
+        <div class="grid grid-cols-3 gap-2">
+          <div>
+            <label class="block text-slate-400 mb-1">Correct Choice</label>
+            <select id="editCorrectIndex" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-white">
+              <option value="0">Option A</option>
+              <option value="1">Option B</option>
+              <option value="2">Option C</option>
+              <option value="3">Option D</option>
+            </select>
+          </div>
+          <div>
+            <label class="block text-slate-400 mb-1">Exam Name</label>
+            <input type="text" id="editExam" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-white">
+          </div>
+          <div>
+            <label class="block text-slate-400 mb-1">Year</label>
+            <input type="text" id="editYear" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-1.5 text-white">
+          </div>
+        </div>
+
+        <div>
+          <label class="block text-slate-400 mb-1">Explanation</label>
+          <textarea id="editExplanation" rows="2" class="w-full bg-[#1e293b] border border-[#334155] rounded-xl px-3 py-2 text-white resize-none"></textarea>
+        </div>
+      </div>
+
+      <div class="flex justify-end space-x-3 text-xs font-bold pt-2">
+        <button onclick="closeEditModal()" class="text-slate-400 hover:text-white px-4 py-2">Cancel</button>
+        <button onclick="saveEditModalData()" class="bg-amber-500 text-[#0b0f19] px-5 py-2 rounded-xl">Save Changes</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // GitHub configuration
+    let config = {
+      token: localStorage.getItem('pyq_simple_token') || '',
+      owner: localStorage.getItem('pyq_simple_owner') || 'factspatrika',
+      repo: localStorage.getItem('pyq_simple_repo') || 'railway-pyq-content',
+      branch: localStorage.getItem('pyq_simple_branch') || 'main'
+    };
+
+    // Tree layout data (subjects.json)
+    let subjectsData = [];
+    let subjectsSha = '';
+
+    // Expanded subjects track map
+    let expandedSubjects = {};
+
+    // Workspace loaded topic details
+    let activeSubject = null;
+    let activeTopic = null;
+    let activeFilePath = '';
+    let activeFileSha = '';
+    let currentQuestions = [];
+    let inlineEditingIndex = -1;
+    let appConfigSha = '';
+
+    // Default template JSON format
+    const sampleTemplate = [
+      {
+        "id": "q_sample_standard",
+        "type": "standard",
+        "question": "1) बिना कोशिका भित्ति वाले बहुकोशिकीय जंतुओं को किस समूह में रखा जाता है?",
+        "options": [
+          "एनिमेलिया (Animalia)",
+          "प्लांटी (Plantae)",
+          "मोनेरा (Monera)",
+          "प्रोटिस्टा (Protista)"
+        ],
+        "correctIndex": 0,
+        "explanation": "सही उत्तर (A) है। एनिमेलिया समूह में बिना भित्ति वाले बहुकोशिकीय जंतु आते हैं।",
+        "examName": "RRB Group D",
+        "examYear": "2018"
+      },
+      {
+        "id": "q_sample_blanks",
+        "type": "fillInBlanks",
+        "question": "2) ________ एक कवक जीव है जिसमें हाइफ़े पर स्पोरैन्जिया का विकास होता है।",
+        "options": [
+          "राइजोपस (Rhizopus)",
+          "यीस्ट (Yeast)",
+          "अमीबा (Ameoba)",
+          "लीशमैनिया (Leishmania)"
+        ],
+        "correctIndex": 0,
+        "explanation": "सही उत्तर (A) है।",
+        "examName": "RRB Technician",
+        "examYear": "2024"
+      },
+      {
+        "id": "q_sample_match",
+        "type": "matchFollowing",
+        "question": "3) सूची I को सूची II से सुमेलित कीजिए:",
+        "matchList1": [
+          "A. स्पंज",
+          "B. केंचुआ"
+        ],
+        "matchList2": [
+          "1. एनेलिडा",
+          "2. पोरिफेरा"
+        ],
+        "options": [
+          "A-2, B-1",
+          "A-1, B-2"
+        ],
+        "correctIndex": 0,
+        "explanation": "स्पंज पोरिफेरा में तथा केंचुआ एनेलिडा में आता है।",
+        "examName": "RRB NTPC",
+        "examYear": "2021"
+      },
+      {
+        "id": "q_sample_statement",
+        "type": "multiStatement",
+        "question": "4) डॉगफिश के संदर्भ में कथनों पर विचार कीजिए:",
+        "statements": [
+          "1. यह एक वास्तविक समुद्री मछली है।",
+          "2. यह स्तनधारी जीव है।"
+        ],
+        "options": [
+          "केवल कथन 1 सही है",
+          "कथन 1 और 2 दोनों सही हैं"
+        ],
+        "correctIndex": 0,
+        "explanation": "डॉगफिश मछली है, स्तनधारी नहीं।",
+        "examName": "RRB JE",
+        "examYear": "2019"
+      }
+    ];
+
+    function getTopicSlug(topicId) {
+      switch (topicId) {
+        case 'top_units': return 'units_and_measurement';
+        case 'top_motion': return 'motion';
+        case 'top_work': return 'work_energy_power';
+        case 'top_atoms': return 'atomic_structure';
+        case 'top_cells': return 'cell_biology';
+        case 'top_animal_kingdom': return 'animal_kingdom';
+        default: return topicId.replace('top_', '');
+      }
+    }
+
+    window.onload = function() {
+      // Load saved settings
+      const savedToken = localStorage.getItem('pyq_simple_token');
+      const savedOwner = localStorage.getItem('pyq_simple_owner');
+      const savedRepo = localStorage.getItem('pyq_simple_repo');
+      const savedBranch = localStorage.getItem('pyq_simple_branch');
+
+      if (savedToken) config.token = savedToken;
+      if (savedOwner) config.owner = savedOwner;
+      if (savedRepo) config.repo = savedRepo;
+      if (savedBranch) config.branch = savedBranch;
+
+      document.getElementById('gitToken').value = config.token;
+      document.getElementById('gitOwner').value = config.owner;
+      document.getElementById('gitRepo').value = config.repo;
+      document.getElementById('gitBranch').value = config.branch;
+
+      // Set template code
+      document.getElementById('jsonTemplateCode').innerText = JSON.stringify(sampleTemplate, null, 2);
+
+      // Load layout structure & remote configs on launch
+      loadAppStructure();
+      loadAppConfig();
+    }
+
+    async function loadAppConfig() {
+      if (!config.token) return;
+      log('Fetching app_config.json configuration from GitHub...');
+      try {
+        const url = `https://api.github.com/repos/${config.owner}/${config.repo}/contents/app_config.json?ref=${config.branch}`;
+        const res = await fetch(url, {
+          headers: { 'Authorization': `token ${config.token}`, 'Accept': 'application/vnd.github.v3+json' }
+        });
+
+        if (res.ok) {
+          const data = await res.json();
+          appConfigSha = data.sha;
+          
+          const binary = atob(data.content.replace(/\s/g, ''));
+          const bytes = new Uint8Array(binary.length);
+          for (let i = 0; i < binary.length; i++) {
+            bytes[i] = binary.charCodeAt(i);
+          }
+          const text = new TextDecoder('utf-8').decode(bytes);
+          const parsed = JSON.parse(text);
+
+          document.getElementById('razorpayKey').value = parsed.razorpayKey || 'rzp_test_mock_key';
+          document.getElementById('premiumPriceRs').value = parsed.premiumPriceRs || 29;
+          document.getElementById('googleSheetsUrl').value = parsed.googleSheetsUrl || '';
+          document.getElementById('showAds').checked = parsed.showAds !== false;
+          document.getElementById('admobAndroidBannerId').value = parsed.admobAndroidBannerId || 'ca-app-pub-3940256099942544/6300978111';
+          document.getElementById('admobIosBannerId').value = parsed.admobIosBannerId || 'ca-app-pub-3940256099942544/2934735716';
+          
+          log('App remote configurations loaded successfully!', 'success');
+        } else {
+          log('app_config.json not found on GitHub. Using defaults.', 'warn');
+        }
+      } catch (err) {
+        log(`Failed loading app_config.json: ${err.message}`, 'error');
+      }
+    }
+
+    function log(message, type = 'info') {
+      const console = document.getElementById('logConsole');
+      if (!console) return;
+      const timestamp = new Date().toLocaleTimeString();
+      let colorClass = 'text-slate-400';
+      if (type === 'success') colorClass = 'text-emerald-400';
+      if (type === 'error') colorClass = 'text-rose-400 font-bold';
+      if (type === 'warn') colorClass = 'text-amber-400';
+      
+      console.innerHTML += `<div class="${colorClass}">[${timestamp}] ${message}</div>`;
+      console.scrollTop = console.scrollHeight;
+    }
+
+    async function saveSettings() {
+      config.token = document.getElementById('gitToken').value.trim();
+      config.owner = document.getElementById('gitOwner').value.trim();
+      config.repo = document.getElementById('gitRepo').value.trim();
+      config.branch = document.getElementById('gitBranch').value.trim();
+
+      localStorage.setItem('pyq_simple_token', config.token);
+      localStorage.setItem('pyq_simple_owner', config.owner);
+      localStorage.setItem('pyq_simple_repo', config.repo);
+      localStorage.setItem('pyq_simple_branch', config.branch);
+
+      log('GitHub settings saved locally!', 'success');
+
+      // Update app_config.json on GitHub
+      const rzpKey = document.getElementById('razorpayKey').value.trim();
+      const price = parseInt(document.getElementById('premiumPriceRs').value) || 29;
+      const sheetsUrl = document.getElementById('googleSheetsUrl').value.trim();
+      const showAds = document.getElementById('showAds').checked;
+      const androidAdId = document.getElementById('admobAndroidBannerId').value.trim();
+      const iosAdId = document.getElementById('admobIosBannerId').value.trim();
+
+      log('Syncing app_config.json settings to GitHub...');
+
+      const payload = {
+        razorpayKey: rzpKey,
+        premiumPriceRs: price,
+        googleSheetsUrl: sheetsUrl,
+        showAds: showAds,
+        admobAndroidBannerId: androidAdId || 'ca-app-pub-3940256099942544/6300978111',
+        admobIosBannerId: iosAdId || 'ca-app-pub-3940256099942544/2934735716'
+      };
+
+      const jsonString = JSON.stringify(payload, null, 2);
+      const bytes = new TextEncoder().encode(jsonString);
+      let binary = '';
+      for (let i = 0; i < bytes.byteLength; i++) {
+        binary += String.fromCharCode(bytes[i]);
+      }
+      const base64Content = btoa(binary);
+
+      const url = `https://api.github.com/repos/${config.owner}/${config.repo}/contents/app_config.json`;
+
+      // Fetch the latest SHA first to prevent 409 Conflict
+      try {
+        const getRes = await fetch(`${url}?ref=${config.branch}`, {
+          headers: {
+            'Authorization': `token ${config.token}`,
+            'Accept': 'application/vnd.github.v3+json'
+          }
+        });
+        if (getRes.ok) {
+          const getData = await getRes.json();
+          appConfigSha = getData.sha;
+        }
+      } catch (e) {
+        log(`Failed to fetch latest SHA: ${e.message}`, 'warn');
+      }
+
+      try {
+        const res = await fetch(url, {
+          method: 'PUT',
+          headers: {
+            'Authorization': `token ${config.token}`,
+            'Content-Type': 'application/json',
+            'Accept': 'application/vnd.github.v3+json'
+          },
+          body: JSON.stringify({
+            message: 'Sync remote app config values',
+            content: base64Content,
+            sha: appConfigSha,
+            branch: config.branch
+          })
+        });
+
+        if (!res.ok) throw new Error(`Status ${res.status}`);
+        const resData = await res.json();
+        appConfigSha = resData.content.sha;
+        log('app_config.json remote config synced on GitHub!', 'success');
+        
+        // Reload structure
+        loadAppStructure();
+      } catch (err) {
+        log(`Failed syncing remote config: ${err.message}`, 'error');
+        alert(`Failed to sync config: ${err.message}`);
+      }
+    }
+
+    // -------------------------------------------------------------------------
+    // SIDEBAR APP STRUCTURE TREE LOADER
+    // -------------------------------------------------------------------------
+    async function loadAppStructure() {
+      if (!config.token) {
+        log('GitHub Token not set.', 'warn');
+        return;
+      }
+      log('Fetching subjects.json structure tree...');
+      
+      try {
+        const url = `https://api.github.com/repos/${config.owner}/${config.repo}/contents/subjects.json?ref=${config.branch}`;
+        const res = await fetch(url, {
+          headers: { 'Authorization': `token ${config.token}`, 'Accept': 'application/vnd.github.v3+json' }
+        });
+
+        if (!res.ok) throw new Error(`subjects.json not found (${res.status})`);
+
+        const data = await res.json();
+        subjectsSha = data.sha;
+
+        const binary = atob(data.content.replace(/\s/g, ''));
+        const bytes = new Uint8Array(binary.length);
+        for (let i = 0; i < binary.length; i++) {
+          bytes[i] = binary.charCodeAt(i);
+        }
+        const text = new TextDecoder('utf-8').decode(bytes);
+        subjectsData = JSON.parse(text);
+
+        renderStructureTree();
+        log('Layout tree loaded successfully!', 'success');
+      } catch (err) {
+        log(`Failed: ${err.message}`, 'error');
+        document.getElementById('explorerTree').innerHTML = `<div class="text-xs text-rose-450 py-4 text-center">Failed: ${err.message}</div>`;
+      }
+    }
+
+    function renderStructureTree() {
+      const container = document.getElementById('explorerTree');
+      container.innerHTML = '';
+
+      if (subjectsData.length === 0) {
+        container.innerHTML = `<div class="text-xs text-slate-500 py-4 text-center">No Subjects Found.</div>`;
+        return;
+      }
+
+      subjectsData.forEach((sub, sIdx) => {
+        const subBox = document.createElement('div');
+        subBox.className = 'bg-slate-900/60 border border-slate-800/80 rounded-xl p-3 space-y-2';
+
+        const isExpanded = expandedSubjects[sIdx] || false;
+
+        // Subject Header (expand on click)
+        const subHeader = document.createElement('div');
+        subHeader.className = 'flex items-center justify-between text-xs font-bold text-white cursor-pointer';
+        subHeader.innerHTML = `
+          <span onclick="toggleSubjectExpanded(${sIdx})">
+            ${isExpanded ? '▼' : '▶'} 📚 ${sub.subjectName}
+          </span>
+          <button onclick="addNewTopicPrompt(${sIdx})" class="bg-slate-800 hover:bg-slate-700 text-amber-400 text-[9px] px-1.5 py-0.5 rounded font-bold border border-slate-750">+ Topic</button>
+        `;
+        subBox.appendChild(subHeader);
+
+        // Nested topics list (only show if expanded)
+        if (isExpanded) {
+          const topicsList = document.createElement('div');
+          topicsList.className = 'pl-4 border-l border-slate-800 ml-1.5 space-y-1.5 pt-1';
+
+          if (sub.topics && sub.topics.length > 0) {
+            sub.topics.forEach((top, tIdx) => {
+              const subSlug = sub.subjectId.replace('sub_', '');
+              const topSlug = getTopicSlug(top.topicId);
+              const targetPath = `${subSlug}/${topSlug}.json`;
+
+              const topBtn = document.createElement('button');
+              topBtn.className = `w-full text-left text-xs py-1.5 px-2 rounded-lg flex items-center justify-between transition-all ${
+                activeFilePath === targetPath
+                    ? 'bg-amber-500/10 text-amber-400 border border-amber-500/20 font-semibold'
+                    : 'text-slate-300 hover:bg-slate-800/85 hover:text-white'
+              }`;
+
+              topBtn.innerHTML = `
+                <div class="flex items-center space-x-1.5 truncate">
+                  <svg class="w-3.5 h-3.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
+                  <span class="truncate">${top.topicName}</span>
+                </div>
+                <span class="text-[9px] bg-slate-950 px-1 py-0.2 rounded text-slate-500">${top.mocks ? top.mocks.length : 0} Mocks</span>
+              `;
+              
+              topBtn.onclick = () => selectTopicWorkspace(sIdx, tIdx);
+              topicsList.appendChild(topBtn);
+            });
+          } else {
+            topicsList.innerHTML = `<div class="text-[10px] text-slate-650 italic py-1 pl-1">No topics added</div>`;
+          }
+          subBox.appendChild(topicsList);
+        }
+
+        container.appendChild(subBox);
+      });
+    }
+
+    function toggleSubjectExpanded(sIdx) {
+      expandedSubjects[sIdx] = !(expandedSubjects[sIdx] || false);
+      renderStructureTree();
+    }
+
+    // -------------------------------------------------------------------------
+    // ADD NEW SUBJECT / TOPIC ACTIONS
+    // -------------------------------------------------------------------------
+    async function addNewSubject() {
+      const name = prompt('Enter New Subject Name (e.g. Geography):');
+      if (!name) return;
+
+      const subId = 'sub_' + name.toLowerCase().replace(/[^a-z0-9]/g, '_');
+      subjectsData.push({
+        subjectId: subId,
+        subjectName: name,
+        topics: []
+      });
+
+      await commitSubjectsStructure();
+    }
+
+    async function addNewTopicPrompt(sIdx) {
+      const name = prompt('Enter Topic / Chapter Name (e.g. Percentage):');
+      if (!name) return;
+
+      const subject = subjectsData[sIdx];
+      const subjectSlug = subject.subjectId.replace('sub_', '');
+      const topicSlug = name.toLowerCase().replace(/[^a-z0-9]/g, '_');
+      const topicId = 'top_' + topicSlug;
+
+      log(`Creating topic questions template for "${name}"...`);
+
+      const templateData = {
+        chapter: name,
+        subject: subject.subjectName.split(' ')[0],
+        isPremium: false,
+        questions: []
+      };
+
+      const jsonString = JSON.stringify(templateData, null, 2);
+      const bytes = new TextEncoder().encode(jsonString);
+      let binary = '';
+      for (let i = 0; i < bytes.byteLength; i++) {
+        binary += String.fromCharCode(bytes[i]);
+      }
+      const base64Content = btoa(binary);
+
+      const fileUrl = `https://api.github.com/repos/${config.owner}/${config.repo}/contents/${subjectSlug}/${topicSlug}.json`;
+
+      try {
+        const fileRes = await fetch(fileUrl, {
+          method: 'PUT',
+          headers: {
+            'Authorization': `token ${config.token}`,
+            'Content-Type': 'application/json',
+            'Accept': 'application/vnd.github.v3+json'
+          },
+          body: JSON.stringify({
+            message: `Create JSON data file for chapter ${name}`,
+            content: base64Content,
+            branch: config.branch
+          })
+        });
+
+        if (!fileRes.ok) throw new Error(`HTTP status ${fileRes.status}`);
+
+        // Insert into layout tree
+        subject.topics.push({
+          topicId: topicId,
+          topicName: name,
+          isPremium: false,
+          mocks: []
+        });
+
+        // Save subjects.json
+        await commitSubjectsStructure();
+        expandedSubjects[sIdx] = true; // Auto-expand
+        renderStructureTree();
+        log(`Created new topic database file: "${subjectSlug}/${topicSlug}.json"`, 'success');
+      } catch (err) {
+        log(`Failed: ${err.message}`, 'error');
+        alert(`Failed to save topic file template: ${err.message}`);
+      }
+    }
+
+    async function commitSubjectsStructure() {
+      const url = `https://api.github.com/repos/${config.owner}/${config.repo}/contents/subjects.json`;
+      const structJson = JSON.stringify(subjectsData, null, 2);
+      const structBytes = new TextEncoder().encode(structJson);
+      let structBinary = '';
+      for (let i = 0; i < structBytes.byteLength; i++) {
+        structBinary += String.fromCharCode(structBytes[i]);
+      }
+      const structBase64 = btoa(structBinary);
+
+      try {
+        const res = await fetch(url, {
+          method: 'PUT',
+          headers: {
+            'Authorization': `token ${config.token}`,
+            'Content-Type': 'application/json',
+            'Accept': 'application/vnd.github.v3+json'
+          },
+          body: JSON.stringify({
+            message: 'Sync app layout tree nodes database',
+            content: structBase64,
+            sha: subjectsSha,
+            branch: config.branch
+          })
+        });
+
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const resData = await res.json();
+        subjectsSha = resData.content.sha;
+
+        renderStructureTree();
+        log('subjects.json database structure synced on GitHub!', 'success');
+      } catch (err) {
+        log(`Failed savingSubjectsTree: ${err.message}`, 'error');
+      }
+    }
+
+    // -------------------------------------------------------------------------
+    // SELECT TOPIC WORKSPACE LOADER
+    // -------------------------------------------------------------------------
+    async function selectTopicWorkspace(sIdx, tIdx) {
+      activeSubject = subjectsData[sIdx];
+      activeTopic = activeSubject.topics[tIdx];
+
+      const subSlug = activeSubject.subjectId.replace('sub_', '');
+      const topSlug = getTopicSlug(activeTopic.topicId);
+      activeFilePath = `${subSlug}/${topSlug}.json`;
+
+      document.getElementById('workspacePlaceholder').classList.add('hidden');
+      document.getElementById('topicWorkspace').classList.remove('hidden');
+
+      document.getElementById('workspaceTitle').innerText = `${activeSubject.subjectName} -> ${activeTopic.topicName}`;
+      document.getElementById('workspacePath').innerText = `Path: ${activeFilePath}`;
+
+      document.getElementById('topicNameInput').value = activeTopic.topicName;
+      document.getElementById('topicPremiumCheck').checked = activeTopic.isPremium || false;
+
+      // Update tree active highlighting
+      renderStructureTree();
+
+      // Fetch questions list
+      log(`Loading questions list for topic "${activeTopic.topicName}"...`);
+      document.getElementById('questionsContainer').innerHTML = `<div class="text-xs text-slate-500 py-4 text-center">Loading questions list...</div>`;
+
+      try {
+        const url = `https://api.github.com/repos/${config.owner}/${config.repo}/contents/${activeFilePath}?ref=${config.branch}`;
+        const res = await fetch(url, {
+          headers: { 'Authorization': `token ${config.token}`, 'Accept': 'application/vnd.github.v3+json' }
+        });
+
+        if (!res.ok) {
+          activeFileSha = '';
+          currentQuestions = [];
+          log('Topic questions file template not found. Initialized blank.', 'warn');
+        } else {
+          const data = await res.json();
+          activeFileSha = data.sha;
+
+          const binary = atob(data.content.replace(/\s/g, ''));
+          const bytes = new Uint8Array(binary.length);
+          for (let i = 0; i < binary.length; i++) {
+            bytes[i] = binary.charCodeAt(i);
+          }
+          const text = new TextDecoder('utf-8').decode(bytes);
+          const parsed = JSON.parse(text);
+
+          if (parsed && parsed.questions && Array.isArray(parsed.questions)) {
+            currentQuestions = parsed.questions;
+          } else if (Array.isArray(parsed)) {
+            currentQuestions = parsed;
+          } else {
+            currentQuestions = [];
+          }
+        }
+
+        renderQuestionsList();
+        log(`Loaded ${currentQuestions.length} questions successfully!`, 'success');
+      } catch (err) {
+        log(`Failed loading questions data: ${err.message}`, 'error');
+        document.getElementById('questionsContainer').innerHTML = `<div class="text-xs text-rose-400 py-4 text-center">Error: ${err.message}</div>`;
+      }
+    }
+
+    function filterQuestionsList() {
+      renderQuestionsList();
+    }
+
+    // Render workspace questions list cards
+    function renderQuestionsList() {
+      const container = document.getElementById('questionsContainer');
+      const searchTerm = document.getElementById('questionsSearchInput') ? document.getElementById('questionsSearchInput').value.toLowerCase().trim() : '';
+      
+      const filtered = currentQuestions.filter(q => {
+        if (!searchTerm) return true;
+        const textMatch = q.question.toLowerCase().includes(searchTerm);
+        const idMatch = q.id.toLowerCase().includes(searchTerm);
+        const examMatch = q.examName && q.examName.toLowerCase().includes(searchTerm);
+        return textMatch || idMatch || examMatch;
+      });
+
+      document.getElementById('questionsCountLabel').innerText = `${filtered.length} of ${currentQuestions.length} Questions`;
+      container.innerHTML = '';
+
+      if (filtered.length === 0) {
+        container.innerHTML = `
+          <div class="border border-[#1e293b] bg-slate-900/30 rounded-xl p-8 text-center text-slate-505 text-xs">
+            ${searchTerm ? 'No matching questions found in this chapter.' : 'No questions in this topic workspace. Upload a JSON file above, paste raw JSON, or type questions manually to get started!'}
+          </div>
+        `;
+        return;
+      }
+
+      filtered.forEach((q, idx) => {
+        const realIdx = currentQuestions.indexOf(q);
+        const card = document.createElement('div');
+        card.className = 'bg-[#0b0f19] border border-[#1e293b] rounded-xl p-4 flex flex-col md:flex-row items-start justify-between gap-4 hover:border-slate-700 transition-all';
+        card.innerHTML = `
+          <div class="flex-grow space-y-2 min-w-0">
+            <div class="flex flex-wrap gap-1.5 items-center">
+              <span class="bg-amber-500/10 text-amber-400 text-[9px] font-bold px-1.5 py-0.5 rounded border border-amber-500/15 font-mono">Q. ${(realIdx + 1)}</span>
+              <span class="bg-[#1e293b] text-slate-300 text-[9px] px-1.5 py-0.5 rounded font-mono">ID: ${q.id || 'N/A'}</span>
+              <span class="bg-slate-800 text-slate-400 text-[9px] px-1.5 py-0.5 rounded font-bold uppercase">${q.type || 'standard'}</span>
+              <span class="bg-emerald-500/10 text-emerald-400 text-[9px] px-1.5 py-0.5 rounded font-bold">${q.examName || 'Generic'} (${q.examYear || 'N/A'})</span>
+            </div>
+            <p class="text-xs font-semibold text-white leading-relaxed truncate-2-lines">${q.question}</p>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-1.5 pt-1">
+              ${q.options ? q.options.map((opt, oIdx) => `
+                <div class="text-[11px] flex items-center space-x-1.5 ${oIdx === q.correctIndex ? 'text-emerald-400 font-bold' : 'text-slate-400'}">
+                  <span class="w-4 h-4 rounded-full border flex items-center justify-center shrink-0 text-[10px] ${oIdx === q.correctIndex ? 'border-emerald-500/30 bg-emerald-500/10' : 'border-slate-800 bg-slate-950'}">${['A','B','C','D'][oIdx]}</span>
+                  <span class="truncate">${opt}</span>
+                </div>
+              `).join('') : ''}
+            </div>
+          </div>
+          <div class="flex items-center space-x-1.5 shrink-0 self-stretch md:self-auto justify-end">
+            <button onclick="moveQuestion(${realIdx}, -1)" ${realIdx === 0 ? 'disabled class="text-slate-800 p-1.5 cursor-not-allowed"' : 'class="text-slate-400 hover:text-white p-1.5"'}>
+              <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 15l7-7 7 7"></path></svg>
+            </button>
+            <button onclick="moveQuestion(${realIdx}, 1)" ${realIdx === currentQuestions.length - 1 ? 'disabled class="text-slate-800 p-1.5 cursor-not-allowed"' : 'class="text-slate-400 hover:text-white p-1.5"'}>
+              <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M19 9l-7 7-7-7"></path></svg>
+            </button>
+            <button onclick="openInlineEditModal(${realIdx})" class="text-[10px] bg-slate-800 hover:bg-slate-700 text-slate-200 font-bold px-3 py-1.5 rounded-lg border border-slate-750 transition-colors">Edit</button>
+            <button onclick="deleteQuestionItem(${realIdx})" class="text-[10px] text-rose-400 bg-rose-500/10 hover:bg-rose-500/20 font-bold px-2.5 py-1.5 rounded-lg border border-rose-500/20 transition-colors">Delete</button>
+          </div>
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    function moveQuestion(index, direction) {
+      if (index + direction < 0 || index + direction >= currentQuestions.length) return;
+      const temp = currentQuestions[index];
+      currentQuestions[index] = currentQuestions[index + direction];
+      currentQuestions[index + direction] = temp;
+      renderQuestionsList();
+    }
+
+    // -------------------------------------------------------------------------
+    // BULK IMPORTERS
+    // -------------------------------------------------------------------------
+    function handleBulkFileInput(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = function(e) {
+        try {
+          const text = e.target.result;
+          parseAndLoadBulkQuestions(text);
+          document.getElementById('uploadLabelText').innerText = `✅ File parsed: ${file.name}`;
+        } catch (err) {
+          alert(`File Parse Error: ${err.message}`);
+        }
+      };
+      reader.readAsText(file);
+    }
+
+    function handleBulkPasteInput() {
+      const text = document.getElementById('bulkPasteTextarea').value.trim();
+      if (!text) {
+        alert('Please paste some JSON questions array first!');
+        return;
+      }
+
+      try {
+        parseAndLoadBulkQuestions(text);
+        document.getElementById('bulkPasteTextarea').value = '';
+        log('Pasted JSON questions successfully loaded!', 'success');
+      } catch (err) {
+        alert(`Parse Error: ${err.message}`);
+      }
+    }
+
+    function parseAndLoadBulkQuestions(jsonString) {
+      const parsed = JSON.parse(jsonString);
+      let list = [];
+
+      if (Array.isArray(parsed)) {
+        list = parsed;
+      } else if (parsed && parsed.questions && Array.isArray(parsed.questions)) {
+        list = parsed.questions;
+      } else {
+        throw new Error('JSON format is invalid. It must be an array of questions [...]');
+      }
+
+      if (list.length === 0) throw new Error('Loaded JSON has 0 questions.');
+
+      const first = list[0];
+      if (!first.id || !first.question || !first.options) {
+        throw new Error('Items must contain "id", "question", and "options" array.');
+      }
+
+      currentQuestions = list;
+      renderQuestionsList();
+      log(`Bulk loaded ${list.length} questions into active workspace. Review below.`, 'success');
+    }
+
+    // -------------------------------------------------------------------------
+    // ADD QUESTION MANUALLY INLINE FROM MAIN SCREEN FORM
+    // -------------------------------------------------------------------------
+    function appendManualQuestion() {
+      const qText = document.getElementById('manualText').value.trim();
+      const type = document.getElementById('manualType').value;
+      const optA = document.getElementById('manualOpt0').value.trim();
+      const optB = document.getElementById('manualOpt1').value.trim();
+      const optC = document.getElementById('manualOpt2').value.trim();
+      const optD = document.getElementById('manualOpt3').value.trim();
+      const correctIdx = parseInt(document.getElementById('manualCorrectIndex').value);
+      const examName = document.getElementById('manualExam').value.trim();
+      const examYear = document.getElementById('manualYear').value.trim();
+      const explanation = document.getElementById('manualExplanation').value.trim();
+
+      if (!qText || !optA || !optB || !optC || !optD) {
+        alert('Please fill out the question description and all 4 options choices!');
+        return;
+      }
+
+      const qId = 'q_' + (currentQuestions.length + 1) + '_' + Date.now().toString().slice(-4);
+      const newQuestion = {
+        id: qId,
+        question: qText,
+        type: type,
+        options: [optA, optB, optC, optD],
+        correctIndex: correctIdx,
+        explanation: explanation,
+        examName: examName || 'RRB NTPC',
+        examYear: examYear || new Date().getFullYear().toString()
+      };
+
+      currentQuestions.push(newQuestion);
+      renderQuestionsList();
+
+      // Reset fields
+      document.getElementById('manualText').value = '';
+      document.getElementById('manualOpt0').value = '';
+      document.getElementById('manualOpt1').value = '';
+      document.getElementById('manualOpt2').value = '';
+      document.getElementById('manualOpt3').value = '';
+      document.getElementById('manualExplanation').value = '';
+
+      log(`Added manual question "${qId}" to workspace list. Scroll down to check.`, 'success');
+    }
+
+    // -------------------------------------------------------------------------
+    // DEPLOY & SPLIT MOCK TESTS PIPELINE
+    // -------------------------------------------------------------------------
+    async function deployTopicChanges() {
+      if (!activeTopic) return;
+      const deployBtn = document.getElementById('deployBtn');
+
+      const chapterName = document.getElementById('topicNameInput').value.trim();
+      const premiumLock = document.getElementById('topicPremiumCheck').checked;
+
+      if (!chapterName) {
+        alert('Chapter Name cannot be empty!');
+        return;
+      }
+
+      if (!confirm(`Save all changes and split ${currentQuestions.length} questions into mock tests automatically?`)) return;
+
+      deployBtn.disabled = true;
+      deployBtn.innerText = 'Syncing and Deploying...';
+      log(`Deploying updates for topic "${chapterName}"...`);
+
+      try {
+        // ----------------------------------------------------
+        // STEP 1: Commit/Upload Topic questions file to GitHub
+        // ----------------------------------------------------
+        const payloadData = {
+          chapter: chapterName,
+          subject: activeSubject.subjectName.split(' ')[0],
+          isPremium: premiumLock,
+          questions: currentQuestions
+        };
+
+        const jsonString = JSON.stringify(payloadData, null, 2);
+        const bytes = new TextEncoder().encode(jsonString);
+        let binary = '';
+        for (let i = 0; i < bytes.byteLength; i++) {
+          binary += String.fromCharCode(bytes[i]);
+        }
+        const base64Content = btoa(binary);
+
+        const topicUrl = `https://api.github.com/repos/${config.owner}/${config.repo}/contents/${activeFilePath}`;
+
+        const fileRes = await fetch(topicUrl, {
+          method: 'PUT',
+          headers: {
+            'Authorization': `token ${config.token}`,
+            'Content-Type': 'application/json',
+            'Accept': 'application/vnd.github.v3+json'
+          },
+          body: JSON.stringify({
+            message: `Sync questions data for topic ${chapterName}`,
+            content: base64Content,
+            sha: activeFileSha,
+            branch: config.branch
+          })
+        });
+
+        if (!fileRes.ok) throw new Error(`HTTP ${fileRes.status}`);
+        const resData = await fileRes.json();
+        activeFileSha = resData.content.sha;
+        log('Questions data file successfully pushed to GitHub!', 'success');
+
+        // ----------------------------------------------------
+        // STEP 2: Update Topic mock tests list in subjects.json
+        // ----------------------------------------------------
+        activeTopic.topicName = chapterName;
+        activeTopic.isPremium = premiumLock;
+
+        // Auto calculate mock batches
+        const totalMocks = Math.ceil(currentQuestions.length / 30);
+        const topSlug = getTopicSlug(activeTopic.topicId);
+        const newMocks = [];
+        for (let i = 1; i <= totalMocks; i++) {
+          const startQ = (i - 1) * 30 + 1;
+          const endQ = Math.min(i * 30, currentQuestions.length);
+          newMocks.push({
+            mockId: `mock_${topSlug}_${i}`,
+            mockName: `Mock Test ${i} (Q. ${startQ}-${endQ})`,
+            questions: []
+          });
+        }
+        activeTopic.mocks = newMocks;
+
+        // Save tree layout
+        await commitSubjectsStructure();
+        log('subjects.json structure tree synced with dynamic mock tests!', 'success');
+
+        // ----------------------------------------------------
+        // STEP 3: Auto-Purge jsDelivr cache for Instant Updates
+        // ----------------------------------------------------
+        log('Purging jsDelivr cache for instant updates...', 'warning');
+        try {
+          await fetch(`https://purge.jsdelivr.net/gh/${config.owner}/${config.repo}@${config.branch}/${activeFilePath}`);
+          await fetch(`https://purge.jsdelivr.net/gh/${config.owner}/${config.repo}@${config.branch}/subjects.json`);
+          await fetch(`https://purge.jsdelivr.net/gh/${config.owner}/${config.repo}@${config.branch}/all_questions.json`);
+          await fetch(`https://purge.jsdelivr.net/gh/${config.owner}/${config.repo}@${config.branch}/app_config.json`);
+          log('jsDelivr cache successfully purged! App is live instantly.', 'success');
+        } catch(e) {
+          console.warn("Purge error:", e);
+        }
+
+        alert(`🎉 DEPLOYED LIVE! App structure updated with ${totalMocks} Mock Tests. jsDelivr CDN is purged for instant updates.`);
+        document.getElementById('uploadLabelText').innerText = 'Select questions.json from PC';
+      } catch (err) {
+        log(`Deploy failed: ${err.message}`, 'error');
+        alert(`Deploy failed: ${err.message}`);
+      } finally {
+        deployBtn.disabled = false;
+        deployBtn.innerText = '🚀 SAVE & DEPLOY LIVE (AUTO-SPLIT MOCKS)';
+      }
+    }
+
+    // -------------------------------------------------------------------------
+    // INLINE EDIT DIALOG FOR INDIVIDUAL QUESTIONS
+    // -------------------------------------------------------------------------
+    function openInlineEditModal(idx) {
+      inlineEditingIndex = idx;
+      const q = currentQuestions[idx];
+
+      document.getElementById('editQId').value = q.id || '';
+      document.getElementById('editQType').value = q.type || 'standard';
+      document.getElementById('editQText').value = q.question || '';
+      document.getElementById('editOpt0').value = q.options && q.options[0] ? q.options[0] : '';
+      document.getElementById('editOpt1').value = q.options && q.options[1] ? q.options[1] : '';
+      document.getElementById('editOpt2').value = q.options && q.options[2] ? q.options[2] : '';
+      document.getElementById('editOpt3').value = q.options && q.options[3] ? q.options[3] : '';
+      document.getElementById('editCorrectIndex').value = q.correctIndex !== undefined ? q.correctIndex.toString() : '0';
+      document.getElementById('editExam').value = q.examName || '';
+      document.getElementById('editYear').value = q.examYear || '';
+      document.getElementById('editExplanation').value = q.explanation || '';
+
+      // Type specific fields
+      document.getElementById('editMatchList1').value = q.matchList1 ? q.matchList1.join('\n') : '';
+      document.getElementById('editMatchList2').value = q.matchList2 ? q.matchList2.join('\n') : '';
+      document.getElementById('editStatements').value = q.statements ? q.statements.join('\n') : '';
+
+      toggleEditTypeSpecificFields();
+      document.getElementById('inlineEditModal').classList.remove('hidden');
+    }
+
+    function toggleEditTypeSpecificFields() {
+      const type = document.getElementById('editQType').value;
+      const matchWrapper = document.getElementById('editMatchFieldWrapper');
+      const statementWrapper = document.getElementById('editMultiStatementWrapper');
+      
+      if (type === 'matchFollowing') {
+        matchWrapper.classList.remove('hidden');
+        statementWrapper.classList.add('hidden');
+      } else if (type === 'multiStatement') {
+        matchWrapper.classList.add('hidden');
+        statementWrapper.classList.remove('hidden');
+      } else {
+        matchWrapper.classList.add('hidden');
+        statementWrapper.classList.add('hidden');
+      }
+    }
+
+    function closeEditModal() {
+      document.getElementById('inlineEditModal').classList.add('hidden');
+    }
+
+    function saveEditModalData() {
+      if (inlineEditingIndex === -1) return;
+
+      const q = currentQuestions[inlineEditingIndex];
+      const type = document.getElementById('editQType').value;
+
+      q.type = type;
+      q.question = document.getElementById('editQText').value.trim();
+      q.options = [
+        document.getElementById('editOpt0').value.trim(),
+        document.getElementById('editOpt1').value.trim(),
+        document.getElementById('editOpt2').value.trim(),
+        document.getElementById('editOpt3').value.trim(),
+      ];
+      q.correctIndex = parseInt(document.getElementById('editCorrectIndex').value);
+      q.examName = document.getElementById('editExam').value.trim();
+      q.examYear = document.getElementById('editYear').value.trim();
+      q.explanation = document.getElementById('editExplanation').value.trim();
+
+      if (type === 'matchFollowing') {
+        const ml1 = document.getElementById('editMatchList1').value.trim();
+        const ml2 = document.getElementById('editMatchList2').value.trim();
+        q.matchList1 = ml1 ? ml1.split('\n').map(x => x.trim()).filter(Boolean) : [];
+        q.matchList2 = ml2 ? ml2.split('\n').map(x => x.trim()).filter(Boolean) : [];
+      } else if (type === 'multiStatement') {
+        const statements = document.getElementById('editStatements').value.trim();
+        q.statements = statements ? statements.split('\n').map(x => x.trim()).filter(Boolean) : [];
+      } else {
+        delete q.matchList1;
+        delete q.matchList2;
+        delete q.statements;
+      }
+
+      renderQuestionsList();
+      closeEditModal();
+      log(`Updated question #${inlineEditingIndex + 1} details in memory workspace.`, 'success');
+    }
+
+    function copyTemplateCode() {
+      const code = document.getElementById('jsonTemplateCode').innerText;
+      navigator.clipboard.writeText(code);
+      alert('Template JSON copied to clipboard!');
+    }
+
+    String.prototype.padLeft = function(length, character) {
+      return this.length >= length ? this : (new Array(length - this.length + 1).join(character || ' ') + this);
+    }
+  </script>
+</body>
+</html>
