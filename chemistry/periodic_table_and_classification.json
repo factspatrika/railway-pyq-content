@@ -16,7 +16,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_1"
+            "id": "q_periodic_table_and_classification_1",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सी गैस हमारे वायुमंडल के 78% भाग का निर्माण करती है और जीवन के लिए आवश्यक कई अणुओं का भाग भी है?",
@@ -46,7 +47,8 @@
             "examName": "RRB Group D 6 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_3"
+            "id": "q_periodic_table_and_classification_3",
+            "correct_option": 3
         },
         {
             "question": "1869 में, आवर्त सारणी के पहले व्यापक रूप से मान्यता प्राप्त संस्करण को प्रकाशित करने का श्रेय किसे दिया जाता है?",
@@ -61,7 +63,8 @@
             "examName": "RRB NTPC UG CBT-I : 14 Aug, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_4"
+            "id": "q_periodic_table_and_classification_4",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी अधातु द्रव है?",
@@ -76,12 +79,13 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_5"
+            "id": "q_periodic_table_and_classification_5",
+            "correct_option": 1
         },
         {
             "question": "समूह 17 के तत्वों का नाम क्या है?",
             "options": [
-                "हैलोजन",
+                "हैलोजन (Halogens)",
                 "काल्कोजन",
                 "अक्रिय गैस",
                 "धातु"
@@ -106,7 +110,8 @@
             "examName": "RRB Group D 25 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_7"
+            "id": "q_periodic_table_and_classification_7",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सी धातु ठंडे पानी के साथ अभिक्रिया नहीं करती है?",
@@ -121,7 +126,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_8"
+            "id": "q_periodic_table_and_classification_8",
+            "correct_option": 3
         },
         {
             "question": "आधुनिक आवर्त सारणी में तत्वों की क्षैतिज पंक्तियों में व्यवस्था कैसी है?",
@@ -136,7 +142,8 @@
             "examName": "RPF Constable 2018 12 Feb 2019 shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_9"
+            "id": "q_periodic_table_and_classification_9",
+            "correct_option": 2
         },
         {
             "question": "न्यूलैंड्स अष्टक में किन दो तत्वों के गुण समान पाए गए?",
@@ -226,7 +233,8 @@
             "examName": "RRB Group D 22 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_15"
+            "id": "q_periodic_table_and_classification_15",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किसे मेंडेलीव की आवर्त सारणी की सीमा माना जाता था? को कोई विशिष्ट स्थान नहीं दिया गया विशिष्ट स्थान नहीं दिया गया को एक विशिष्ट स्थान सौंपा गया था विशिष्ट स्थान दिया गया।",
@@ -241,7 +249,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_16"
+            "id": "q_periodic_table_and_classification_16",
+            "correct_option": 1
         },
         {
             "question": "मेंडेलीव की आवर्त सारणी में, ________ निकेल से पहले आता है।",
@@ -271,7 +280,8 @@
             "examName": "RRB Group D 26 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_18"
+            "id": "q_periodic_table_and_classification_18",
+            "correct_option": 2
         },
         {
             "question": "न्यूलैंड के अष्टक नियम के अनुसार, पोटैशियम और कॉपर के बीच कितने तत्व उपस्थित हैं?",
@@ -286,7 +296,8 @@
             "examName": "RRB Group D 28 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_19"
+            "id": "q_periodic_table_and_classification_19",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा फसली पौधों के लिए प्रयुक्त सूक्ष्म पोषक तत्व है?",
@@ -301,7 +312,8 @@
             "examName": "RRB NTPC CBT-I : 31 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_20"
+            "id": "q_periodic_table_and_classification_20",
+            "correct_option": 2
         },
         {
             "question": "कौन-सी धातु अभिक्रियाशीलता श्रेणी (reactivity series) के आरंभ में स्थित होती है?",
@@ -361,7 +373,8 @@
             "examName": "RPF ConstableAncillary 2018 31 Mar 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_24"
+            "id": "q_periodic_table_and_classification_24",
+            "correct_option": 2
         },
         {
             "question": "न्यूलैंड के अष्टक नियम के अनुसार, प्रत्येक ________ तत्व के गुण पहले तत्व के समान होते हैं।",
@@ -376,7 +389,8 @@
             "examName": "RRB Group D 6/10/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_25"
+            "id": "q_periodic_table_and_classification_25",
+            "correct_option": 1
         },
         {
             "question": "मानव शरीर में सबसे प्रचुर तत्व ________ है",
@@ -421,7 +435,8 @@
             "examName": "RRB Group D 20 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_28"
+            "id": "q_periodic_table_and_classification_28",
+            "correct_option": 1
         },
         {
             "question": "प्रकाश बल्ब का तन्तु किसका बना होता है?",
@@ -436,7 +451,8 @@
             "examName": "RRB NTPC Tier I : 2 Apr 2016 Shift 2",
             "examYear": "2016",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_29"
+            "id": "q_periodic_table_and_classification_29",
+            "correct_option": 2
         },
         {
             "question": "अधातु सामान्यतः अधिक विद्युतऋणात्मक होते हैं क्योंकि उनकी ________।",
@@ -451,7 +467,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_30"
+            "id": "q_periodic_table_and_classification_30",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस तत्व को विद्युत अपघटन अपचयन द्वारा निकाला जाता है?",
@@ -481,7 +498,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_32"
+            "id": "q_periodic_table_and_classification_32",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन निरूपक तत्वों के संदर्भ में सही है?",
@@ -496,7 +514,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 21 Jun, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_33"
+            "id": "q_periodic_table_and_classification_33",
+            "correct_option": 1
         },
         {
             "question": "_______ तत्व में सबसे कम आयनीकरण ऊर्जा है।",
@@ -511,7 +530,8 @@
             "examName": "RRB Group D 2 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_34"
+            "id": "q_periodic_table_and_classification_34",
+            "correct_option": 3
         },
         {
             "question": "तत्व 'X' के बाहरी कोश में सात इलेक्ट्रॉन हैं। आधुनिक आवर्त सारणी के उस समूह का चयन कीजिए जिससे यह संबंधित है।",
@@ -526,7 +546,8 @@
             "examName": "RRB Group D 17 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_35"
+            "id": "q_periodic_table_and_classification_35",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किन दो तत्वों में समान संख्या में संयोजी इलेक्ट्रॉन होते हैं?",
@@ -571,7 +592,8 @@
             "examName": "RRB Group D 30 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_38"
+            "id": "q_periodic_table_and_classification_38",
+            "correct_option": 2
         },
         {
             "question": "न्यूलैंड के अष्टक नियम के अनुसार, बेरिलियम के गुण ______ के समान हैं।",
@@ -616,7 +638,8 @@
             "examName": "RRB Group D 9/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_41"
+            "id": "q_periodic_table_and_classification_41",
+            "correct_option": 2
         },
         {
             "question": "आवर्त सारणी का आविष्कार किस वैज्ञानिक ने किया था?",
@@ -631,7 +654,8 @@
             "examName": "RRB NTPC CBT-I : 25 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_42"
+            "id": "q_periodic_table_and_classification_42",
+            "correct_option": 2
         },
         {
             "question": "ऐक्टिनॉइड की परमाणु संख्या _____ तक हैं।",
@@ -646,7 +670,8 @@
             "examName": "RRB Group D 8/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_43"
+            "id": "q_periodic_table_and_classification_43",
+            "correct_option": 2
         },
         {
             "question": "_____ एक एक्टिनोइड नहीं है।",
@@ -676,7 +701,8 @@
             "examName": "RRB Group D 11 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_45"
+            "id": "q_periodic_table_and_classification_45",
+            "correct_option": 2
         },
         {
             "question": "किस तत्व की द्रव्यमान संख्या 27 है और इसमें 14 न्यूट्रॉन उपस्थित होते हैं?",
@@ -691,7 +717,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_46"
+            "id": "q_periodic_table_and_classification_46",
+            "correct_option": 2
         },
         {
             "question": "आवर्त सारणी का आविष्कार किसने किया था?",
@@ -706,7 +733,8 @@
             "examName": "RRB Group D 11/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_47"
+            "id": "q_periodic_table_and_classification_47",
+            "correct_option": 1
         },
         {
             "question": "तत्वों का उनके संयोजकता शैल इलेक्ट्रॉनों के अनुसार सही क्रम क्या है?",
@@ -721,7 +749,8 @@
             "examName": "RRB Group D 22 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_48"
+            "id": "q_periodic_table_and_classification_48",
+            "correct_option": 1
         },
         {
             "question": "नैट्रियम _____ लैटिन नाम है।",
@@ -736,7 +765,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_49"
+            "id": "q_periodic_table_and_classification_49",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन बहुसंयोजी अधातु है?",
@@ -766,7 +796,8 @@
             "examName": "RRB Group D 22 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_51"
+            "id": "q_periodic_table_and_classification_51",
+            "correct_option": 3
         },
         {
             "question": "'अक्रिय गैसे' _________ समूह में होती है।",
@@ -781,7 +812,8 @@
             "examName": "RRB Group D 15/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_52"
+            "id": "q_periodic_table_and_classification_52",
+            "correct_option": 2
         },
         {
             "question": "_______ के वर्गीकरण में 7 आवर्त और 18 समूह हैं।",
@@ -796,7 +828,8 @@
             "examName": "RRB Group D 26 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_53"
+            "id": "q_periodic_table_and_classification_53",
+            "correct_option": 1
         },
         {
             "question": "चौथे आवर्त और दूसरे समूह में मौजूद तत्व _______ है।",
@@ -826,7 +859,8 @@
             "examName": "RRB Group D 3/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_55"
+            "id": "q_periodic_table_and_classification_55",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सी अधातु कमरे के तापमान पर द्रव अवस्था में पाई जाती है?",
@@ -841,7 +875,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_56"
+            "id": "q_periodic_table_and_classification_56",
+            "correct_option": 2
         },
         {
             "question": "न्यूलैंड्स अष्टक नियम के अनुसार, निम्नलिखित में से किस तत्व के गुणधर्म समान हैं?",
@@ -871,12 +906,13 @@
             "examName": "RRB Group D 5 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_58"
+            "id": "q_periodic_table_and_classification_58",
+            "correct_option": 2
         },
         {
             "question": "बेरीलियम ________ के समान है।",
             "options": [
-                "एल्युमीनियम",
+                "एल्यमेंीनियम",
                 "ज़िंक",
                 "रेडॉन",
                 "लीथियम"
@@ -901,7 +937,8 @@
             "examName": "RRB Group D 31/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_60"
+            "id": "q_periodic_table_and_classification_60",
+            "correct_option": 3
         },
         {
             "question": "त्रिक में मध्य तत्व होता है:",
@@ -916,7 +953,8 @@
             "examName": "RRB Group D 17 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_61"
+            "id": "q_periodic_table_and_classification_61",
+            "correct_option": 3
         },
         {
             "question": "मेंडेलीव की आवर्त सारणी में चौथे आवर्त के VIII समूह और पहली श्रेणी में कौन सा तत्व उपस्थित नहीं है?",
@@ -931,7 +969,8 @@
             "examName": "RRB Group D 6/10/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_62"
+            "id": "q_periodic_table_and_classification_62",
+            "correct_option": 3
         },
         {
             "question": "सल्फर का प्रतीक क्या है?",
@@ -946,7 +985,8 @@
             "examName": "RPF Constable 2018 18 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_63"
+            "id": "q_periodic_table_and_classification_63",
+            "correct_option": 1
         },
         {
             "question": "रेडियोधर्मी तत्वों को ______ में रखा गया है।",
@@ -976,7 +1016,8 @@
             "examName": "RRB Group D 31/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_65"
+            "id": "q_periodic_table_and_classification_65",
+            "correct_option": 1
         },
         {
             "question": "मेंडेलीव की आवर्त सारणी के बारे में कौन सा कथन गलत है?",
@@ -991,7 +1032,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_66"
+            "id": "q_periodic_table_and_classification_66",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा आधुनिक आवर्त नियम है?",
@@ -1021,7 +1063,8 @@
             "examName": "RRB Group D 24 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_68"
+            "id": "q_periodic_table_and_classification_68",
+            "correct_option": 1
         },
         {
             "question": "प्रत्येक आवर्त में प्रथम तत्व में 1 संयोजक इलेक्ट्रॉन होता है और प्रत्येक आवर्त में अंतिम तत्व में _________ इलेक्ट्रॉन होते है। (हीलियम के अलावा)",
@@ -1036,7 +1079,8 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_69"
+            "id": "q_periodic_table_and_classification_69",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन सही है?",
@@ -1056,7 +1100,8 @@
                 "A) तत्वों के भौतिक और रासायनिक गुणों की तुलना करने के लिए वर्गीकरण आवश्यक है।",
                 "B) एक ही समूह में समान तत्वों की व्यवस्था करने के लिए वर्गीकरण आवश्यक है।",
                 "C) एक ही समूह में समान तत्वों की व्यवस्था करने के लिए वर्गीकरण आवश्यक नहीं है।"
-            ]
+            ],
+            "correct_option": 2
         },
         {
             "question": "सीसे के संलयन की विशिष्ट गुप्त ऊष्मा 23 Jg -1 है। सीसे के एक भाग का द्रव्यमान ज्ञात कीजिए यदि यह 327°C के हिमांक पर जमने पर 2116 J ऊष्मा उत्सर्जित करता है।",
@@ -1071,7 +1116,8 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_71"
+            "id": "q_periodic_table_and_classification_71",
+            "correct_option": 1
         },
         {
             "question": "आधुनिक आवर्त सारणी के किस वग में हैलोजन को स्थापित किया गया है?",
@@ -1086,7 +1132,8 @@
             "examName": "RRB Group D 18/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_72"
+            "id": "q_periodic_table_and_classification_72",
+            "correct_option": 3
         },
         {
             "question": "आधुनिक आवर्त सारणी में निम्नलिखित लक्षणों को सुमेलित कीजिए: i. सबसे छोटा परमाणु a. सीज़ियम ii. उप-धातु b. फ्लोरीन iii. सबसे धात्विक प्राकृतिक तत्व c. सिलिकॉन iv. सबसे अधिक विद्युतऋणात्मक d. आयोडीन v. सबसे कम विद्युतऋणात्मक e. लिथियम",
@@ -1116,7 +1163,8 @@
             "examName": "RRB NTPC UG CBT-I : 07 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_74"
+            "id": "q_periodic_table_and_classification_74",
+            "correct_option": 2
         },
         {
             "question": "आवर्त सारणी में,प्रत्येक 4 और 5 आवर्त में कितने तत्त्व होते है",
@@ -1131,7 +1179,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_75"
+            "id": "q_periodic_table_and_classification_75",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सी धातु सबसे अधिक तन्य है?",
@@ -1146,7 +1195,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_76"
+            "id": "q_periodic_table_and_classification_76",
+            "correct_option": 3
         },
         {
             "question": "कौन-से तत्व सिलिकॉन के समान संयोजकता प्रदर्शित करते हैं?",
@@ -1161,7 +1211,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_77"
+            "id": "q_periodic_table_and_classification_77",
+            "correct_option": 2
         },
         {
             "question": "'ट्रायड्स' शब्द का प्रयोग ______ने किया था।",
@@ -1191,7 +1242,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_79"
+            "id": "q_periodic_table_and_classification_79",
+            "correct_option": 2
         },
         {
             "question": "परमाणु संख्या 16 का एक तत्व आवर्त सारणी के _____ आवर्त का होगा।",
@@ -1206,7 +1258,8 @@
             "examName": "RRB Group D 28/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_80"
+            "id": "q_periodic_table_and_classification_80",
+            "correct_option": 2
         },
         {
             "question": "प्रतीक ‘ B’ किस तत्व को दर्शाता है?",
@@ -1221,7 +1274,8 @@
             "examName": "RRB Technician Grade III 06/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_81"
+            "id": "q_periodic_table_and_classification_81",
+            "correct_option": 3
         },
         {
             "question": "_________ तत्व को दिए गए प्रतीक द्वारा दशाया गया है।",
@@ -1236,7 +1290,8 @@
             "examName": "RRB Group D 3/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_82"
+            "id": "q_periodic_table_and_classification_82",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस तत्व समूह की खोज मेंडेलीव की आवर्त सारणी में नहीं हुई थी?",
@@ -1251,7 +1306,8 @@
             "examName": "RRB Group D 20 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_83"
+            "id": "q_periodic_table_and_classification_83",
+            "correct_option": 1
         },
         {
             "question": "उस तत्व की पहचान कीजिए, जो प्रकृति में अणु के रूप में विद्यमान नहीं होता है?",
@@ -1266,7 +1322,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_84"
+            "id": "q_periodic_table_and_classification_84",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा ऑक्साइड एका-एल्यमेंिनियम के ऑक्साइड से संबंधित है?",
@@ -1281,7 +1338,8 @@
             "examName": "RRB Group D 12 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_85"
+            "id": "q_periodic_table_and_classification_85",
+            "correct_option": 3
         },
         {
             "question": "नीचे दिए गए कथनों पर विचार करें और सही उत्तर पहचानें।\n\n• कथन।: लिथियम, सोडियम और रुबिडियम डोबेराइनर त्रिक के तत्व हैं।\n\n• कथन II: त्रिक में, मध्य तत्व का परमाणु द्रव्यमान अन्य दो तत्वों के परमाणु द्रव्यमान का लगभग औसत था।",
@@ -1296,7 +1354,8 @@
             "examName": "RRB Group D 25 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_86"
+            "id": "q_periodic_table_and_classification_86",
+            "correct_option": 1
         },
         {
             "question": "तत्वों के रासायनिक गुणों का अध्ययन करने के लिए मेंडेलीव ने किन दो तत्वों द्वारा निर्मित यौगिकों पर ध्यान केंद्रित किया?",
@@ -1311,7 +1370,8 @@
             "examName": "RRB Group D 24 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_87"
+            "id": "q_periodic_table_and_classification_87",
+            "correct_option": 1
         },
         {
             "question": "परमाणु संख्या 35, 53 और 85 वाले तत्व _________ हैं।",
@@ -1326,7 +1386,8 @@
             "examName": "RRB Group D 22/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_88"
+            "id": "q_periodic_table_and_classification_88",
+            "correct_option": 3
         },
         {
             "question": "न्यूलैंड का अष्टक नियम केवल तत्व _______ तक ही लागू होता था।",
@@ -1341,7 +1402,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_89"
+            "id": "q_periodic_table_and_classification_89",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस श्रेणी में तत्वों को उनकी बढ़ती परमाणु संख्या के क्रम में व्यवस्थित किया गया है?",
@@ -1371,7 +1433,8 @@
             "examName": "RRB Group D 29/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_91"
+            "id": "q_periodic_table_and_classification_91",
+            "correct_option": 3
         },
         {
             "question": "तत्वों के वर्गीकरण की आवश्यकता के लिए निम्नलिखित में से कौन-सा उचित कारण नहीं है?",
@@ -1386,7 +1449,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_92"
+            "id": "q_periodic_table_and_classification_92",
+            "correct_option": 1
         },
         {
             "question": "परमाणु त्रिज्या के सही बढ़ते क्रम का चयन करें।",
@@ -1401,7 +1465,8 @@
             "examName": "RRB Group D 30 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_93"
+            "id": "q_periodic_table_and_classification_93",
+            "correct_option": 3
         },
         {
             "question": "मेंडेलीव की आवर्त सारणी में तत्वों के परमाणु द्रव्यमान और उनके ______ के बीच संबंध की जाँच की गई।",
@@ -1431,7 +1496,8 @@
             "examName": "RRB JE CBT-II Electronics : 31 Aug, 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_95"
+            "id": "q_periodic_table_and_classification_95",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सी धातु तनु हाइड्रोक्लोरिक अम्ल के प्रति अधिक अभिक्रियाशील है?",
@@ -1461,7 +1527,8 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_97"
+            "id": "q_periodic_table_and_classification_97",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से किसे पीटकर पतली चादरें बनाई जा सकती हैं?",
@@ -1476,7 +1543,8 @@
             "examName": "RRB JE CBT I - : 31 May 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_98"
+            "id": "q_periodic_table_and_classification_98",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा तत्व, +2 संयोजकता दर्शाता है?",
@@ -1491,7 +1559,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_99"
+            "id": "q_periodic_table_and_classification_99",
+            "correct_option": 2
         },
         {
             "question": "अष्टक नियम किसकी खोज के बाद अप्रासंगिक हो गया:",
@@ -1506,7 +1575,8 @@
             "examName": "RRB Group D 28 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_100"
+            "id": "q_periodic_table_and_classification_100",
+            "correct_option": 2
         },
         {
             "question": "न्यूलैंड्स के अनुसार प्रकृति में कितने तत्व विद्यमान थे?",
@@ -1551,7 +1621,8 @@
             "examName": "RRB Group D 11/10/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_103"
+            "id": "q_periodic_table_and_classification_103",
+            "correct_option": 3
         },
         {
             "question": "एक समूह में, संयोजी इलेक्ट्रॉनों की संख्या ______ है।",
@@ -1566,7 +1637,8 @@
             "examName": "RRB Group D 12 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_104"
+            "id": "q_periodic_table_and_classification_104",
+            "correct_option": 1
         },
         {
             "question": "निरूपक तत्वों का अन्य नाम क्या है?",
@@ -1581,7 +1653,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 14 Jun, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_105"
+            "id": "q_periodic_table_and_classification_105",
+            "correct_option": 3
         },
         {
             "question": "आवर्त सारणी में तत्वों के वितरण के संदर्भ में निम्नलिखित में से कौन-सा कथन सही नहीं है? क रुप से बिखरी होती हैं।",
@@ -1596,7 +1669,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 14 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_106"
+            "id": "q_periodic_table_and_classification_106",
+            "correct_option": 2
         },
         {
             "question": "मेंडलीव की आवर्त सारणी में, निम्नलिखित में से किस समूह से संबंधित तत्वों को बाद में सारिणी में शामिल किया गया?",
@@ -1611,7 +1685,8 @@
             "examName": "RRB JE CE 19 Sept 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_107"
+            "id": "q_periodic_table_and_classification_107",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा तत्व p- ब्लॉक में पाया जाता है?",
@@ -1626,7 +1701,8 @@
             "examName": "RRB NTPC UG CBT-I : 11 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_108"
+            "id": "q_periodic_table_and_classification_108",
+            "correct_option": 2
         },
         {
             "question": "परमाणु संख्या 56 वाले तत्व किस समूह से संबंधित हैं?",
@@ -1657,7 +1733,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_110"
+            "id": "q_periodic_table_and_classification_110",
+            "correct_option": 3
         },
         {
             "question": "पौधों में प्रोटीन और अन्य यौगिकों के संश्लेषण में किस आवश्यक तत्व का उपयोग किया जाता है?",
@@ -1672,7 +1749,8 @@
             "examName": "RRB NTPC CBT-I : 5 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_111"
+            "id": "q_periodic_table_and_classification_111",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित प्रोटॉनों और न्यूट्रॉनों की संख्या के संगत तत्वों का पूवानमेंान लगाएं। A: 20 प्रोटॉन और 20 न्यूट्रॉन B: 19 प्रोटॉन और 20 न्यूट्रॉन",
@@ -1687,7 +1765,8 @@
             "examName": "RRB Level 01 Stage I 15/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_112"
+            "id": "q_periodic_table_and_classification_112",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से क्या न्यूलैंड के अष्टक का उदाहरण है?",
@@ -1702,7 +1781,8 @@
             "examName": "RRB Group D 27 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_113"
+            "id": "q_periodic_table_and_classification_113",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा आणविक एकपरमाणुक है?",
@@ -1717,7 +1797,8 @@
             "examName": "RPF Constable 2018 17 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_114"
+            "id": "q_periodic_table_and_classification_114",
+            "correct_option": 3
         },
         {
             "question": "एक एल्युमीनियम परमाणु में इलेक्ट्रॉन वितरण है-",
@@ -1732,7 +1813,8 @@
             "examName": "RRB JE 25 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_115"
+            "id": "q_periodic_table_and_classification_115",
+            "correct_option": 1
         },
         {
             "question": "कौन-सा तत्व एकपरमाणुक अणु के रूप में विद्यमान रहता है?",
@@ -1747,7 +1829,8 @@
             "examName": "RRB JE 20/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_116"
+            "id": "q_periodic_table_and_classification_116",
+            "correct_option": 3
         },
         {
             "question": "गण्डमाला के उपचार में किस आइसोटोप का उपयोग किया जाता है?",
@@ -1762,7 +1845,8 @@
             "examName": "RRB JE CBT-II Electronics : 31 Aug, 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_117"
+            "id": "q_periodic_table_and_classification_117",
+            "correct_option": 1
         },
         {
             "question": "आनुवंशिकी और वंशानेक्रम पर पहला वैज्ञानिक प्रयोग उन्नीसवीं शताब्दी के मध्य में आयोजित किया गया था। उद्यान मटर पर ये संकरण प्रयोग किसने किए?",
@@ -1777,7 +1861,8 @@
             "examName": "RPF Constable 2024 : 17 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_118"
+            "id": "q_periodic_table_and_classification_118",
+            "correct_option": 2
         },
         {
             "question": "जैसे परमाणु क्रमांक ______ और नाभिकीय आवेश ______, नाभिक और संयोजी इलेक्ट्रॉनों के बीच आकर्षण बल ______, इसलिए, Li से F तक परमाणु त्रिज्या ______।",
@@ -1792,7 +1877,8 @@
             "examName": "RRB Group D 17 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_119"
+            "id": "q_periodic_table_and_classification_119",
+            "correct_option": 1
         },
         {
             "question": "किस तत्व अष्टक सिद्धांत लागू पाया गया था?",
@@ -1807,7 +1893,8 @@
             "examName": "RRB JE 22 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_120"
+            "id": "q_periodic_table_and_classification_120",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा तत्व आवर्त सारणी के s- ब्लॉक से संबंधित है?",
@@ -1822,7 +1909,8 @@
             "examName": "RRB NTPC UG CBT-I : 01 Sept, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_121"
+            "id": "q_periodic_table_and_classification_121",
+            "correct_option": 2
         },
         {
             "question": "न्यूलैंड्स का अष्टक नियम नियम केवल _____ तक लागू था।",
@@ -1852,7 +1940,8 @@
             "examName": "RRB Group D 23 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_123"
+            "id": "q_periodic_table_and_classification_123",
+            "correct_option": 3
         },
         {
             "question": "परमाण्विक प्रतीकों के नियमों के अनुसार, निम्नलिखित में से किस प्रतीक को तत्व फॉस्फोरस के लिए प्रयुक्त किया जाता है?",
@@ -1867,7 +1956,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_124"
+            "id": "q_periodic_table_and_classification_124",
+            "correct_option": 2
         },
         {
             "question": "स्तंभ A को स्तंभ B से सुमेलित कीजिए।",
@@ -1897,7 +1987,8 @@
             "examName": "RRB Group D 17/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_126"
+            "id": "q_periodic_table_and_classification_126",
+            "correct_option": 1
         },
         {
             "question": "समान द्रव्यमान संख्या होने के बावजूद, समभारिक भिन्न रासायनिक गुण क्यों प्रदर्शित करते हैं?",
@@ -1912,7 +2003,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_127"
+            "id": "q_periodic_table_and_classification_127",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा तत्व ईका-बोरान के रूप में जाना जाता है?",
@@ -1927,7 +2019,8 @@
             "examName": "RRB JE 22 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_128"
+            "id": "q_periodic_table_and_classification_128",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से गलत कथनों का चयन करें।",
@@ -1948,7 +2041,8 @@
                 "(ii) लिथियम के बाद सोडियम आठवां तत्व है।",
                 "(iii) बेरिलियम के बाद कैल्शियम आठवां तत्व है।",
                 "(iv) ऑक्टेव्स का नियम केवल मैग्नीशियम तक लागू था, क्योंकि मैग्नीशियम के बाद हर आठवें तत्व में पहले के समान गुण नहीं थे।"
-            ]
+            ],
+            "correct_option": 2
         },
         {
             "question": "______ तत्व की बाहरी कक्षा में 8 इलेक्ट्रॉनों के साथ तीन कक्षायें हैं।",
@@ -1963,7 +2057,8 @@
             "examName": "RRB Group D 26/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_130"
+            "id": "q_periodic_table_and_classification_130",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किसकी परमाणु त्रिज्या सबसे बड़ी है?",
@@ -1978,7 +2073,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_131"
+            "id": "q_periodic_table_and_classification_131",
+            "correct_option": 2
         },
         {
             "question": "एक ऐसी धातु का नाम बताएं, जिसे चाकू से आसानी से काटा जा सकता है।",
@@ -1993,7 +2089,8 @@
             "examName": "RRB JE ME 30 Aug 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_132"
+            "id": "q_periodic_table_and_classification_132",
+            "correct_option": 1
         },
         {
             "question": "आधुनिक आवर्त सारणी के समूह 2 में कौन सा तत्व शामिल नहीं है?",
@@ -2008,7 +2105,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_133"
+            "id": "q_periodic_table_and_classification_133",
+            "correct_option": 2
         },
         {
             "question": "आधुनिक आवर्त सारणी में जिंक की स्थिति क्या है?",
@@ -2038,7 +2136,8 @@
             "examName": "RRB Group D 5/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_135"
+            "id": "q_periodic_table_and_classification_135",
+            "correct_option": 1
         },
         {
             "question": "Ce-58 तत्वों के _______ ब्लॉक का सदस्य है।",
@@ -2099,7 +2198,8 @@
             "examName": "RRB Group D 26 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_139"
+            "id": "q_periodic_table_and_classification_139",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा तत्व सवाधिक विद्युत धनात्मक है?",
@@ -2129,7 +2229,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_141"
+            "id": "q_periodic_table_and_classification_141",
+            "correct_option": 1
         },
         {
             "question": "जॉन डाल्टन ने अपना परमाणु सिद्धांत कब प्रकाशित किया था जिसमें कहा गया है कि सभी तत्व छोटे, अविभाज्य कणों से बने होते हैं?",
@@ -2159,7 +2260,8 @@
             "examName": "RRB Group D 8 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_143"
+            "id": "q_periodic_table_and_classification_143",
+            "correct_option": 2
         },
         {
             "question": "आधुनिक आवर्त सारणी में कौन-सा तत्व समूह संख्या 11 से संबंधित नहीं है?",
@@ -2174,7 +2276,8 @@
             "examName": "RRB Group D 16 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_144"
+            "id": "q_periodic_table_and_classification_144",
+            "correct_option": 3
         },
         {
             "question": "चाँदी किस पदार्थ के साथ करके काली हो जाती है?",
@@ -2189,7 +2292,8 @@
             "examName": "RRB NTPC CBT-I : 27 Feb 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_145"
+            "id": "q_periodic_table_and_classification_145",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा तत्व उपधातु है?",
@@ -2204,7 +2308,8 @@
             "examName": "RRB Group D 13 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_146"
+            "id": "q_periodic_table_and_classification_146",
+            "correct_option": 3
         },
         {
             "question": "मेंडलीफ आवर्त सारणी में, अज्ञात तत्वों के लिए अंतराल छोड़ दिया गया था। निम्नलिखित में से किस तत्व को आवर्त सारणी में बाद में स्थान मिला?",
@@ -2219,7 +2324,8 @@
             "examName": "RRB Group D 22/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_147"
+            "id": "q_periodic_table_and_classification_147",
+            "correct_option": 2
         },
         {
             "question": "___________ आधुनिक आवर्त सारणी में पहला उपधातु है।",
@@ -2234,7 +2340,8 @@
             "examName": "RRB Group D 27 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_148"
+            "id": "q_periodic_table_and_classification_148",
+            "correct_option": 1
         },
         {
             "question": "रक्त समूह की खोज किसने की?",
@@ -2249,7 +2356,8 @@
             "examName": "RRB NTPC CBT-I : 1 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_149"
+            "id": "q_periodic_table_and_classification_149",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा तत्व \" Ag\" प्रतीक द्वारा दशाया गया है?",
@@ -2264,7 +2372,8 @@
             "examName": "RRB JE 25 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_150"
+            "id": "q_periodic_table_and_classification_150",
+            "correct_option": 3
         },
         {
             "question": "नीचे दिए गए कथनों पर विचार कीजिए और सही उत्तर पहचानिए।\n\n• कथन।: किसी आवर्त में बाएँ से दाएँ जाने पर परमाणु त्रिज्या बढ़ती है।\n\n• कथन II: एक आवर्त में बाएँ से दाएँ जाने पर परमाणु आवेश बढ़ता है।",
@@ -2279,7 +2388,8 @@
             "examName": "RRB Group D 26 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_151"
+            "id": "q_periodic_table_and_classification_151",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस तत्व का रासायनिक प्रतीक लैटिन से लिया गया है?",
@@ -2294,7 +2404,8 @@
             "examName": "RRB Group D 17/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_152"
+            "id": "q_periodic_table_and_classification_152",
+            "correct_option": 2
         },
         {
             "question": "न्यूलैंड्स द्वारा परमाणु द्रव्यमान के बढ़ते क्रम में तत्वों के व्यवस्थापन में, अंतिम तत्व कौन सा था?",
@@ -2324,7 +2435,8 @@
             "examName": "RRB NTPC UG CBT-I : 18 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_154"
+            "id": "q_periodic_table_and_classification_154",
+            "correct_option": 3
         },
         {
             "question": "एक धातु का उदाहरण दीजिए जो कक्ष ताप पर तरल होता है।",
@@ -2339,7 +2451,8 @@
             "examName": "RRB JE EE 1 Sept 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_155"
+            "id": "q_periodic_table_and_classification_155",
+            "correct_option": 2
         },
         {
             "question": "परमाणु क्रमांक 21 वाला तत्व ______ है।",
@@ -2354,7 +2467,8 @@
             "examName": "RRB NTPC UG CBT-I : 09 Sept, 2025 Shift 1",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_156"
+            "id": "q_periodic_table_and_classification_156",
+            "correct_option": 1
         },
         {
             "question": "आधुनिक आवर्त सारणी के पहले व दूसरे समूह को क्या कहा जाता है?",
@@ -2369,7 +2483,8 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_157"
+            "id": "q_periodic_table_and_classification_157",
+            "correct_option": 1
         },
         {
             "question": "दी गई श्रेणियों में से सही डाॅबेराइनर के त्रिक का चयन करें।",
@@ -2399,7 +2514,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 22/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_159"
+            "id": "q_periodic_table_and_classification_159",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित का मिलान सही प्रतिक्रिया के साथ करें:",
@@ -2420,7 +2536,8 @@
                 "(2) ताँबा",
                 "(3) सल्फर",
                 "(4) सोडियम"
-            ]
+            ],
+            "correct_option": 3
         },
         {
             "question": "ऑक्सीजन के संबंध में हैलोजन समूह की अधिकतम संयोजकता ______ है-",
@@ -2435,7 +2552,8 @@
             "examName": "RRB Group D 26/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_161"
+            "id": "q_periodic_table_and_classification_161",
+            "correct_option": 1
         },
         {
             "question": "डॉबेराइनर के त्रिक की उपलब्धि क्या थी?",
@@ -2450,7 +2568,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_162"
+            "id": "q_periodic_table_and_classification_162",
+            "correct_option": 1
         },
         {
             "question": "डोबेराइनर के त्रिक नियम के लिए क्लोरीन, ब्रोमीन और आयोडीन का सही क्रम चुनिए।",
@@ -2465,7 +2584,8 @@
             "examName": "RRB Group D 7/10/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_163"
+            "id": "q_periodic_table_and_classification_163",
+            "correct_option": 3
         },
         {
             "question": "आधुनिक आवर्त सारणी में, ब्रोमीन _________ आवर्त में पाया जाता है।",
@@ -2480,7 +2600,8 @@
             "examName": "RRB Group D 15/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_164"
+            "id": "q_periodic_table_and_classification_164",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस तत्व में सबसे अधिक विद्युत्-ऋणात्मकता है?",
@@ -2510,7 +2631,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_166"
+            "id": "q_periodic_table_and_classification_166",
+            "correct_option": 1
         },
         {
             "question": "आधुनिक आवर्त सारणी में निम्नलिखित विशेषताओं का मिलान कीजिए: i. तालिका में ब्लॉकों की कुल संख्या a. 4 ii. आवर्त की कुल संख्या b. 2 iii. K कोश में तत्वों की संख्या c. 8 iv. M कोश में तत्वों की संख्या d. 7 v L कोश में तत्वों की संख्या e. 18",
@@ -2525,7 +2647,8 @@
             "examName": "RRB Group D 1 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_167"
+            "id": "q_periodic_table_and_classification_167",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस अधातु द्वारा निर्मित ऋणायन, Ca₂+ आयन के साथ अभिक्रिया करके एक स्थायी आयनिक यौगिक बनाता है?",
@@ -2555,7 +2678,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_169"
+            "id": "q_periodic_table_and_classification_169",
+            "correct_option": 1
         },
         {
             "question": "पीली सड़क रौशनी में _______ इस्तेमाल होता है।",
@@ -2570,7 +2694,8 @@
             "examName": "RRB NTPC Tier I : 27 Apr 2016 Shift 2",
             "examYear": "2016",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_170"
+            "id": "q_periodic_table_and_classification_170",
+            "correct_option": 3
         },
         {
             "question": "इनमें से कौन सा द्विपरमाणुक है?",
@@ -2585,7 +2710,8 @@
             "examName": "RRB JE 27 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_171"
+            "id": "q_periodic_table_and_classification_171",
+            "correct_option": 3
         },
         {
             "question": "एक ही समूह में तत्वों के समान ________ है।",
@@ -2635,7 +2761,8 @@
                 "(i) तत्वों के विभिन्न गुणों में से कुछ पैट्रनों की पहचान करना।",
                 "(ii) संश्लेषण के आधार पर तत्वों की पुनव्यवस्था करना।",
                 "(iii) विभिन्न तत्वों के रंगों के विषय में व्यापक विचार प्राप्त करना।"
-            ]
+            ],
+            "correct_option": 1
         },
         {
             "question": "लिथियम, सोडियम और पोटैशियम के बीच क्या समानता है?",
@@ -2680,7 +2807,8 @@
             "examName": "RRB Level 01 Stage I 19/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_177"
+            "id": "q_periodic_table_and_classification_177",
+            "correct_option": 2
         },
         {
             "question": "हेलोजनों में से सवाधिक अभिक्रियाशील धातु कौन सी है?",
@@ -2695,7 +2823,8 @@
             "examName": "RRB JE 29 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_178"
+            "id": "q_periodic_table_and_classification_178",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा अधातु है?",
@@ -2710,7 +2839,8 @@
             "examName": "RPF Constable 2018 12 Feb 2019 shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_179"
+            "id": "q_periodic_table_and_classification_179",
+            "correct_option": 2
         },
         {
             "question": "आधुनिक आवर्त सारणी में, 11 से 18 तक परमाणु संख्या वाले तत्वों को किस आवर्त में रखा गया है:",
@@ -2725,7 +2855,8 @@
             "examName": "RRB Group D 26/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_180"
+            "id": "q_periodic_table_and_classification_180",
+            "correct_option": 2
         },
         {
             "question": "डोबेराइनर ने तीन तत्वों को एक त्रिक में किस क्रम में व्यवस्थित किया?",
@@ -2800,7 +2931,8 @@
             "examName": "RRB Group D 17 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_185"
+            "id": "q_periodic_table_and_classification_185",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा अधिकतम संयोजक इलेक्ट्रॉनों की संख्या को प्रदर्शित करता है?",
@@ -2830,7 +2962,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 20 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_187"
+            "id": "q_periodic_table_and_classification_187",
+            "correct_option": 3
         },
         {
             "question": "डोबेराइनर के त्रिक के संबंध में निम्नलिखित में से कौन-सा कथन सही नहीं है? तत्व का परमाणु द्रव्यमान अन्य दो तत्वों के परमाणु द्रव्यमान का लगभग औसत है। मध्य तत्व का परमाणु द्रव्यमान अन्य दो तत्वों के परमाणु द्रव्यमान का लगभग औसत होता है।",
@@ -2860,7 +2993,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 10 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_189"
+            "id": "q_periodic_table_and_classification_189",
+            "correct_option": 3
         },
         {
             "question": "इनमें से कौन सी धातु कक्ष तापमान पर तरल है?",
@@ -2875,7 +3009,8 @@
             "examName": "RRB JE 27 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_190"
+            "id": "q_periodic_table_and_classification_190",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सी अक्रिय गैसों को अवधि 5 में रखा गया है?",
@@ -2890,7 +3025,8 @@
             "examName": "RRB Group D 4/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_191"
+            "id": "q_periodic_table_and_classification_191",
+            "correct_option": 2
         },
         {
             "question": "मेंडेलीव ने आवर्त सारणी किस वष प्रकाशित की थी?",
@@ -2905,7 +3041,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 16 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_192"
+            "id": "q_periodic_table_and_classification_192",
+            "correct_option": 2
         },
         {
             "question": "नीचे दिए गए कथनों पर विचार करें और सही उत्तर पहचानिए। कथन - I: डोबेराइनर ने उत्प्रेरक के रूप में प्लैटिनम पर पहला अवलोकन किया और तत्वों के समान त्रिक की खोज की जिससे तत्वों की आवर्त सारणी का विकास हुआ। कथन - II: जे.डब्ल्यू. डोबेराइनर जेना विश्वविद्यालय में रसायन विज्ञान और फार्मसेी के प्रोफेसर थे।",
@@ -2920,7 +3057,8 @@
             "examName": "RRB Group D 5 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_193"
+            "id": "q_periodic_table_and_classification_193",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित प्रश्न के लिए सही क्रम का निधारण कीजिये, जिसमे A, B, C, D, E क्रमशः समूह 15, 16, 17 की आवर्त सारणी की पंक्तियों में 1 से 4 तक तत्वों की परमाणु संख्या हैं, जिसे नीचे दिए गए चित्र में दशाया गया है- समूह 15 समूह 16 समूह 17 A C - - - - - - E B D -",
@@ -2935,7 +3073,8 @@
             "examName": "RRB Group D 1 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_194"
+            "id": "q_periodic_table_and_classification_194",
+            "correct_option": 3
         },
         {
             "question": "न्यूलैंड्स के अष्टक नियम के अनुसार, लौह, जो गुणों में ________ और ________ जैसा दिखता है इन तत्वों से बहुत दूर रखा गया है-",
@@ -2965,7 +3104,8 @@
             "examName": "RRB JE 28 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_196"
+            "id": "q_periodic_table_and_classification_196",
+            "correct_option": 1
         },
         {
             "question": "तत्वों का कौन सा सेट उनकी बढ़ती आयनीकरण ऊर्जा के एक क्रम में सूचीबद्ध है?",
@@ -2980,7 +3120,8 @@
             "examName": "RRB Group D 27 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_197"
+            "id": "q_periodic_table_and_classification_197",
+            "correct_option": 2
         },
         {
             "question": "पौधों में निम्नलिखित में से किस पोषक तत्व की सामान्यतः मिट्टी द्वारा आपूर्ति की जाती है?",
@@ -2995,7 +3136,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_198"
+            "id": "q_periodic_table_and_classification_198",
+            "correct_option": 3
         },
         {
             "question": "परमाणु संख्याओं के आधार पर तत्वों को किसने वर्गीकृत किया?",
@@ -3010,7 +3152,8 @@
             "examName": "RRB Group D 18/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_199"
+            "id": "q_periodic_table_and_classification_199",
+            "correct_option": 3
         },
         {
             "question": "निम्न मे से कौन डोबेराइनर त्रिक का उदाहरण नहीं है?",
@@ -3040,7 +3183,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 21 Jun, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_201"
+            "id": "q_periodic_table_and_classification_201",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन समूह 1 A के समान आवर्त से संबंधित है?",
@@ -3055,7 +3199,8 @@
             "examName": "RRB JE 23 May 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_202"
+            "id": "q_periodic_table_and_classification_202",
+            "correct_option": 1
         },
         {
             "question": "वग 14 का निम्नलिखित में से कौन-सा तत्व एक उपधातु है?",
@@ -3070,7 +3215,8 @@
             "examName": "RRB Group D 13 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_203"
+            "id": "q_periodic_table_and_classification_203",
+            "correct_option": 3
         },
         {
             "question": "ऑक्टेव्स के न्यूलैंड्स कानून में, जो कि गुणों में कोबाल्ट और निकल से मिलता जुलता है, _____ को इन तत्वों से दूर रखा गया है।",
@@ -3130,7 +3276,8 @@
             "examName": "RRB Group D 26 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_207"
+            "id": "q_periodic_table_and_classification_207",
+            "correct_option": 3
         },
         {
             "question": "आधुनिक आवर्त सारणी में कितने समूह और आवर्त हैं?",
@@ -3145,7 +3292,8 @@
             "examName": "RRB Group D 28/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_208"
+            "id": "q_periodic_table_and_classification_208",
+            "correct_option": 2
         },
         {
             "question": "वग 3, आवर्त 6 में लैन्थेनम के साथ स्थित तत्वों को क्या कहा जाता है?",
@@ -3160,7 +3308,8 @@
             "examName": "RRB Group D 6 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_209"
+            "id": "q_periodic_table_and_classification_209",
+            "correct_option": 3
         },
         {
             "question": "न्यूलैंड्स के अष्टक नियम में, निम्नलिखित में से कौन-से तत्वों के युग्म H, F, Cl और Br के साथ एक ही स्तंभ में रखे गए थे?",
@@ -3190,7 +3339,8 @@
             "examName": "RRB JE ME 31 Aug 2019 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_211"
+            "id": "q_periodic_table_and_classification_211",
+            "correct_option": 2
         },
         {
             "question": "_____ समूह 18 के तत्व हैं।",
@@ -3205,7 +3355,8 @@
             "examName": "RRB Group D 24/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_212"
+            "id": "q_periodic_table_and_classification_212",
+            "correct_option": 1
         },
         {
             "question": "मेंडलीफ की आवर्त सारणी में, तत्वों को किस क्रम में व्यवस्थित किया गया था?",
@@ -3235,7 +3386,8 @@
             "examName": "RRB JE CE 28 Aug 2019 Shift 2 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_214"
+            "id": "q_periodic_table_and_classification_214",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा एक क्षारीय पृथ्वी धातु का एक उदाहरण है?",
@@ -3265,7 +3417,8 @@
             "examName": "RRB Group D 19 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_216"
+            "id": "q_periodic_table_and_classification_216",
+            "correct_option": 2
         },
         {
             "question": "आधुनिक आवर्त सारणी में निम्नलिखित में से किस समूह में कोई धात्विक तत्व नहीं है?",
@@ -3310,7 +3463,8 @@
             "examName": "RRB Group D 19 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_219"
+            "id": "q_periodic_table_and_classification_219",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस तत्व के वंश से पोटैशियम संबंधित है?",
@@ -3325,7 +3479,8 @@
             "examName": "RRB JE 25 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_220"
+            "id": "q_periodic_table_and_classification_220",
+            "correct_option": 1
         },
         {
             "question": "थाइरॉइड ग्रंथि द्वारा थाइरॉक्सिन हार्मोन स्रावित करने के लिए कौन-सा तत्व आवश्यक है?",
@@ -3385,7 +3540,8 @@
             "examName": "RRB Group D 30/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_224"
+            "id": "q_periodic_table_and_classification_224",
+            "correct_option": 3
         },
         {
             "question": "बहुत तनु नाइट्रिक अम्ल के साथ अभिक्रिया करने पर कौन-सी धातुएँ हाइड्रोजन गैस उत्पन्न करती हैं?",
@@ -3400,7 +3556,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_225"
+            "id": "q_periodic_table_and_classification_225",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन आर्गन का संभारिक है?",
@@ -3415,7 +3572,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_226"
+            "id": "q_periodic_table_and_classification_226",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा बहुपरमाणुक है?",
@@ -3430,7 +3588,8 @@
             "examName": "RRB JE 24 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_227"
+            "id": "q_periodic_table_and_classification_227",
+            "correct_option": 2
         },
         {
             "question": "एक तत्व आवर्त 2 और समूह 2 से संबंधित है, इस तत्व के परमाणुओं में संयोजकता इलेक्ट्रॉनों की संख्या ज्ञात कीजिए।",
@@ -3445,7 +3604,8 @@
             "examName": "RRB Group D 5 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_228"
+            "id": "q_periodic_table_and_classification_228",
+            "correct_option": 2
         },
         {
             "question": "कार्बन किस समूह और आवर्त में मौजूद है?",
@@ -3460,7 +3620,8 @@
             "examName": "RRB Group D 11/10/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_229"
+            "id": "q_periodic_table_and_classification_229",
+            "correct_option": 1
         },
         {
             "question": "आधुनिक आवर्त नियम के संबंध में निम्नलिखित में से कौन सा कथन सही है? होता है। और न ही प्रोटॉनों की संख्या के बराबर।",
@@ -3475,7 +3636,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_230"
+            "id": "q_periodic_table_and_classification_230",
+            "correct_option": 1
         },
         {
             "question": "समूह 17 का कौन सा तत्व सतहों, पीने के पानी, सीवेज, औद्योगिक अपशिष्ट और स्विमिंग पूल और स्पा से बैक्टीरिया और वायरस को खत्म करने के लिए उपयोग किया जाता है?",
@@ -3490,7 +3652,8 @@
             "examName": "RRB NTPC UG CBT-I : 08 Sept, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_231"
+            "id": "q_periodic_table_and_classification_231",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा तत्व समूह 17 से संबंधित नहीं है?",
@@ -3505,7 +3668,8 @@
             "examName": "RRB Group D 25/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_232"
+            "id": "q_periodic_table_and_classification_232",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किसे रासायनिक प्रतीक'Si' द्वारा दशाया जाता है?",
@@ -3520,7 +3684,8 @@
             "examName": "RPF Constable 2018 08 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_233"
+            "id": "q_periodic_table_and_classification_233",
+            "correct_option": 3
         },
         {
             "question": "उस जमन रसायनज्ञ का नाम बताइए जिसने 1817 में तत्वों को त्रय में समूहित किया था।",
@@ -3535,7 +3700,8 @@
             "examName": "RRB NTPC CBT-I : 20 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_234"
+            "id": "q_periodic_table_and_classification_234",
+            "correct_option": 3
         },
         {
             "question": "दिए गए तत्वों के धात्विक लक्षणों का सही क्रम है:",
@@ -3550,7 +3716,8 @@
             "examName": "RRB NTPC CBT-I : 12 Feb 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_235"
+            "id": "q_periodic_table_and_classification_235",
+            "correct_option": 2
         },
         {
             "question": "कृत्रिम रूप से उत्पादित तत्वों के संदर्भ में कौन सा कथन सही है?",
@@ -3580,7 +3747,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "matchFollowing",
-            "id": "q_periodic_table_and_classification_237"
+            "id": "q_periodic_table_and_classification_237",
+            "correct_option": 3
         },
         {
             "question": "पाँचवें आवर्त में ________ सबसे अधिक धात्विक तत्व है।",
@@ -3610,7 +3778,8 @@
             "examName": "RRB Group D 2 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_239"
+            "id": "q_periodic_table_and_classification_239",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा गुण आवर्त सारणी में तत्वों की स्थिति से नियंत्रित नहीं होता है?",
@@ -3640,7 +3809,8 @@
             "examName": "RRB Group D 29/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_241"
+            "id": "q_periodic_table_and_classification_241",
+            "correct_option": 2
         },
         {
             "question": "किस तत्व में 10 इलेक्ट्रॉन होते हैं?",
@@ -3655,7 +3825,8 @@
             "examName": "RRB JE CBT-II Electronics : 31 Aug, 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_242"
+            "id": "q_periodic_table_and_classification_242",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा तत्व प्रोटीन का हिस्सा नहीं है?",
@@ -3670,7 +3841,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_243"
+            "id": "q_periodic_table_and_classification_243",
+            "correct_option": 1
         },
         {
             "question": "आवर्त सारणी में निम्नलिखित में से किस तत्व को धातु के रूप में वर्गीकृत नहीं किया जाता है?",
@@ -3685,7 +3857,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 27/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_244"
+            "id": "q_periodic_table_and_classification_244",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा त्रिक डोबेराइनर त्रिक नहीं है?",
@@ -3706,7 +3879,8 @@
                 "(ii) Ca, Sr, Ba",
                 "(iii) N, P, Sb",
                 "(iv) Cl, Br, I"
-            ]
+            ],
+            "correct_option": 1
         },
         {
             "question": "तत्वों का वर्गीकरण क्यों महत्वपूर्ण है?",
@@ -3736,7 +3910,8 @@
             "examName": "RRB Group D 6 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_247"
+            "id": "q_periodic_table_and_classification_247",
+            "correct_option": 1
         },
         {
             "question": "नीचे दिए गए कथनों पर विचार कीजिए और सही उत्तर की पहचान कीजिए। कथन -I: सभी तत्वों के समस्थानिकों ने मेडेलीव के आवधिक कानून के लिए एक चुनौती पेश की। कथन- II: आवर्त सारणी में हाइड्रोजन को कोई निश्चित स्थान नहीं दिया जा सकता है।",
@@ -3751,7 +3926,8 @@
             "examName": "RRB Group D 30 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_248"
+            "id": "q_periodic_table_and_classification_248",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से तत्वों का कौन सा वर्गीकरण परमाणु संख्याओं पर आधारित है?",
@@ -3766,7 +3942,8 @@
             "examName": "RRB Group D 19 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_249"
+            "id": "q_periodic_table_and_classification_249",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा तत्व प्रकृति में सवाधिक धात्विक है?",
@@ -3781,7 +3958,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_250"
+            "id": "q_periodic_table_and_classification_250",
+            "correct_option": 2
         },
         {
             "question": "हीलियम को किस समूह में शामिल किया गया है?",
@@ -3796,7 +3974,8 @@
             "examName": "RRB Group D 24 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_251"
+            "id": "q_periodic_table_and_classification_251",
+            "correct_option": 3
         },
         {
             "question": "किस तत्व में पूरी तरह से इलेक्ट्रॉनों से भरे हुए दो कोश होते हैं?",
@@ -3811,7 +3990,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_252"
+            "id": "q_periodic_table_and_classification_252",
+            "correct_option": 2
         },
         {
             "question": "धातुओं और अधातुओं के बीच मध्यवर्ती गुणों वाले तत्वों को मेटलॉइड कहा जाता है। निम्नलिखित में से कौन सा मेटलॉइड के रूप में जाना जाता है?",
@@ -3826,7 +4006,8 @@
             "examName": "RRB NTPC CBT-I : 13 Mar 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_253"
+            "id": "q_periodic_table_and_classification_253",
+            "correct_option": 3
         },
         {
             "question": "मेंडलीफ का आवर्त नियम कहता है कि:",
@@ -3871,7 +4052,8 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_256"
+            "id": "q_periodic_table_and_classification_256",
+            "correct_option": 3
         },
         {
             "question": "परमाणु संख्या 58 वाले लैंथेनाइड श्रृंखला का तत्व _______ है।",
@@ -3901,7 +4083,8 @@
             "examName": "RRB Group D 8/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_258"
+            "id": "q_periodic_table_and_classification_258",
+            "correct_option": 1
         },
         {
             "question": "आधुनिक आवर्त सारणी में, _______ आवर्त में केवल गैसें हैं।",
@@ -3916,7 +4099,8 @@
             "examName": "RRB Group D 11/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_259"
+            "id": "q_periodic_table_and_classification_259",
+            "correct_option": 1
         },
         {
             "question": "उस तत्व का नाम बताइए जिसका इलेक्ट्रॉनिक विन्यास 2, 8, 7 है।",
@@ -3931,7 +4115,8 @@
             "examName": "RRB NTPC CBT-I : 7 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_260"
+            "id": "q_periodic_table_and_classification_260",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस धातु को उंगलियों के दाब से पत्तियों के आकार में ढाला जा सकता है?",
@@ -3961,7 +4146,8 @@
             "examName": "RRB Group D 3/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_262"
+            "id": "q_periodic_table_and_classification_262",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन से तत्व मेंडेलीव के समय में खोजा नहीं गए थे?",
@@ -3976,7 +4162,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 12 Jun, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_263"
+            "id": "q_periodic_table_and_classification_263",
+            "correct_option": 2
         },
         {
             "question": "परमाणु संख्याओं के निम्नलिखित समूहों में से कौन सा क्षार धातु से संबंधित है?",
@@ -3991,7 +4178,8 @@
             "examName": "RRB Group D 22/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_264"
+            "id": "q_periodic_table_and_classification_264",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सबसे कम अभिक्रियाशील है?",
@@ -4021,7 +4209,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_266"
+            "id": "q_periodic_table_and_classification_266",
+            "correct_option": 1
         },
         {
             "question": "आधुनिक आवर्त सारणी के साथ किसका नाम जुड़ा हुआ है?",
@@ -4036,7 +4225,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_267"
+            "id": "q_periodic_table_and_classification_267",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित का मिलान कीजिए: 1. खोजे गए तत्वों की कुल संख्या a. 94 2. प्राकृतिक रूप से उपलब्ध तत्व b. 24 3. प्रयोगशाला प्रक्रियाओं के माध्यमें से खोजे गए तत्व c. 118",
@@ -4051,7 +4241,8 @@
             "examName": "RRB Group D 6 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_268"
+            "id": "q_periodic_table_and_classification_268",
+            "correct_option": 2
         },
         {
             "question": "आधुनिक आवर्त सारणी में मौजूद ऊर्ध्वावाधर स्तंभों को क्या कहा जाता है?",
@@ -4081,7 +4272,8 @@
             "examName": "RRB Group D 22 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_270"
+            "id": "q_periodic_table_and_classification_270",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस तत्व के आण्विक रूप में परमाणुओं की संख्या अधिकतम है?",
@@ -4171,7 +4363,8 @@
             "examName": "RRB JE ME 31 Aug 2019 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_276"
+            "id": "q_periodic_table_and_classification_276",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित धातुओं के धात्विक गुण का सही क्रम क्या है?",
@@ -4186,7 +4379,8 @@
             "examName": "RRB Group D 22 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_277"
+            "id": "q_periodic_table_and_classification_277",
+            "correct_option": 2
         },
         {
             "question": "समूह। के निम्नलिखित तत्वों कों उनके परमाणु त्रिज्या के घटते क्रम में व्यवस्थित करें। परमाणु संख्याएं निम्न कोष्ठकों में दी गई हैं: Li (3), K (19), Cs (55), Na (11), Rb (37)",
@@ -4201,7 +4395,8 @@
             "examName": "RRB Group D 16 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_278"
+            "id": "q_periodic_table_and_classification_278",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा एक उपधातु नहीं है?",
@@ -4216,7 +4411,8 @@
             "examName": "RRB Group D 6 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_279"
+            "id": "q_periodic_table_and_classification_279",
+            "correct_option": 3
         },
         {
             "question": "किसी आवर्त के चार मूल तत्वों की परमाणु संख्या 11, 13, 16 और 17 है। आधुनिक आवात सारणी में इनमें से सबसे अधिक धात्विक मूल तत्व की परमाणु संख्या ______ होगा।",
@@ -4231,7 +4427,8 @@
             "examName": "RRB Group D 15/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_280"
+            "id": "q_periodic_table_and_classification_280",
+            "correct_option": 3
         },
         {
             "question": "________ में सबसे अधिक इलेक्ट्रॉन बंधुता हैं?",
@@ -4246,7 +4443,8 @@
             "examName": "RRB Group D 28/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_281"
+            "id": "q_periodic_table_and_classification_281",
+            "correct_option": 1
         },
         {
             "question": "दी गई अधातुओं को उनकी विद्युत ऋणात्मकता के बढ़ते क्रम में व्यवस्थित करें। परमाणु क्रमांक कोष्ठकों में दिया गया है। O (8), Te (52), S (16), Se (34)",
@@ -4261,7 +4459,8 @@
             "examName": "RRB Group D 20 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_282"
+            "id": "q_periodic_table_and_classification_282",
+            "correct_option": 3
         },
         {
             "question": "दूसरे और तीसरे आवर्त में कितने तत्व शामिल होते हैं?",
@@ -4291,7 +4490,8 @@
             "examName": "RRB JE 26 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_284"
+            "id": "q_periodic_table_and_classification_284",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा सामान्य तापमान पर द्रव अवस्था में होता है?",
@@ -4336,7 +4536,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_287"
+            "id": "q_periodic_table_and_classification_287",
+            "correct_option": 1
         },
         {
             "question": "मैलाकाइट ___________ का एक अयस्क है",
@@ -4351,7 +4552,8 @@
             "examName": "RRB JE CBT-I : 22 May, 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_288"
+            "id": "q_periodic_table_and_classification_288",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा अणु द्विपरमाणुक प्रकृति का है?",
@@ -4366,7 +4568,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_289"
+            "id": "q_periodic_table_and_classification_289",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी अधातु कमरे के तापमान पर द्रव अवस्था में होती है?",
@@ -4381,12 +4584,13 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_290"
+            "id": "q_periodic_table_and_classification_290",
+            "correct_option": 3
         },
         {
             "question": "नीचे दिए गए तत्वों में से _______ आकार में सबसे छोटा है।",
             "options": [
-                "उपरोक्त में से कोई नहीं",
+                "Al³⁺",
                 "Mg₂+",
                 "Al₃+",
                 "Na+"
@@ -4411,7 +4615,8 @@
             "examName": "RRB Group D 27 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_292"
+            "id": "q_periodic_table_and_classification_292",
+            "correct_option": 2
         },
         {
             "question": "_________ में सबसे कम इलेक्ट्रॉन बंधुता होती है।",
@@ -4426,7 +4631,8 @@
             "examName": "RRB Group D 27 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_293"
+            "id": "q_periodic_table_and_classification_293",
+            "correct_option": 1
         },
         {
             "question": "थर्मामीटर में किस तत्व का उपयोग किया जाता है?",
@@ -4441,7 +4647,8 @@
             "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_294"
+            "id": "q_periodic_table_and_classification_294",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस वैज्ञानिक ने रेडियम तत्व की खोज की थी?",
@@ -4456,7 +4663,8 @@
             "examName": "RPF Constable 2024 : 11 Mar, 2025 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_295"
+            "id": "q_periodic_table_and_classification_295",
+            "correct_option": 3
         },
         {
             "question": "विकल्पों में चार अलग-अलग विलयनों का pH मान दिया गया है। इनमें से कौन- सा लाल लिटमस को नीला कर देगा?",
@@ -4471,7 +4679,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_296"
+            "id": "q_periodic_table_and_classification_296",
+            "correct_option": 1
         },
         {
             "question": "2, 8, 8 के इलेक्ट्रॉनिक विन्यास वाले तत्व का एक परमाणु। यह किस समूह से संबंधित है?",
@@ -4501,7 +4710,8 @@
             "examName": "RRB Group D 20 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_298"
+            "id": "q_periodic_table_and_classification_298",
+            "correct_option": 1
         },
         {
             "question": "लैंथेनाइड्स और एक्टिनाइड्स को ________ भी कहा जाता है।",
@@ -4516,7 +4726,8 @@
             "examName": "RRB JE 24 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_299"
+            "id": "q_periodic_table_and_classification_299",
+            "correct_option": 2
         },
         {
             "question": "______ सबसे सबसे अधिक धनविद्युती तत्व है?",
@@ -4531,7 +4742,8 @@
             "examName": "RRB Group D 18 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_300"
+            "id": "q_periodic_table_and_classification_300",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस तत्व की तुलना में तांबा अधिक अभिक्रियाशील है?",
@@ -4546,7 +4758,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_301"
+            "id": "q_periodic_table_and_classification_301",
+            "correct_option": 1
         },
         {
             "question": "आधुनिक आवर्त सारणी के 18वें समूह में कितने तत्व मौजूद हैं?",
@@ -4561,7 +4774,8 @@
             "examName": "RRB Group D 17 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_302"
+            "id": "q_periodic_table_and_classification_302",
+            "correct_option": 2
         },
         {
             "question": "आधुनिक आवर्त सारणी में, समूह में नीचे नए कोश जोड़ने से _______ प्राप्त होती है।",
@@ -4576,7 +4790,8 @@
             "examName": "RRB Group D 17 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_303"
+            "id": "q_periodic_table_and_classification_303",
+            "correct_option": 2
         },
         {
             "question": "संयोजकता कोश में इलेक्ट्रॉनों की संख्या उसके ______ के बराबर होती है।",
@@ -4591,7 +4806,8 @@
             "examName": "RRB Group D 24/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_304"
+            "id": "q_periodic_table_and_classification_304",
+            "correct_option": 2
         },
         {
             "question": "तत्वों की संख्या की दृष्टि से आवर्तों का सही क्रम क्या है?",
@@ -4606,7 +4822,8 @@
             "examName": "RRB Group D 9 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_305"
+            "id": "q_periodic_table_and_classification_305",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस तत्व का प्रभावी परमाणु आवेश सबसे अधिक है?",
@@ -4621,7 +4838,8 @@
             "examName": "RRB Group D 2 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_306"
+            "id": "q_periodic_table_and_classification_306",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा तत्व मेंडेलीव की आवर्त सारणी में निश्चित स्थान नहीं पा सका?",
@@ -4636,7 +4854,8 @@
             "examName": "RRB Group D 19/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_307"
+            "id": "q_periodic_table_and_classification_307",
+            "correct_option": 1
         },
         {
             "question": "आवर्त सारणी के समूह में सभी तत्वों के _______ समान होते/होती हैं।",
@@ -4651,7 +4870,8 @@
             "examName": "RRB Group D 24/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_308"
+            "id": "q_periodic_table_and_classification_308",
+            "correct_option": 2
         },
         {
             "question": "किसी समूह में नीचे की ओर बढ़ने पर क्षारकीय ऑक्साइड के बनने की प्रवृत्ति ______।",
@@ -4666,7 +4886,8 @@
             "examName": "RRB Group D 1 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_309"
+            "id": "q_periodic_table_and_classification_309",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा सूक्ष्म पोषक तत्व थायरॉयड ग्रंथि के सामान्य कायिकी के लिए आवश्यक है?",
@@ -4696,7 +4917,8 @@
             "examName": "RRB Group D 12 Nov 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_311"
+            "id": "q_periodic_table_and_classification_311",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा सबसे अधिक विद्युत धनात्मक तत्व है?",
@@ -4711,7 +4933,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_312"
+            "id": "q_periodic_table_and_classification_312",
+            "correct_option": 1
         },
         {
             "question": "नीचे दिए गए कथनों पर विचार करें और सही उत्तर की पहचान करें।\n\n• कथन।: जैसे-जैसे हम बाएं से दाएं बढ़ते हैं, आवर्त में धात्विक गुण घटता जाता है।\n\n• कथन II: संयोजकता कोश इलेक्ट्रॉनों पर कार्य करने वाला प्रभावी नाभिकीय आवेश एक अवधि में बढ़ता है, इलेक्ट्रॉन खोने की प्रवृत्ति कम हो जाएगी।",
@@ -4726,7 +4949,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_313"
+            "id": "q_periodic_table_and_classification_313",
+            "correct_option": 1
         },
         {
             "question": "आवर्त सारणी के सबसे कम अभिक्रियाशील तत्व हैं:",
@@ -4741,7 +4965,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_314"
+            "id": "q_periodic_table_and_classification_314",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा, अधात्विक तत्व द्वारा निर्मित द्विपरमाणुक अणु है?",
@@ -4771,7 +4996,8 @@
             "examName": "RRB JE 24 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_316"
+            "id": "q_periodic_table_and_classification_316",
+            "correct_option": 1
         },
         {
             "question": "वग 2 की धातुओं का त्रिक निम्नलिखित में से किस तत्व से बना है?",
@@ -4786,7 +5012,8 @@
             "examName": "RRB Group D 5 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_317"
+            "id": "q_periodic_table_and_classification_317",
+            "correct_option": 1
         },
         {
             "question": "समूह 17 से संबंधित तत्वों को ________ कहा जाता है।",
@@ -4816,7 +5043,8 @@
             "examName": "RRB Group D 22/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_319"
+            "id": "q_periodic_table_and_classification_319",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सी धातु द्रव अवस्था में मौजूद होती है?",
@@ -4861,7 +5089,8 @@
             "examName": "RRB Level 01 Stage I 15/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_322"
+            "id": "q_periodic_table_and_classification_322",
+            "correct_option": 3
         },
         {
             "question": "बोर-बरी नियमों के अनुसार कॉलम। में तत्वों को कॉलम II में दिए गए उनके सही इलेक्ट्रॉन वितरण से सुमेलित कीजिए।",
@@ -4891,7 +5120,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_324"
+            "id": "q_periodic_table_and_classification_324",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस तत्व की परमाणु त्रिज्या सबसे बड़ी है?",
@@ -4906,7 +5136,8 @@
             "examName": "RRB NTPC UG CBT-I : 01 Sept, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_325"
+            "id": "q_periodic_table_and_classification_325",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सी गैस एक उत्कृष्ट गैस है?",
@@ -4921,7 +5152,8 @@
             "examName": "RRB NTPC CBT-I : 4 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_326"
+            "id": "q_periodic_table_and_classification_326",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा सबसे अधिक वैद्युतीयऋणात्मक तत्व है?",
@@ -4936,7 +5168,8 @@
             "examName": "RPF Constable 2018 : 03 Feb, 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_327"
+            "id": "q_periodic_table_and_classification_327",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित वैज्ञानिकों में से किसे रेडियम तत्व की खोज का श्रेय दिया जाता है?",
@@ -4951,7 +5184,8 @@
             "examName": "RPF Constable 2024 : 18 Mar, 2025 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_328"
+            "id": "q_periodic_table_and_classification_328",
+            "correct_option": 1
         },
         {
             "question": "आवर्त सारणी में सबसे अधिक विद्युत ऋणात्मक तत्व किसमें होते हैं?",
@@ -4996,7 +5230,8 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_331"
+            "id": "q_periodic_table_and_classification_331",
+            "correct_option": 2
         },
         {
             "question": "अभिक्रियाशीलता श्रेणी के अनुसार, लोहा ________ से अधिक अभिक्रियाशील है।",
@@ -5011,7 +5246,8 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_332"
+            "id": "q_periodic_table_and_classification_332",
+            "correct_option": 2
         },
         {
             "question": "न्यूलैंड ने माना कि प्रकृति में केवल ________ तत्व मौजूद थे।",
@@ -5026,7 +5262,8 @@
             "examName": "RRB Group D 30/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_333"
+            "id": "q_periodic_table_and_classification_333",
+            "correct_option": 1
         },
         {
             "question": "क्लोरीन, ब्रोमीन और आयोडीन एक डॉबेराइनर त्रिक बनाते हैं। क्लोरीन और आयोडीन के परमाणु द्रव्यमान का औसत __________ के निकट होगा।",
@@ -5041,7 +5278,8 @@
             "examName": "RRB Group D 5 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_334"
+            "id": "q_periodic_table_and_classification_334",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा, यौगिक का उदाहरण है?",
@@ -5056,7 +5294,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_335"
+            "id": "q_periodic_table_and_classification_335",
+            "correct_option": 1
         },
         {
             "question": "प्रकृति में कौन सी उत्कृष्ट गैस रेडियोधर्मी होती है?",
@@ -5071,7 +5310,8 @@
             "examName": "RRB NTPC CBT-I : 17 Feb 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_336"
+            "id": "q_periodic_table_and_classification_336",
+            "correct_option": 2
         },
         {
             "question": "आधुनिक आवर्त सारणी में क्रमशः परमाणु क्रमांक 11, 12, 13, 14, 15, 16, 17 और 18 वाले तत्वों की स्थिति के संबंध में निम्नलिखित में से कौन-सा कथन गलत है?",
@@ -5101,7 +5341,8 @@
             "examName": "RRB Group D 17 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_338"
+            "id": "q_periodic_table_and_classification_338",
+            "correct_option": 2
         },
         {
             "question": "किस कारक/कारकों ने वैज्ञानिकों को तत्वों के वर्गीकरण की ओर अग्रसर किया?",
@@ -5136,7 +5377,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_340"
+            "id": "q_periodic_table_and_classification_340",
+            "correct_option": 3
         },
         {
             "question": "मेंडेलीव ने आवर्त सारणी में समान गुणों वाले तत्वों को कहाँ व्यवस्थित किया था?",
@@ -5151,7 +5393,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 09 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_341"
+            "id": "q_periodic_table_and_classification_341",
+            "correct_option": 2
         },
         {
             "question": "किसी तत्व का परमाणु क्रमांक 15 है। निम्नलिखित में से वह किस तत्व के साथ समान रासायनिक गुण दिखाएगा?",
@@ -5181,7 +5424,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_343"
+            "id": "q_periodic_table_and_classification_343",
+            "correct_option": 2
         },
         {
             "question": "डोबेराइनर ने समान गुणों वाले तत्वों को समूहों में व्यवस्थित करने का प्रयास किया। इसके लिए उन्होंने कितने तत्वों वाले कुछ समूहों की पहचान की?",
@@ -5211,7 +5455,8 @@
             "examName": "RRB Group D 11/10/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_345"
+            "id": "q_periodic_table_and_classification_345",
+            "correct_option": 1
         },
         {
             "question": "आधुनिक आवर्त सारणी के किस समूह में केवल 2 अधातु तत्व है?",
@@ -5226,7 +5471,8 @@
             "examName": "RRB Group D 19 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_346"
+            "id": "q_periodic_table_and_classification_346",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस वैज्ञानिक को पोलोनियम तत्व की खोज का श्रेय दिया जाता है?",
@@ -5241,7 +5487,8 @@
             "examName": "RPF Constable 2024 : 11 Mar, 2025 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_347"
+            "id": "q_periodic_table_and_classification_347",
+            "correct_option": 3
         },
         {
             "question": "निम्न में से कौन-सा एक लेश तत्व है?",
@@ -5256,7 +5503,8 @@
             "examName": "RRB JE 26 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_348"
+            "id": "q_periodic_table_and_classification_348",
+            "correct_option": 1
         },
         {
             "question": "एकमात्र अधातु जो कमरे के तापमान पर तरल है, ________ है।",
@@ -5271,7 +5519,8 @@
             "examName": "RRB NTPC Tier I : 2 Apr 2016 Shift 2",
             "examYear": "2016",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_349"
+            "id": "q_periodic_table_and_classification_349",
+            "correct_option": 1
         },
         {
             "question": "लैन्थनाइड और ऐक्टिनाइड:",
@@ -5286,7 +5535,8 @@
             "examName": "RRB Group D 11 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_350"
+            "id": "q_periodic_table_and_classification_350",
+            "correct_option": 1
         },
         {
             "question": "कौन-सी अधातु, धातुओं की तरह द्युतिमय चमक (lustrous shine) प्रदर्शित करती है?",
@@ -5301,7 +5551,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_351"
+            "id": "q_periodic_table_and_classification_351",
+            "correct_option": 3
         },
         {
             "question": "न्यूलैंड्स के अष्टक नियम में आदश गैसों को क्यों शामिल नहीं किया गया था?",
@@ -5331,7 +5582,8 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_353"
+            "id": "q_periodic_table_and_classification_353",
+            "correct_option": 1
         },
         {
             "question": "Na, Mg, AI और Si में प्रथम आयनन विभव का क्रम होता है-",
@@ -5346,7 +5598,8 @@
             "examName": "RRB Group D 31/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_354"
+            "id": "q_periodic_table_and_classification_354",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा समूह शून्य संयोजकता का प्रतिनिधित्व करता है?",
@@ -5391,7 +5644,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_357"
+            "id": "q_periodic_table_and_classification_357",
+            "correct_option": 2
         },
         {
             "question": "आवर्त सारणी की क्षैतिज पंक्ति को ________ कहा जाता है।",
@@ -5406,7 +5660,8 @@
             "examName": "RRB JE 23 May 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_358"
+            "id": "q_periodic_table_and_classification_358",
+            "correct_option": 3
         },
         {
             "question": "दिए गए प्रतीक _____ तत्व का प्रतिनिधित्व करते हैं।",
@@ -5421,7 +5676,8 @@
             "examName": "RRB Group D 3/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_359"
+            "id": "q_periodic_table_and_classification_359",
+            "correct_option": 1
         },
         {
             "question": "वह तत्व कौन सा है, जिसकी तीसरे आवर्त में इलेक्ट्रॉन बंधुता शून्य होती है?",
@@ -5436,7 +5692,8 @@
             "examName": "RRB JE CBT I - : 30 May 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_360"
+            "id": "q_periodic_table_and_classification_360",
+            "correct_option": 1
         },
         {
             "question": "एक्टिनियम के बाद के 14 तत्वों को क्या कहा जाता है?",
@@ -5451,7 +5708,8 @@
             "examName": "RRB JE CBT I - : 31 May 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_361"
+            "id": "q_periodic_table_and_classification_361",
+            "correct_option": 2
         },
         {
             "question": "आधुनिक आवर्त सारणी ________ पर आधारित है।",
@@ -5487,7 +5745,7 @@
             "question": "परमाणु क्रमांक 57 वाला तत्व निम्नलिखित में से किस ब्लाक से सम्बंधित होता है?",
             "options": [
                 "s- ब्लॉक",
-                "-ब्लॉक",
+                "d-ब्लॉक",
                 "f-ब्लॉक",
                 "p-ब्लॉक"
             ],
@@ -5496,7 +5754,8 @@
             "examName": "RRB Group D 22/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_364"
+            "id": "q_periodic_table_and_classification_364",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस तत्व में तीन संयोजी इलेक्ट्रॉन होते हैं?",
@@ -5526,7 +5785,8 @@
             "examName": "RRB Group D 4 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_366"
+            "id": "q_periodic_table_and_classification_366",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस तत्व को विद्युत अपघटनी अपचयन द्वारा निकाला जाता है?",
@@ -5541,7 +5801,8 @@
             "examName": "RRB ALP CBT-I 2024 : 27 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_367"
+            "id": "q_periodic_table_and_classification_367",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन एक नोबेल गैस नहीं है?",
@@ -5556,7 +5817,8 @@
             "examName": "RRB Group D 1/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_368"
+            "id": "q_periodic_table_and_classification_368",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा तत्व द्वितीय समूह से संबंधित है?",
@@ -5586,7 +5848,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 16/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_370"
+            "id": "q_periodic_table_and_classification_370",
+            "correct_option": 1
         },
         {
             "question": "अभिक्रियाशीलता श्रेणी (reactivity series) में कौन-सी धातु शीष पर है?",
@@ -5631,7 +5894,8 @@
             "examName": "RRB Group D 30 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_373"
+            "id": "q_periodic_table_and_classification_373",
+            "correct_option": 2
         },
         {
             "question": "आधुनिक आवर्त सारणी में, परमाणु क्रमांक 19 से 36 तक वाले तत्वों को ___ आवर्त में रखा गया है।",
@@ -5676,7 +5940,8 @@
             "examName": "RRB Group D 23 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_376"
+            "id": "q_periodic_table_and_classification_376",
+            "correct_option": 1
         },
         {
             "question": "वतमान में, ___________ तत्व ज्ञात हैं, जिनमें से ___________ प्राकृतिक रूप से पाए जाने वाले तत्व हैं।",
@@ -5691,7 +5956,8 @@
             "examName": "RRB Group D 23 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_377"
+            "id": "q_periodic_table_and_classification_377",
+            "correct_option": 2
         },
         {
             "question": "_________ रक्त स्कंदन के लिए आवश्यक खनिज (आयन) है।",
@@ -5706,7 +5972,8 @@
             "examName": "RRB JE 27 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_378"
+            "id": "q_periodic_table_and_classification_378",
+            "correct_option": 2
         },
         {
             "question": "आवर्त सारणी में परमाणु द्रव्यमान के बढ़ते क्रम में, तत्वों को कौन व्यवस्थित कर सकता है?",
@@ -5721,7 +5988,8 @@
             "examName": "RPF Constable 2018 : 02 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_379"
+            "id": "q_periodic_table_and_classification_379",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस तत्व की परमाणु त्रिज्या सवाधिक है?",
@@ -5751,7 +6019,8 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_381"
+            "id": "q_periodic_table_and_classification_381",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी धातु प्रकृति में सबसे अधिक धात्विक है?",
@@ -5781,7 +6050,8 @@
             "examName": "RRB Group D 11/10/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_383"
+            "id": "q_periodic_table_and_classification_383",
+            "correct_option": 3
         },
         {
             "question": "सबसे अधिक विद्युतीय ऋणात्मक तत्व का सबसे बाहरी इलेक्ट्रॉनिक विन्यास _______ है।",
@@ -5796,7 +6066,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_384"
+            "id": "q_periodic_table_and_classification_384",
+            "correct_option": 3
         },
         {
             "question": "Mn के ऑक्साइड की अम्लता का सही बढ़ता क्रम है-",
@@ -5826,7 +6097,8 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_386"
+            "id": "q_periodic_table_and_classification_386",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस गैस को उत्कृष्ट गैस के रूप में वर्गीकृत नहीं किया गया है?",
@@ -5841,7 +6113,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 19/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_387"
+            "id": "q_periodic_table_and_classification_387",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा तत्व कमरे के तापमान पर तरल है?",
@@ -5871,7 +6144,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_389"
+            "id": "q_periodic_table_and_classification_389",
+            "correct_option": 3
         },
         {
             "question": "_________ आधुनिक आवर्त सारणी के समूह 1 में मौजूद एकमात्र अधातु है। वें",
@@ -5886,7 +6160,8 @@
             "examName": "RRB Group D 22 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_390"
+            "id": "q_periodic_table_and_classification_390",
+            "correct_option": 3
         },
         {
             "question": "कमरे के तापमान पर द्रव अवस्था में मौजूद एकमात्र अधातु कौन-सी है?",
@@ -5901,7 +6176,8 @@
             "examName": "RRB NTPC CBT-I : 6 April 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_391"
+            "id": "q_periodic_table_and_classification_391",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा मूल तत्व क्षार धातुओं के वग से नहीं है?",
@@ -5916,7 +6192,8 @@
             "examName": "RRB Group D 11/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_392"
+            "id": "q_periodic_table_and_classification_392",
+            "correct_option": 3
         },
         {
             "question": "उस शब्द का चयन करें, जो निम्न समूह से संबंधित नहीं है।",
@@ -5931,7 +6208,8 @@
             "examName": "RRB Group D 23/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_393"
+            "id": "q_periodic_table_and_classification_393",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किसने सबसे पहले यह पता लगाया कि प्रत्येक आठवें तत्व के गुण पहले तत्व के समान होते हैं?",
@@ -5946,7 +6224,8 @@
             "examName": "RRB Group D 19 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_394"
+            "id": "q_periodic_table_and_classification_394",
+            "correct_option": 2
         },
         {
             "question": "MnO 2 + 4HCl → MnCl 2 + ²H² O + Cl₂ अभिक्रिया में, क्या अपचयित हो रहा है?",
@@ -5961,7 +6240,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_395"
+            "id": "q_periodic_table_and_classification_395",
+            "correct_option": 1
         },
         {
             "question": "________ एक बैंगनी रंग का ठोस हैलोजन है।",
@@ -5976,7 +6256,8 @@
             "examName": "RRB Group D 29/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_396"
+            "id": "q_periodic_table_and_classification_396",
+            "correct_option": 3
         },
         {
             "question": "नीचे दिए गए कथनों में से गलत कथन का चयन कीजिए? य होती हैं",
@@ -5991,7 +6272,8 @@
             "examName": "RRB Group D 24/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_397"
+            "id": "q_periodic_table_and_classification_397",
+            "correct_option": 3
         },
         {
             "question": "डोबेराइनर के त्रिक में से कौन सा तीन तत्वों का समूह शामिल नहीं है?",
@@ -6006,7 +6288,8 @@
             "examName": "RRB Group D 14 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_398"
+            "id": "q_periodic_table_and_classification_398",
+            "correct_option": 3
         },
         {
             "question": "उच्चतम प्रथम आयनन विभव वाला तत्व _________ है।",
@@ -6021,7 +6304,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_399"
+            "id": "q_periodic_table_and_classification_399",
+            "correct_option": 2
         },
         {
             "question": "एक तत्व की परमाणु संख्या 20 है, तो निम्नलिखित में से कौन-सा तत्व उसके समान रासायनिक गुण दशायेगा?",
@@ -6051,7 +6335,8 @@
             "examName": "RRB Group D 6 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_401"
+            "id": "q_periodic_table_and_classification_401",
+            "correct_option": 3
         },
         {
             "question": "न्यूलैंड्स ने तत्वों को आवर्त सारणी में किस आधार पर व्यवस्थित किया था?",
@@ -6081,7 +6366,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_403"
+            "id": "q_periodic_table_and_classification_403",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सी अधातु विद्युत का सुचालक है?",
@@ -6096,7 +6382,8 @@
             "examName": "RRB JE 26 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_404"
+            "id": "q_periodic_table_and_classification_404",
+            "correct_option": 2
         },
         {
             "question": "तत्व X, सूत्र X O वाला एक ऑक्साइड बनाता है। आवर्त सारणी के समान वग में तत्व X संभवत: ________ के रूप में होगा।",
@@ -6111,7 +6398,8 @@
             "examName": "RRB Group D 1/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_405"
+            "id": "q_periodic_table_and_classification_405",
+            "correct_option": 2
         },
         {
             "question": "_____ थाइरॉइड की कार्यप्रणाली को नियंत्रित करने वाला खनिज है।",
@@ -6126,7 +6414,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_406"
+            "id": "q_periodic_table_and_classification_406",
+            "correct_option": 2
         },
         {
             "question": "मेंडेलीव की आवर्त सारणी में, ऊर्ध्वव स्तंभों को ________ कहा जाता है।",
@@ -6141,7 +6430,8 @@
             "examName": "RRB Group D 22 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_407"
+            "id": "q_periodic_table_and_classification_407",
+            "correct_option": 3
         },
         {
             "question": "A, जिसका आधुनिक आवर्त सारणी में विषम स्थान है, उसके गुणों पर निर्भर करता है। इसमें क्षार धातुओं का इलेक्ट्रॉनिक विन्यास है लेकिन यह द्विपरमाणुक अणुओं के रूप में मौजूद है। B वह तत्व है जो तीसरे आवर्त में सोडियम के तुरंत बाद आता है और आधुनिक आवर्त सारणी में समूह C से संबंधित है। A, B और C को पहचानें।",
@@ -6171,7 +6461,8 @@
             "examName": "RRB Group D 29 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_409"
+            "id": "q_periodic_table_and_classification_409",
+            "correct_option": 1
         },
         {
             "question": "कौन-सा तत्व न तो धातु है और न ही अधातु है?",
@@ -6186,7 +6477,8 @@
             "examName": "RRB Group D 2 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_410"
+            "id": "q_periodic_table_and_classification_410",
+            "correct_option": 3
         },
         {
             "question": "अष्टक का नियम किस तत्व तक लागू पाया गया है?",
@@ -6201,7 +6493,8 @@
             "examName": "RRB JE CE 28 Aug 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_411"
+            "id": "q_periodic_table_and_classification_411",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से तत्वों के किस युग्म में न्यूट्रॉनों की संख्या समान होती है?",
@@ -6216,7 +6509,8 @@
             "examName": "RRB Level 01 Stage I 19/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_412"
+            "id": "q_periodic_table_and_classification_412",
+            "correct_option": 1
         },
         {
             "question": "आधुनिक आवर्त सारणी में, आवर्त _____ और _____ में लैंथेनॉइड और एक्टिनॉइड होते हैं।",
@@ -6231,7 +6525,8 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_413"
+            "id": "q_periodic_table_and_classification_413",
+            "correct_option": 1
         },
         {
             "question": "न्यूलैंड्स ने तत्कालीन ज्ञात तत्वों को किस क्रम में व्यवस्थित किया था?",
@@ -6261,7 +6556,8 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_415"
+            "id": "q_periodic_table_and_classification_415",
+            "correct_option": 1
         },
         {
             "question": "आधुनिक आवर्त सारणी में तीसरे, चौथे, पाँचवें, छठे और सातवें आवर्त में उपस्थित तत्वों की संख्या क्या है?",
@@ -6276,7 +6572,8 @@
             "examName": "RRB Group D 20 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_416"
+            "id": "q_periodic_table_and_classification_416",
+            "correct_option": 2
         },
         {
             "question": "आधुनिक आवर्त सारणी के बायीं ओर स्थित एकमात्र अधातु कौन-सा है?",
@@ -6306,7 +6603,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_418"
+            "id": "q_periodic_table_and_classification_418",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित तत्वों को परमाणु संख्या के बढ़ते क्रम में व्यवस्थित करें। B, Ne, K, O",
@@ -6321,7 +6619,8 @@
             "examName": "RRB Group D 27 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_419"
+            "id": "q_periodic_table_and_classification_419",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस तत्व की संयोजकता 3 है?",
@@ -6351,7 +6650,8 @@
             "examName": "RRB JE 24 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_421"
+            "id": "q_periodic_table_and_classification_421",
+            "correct_option": 2
         },
         {
             "question": "वह समूह जो प्रथम आयनीकरण क्षमता के सही क्रम को दर्शाता है:",
@@ -6366,7 +6666,8 @@
             "examName": "RRB Group D 30/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_422"
+            "id": "q_periodic_table_and_classification_422",
+            "correct_option": 3
         },
         {
             "question": "आधुनिक आवर्त सारणी में समान वग के तत्वों में समान _____ होता/होती है।",
@@ -6374,14 +6675,15 @@
                 "परमाणु भार",
                 "परमाणु त्रिज्या",
                 "परमाणु क्रमांक",
-                "संयोजी इलेक्ट्रॉनराॅाॅन"
+                "संयोजी इलेक्ट्रॉन"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: संयोजी इलेक्ट्रॉन\n\n📝 विस्तृत व्याख्या:\nआधुनिक आवर्त सारणी में समान वग के तत्वों में समान संयोजी इलेक्ट्रॉन होते हैं। संयोजी इलेक्ट्रॉन वे इलेक्ट्रॉन होते हैं जो किसी तत्व के बाहरी आवर्त में होते हैं और ये तत्वों की रासायनिक विशेषताओं को निर्धारित करते हैं। जब हम समान वग के तत्वों की बात करते हैं, तो उनका इलेक्ट्रॉनिक विन्यास समान होता है, जिससे उनकी रासायनिक प्रतिक्रियाएँ भी समान होती हैं। उदाहरण के लिए, आवर्त सारणी के पहले समूह में सभी तत्वों के पास एक संयोजी इलेक्ट्रॉन होता है, जो उन्हें एक समान रासायनिक व्यवहार प्रदान करता है। इसी प्रकार, आवर्त सारणी के दूसरे समूह में सभी तत्वों के पास दो संयोजी इलेक्ट्रॉन होते हैं। इस प्रकार, संयोजी इलेक्ट्रॉन की संख्या और विन्यास तत्वों की रासायनिक गतिविधियों को प्रभावित करता है।\n\n🔬 वैज्ञानिक सिद्धांत व तथ्य:\n- संयोजी इलेक्ट्रॉन तत्वों की रासायनिक प्रतिक्रियाओं में महत्वपूर्ण भूमिका निभाते हैं।\n- आवर्त सारणी में तत्वों का वर्गीकरण उनके संयोजी इलेक्ट्रॉन की संख्या के आधार पर किया जाता है।\n- समान वग के तत्वों में रासायनिक गुणों की समानता का मुख्य कारण उनके बाहरी इलेक्ट्रॉन की संख्या होती है।\n- रासायनिक बंधन (Chemical Bonding) में संयोजी इलेक्ट्रॉन की भागीदारी होती है, जो तत्वों के बीच बंधन बनाने में मदद करती है।\n\n❌ गलत विकल्प विश्लेषण:\n• परमाणु भार: यह तत्वों के परमाणुओं का औसत भार है, जो उनके प्रोटॉन और न्यूट्रॉन की संख्या पर निर्भर करता है। समान वग के तत्वों में परमाणु भार भिन्न हो सकता है, इसलिए यह विकल्प सही नहीं है।\n• परमाणु त्रिज्या: यह किसी परमाणु के केंद्र से उसके बाहरी इलेक्ट्रॉनों तक की दूरी को दर्शाता है। समान वग के तत्वों में परमाणु त्रिज्या भिन्न हो सकती है, विशेषकर जब वे विभिन्न आवर्तों में होते हैं।\n• परमाणु क्रमांक: यह किसी तत्व के परमाणुओं में प्रोटॉन की संख्या को दर्शाता है। समान वग के तत्वों में परमाणु क्रमांक भिन्न होता है, क्योंकि यह तत्वों की पहचान का आधार है और यह उनके रासायनिक गुणों को निर्धारित नहीं करता।\n\n💡 महत्वपूर्ण परीक्षा Tip:\n- आवर्त सारणी के समूहों में समान संयोजी इलेक्ट्रॉन की संख्या को याद रखें, क्योंकि यह रासायनिक गुणों को समझने में मदद करता है।\n- रासायनिक बंधन के प्रकार (जैसे आयोनिक, कोवेलेंट) को समझना महत्वपूर्ण है, क्योंकि ये संयोजी इलेक्ट्रॉन की संख्या पर निर्भर करते हैं।\n- अक्सर परीक्षा में यह पूछा जाता है कि किस समूह के तत्वों में समान रासायनिक गुण होते हैं, इसलिए समूहों की विशेषताओं को अच्छी तरह से समझें।",
             "examName": "RRB Group D 28 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_423"
+            "id": "q_periodic_table_and_classification_423",
+            "correct_option": 3
         },
         {
             "question": "तत्वों का कौन-सा समूह एक त्रिक बनाता है?",
@@ -6396,7 +6698,8 @@
             "examName": "RRB Group D 30 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_424"
+            "id": "q_periodic_table_and_classification_424",
+            "correct_option": 2
         },
         {
             "question": "वायुमंडल में सबसे अधिक मात्रा में पाई जाने वाली नोबल गैस कौन सी है?",
@@ -6411,7 +6714,8 @@
             "examName": "RRB NTPC Tier I : 11 Apr 2016 Shift 1",
             "examYear": "2016",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_425"
+            "id": "q_periodic_table_and_classification_425",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन यह दर्शाता है कि \"तत्वों के गुण उनके परमाणु क्रमांकों के आवर्ती फलन होते हैं\"?",
@@ -6426,7 +6730,8 @@
             "examName": "RRB Group D 1/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_426"
+            "id": "q_periodic_table_and_classification_426",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस अणु में दो परमाणुओं के बीच त्रि-आबंध है?",
@@ -6441,7 +6746,8 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_427"
+            "id": "q_periodic_table_and_classification_427",
+            "correct_option": 2
         },
         {
             "question": "तीन तत्व A, B और C डॉबेराइनर का त्रिक बनाते हैं। यदि तत्व A का परमाणु द्रव्यमान 7 और तत्व C का परमाणु द्रव्यमान 39 है, तो तत्व B का परमाणु द्रव्यमान क्या होगा?",
@@ -6456,7 +6762,8 @@
             "examName": "RRB Group D 14 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_428"
+            "id": "q_periodic_table_and_classification_428",
+            "correct_option": 3
         },
         {
             "question": "मेंडेलीव की आवर्त सारणी ______ में प्रकाशित हुई थी।",
@@ -6471,7 +6778,8 @@
             "examName": "RRB Group D 12 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_429"
+            "id": "q_periodic_table_and_classification_429",
+            "correct_option": 2
         },
         {
             "question": "तत्वों को वर्गीकृत करने का पहला प्रयास किसके द्वारा किया गया था?",
@@ -6516,7 +6824,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_432"
+            "id": "q_periodic_table_and_classification_432",
+            "correct_option": 2
         },
         {
             "question": "असंतुलित अभिक्रिया का संदर्भ लीजिए: ___C 2 H₆ + ___O 2 → ___CO 2 + ___H 2 O इस समीकरण को संतुलित करने के लिए निम्नलिखित में से कौन-सा गुणांकों का सही सेट है?",
@@ -6531,7 +6840,8 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_433"
+            "id": "q_periodic_table_and_classification_433",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सी धातु, निम्न घनत्व और मृदुता की विशेषता रखती है?",
@@ -6576,7 +6886,8 @@
             "examName": "RRB Group D 26/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_436"
+            "id": "q_periodic_table_and_classification_436",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा, तत्व लेड (lead) का सही प्रतीक है?",
@@ -6591,7 +6902,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_437"
+            "id": "q_periodic_table_and_classification_437",
+            "correct_option": 1
         },
         {
             "question": "आधुनिक आवर्त सारणी के किस आवर्त में कोश की संख्या न्यूनतम होती है?",
@@ -6621,7 +6933,8 @@
             "examName": "RRB JE CBT I - : 31 May 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_439"
+            "id": "q_periodic_table_and_classification_439",
+            "correct_option": 2
         },
         {
             "question": "आधुनिक आवर्त सारणी मे इलेक्ट्रॉनिक विन्यास 2, 8, 1 वाले तत्व को कहाँ रखा जाता है?",
@@ -6636,7 +6949,8 @@
             "examName": "RRB Group D 12 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_440"
+            "id": "q_periodic_table_and_classification_440",
+            "correct_option": 3
         },
         {
             "question": "आधुनिक आवर्त सारणी में तत्वों को ________ आवर्त में व्यवस्थित किया जाता है।",
@@ -6651,7 +6965,8 @@
             "examName": "RRB Group D 6 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_441"
+            "id": "q_periodic_table_and_classification_441",
+            "correct_option": 3
         },
         {
             "question": "मेंडेलीव की आवर्त सारणी में, तत्वों के हाइड्राइड और ऑक्साइड के सूत्र किस स्थिति में लिखे जाते हैं?",
@@ -6666,7 +6981,8 @@
             "examName": "RRB Group D 12 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_442"
+            "id": "q_periodic_table_and_classification_442",
+            "correct_option": 2
         },
         {
             "question": "नीचे दिए गए कथनों पर विचार करें और सही उत्तर पहचानें।\n\n• कथन।: अष्टक का नियम केवल कैल्शियम तक लागू होता है।\n\n• कथन II: कैल्शियम के बाद, हर आठवें तत्व में पहले के समान गुण नहीं थे।",
@@ -6681,7 +6997,8 @@
             "examName": "RRB Group D 23 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_443"
+            "id": "q_periodic_table_and_classification_443",
+            "correct_option": 2
         },
         {
             "question": "मेंडलीव का आवर्त नियम यह दर्शाता है कि तत्वों के गुण उनके _______ के आवर्ती फलन हैं।",
@@ -6696,7 +7013,8 @@
             "examName": "RRB JE CE 29 Aug 2019 Shift 2 CBT 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_444"
+            "id": "q_periodic_table_and_classification_444",
+            "correct_option": 3
         },
         {
             "question": "न्यूलैंड्स का अष्टक नियम किसके साथ सुपरिभाषित होता है?",
@@ -6726,7 +7044,8 @@
             "examName": "RRB Group D 12 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_446"
+            "id": "q_periodic_table_and_classification_446",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा एक सूक्ष्मपोषक तत्व है?",
@@ -6756,7 +7075,8 @@
             "examName": "RRB Group D 3/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_448"
+            "id": "q_periodic_table_and_classification_448",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी धातु, वायु के साथ अभिक्रिया करने पर उभयधर्मी ऑक्साइड बनाती है?",
@@ -6771,7 +7091,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_449"
+            "id": "q_periodic_table_and_classification_449",
+            "correct_option": 2
         },
         {
             "question": "एक-सिलिकॉन को ________ के रूप में जाना जाता है।",
@@ -6801,7 +7122,8 @@
             "examName": "RRB NTPC CBT-I : 11 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_451"
+            "id": "q_periodic_table_and_classification_451",
+            "correct_option": 3
         },
         {
             "question": "नीचे दिए गए बयानों पर विचार करें और सही उत्तर की पहचान करें। कथन।-: न्यूलैंड की धारणा के अनुसार, प्रकृति में केवल 56 तत्व मौजूद थे। कथन II-: न्यूलैंड ने पाया कि प्रत्येक आठवें तत्व में पहले के समान गुण होते हैं।",
@@ -6816,7 +7138,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_452"
+            "id": "q_periodic_table_and_classification_452",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा तत्व एक्टिनॉइड समूह तत्व के रूप में वर्गीकृत है?",
@@ -6846,7 +7169,8 @@
             "examName": "RRB Group D 17 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_454"
+            "id": "q_periodic_table_and_classification_454",
+            "correct_option": 1
         },
         {
             "question": "आवर्त सारणी में एक पंक्ति में बाएं से दाएं जाने पर विद्युत ऋणात्मकता ______ और आवर्त सारणी में एक पंक्ति में बाएं से दाएं जाने पर विद्युत धनात्मकता ______।",
@@ -6876,7 +7200,8 @@
             "examName": "RRB JE 26 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_456"
+            "id": "q_periodic_table_and_classification_456",
+            "correct_option": 2
         },
         {
             "question": "आधुनिक आवर्त सारणी में हैलोजन किस समूह में स्थित होते हैं?",
@@ -6891,7 +7216,8 @@
             "examName": "RRB Group D 30 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_457"
+            "id": "q_periodic_table_and_classification_457",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा तत्व अधिकतम संयोजकता इलेक्ट्रॉन दर्शाता है? वाँ वाँ वाँ वाँ",
@@ -6936,7 +7262,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_460"
+            "id": "q_periodic_table_and_classification_460",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा तत्व मानक स्थितियों के अंतर्गत विशेष रूप से अधातु के रूप में वर्गीकृत है?",
@@ -6951,7 +7278,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_461"
+            "id": "q_periodic_table_and_classification_461",
+            "correct_option": 2
         },
         {
             "question": "समूह _______ से संबंधित तत्वों को 'd' ब्लॉक तत्वों के रूप में जाना जाता है।",
@@ -6981,7 +7309,8 @@
             "examName": "RRB Group D 26/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_463"
+            "id": "q_periodic_table_and_classification_463",
+            "correct_option": 2
         },
         {
             "question": "वतमान में ज्ञात तत्वों की कुल संख्या है:",
@@ -6996,7 +7325,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_464"
+            "id": "q_periodic_table_and_classification_464",
+            "correct_option": 2
         },
         {
             "question": "फ्लोरीन से क्लोरीन में, ब्रोमीन से और फिर आयोडीन में जाना, विद्युतऋणात्मकता:",
@@ -7011,7 +7341,8 @@
             "examName": "RRB Group D 24/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_465"
+            "id": "q_periodic_table_and_classification_465",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन अधातु का इलेक्ट्रॉनिक विन्यास नहीं है?",
@@ -7026,7 +7357,8 @@
             "examName": "RRB Group D 9/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_466"
+            "id": "q_periodic_table_and_classification_466",
+            "correct_option": 2
         },
         {
             "question": "त्रिक (Triad) का नियम किसके द्वारा दिया गया था?",
@@ -7041,7 +7373,8 @@
             "examName": "RRB JE CE 28 Aug 2019 Shift 2 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_467"
+            "id": "q_periodic_table_and_classification_467",
+            "correct_option": 3
         },
         {
             "question": "प्रत्येक त्रिक में, डोबेराइनर द्वारा कितने तत्वों की पहचान की गई थी?",
@@ -7071,7 +7404,8 @@
             "examName": "RRB Group D 1/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_469"
+            "id": "q_periodic_table_and_classification_469",
+            "correct_option": 2
         },
         {
             "question": "आतिशबाजी को अपना रंग धातु के लवण से मिलता है। निम्नलिखित में से कौन- सा धातु लवण हरे रंग का आतिशबाजी प्रदशन उत्पन्न करता है?",
@@ -7086,7 +7420,8 @@
             "examName": "RRB NTPC CBT-I : 31 July 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_470"
+            "id": "q_periodic_table_and_classification_470",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन p- ब्लॉक तत्वों के संदर्भ में सही नहीं है?",
@@ -7101,7 +7436,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 06 Jun, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_471"
+            "id": "q_periodic_table_and_classification_471",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सी धातु, सक्रियता श्रेणी के मध्य में निष्कर्षित की जाती है?",
@@ -7146,14 +7482,15 @@
             "examName": "RRB Group D 31/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_474"
+            "id": "q_periodic_table_and_classification_474",
+            "correct_option": 2
         },
         {
             "question": "संक्रमण तत्व आमतौर पर आवर्त सारणी के किस ब्लॉक में पाए जाते हैं?",
             "options": [
                 "s- ब्लॉक",
                 "p- ब्लॉक",
-                "- ब्लॉक",
+                "d- ब्लॉक",
                 "f- ब्लॉक"
             ],
             "correctIndex": 2,
@@ -7161,7 +7498,8 @@
             "examName": "RRB NTPC UG CBT-I : 03 Sept, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_475"
+            "id": "q_periodic_table_and_classification_475",
+            "correct_option": 2
         },
         {
             "question": "रासायनिक प्रतीक P का अथ है-",
@@ -7176,7 +7514,8 @@
             "examName": "RRB JE 27 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_476"
+            "id": "q_periodic_table_and_classification_476",
+            "correct_option": 2
         },
         {
             "question": "किस नोबल गैस (उत्कृष्ट गैस) को अजनबी) गैस कहा जाता है?",
@@ -7191,7 +7530,8 @@
             "examName": "RPF Constable 2018 03 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_477"
+            "id": "q_periodic_table_and_classification_477",
+            "correct_option": 1
         },
         {
             "question": "परंपरागत थर्मामीटर में प्रयुक्त तत्व क्या था जो प्रकृति में बेहद जहरीला है?",
@@ -7206,7 +7546,8 @@
             "examName": "RRB NTPC Tier I : 16 Apr 2016 Shift 3",
             "examYear": "2016",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_478"
+            "id": "q_periodic_table_and_classification_478",
+            "correct_option": 1
         },
         {
             "question": "आधुनिक आवर्त सारणी के बारे में निम्नलिखित में से कौन-सा कथन सही नहीं है?",
@@ -7221,7 +7562,8 @@
             "examName": "RRB JE 24 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_479"
+            "id": "q_periodic_table_and_classification_479",
+            "correct_option": 1
         },
         {
             "question": "कार्बन श्रृंखला में हाइड्रोजन के स्थान पर समान क्रियात्मक समूह के प्रतिस्थापन से बनने वाले यौगिकों के क्रम को _______ कहा जाता है।",
@@ -7251,7 +7593,8 @@
             "examName": "RRB Group D 11/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_481"
+            "id": "q_periodic_table_and_classification_481",
+            "correct_option": 1
         },
         {
             "question": "________ के अनुसार, तत्वों के गुण इनके परमाणु द्रव्यमान का आवर्त फलन होते हैं।",
@@ -7266,7 +7609,8 @@
             "examName": "RRB Group D 22 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_482"
+            "id": "q_periodic_table_and_classification_482",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा गैर-धातु अपनी क्रिस्टलीय जालक (crystal lattice) में विस्थापित इलेक्ट्रॉनों की उपस्थिति के कारण ठोस अवस्था में विद्युत का सुचालक है?",
@@ -7281,7 +7625,8 @@
             "examName": "RRB Technician Grade III 06/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_483"
+            "id": "q_periodic_table_and_classification_483",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस वैज्ञानिक ने सुझाव दिया कि तत्वों के प्रतीकों को तत्व के नाम के एक या दो अक्षरों से बनाया जाए?",
@@ -7311,7 +7656,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_485"
+            "id": "q_periodic_table_and_classification_485",
+            "correct_option": 1
         },
         {
             "question": "किसने अपने आवर्त सारणी में अंतराल के आधार पर कुछ अभी तक नहीं खोजे गए तत्वों की भविष्यवाणी की है?",
@@ -7356,7 +7702,8 @@
             "examName": "RRB JE 29 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_488"
+            "id": "q_periodic_table_and_classification_488",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस धातु को चाकू से नहीं काटा जा सकता है?",
@@ -7371,7 +7718,8 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_489"
+            "id": "q_periodic_table_and_classification_489",
+            "correct_option": 1
         },
         {
             "question": "एक तत्व X क्लोरीन के साथ मिलकर एक यौगिक XCI बनाता है। तत्व X को आवर्त सारणी के बाईं ओर रखा गया है। निम्नलिखित में से कौन सा कथन तत्व X के लिए सही है? i) इसमें एक संयोजी इलेक्ट्रॉन है। ii) यह एक धातु है और ठोस है। iii) यह एक अधातु है और एक गैस है। iv) इसमें पाँच संयोजी इलेक्ट्रॉन होते हैं।",
@@ -7386,7 +7734,8 @@
             "examName": "RRB Group D 2 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_490"
+            "id": "q_periodic_table_and_classification_490",
+            "correct_option": 1
         },
         {
             "question": "इनमें से किस तत्व की वाह्यतम कक्षा में एक इलेक्ट्रॉन होता है?",
@@ -7401,7 +7750,8 @@
             "examName": "RRB JE Electronics 01 Sep 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_491"
+            "id": "q_periodic_table_and_classification_491",
+            "correct_option": 3
         },
         {
             "question": "विमान निर्माण में सामान्यतः किस तत्व का उपयोग किया जाता है?",
@@ -7416,7 +7766,8 @@
             "examName": "RPF Constable 2024 : 10 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_492"
+            "id": "q_periodic_table_and_classification_492",
+            "correct_option": 1
         },
         {
             "question": "_______ एक क्षार धातु है।",
@@ -7446,7 +7797,8 @@
             "examName": "RRB ALP CBT-I 2024 : 27 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_494"
+            "id": "q_periodic_table_and_classification_494",
+            "correct_option": 2
         },
         {
             "question": "मेंडेलीव के अनुसार, तत्वों के गुण किसके आवर्त फलन हैं?",
@@ -7476,7 +7828,8 @@
             "examName": "RRB Group D 11/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_496"
+            "id": "q_periodic_table_and_classification_496",
+            "correct_option": 1
         },
         {
             "question": "हाइड्रोजन का इलेक्ट्रॉनिक विन्यास ________ के जैसा दिखता है।",
@@ -7491,7 +7844,8 @@
             "examName": "RRB Group D 1/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_497"
+            "id": "q_periodic_table_and_classification_497",
+            "correct_option": 1
         },
         {
             "question": "मेंडेलीव अपनी तालिकाओं में निम्नलिखित में से किस तत्व को एक सही स्थिति प्रदान नहीं कर सका?",
@@ -7506,7 +7860,8 @@
             "examName": "RRB Group D 25/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_498"
+            "id": "q_periodic_table_and_classification_498",
+            "correct_option": 2
         },
         {
             "question": "उस रसायनज्ञ का नाम बताइए जिसने साबित किया कि किसी तत्व का परमाणु क्रमांक उसके परमाणु द्रव्यमान से अधिक मौलिक गुण है, जिसके कारण मेंडेलीफ की आवर्त नियम तालिका में संशोधन हुआ?",
@@ -7521,7 +7876,8 @@
             "examName": "RRB NTPC CBT-I : 19 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_periodic_table_and_classification_499"
+            "id": "q_periodic_table_and_classification_499",
+            "correct_option": 3
         }
     ]
 }

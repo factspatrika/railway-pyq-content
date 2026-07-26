@@ -16,7 +16,8 @@
             "examName": "RRB Group D 12 Nov 2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_1"
+            "id": "q_electricity_1",
+            "correct_option": 1
         },
         {
             "question": "एम्पियर _________ की SI इकाई है।",
@@ -46,7 +47,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_3"
+            "id": "q_electricity_3",
+            "correct_option": 3
         },
         {
             "question": "ओम के नियम की सीमाएँ: 1. यह गैसीय चालक पर लागू नहीं होता है। 2. यह जर्मेनियम और सिलिकॉन जैसे अर्धचालकों पर लागू नहीं होता है।",
@@ -61,7 +63,8 @@
             "examName": "RRB Group D 12 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_4"
+            "id": "q_electricity_4",
+            "correct_option": 2
         },
         {
             "question": "4 Ω प्रतिरोध प्राप्त करने के लिए 12 Ω के कितने प्रतिरोधों को समानांतरक्रम संयोजन में जोड़ा जाना चाहिए?",
@@ -76,7 +79,8 @@
             "examName": "RRB Group D 2 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_5"
+            "id": "q_electricity_5",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा समूह सबसे अच्छा विद्युतरोधी है?",
@@ -91,7 +95,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_6"
+            "id": "q_electricity_6",
+            "correct_option": 3
         },
         {
             "question": "धातु के दो तार A तथा B एक ही पदार्थ के बने हैं। तार A की लंबाई। और त्रिज्या r है जबकि तार B की लंबाई 2l और त्रिज्या 2r है। तार A के प्रतिरोध और तार B के प्रतिरोध का अनुपात क्या है?",
@@ -111,7 +116,7 @@
         {
             "question": "5 Ω और 15 Ω के दो प्रतिरोधक 10 V की बैटरी से श्रेणीक्रम में जुड़े हैं। परिपथ में कितनी धारा प्रवाहित होगी?",
             "options": [
-                "0.5 A",
+                "5 A",
                 "200 A",
                 "2 A",
                 "0.4 A"
@@ -136,7 +141,8 @@
             "examName": "RRB JE CBT I - : 31 May 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_9"
+            "id": "q_electricity_9",
+            "correct_option": 1
         },
         {
             "question": "दो बल्ब A और B एक 3 V स्रोत से समानांतरक्रम में संयोजित हैं। यदि बल्ब A और बल्ब B के प्रतिरोध का अनुपात 1:3 है। एक निश्चित समय में बल्ब A और बल्ब B द्वारा उत्पन्न ऊष्मा का अनुपात है:",
@@ -151,13 +157,14 @@
             "examName": "RRB Group D 24 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_10"
+            "id": "q_electricity_10",
+            "correct_option": 2
         },
         {
             "question": "दो प्रतिरोधक, एक 10 Ω और दूसरा 20 Ω एक 6 V बैटरी से श्रेणीक्रम संयोजन में जुड़े हुए हैं। परिपथ में विद्युत धारा कितनी होगी?",
             "options": [
                 "0.3 A",
-                "0.2 A",
+                "2 A",
                 "0.9 A",
                 "0.6 A"
             ],
@@ -166,7 +173,8 @@
             "examName": "RRB Group D 18/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_11"
+            "id": "q_electricity_11",
+            "correct_option": 1
         },
         {
             "question": "विद्युत जनित्र एक उपकरण है जो परिवर्तित करता है:",
@@ -196,7 +204,8 @@
             "examName": "RPF Constable 2018 10 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_13"
+            "id": "q_electricity_13",
+            "correct_option": 1
         },
         {
             "question": "सौर सेल किसका बना होता है?",
@@ -211,7 +220,8 @@
             "examName": "RRB Group D 3/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_14"
+            "id": "q_electricity_14",
+            "correct_option": 2
         },
         {
             "question": "2 Ω, 3 Ω और 6 Ω के तीन प्रतिरोधक श्रेणीक्रम में संयोजित हैं। संयोजन का प्रतिरोध ____ है।",
@@ -226,7 +236,8 @@
             "examName": "RRB Group D 5 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_15"
+            "id": "q_electricity_15",
+            "correct_option": 2
         },
         {
             "question": "यदि 4 Ω प्रतिरोध में प्रति सेकंड 400 J ऊष्मा उत्पन्न होती है, तो प्रतिरोधक में प्रवाहित होने वाली धारा है:",
@@ -241,7 +252,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_electricity_16"
+            "id": "q_electricity_16",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा कारक चालक के प्रतिरोध को सीधे प्रभावित करता है?",
@@ -286,7 +298,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_19"
+            "id": "q_electricity_19",
+            "correct_option": 3
         },
         {
             "question": "यदि दो बिंदुओं के बीच 5C आवेश स्थानांतरित करने के लिए 100 J कार्य की आवश्यकता है, तो बिंदुओं के बीच विभवांतर. है।",
@@ -301,7 +314,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_20"
+            "id": "q_electricity_20",
+            "correct_option": 3
         },
         {
             "question": "विद्युत प्रवाह के संतत और संवृत पथ को क्या कहा जाता है?",
@@ -331,7 +345,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_22"
+            "id": "q_electricity_22",
+            "correct_option": 3
         },
         {
             "question": "प्रत्येक R ओम प्रतिरोध के दो प्रतिरोधकों को श्रेणीक्रम में जोड़ने पर तुल्य प्रतिरोध ________ होता है।",
@@ -346,7 +361,8 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_electricity_23"
+            "id": "q_electricity_23",
+            "correct_option": 2
         },
         {
             "question": "यदि किसी चालक का प्रतिरोध 10 Ω है तथा उसमें 5 V का विभवांतर है, तो उसमें प्रवाहित धारा क्या होगी?",
@@ -361,7 +377,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_24"
+            "id": "q_electricity_24",
+            "correct_option": 1
         },
         {
             "question": "किसी दिए गए प्रतिरोध R को दो बराबर भागों में काटा जाता है। प्रत्येक भाग का प्रतिरोध है:",
@@ -376,7 +393,8 @@
             "examName": "RRB Group D 17 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_25"
+            "id": "q_electricity_25",
+            "correct_option": 3
         },
         {
             "question": "तांबे का कौन सा/से गुण इसे विद्युत पारेषण लाइनों के लिए आदर्श बनाता है?",
@@ -396,7 +414,8 @@
                 "(i) निम्न गलनांक",
                 "(ii) उच्च प्रतिरोधकता",
                 "(iii) निम्न प्रतिरोध"
-            ]
+            ],
+            "correct_option": 1
         },
         {
             "question": "एक सीधे तार के चारों ओर चुंबकीय क्षेत्र की तीव्रता. पर निर्भर करती है।",
@@ -411,13 +430,14 @@
             "examName": "RRB Level 01 Stage I 26/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_27"
+            "id": "q_electricity_27",
+            "correct_option": 1
         },
         {
             "question": "60 W का डिवाइस 12 V बैटरी से जुड़ा हुआ है। उपकरण में धारा है:",
             "options": [
                 "0.1 A",
-                "5.0 A",
+                "0 A",
                 "0.2 A",
                 "5 A"
             ],
@@ -426,7 +446,8 @@
             "examName": "RRB Group D 8 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_28"
+            "id": "q_electricity_28",
+            "correct_option": 1
         },
         {
             "question": "किसी चालक की प्रतिरोधकता ______ पर निर्भर करती है।",
@@ -441,7 +462,8 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 2",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_electricity_29"
+            "id": "q_electricity_29",
+            "correct_option": 1
         },
         {
             "question": "18 V विभावान्तर वाले दो बिंदुओं पर 4C के आवेश को ले जाने में किया गया कार्य ________ है।",
@@ -456,7 +478,8 @@
             "examName": "RRB Group D 17/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_electricity_30"
+            "id": "q_electricity_30",
+            "correct_option": 1
         },
         {
             "question": "12 Ω प्रतिरोध के चालक में 2 A की धारा प्रवाहित हो रही है। तब चालक के सिरों पर विभवांतर होगा:",
@@ -471,7 +494,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_electricity_31"
+            "id": "q_electricity_31",
+            "correct_option": 1
         },
         {
             "question": "फ्यूज के रूप में प्रयुक्त तत्व ___________ जाता है, जब उसमें से बहुत अधिक धारा प्रवाहित होती है।",
@@ -486,7 +510,8 @@
             "examName": "RRB Group D 30 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_32"
+            "id": "q_electricity_32",
+            "correct_option": 3
         },
         {
             "question": "एक दिए गए पदार्थ के तार की लंबाई 'l' और प्रतिरोध 'R' है। उसी सामग्री का एक अन्य तार जिसकी लंबाई तीन गुनी और अनुपस्थ क्षेत्रफल दोगुना है, का प्रतिरोध होगा:",
@@ -516,7 +541,8 @@
             "examName": "RRB Group D 22 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_34"
+            "id": "q_electricity_34",
+            "correct_option": 3
         },
         {
             "question": "H (ऊष्मा), I (धारा), R (प्रतिरोध) और T (समय) के बीच सही संबंध क्या है?",
@@ -531,7 +557,8 @@
             "examName": "RRB Group D 12 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_35"
+            "id": "q_electricity_35",
+            "correct_option": 1
         },
         {
             "question": "एक चुंबकीय क्षेत्र, _____ पर बल लगा सकता है।",
@@ -546,7 +573,8 @@
             "examName": "RRB JE CE 29 Aug 2019 Shift 2 CBT 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_electricity_36"
+            "id": "q_electricity_36",
+            "correct_option": 3
         },
         {
             "question": "एक विद्युत बल्ब की वोल्टता 240 V और धारा 0.6 A है, इसकी शक्ति _____ होती है।",
@@ -561,7 +589,8 @@
             "examName": "RRB Group D 18 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_electricity_37"
+            "id": "q_electricity_37",
+            "correct_option": 2
         },
         {
             "question": "किसी दिए गए आकार का एक घटक जो एक कम प्रतिरोध प्रदान करता है उसे क्या कहते हैं?",
@@ -576,12 +605,13 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_38"
+            "id": "q_electricity_38",
+            "correct_option": 3
         },
         {
             "question": "3 V बैटरी के साथ श्रृंखला में जुड़े दो विद्युत बल्बों (प्रत्येक 5 Ω प्रतिरोध के साथ) द्वारा खपत की गई विद्युत शक्ति है:",
             "options": [
-                "0.9 वाट",
+                "9 वाट",
                 "3 वाट",
                 "1 वाट",
                 "0.3 वाट"
@@ -596,7 +626,7 @@
         {
             "question": "घरेलू प्रयोजन के लिए प्रयुक्त फ्यूज की रेटिंग ______ की सीमा में होती है।",
             "options": [
-                "1000 एम्पियर - 2000 एम्पियर",
+                "1 एम्पीयर - 10 एम्पीयर",
                 "500 एम्पियर - 1000 एम्पियर",
                 "100 एम्पियर - 200 एम्पियर",
                 "1 एम्पियर - 10 एम्पियर"
@@ -621,7 +651,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_electricity_41"
+            "id": "q_electricity_41",
+            "correct_option": 3
         },
         {
             "question": "5 Ω प्रतिरोध वाला तार स्वयं पर दोहराया जाता है। तार के नए प्रतिरोध की गणना करें।",
@@ -651,12 +682,13 @@
             "examName": "RRB Group D 5 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_43"
+            "id": "q_electricity_43",
+            "correct_option": 3
         },
         {
             "question": "धारावाही चालक द्वारा उत्पन्न चुंबकीय क्षेत्र रेखाओं का प्रतिरूप:",
             "options": [
-                "चालक की लंबाई पर निर्भर करता है",
+                "चालक के आकार पर निभर करता है",
                 "चालक के आकार पर निर्भर करता है",
                 "चालक से संबंधित किसी भी चीज़ से स्वतंत्र है",
                 "चालक की मोटाई पर निर्भर करता है"
@@ -689,14 +721,15 @@
                 "0.15 A",
                 "0.30 A",
                 "0.50 A",
-                "0.25 A"
+                "25 A"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: 0.25 A\n\n📝 विस्तृत व्याख्या:\nदिए गए प्रश्न में दो प्रतिरोधक A (20 Ω) और B (30 Ω) पार्श्वक्रम (समानांतर क्रम) में जुड़े हैं, और यह संयोजन 3 V की बैटरी से जोड़ा गया है। हमें बैटरी के माध्यम से प्रवाहित कुल विद्युत धारा ज्ञात करनी है। पार्श्वक्रम में प्रतिरोधकों का तुल्य प्रतिरोध (R_eq) निकालने का सूत्र है: 1/R_eq = 1/R₁ + 1/R₂। यहाँ R₁ = 20 Ω और R₂ = 30 Ω है। अतः 1/R_eq = 1/20 + 1/30 = (3 + 2)/60 = 5/60 = 1/12, इसलिए R_eq = 12 Ω। अब ओम के नियम (V = I × R) के अनुसार, बैटरी से प्रवाहित कुल धारा। = V / R_eq = 3 V / 12 Ω = 0.25 A होगी। यह ध्यान रखना महत्वपूर्ण है कि पार्श्वक्रम में प्रत्येक प्रतिरोधक पर वोल्टेज समान (3 V) होता है, लेकिन धारा अलग-अलग होती है। प्रतिरोधक A में धारा I_A = 3/20 = 0.15 A, और प्रतिरोधक B में I_B = 3/30 = 0.10 A होगी। इन दोनों धाराओं का योग (0.15 + 0.10 = 0.25 A) बैटरी से प्रवाहित कुल धारा के बराबर है, जो हमारे उत्तर की पुष्टि करता है। इस प्रकार सही उत्तर 0.25 A है।\n\n🔬 वैज्ञानिक सिद्धांत व तथ्य:\n• **ओम का नियम (Ohm's Law):** किसी चालक में प्रवाहित धारा (I) उसके सिरों पर विभवांतर (V) के समानुपाती होती है तथा प्रतिरोध (R) के व्युत्क्रमानुपाती होती है। सूत्र: V = I × R या। = V/R।\n• **पार्श्वक्रम (समानांतर क्रम) में प्रतिरोध:** जब प्रतिरोधकों को पार्श्वक्रम में जोड़ा जाता है, तो उनका तुल्य प्रतिरोध (R_eq) व्यक्तिगत प्रतिरोधों के व्युत्क्रमों के योग के व्युत्क्रम के बराबर होता है: 1/R_eq = 1/R₁ + 1/R₂ +.। पार्श्वक्रम में प्रत्येक प्रतिरोधक पर वोल्टेज समान रहता है, जबकि कुल धारा शाखाओं में विभाजित हो जाती है।\n• **धारा का विभाजन (Current Division):** पार्श्वक्रम में, किसी शाखा में धारा उस शाखा के प्रतिरोध के व्युत्क्रमानुपाती होती है। अर्थात्कम प्रतिरोध वाली शाखा में अधिक धारा प्रवाहित होती है।\n• **विद्युत परिपथ में ऊर्जा संरक्षण:** किरचॉफ का धारा नियम (KCL) कहता है कि किसी संधि पर आने वाली धाराओं का योग जाने वाली धाराओं के योग के बराबर होता है। यहाँ बैटरी से निकलने वाली कुल धारा दोनों शाखाओं में विभाजित होकर पुनः मिल जाती है।\n\n❌ गलत विकल्प विश्लेषण:\n• **0.15 A:** यह मान केवल प्रतिरोधक A (20 Ω) में प्रवाहित धारा है, जबकि प्रश्न बैटरी के माध्यम से कुल धारा पूछ रहा है। यदि प्रतिरोधक B को हटा दिया जाए या केवल A ही जुड़ा हो, तब यह उत्तर सही होता।\n• **0.30 A:** यह मान तब प्राप्त होता है जब हम गलती से प्रतिरोधों को श्रेणीक्रम में मान लें (20+30=50 Ω) और फिर। = 3/50 = 0.06 A नहीं, बल्कि 0.30 A किसी अन्य गणना से आ सकता है। वास्तव में, यदि केवल 10 Ω का प्रतिरोध हो तो।=0.30 A होगा। यहाँ यह गलत है क्योंकि पार्श्वक्रम का तुल्य प्रतिरोध 12 Ω है, न कि 10 Ω।\n• **0.50 A:** यह मान तब आता है जब हम प्रतिरोधों के व्युत्क्रमों का योग (1/20+1/30=1/12) के बजाय सीधे प्रतिरोधों का योग (20+30=50) लेकर।=3/50=0.06 A निकालते, लेकिन 0.50 A किसी अन्य भ्रम से उत्पन्न हो सकता है। उदाहरण के लिए, यदि दोनों प्रतिरोधों को समानांतर में जोड़कर तुल्य प्रतिरोध 12 Ω के स्थान पर 6 Ω मान लिया जाए (जो कि दो समान प्रतिरोधों के लिए सही है), तब।=3/6=0.5 A होगा। परंतु यहाँ प्रतिरोध असमान हैं, अतः यह गलत है।\n\n💡 महत्वपूर्ण परीक्षा Tip:\n1. **पार्श्वक्रम बनाम श्रेणीक्रम:** परीक्षा में अक्सर छात्र दोनों क्रमों में भ्रमित हो जाते हैं। याद रखें – पार्श्वक्रम में तुल्य प्रतिरोध सबसे छोटे प्रतिरोध से भी कम होता है, जबकि श्रेणीक्रम में सबसे बड़े से अधिक होता है। यहाँ 12 Ω, 20 Ω और 30 Ω दोनों से छोटा है, जो पार्श्वक्रम की पुष्टि करता है।\n2. **त्वरित गणना ट्रिक:** दो प्रतिरोधों के पार्श्वक्रम के लिए तुल्य प्रतिरोध का सूत्र (R₁ × R₂) / (R₁ + R₂) भी उपयोगी है। यहाँ (20×30)/(20+30) = 600/50 = 12 Ω। फिर। = 3/12 = 0.25 A।\n3. **धारा विभाजन का सीधा उपयोग:** यदि कुल धारा ज्ञात हो, तो प्रत्येक शाखा में धारा I₁ = I_total × (R₂/(R₁+R₂)) और I₂ = I_total × (R₁/(R₁+R₂)) से निकाली जा सकती है। इस प्रश्न में विपरीत दिशा में भी यही सिद्धांत लागू होता है।",
             "examName": "RRB Group D 1 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_46"
+            "id": "q_electricity_46",
+            "correct_option": 3
         },
         {
             "question": "यदि किसी परिपथ में 10 Ω,20 Ω और 60 Ω के प्रतिरोधक पार्श्वक्रम में संयोजित हैं, तो परिपथ का कुल प्रतिरोध ज्ञात कीजिए।",
@@ -711,7 +744,8 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_47"
+            "id": "q_electricity_47",
+            "correct_option": 2
         },
         {
             "question": "एक 12 V बैटरी 5 Ω प्रतिरोधक के समांतरक्रम में जुड़ी है। इस बैटरी द्वारा धारा की आपूर्ति ज्ञात कीजिए।",
@@ -741,12 +775,13 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_electricity_49"
+            "id": "q_electricity_49",
+            "correct_option": 3
         },
         {
             "question": "जब एक विद्युत हीटर स्रोत से 4 A की धारा खींचता है, तो टर्मिनल के बीच विभवांतर 60 V है। यदि विभवांतर 127.5 V में परिवर्तित होता है तो हीटर कितनी धारा खींचेगा?",
             "options": [
-                "8.5 A",
+                "5 A",
                 "24 A",
                 "10 A",
                 "12 A"
@@ -806,12 +841,13 @@
             "examName": "RRB ALP Fitter 23 Jan 2019 Shift 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_electricity_53"
+            "id": "q_electricity_53",
+            "correct_option": 1
         },
         {
             "question": "दो परिपथ, A और B पर विचार कीजिए, जिनमें से प्रत्येक में छह प्रतिरोधक हैं और प्रत्येक क्रमशः R और R प्रतिरोध के परिपथ हैं। प्रत्येक परिपथ में प्रतिरोधक इस प्रकार होते हैं कि प्रत्येक परिपथ का परिणामी प्रतिरोध न्यूनतम होता है। अब नगण्य आंतरिक प्रतिरोध वाली एक 20 V की बैटरी को प्रत्येक परिपथ में अलग से जोड़ा जाता है और परिपथ A और परिपथ B द्वारा खींची गई धारा क्रमशः 6 A और 8 A है। तब R और R होंगे:",
             "options": [
-                "R = 20 Ω और R = 15 Ω",
+                "R_A = 20 Ω और R_B = 15 Ω",
                 "R = 30 Ω और R = 15 Ω",
                 "R = 15 Ω और R = 20 Ω",
                 "R = 15 Ω और R = 30 Ω"
@@ -836,7 +872,8 @@
             "examName": "RRB Group D 22 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_55"
+            "id": "q_electricity_55",
+            "correct_option": 3
         },
         {
             "question": "श्रेणी में जुड़े 3 Ω और 6 Ω प्रतिरोधों का परिणामी प्रतिरोध कितना होता है?",
@@ -851,7 +888,8 @@
             "examName": "RRB JE 23 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_56"
+            "id": "q_electricity_56",
+            "correct_option": 1
         },
         {
             "question": "एक ही सामग्री के दो तारों पर विचार करें, लेकिन उनके अनुप्रस्थ काट क्षेत्रों का अनुपात 2 ∶ 5 है और उनकी लंबाई का अनुपात 7 ∶ 5 है। यदि समान मात्रा में धारा उनके माध्यम से प्रवाहित हो रही है जब उन्हें क्रमशः V₁ और V₂ वोल्टेज वाली दो बैटरियों से जोड़ा जाता है, तो V₁ ∶ V₂ है:",
@@ -866,7 +904,8 @@
             "examName": "RRB Group D 17 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_57"
+            "id": "q_electricity_57",
+            "correct_option": 1
         },
         {
             "question": "40 Ω प्रतिरोध का एक विद्युत बल्ब और 10 Ω प्रतिरोध का एक कंडक्टर 10 V बैटरी से जुड़े हुए हैं। परिपथ का कुल प्रतिरोध है:",
@@ -896,12 +935,13 @@
             "examName": "RRB Level 01 Stage I 08/01/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_electricity_59"
+            "id": "q_electricity_59",
+            "correct_option": 3
         },
         {
             "question": "एक 12 V की कार की हेडलाइट लैंप 15 मिनट के लिए 3 A की धारा खींचती है। इस समय के दौरान कार की बैटरी द्वारा स्थानांतरित ऊर्जा है:",
             "options": [
-                "0.009 kWh",
+                "009 kWh",
                 "5.4 kWh",
                 "0.54 kWh",
                 "0.008 kWh"
@@ -926,7 +966,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 18 Jun, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_61"
+            "id": "q_electricity_61",
+            "correct_option": 1
         },
         {
             "question": "पारंपरिक रूप से, इलेक्ट्रॉनों के प्रवाह को देखते हुए, विद्युत परिपथ में विद्युत धारा की निर्दिष्ट दिशा कैसी होती है?",
@@ -941,7 +982,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_62"
+            "id": "q_electricity_62",
+            "correct_option": 2
         },
         {
             "question": "1000 W रेटेड एक विद्युत हीटर और 2000 W रेटेड एक विद्युत गीजर का उपयोग प्रतिदिन 4 घंटे के लिए किया जाता है। 10 दिनों में उपभोग की गई ऊर्जा (किलोवाट में) है:",
@@ -956,12 +998,13 @@
             "examName": "RRB Group D 22 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_63"
+            "id": "q_electricity_63",
+            "correct_option": 2
         },
         {
             "question": "तापदीप्त फिलामेंट बल्ब के मामले में निम्नलिखित में से कौन सा कथन सत्य है/हैं?",
             "options": [
-                "(b), (e)",
+                "(a), (b), (e)",
                 "(d), (e)",
                 "(c), (d)",
                 "(c), (d)"
@@ -982,7 +1025,7 @@
         {
             "question": "एक चालक को 6 V की बैटरी से जोड़ा जाता है और चालक के सिरों पर विभवांतर V₁ है। जब इसे 12 V की बैटरी से जोड़ा जाता है, तो विभवांतर V₂ हो जाता है। अनुपात (V₁/V₂) का मान ज्ञात कीजिए।",
             "options": [
-                "1/2",
+                "चालक के सिरों पर विभवांतर V₁ है। जब",
                 "2",
                 "3",
                 "5"
@@ -1008,7 +1051,8 @@
             "examName": "RPF Constable 2018 09 Feb 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_66"
+            "id": "q_electricity_66",
+            "correct_option": 2
         },
         {
             "question": "किसी दिए गए पदार्थ के एक तार की लम्बाई 'l' तथा प्रतिरोध 'R' है। उसी पदार्थ के एक अन्य तार की लम्बाई तीन गुनी तथा अनुप्रस्थ काट का क्षेत्रफल दोगुना है, तो उसका प्रतिरोध होगा:",
@@ -1024,7 +1068,8 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_electricity_67",
-            "answer": "3 R"
+            "answer": "3 R",
+            "correct_option": 3
         },
         {
             "question": "रमेश एक बल्ब का फिलामेंट बनाने के लिए एक सामग्री चुनना चाहता है। चुनी गई सामग्री में निम्नलिखित में से कौन सा गुण होना चाहिए? (ⅰ) कम गलनांक (ⅱ) उच्च तापमान पर चमकने की क्षमता (ⅲ) उच्च प्रतिरोध?",
@@ -1039,7 +1084,8 @@
             "examName": "RRB Group D 22 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_68"
+            "id": "q_electricity_68",
+            "correct_option": 3
         },
         {
             "question": "दो तार A और B एक ही पदार्थ से बने हैं और उनकी लंबाई समान है लेकिन उनके अनुप्रस्थ काट का क्षेत्रफल अलग-अलग है। यदि तार A का प्रतिरोध तार B के प्रतिरोध का 16 गुना है, तो तार A के अनुप्रस्थ काट क्षेत्रफल का तार B के अनुप्रस्थ काट क्षेत्रफल से अनुपात क्या है?",
@@ -1054,7 +1100,8 @@
             "examName": "RRB Group D 17 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_69"
+            "id": "q_electricity_69",
+            "correct_option": 2
         },
         {
             "question": "प्रत्यावर्ती धारा की खोज _______ द्वारा की गई थी।",
@@ -1069,7 +1116,8 @@
             "examName": "RRB Group D 9/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_electricity_70"
+            "id": "q_electricity_70",
+            "correct_option": 2
         },
         {
             "question": "दो तार, A और B, एक ही पदार्थ से बने हैं, लेकिन A की लंबाई B की लंबाई से 3 गुनी है, और A की अनुप्रस्थ-काट B की अनुप्रस्थ-काट की वां भाग है। A का प्रतिरोध क्या है?",
@@ -1089,7 +1137,7 @@
         {
             "question": "यदि 5 ओम के प्रतिरोध से 6 एम्पियर की धारा प्रवाहित हो रही है, तो इससे श्रेणीक्रम में जुड़े 10 ओम के दूसरे प्रतिरोध से प्रवाहित होने वाली धारा _______ होगी।",
             "options": [
-                "0 एम्पियर",
+                "6 एम्पीयर",
                 "12 एम्पियर",
                 "6 एम्पियर",
                 "3 एम्पियर"
@@ -1114,7 +1162,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_electricity_73"
+            "id": "q_electricity_73",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस संयोजन को समान वोल्टेज स्रोत से जोड़ने पर वह अधिक विद्युत शक्ति की खपत करेगा?",
@@ -1129,7 +1178,8 @@
             "examName": "RRB Level 01 Stage I 05/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_electricity_74"
+            "id": "q_electricity_74",
+            "correct_option": 1
         },
         {
             "question": "3 Ω, 6 Ω और 15 Ω मान के प्रतिरोधक समानांतर में जुड़े हैं। परिपथ में समतुल्य प्रतिरोध कितना होगा?",
@@ -1144,7 +1194,8 @@
             "examName": "RRB Group D 6 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_75"
+            "id": "q_electricity_75",
+            "correct_option": 3
         },
         {
             "question": "यदि 418 ओम प्रतिरोध के एक तार से 1 मिनट के लिए 0.3 एम्पेयर की धारा को पारित किया जाता है तो उत्पन्न ऊष्मा ऊर्जा ज्ञात करें।",
@@ -1159,7 +1210,8 @@
             "examName": "RRB Group D 25/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_76"
+            "id": "q_electricity_76",
+            "correct_option": 1
         },
         {
             "question": "एक तार 10 सेकंड की अवधि के लिए 0.2 A की एक स्थिर विद्युत धारा प्रवाहित करता है। इस समयांतराल में तार से गुजरने वाला कुल आवेश है:",
@@ -1174,7 +1226,8 @@
             "examName": "RRB ALP Electrician : 22 Jan, 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_77"
+            "id": "q_electricity_77",
+            "correct_option": 3
         },
         {
             "question": "विद्युत प्रवाह का एक सतत और संवृत पथ क्या कहलाता है?",
@@ -1204,7 +1257,8 @@
             "examName": "RRB ALP Electronics Mechanic 21 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_79"
+            "id": "q_electricity_79",
+            "correct_option": 2
         },
         {
             "question": "जूल के तापन नियम के अनुसार, उत्पन्न ऊष्मा (H) निम्नलिखित में से किसके समानुपाती होती है?",
@@ -1219,7 +1273,8 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_80"
+            "id": "q_electricity_80",
+            "correct_option": 1
         },
         {
             "question": "विभवांतर (V) और धारा (I) के बीच का संबंध किसके द्वारा खोजा गया था?",
@@ -1234,7 +1289,8 @@
             "examName": "RRB Group D 1/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_81"
+            "id": "q_electricity_81",
+            "correct_option": 3
         },
         {
             "question": "विद्युत परिपथ के प्रतिरोध को बदलने के लिए किस उपकरण का उपयोग किया जाता है?",
@@ -1249,7 +1305,8 @@
             "examName": "RRB Group D 27 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_82"
+            "id": "q_electricity_82",
+            "correct_option": 2
         },
         {
             "question": "हेनरी प्रति मीटर _____ की इकाई है।",
@@ -1279,7 +1336,8 @@
             "examName": "RPF Constable 2024 : 17 Mar, 2025 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_electricity_84"
+            "id": "q_electricity_84",
+            "correct_option": 2
         },
         {
             "question": "एक विद्युत हीटर को 220 V पर 2200 W रेट किया गया है। उपकरण से संयोजित होने वाले फ्यूज तार की न्यूनतम रेटिंग है:",
@@ -1294,7 +1352,8 @@
             "examName": "RRB Group D 22 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_85"
+            "id": "q_electricity_85",
+            "correct_option": 1
         },
         {
             "question": "मान लीजिए 25 Ω का एक लैंप एक बैटरी से जुड़ा है। लैंप द्वारा प्रति सेकंड उत्पन्न ऊष्मा 100 J है। लैंप के बीच विभवांतर है:",
@@ -1324,7 +1383,8 @@
             "examName": "RRB Group D 28/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_electricity_87"
+            "id": "q_electricity_87",
+            "correct_option": 1
         },
         {
             "question": "यदि एक प्रतिरोधक की लंबाई दोगुनी कर दी जाए, तो उसके प्रतिरोध का क्या होता है, यह मानते हुए कि अन्य सभी कारक स्थिर रहते हैं?",
@@ -1354,12 +1414,13 @@
             "examName": "RRB Group D 8/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_89"
+            "id": "q_electricity_89",
+            "correct_option": 1
         },
         {
             "question": "बिजली के फेज सिग्नल अथवा आवृत्ति को बिना बदले प्राथमिक परिपथ से द्वितीय परिपथ में ले जाने के लिए ______ विद्युत स्थैतिक डिवाइस का उपयोग किया जाता है।",
             "options": [
-                "ट्रांसफार्मर",
+                "ट्रांसफॉर्मर",
                 "जेनरेटर",
                 "ट्रांजिस्टर",
                 "रेक्टीफायर"
@@ -1384,7 +1445,8 @@
             "examName": "RRB Group D 30 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_91"
+            "id": "q_electricity_91",
+            "correct_option": 1
         },
         {
             "question": "एक तांबे के तार में 3 वोल्ट का विभवांतर लगाकर 0.1 एम्पियर की स्थिर धारा प्रवाहित की जाती है। तार का प्रतिरोध है:",
@@ -1399,7 +1461,8 @@
             "examName": "RRB Group D 20 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_92"
+            "id": "q_electricity_92",
+            "correct_option": 3
         },
         {
             "question": "किसी चालक का प्रतिरोध सीधे आनुपातिक होता है:",
@@ -1414,12 +1477,13 @@
             "examName": "RRB Group D 22 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_93"
+            "id": "q_electricity_93",
+            "correct_option": 1
         },
         {
             "question": "जूल तापन प्रभाव के कारण उत्पन्न ऊष्मा के समानुपाती होती है?",
             "options": [
-                "धारा के घन के",
+                "धारा के वग के",
                 "धारा के वर्ग के समानुपाती होती है।",
                 "धारा के वर्गमूल के",
                 "धारा के घनमूल के"
@@ -1459,7 +1523,8 @@
             "examName": "RRB Group D 9 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_96"
+            "id": "q_electricity_96",
+            "correct_option": 3
         },
         {
             "question": "0 A की एक नियत धारा 12 Ω के एक प्रतिरोधक में बनाई रखी जाती है। एक मिनट में इस प्रतिरोधक के माध्यम से प्रवाहित होने वाली आवेश की मात्रा _________ होगी।",
@@ -1474,7 +1539,8 @@
             "examName": "RRB Group D 20 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_electricity_97"
+            "id": "q_electricity_97",
+            "correct_option": 2
         },
         {
             "question": "विभिन्न विद्युत सुरक्षा उपकरणों में से, विद्युत धारा के तापीय प्रभाव पर आधारित उपकरण को क्या कहा जाता है?",
@@ -1489,7 +1555,8 @@
             "examName": "RRB NTPC CBT-I : 5 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_electricity_98"
+            "id": "q_electricity_98",
+            "correct_option": 1
         },
         {
             "question": "एक विद्युत परिपथ गर्म होने पर 540 वाट प्रति मिनट की दर से ऊर्जा की खपत करता है। यदि परिपथ में वोल्टेज 270 वोल्ट है, तो परिपथ का प्रतिरोध क्या है?",
@@ -1519,7 +1586,8 @@
             "examName": "RRB Group D 9/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_electricity_100"
+            "id": "q_electricity_100",
+            "correct_option": 2
         },
         {
             "question": "मान लीजिए कि एक लैंप 10 V की बैटरी से जुड़ा है और लैंप से होकर प्रवाहित होने वाली धारा 2 A है। 10 s में लैंप द्वारा उत्पन्न ऊष्मा ऊर्जा है:",
@@ -1534,7 +1602,8 @@
             "examName": "RRB Group D 22 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_101"
+            "id": "q_electricity_101",
+            "correct_option": 1
         },
         {
             "question": "दो प्रतिरोधों A तथा B का प्रतिरोध क्रमशः 5 ohm तथा 10 ohm है। यदि वे श्रेणीक्रम में 5 V के वोल्टता स्रोत से जुड़े होते हैं। प्रतिरोध A में विकसित शक्ति और प्रतिरोध B में विकसित शक्ति का अनुपात क्या होगा?",
@@ -1549,7 +1618,8 @@
             "examName": "RRB Group D 25 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_102"
+            "id": "q_electricity_102",
+            "correct_option": 2
         },
         {
             "question": "चालक तार को जब बैटरी से जोड़ा जाता है तो इलेक्ट्रॉन गति करने लगते हैं, लेकिन जब तार को बिना किसी स्रोत के खुला छोड़ दिया जाता है, तब वेगति नहीं करते, इसका क्या कारण है?",
@@ -1571,7 +1641,7 @@
             "options": [
                 "2 J",
                 "6 J",
-                "5.4 J",
+                "4 J",
                 "8 J"
             ],
             "correctIndex": 2,
@@ -1579,12 +1649,13 @@
             "examName": "RRB Group D 26 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_104"
+            "id": "q_electricity_104",
+            "correct_option": 2
         },
         {
             "question": "तीन समान बल्ब 6 V की बैटरी के साथ पार्श्व क्रम में संयोजित हैं। यदि परिपथ में धारा 0.6a है, तो बैटरी द्वारा नष्ट की गई शक्ति कितनी है?",
             "options": [
-                "V = IR",
+                "6 W",
                 "I = VR",
                 "V = I/R",
                 "R = V + I"
@@ -1600,7 +1671,7 @@
         {
             "question": "जब लोहे की बुरादे को चुंबक के चारों ओर छिड़का जाता है, तो वे एक पैटन बनाते हैं। यह पैटन क्या दर्शाता है?",
             "options": [
-                "विद्युत क्षेत्र रेखाएँ",
+                "चमें्बकीय क्षेत्र रेखाएँ",
                 "विद्युत और चुंबकीय दोनों क्षेत्र रेखाएँ",
                 "चुंबकीय क्षेत्र रेखाएँ",
                 "न तो विद्युत और न ही चुंबकीय क्षेत्र रेखाएँ"
@@ -1625,7 +1696,8 @@
             "examName": "RPF SI Previous Paper : 6 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_electricity_107"
+            "id": "q_electricity_107",
+            "correct_option": 2
         },
         {
             "question": "चुंबकीय क्षेत्र रेखाओं की निकटता चुंबकीय क्षेत्र के बारे में क्या दर्शाती है?",
@@ -1640,7 +1712,8 @@
             "examName": "RRB NTPC UG CBT-I : 08 Sept, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_108"
+            "id": "q_electricity_108",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा सूत्र धारा, विभवांतर और प्रतिरोध के बीच के संबंध को दर्शाता है?",
@@ -1670,7 +1743,8 @@
             "examName": "RRB JE CBT I - : 31 May 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_110"
+            "id": "q_electricity_110",
+            "correct_option": 2
         },
         {
             "question": "घरेलू सर्किट में भूसंपर्क-तार का मुख्य उद्देश्य क्या होता है?",
@@ -1700,7 +1774,8 @@
             "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_electricity_112"
+            "id": "q_electricity_112",
+            "correct_option": 3
         },
         {
             "question": "निम्न में से क्या विद्युत धारा के ताप प्रभाव पर आधारित होता है?",
@@ -1715,7 +1790,8 @@
             "examName": "RRB Group D 10/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_113"
+            "id": "q_electricity_113",
+            "correct_option": 1
         },
         {
             "question": "किसी चालक के प्रतिरोध पर निम्नलिखित में से किसका प्रभाव नहीं पड़ता है?",
@@ -1730,7 +1806,8 @@
             "examName": "RRB Group D 2 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_114"
+            "id": "q_electricity_114",
+            "correct_option": 1
         },
         {
             "question": "यदि 3 एम्पियर की धारा 1 मिनट के लिए प्रवाहित होती है, तो इस समय में कितना आवेश प्रवाहित होता है?",
@@ -1745,7 +1822,8 @@
             "examName": "RRB JE 23 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_115"
+            "id": "q_electricity_115",
+            "correct_option": 3
         },
         {
             "question": "पदार्थ की प्रतिरोधकता ________ पर निर्भर करती है।",
@@ -1760,7 +1838,8 @@
             "examName": "RRB Group D 5 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_116"
+            "id": "q_electricity_116",
+            "correct_option": 3
         },
         {
             "question": "3 प्रतिरोधों R₁, R₂ और R₃ के एक समानांतर संयोजन पर विचार करें, जिनमें क्रमशः धाराएँ I₁, I₂ और I₃ प्रवाहित हो रही हैं। निम्नलिखित में से कौन सा कथन सत्य है? (I = कुल धारा, Req = परिपथ का तुल्य प्रतिरोध)?",
@@ -1790,7 +1869,8 @@
             "examName": "RRB Group D 16 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_118"
+            "id": "q_electricity_118",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से क्या घरेलू सर्किट में आमतौर पर श्रेणीक्रम में जुड़ा होता है?",
@@ -1820,7 +1900,8 @@
             "examName": "RRB Group D 25 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_120"
+            "id": "q_electricity_120",
+            "correct_option": 3
         },
         {
             "question": "एक सर्किट में तीन प्रतिरोधक, R₁, R₂ और R₃ होते हैं, और उनके मान क्रमशः 5 Ω, 10 Ω और 30 Ω, जिन्हें 10 V की बैटरी (नगण्य आतंरिक प्रतिरोध के साथ) से जोड़ा गया है। प्रतिरोधों में से प्रत्येक एक दुसरे के साथ समानांतर में है। सर्किट का कुल प्रतिरोध है -",
@@ -1835,7 +1916,8 @@
             "examName": "RRB Group D 16 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_121"
+            "id": "q_electricity_121",
+            "correct_option": 1
         },
         {
             "question": "एक चालक के दो सिरों के बीच विभवांतर बनाए रखने का सबसे सरल तरीका, जिससे धारा का निरंतर प्रवाह प्राप्त हो सके, चालक को ________ के सिरों के बीच जोड़ना है।",
@@ -1850,7 +1932,8 @@
             "examName": "RRB JE CBT-I : 28 June 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_electricity_122"
+            "id": "q_electricity_122",
+            "correct_option": 3
         },
         {
             "question": "चालक के माध्यम से बिंदु A से B तक इलेक्ट्रॉन के प्रवाह के लिए कौन सा बल जिम्मेदार है?",
@@ -1865,7 +1948,8 @@
             "examName": "RRB ALP Electronics Mechanic 23 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_123"
+            "id": "q_electricity_123",
+            "correct_option": 2
         },
         {
             "question": "ओम के नियम का गणितीय रूप ________ के रूप में दर्शाया गया है। (यहाँ V = विभवांतर, I = चालक से प्रवाहित धारा और R = प्रतिरोध है।)",
@@ -1880,7 +1964,8 @@
             "examName": "RRB Group D 28 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_124"
+            "id": "q_electricity_124",
+            "correct_option": 1
         },
         {
             "question": "विद्युत धारा ________ के बराबर होती है।",
@@ -1910,7 +1995,8 @@
             "examName": "RRB JE 26 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_126"
+            "id": "q_electricity_126",
+            "correct_option": 2
         },
         {
             "question": "वह उपकरण जो यांत्रिक ऊर्जा को विद्युत ऊर्जा में परिवर्तित करता है, वह है ______।",
@@ -1925,7 +2011,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_127"
+            "id": "q_electricity_127",
+            "correct_option": 1
         },
         {
             "question": "एक 100 W का बल्ब 220 V की आपूर्ति से जुड़ा है। बल्ब से होकर प्रवाहित धारा लगभग कितनी है?",
@@ -1933,14 +2020,15 @@
                 "0.91 A",
                 "2 A",
                 "1 A",
-                "0.45 A"
+                "45 A"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: 0.45 A\n\n📝 विस्तृत व्याख्या:\nविद्युत शक्ति (P) और वोल्टता (V) के सूत्र P = V × I से धारा (I) = P / V होती है। यहाँ P = 100 W और V = 220 V है, अतः। = 100 / 220 ≈ 0.4545 A, जो लगभग 0.45 A है। यह ओम के नियम पर आधारित है, जहाँ बल्ब का प्रतिरोध स्थिर माना गया है (हालाँकि वास्तव में ताप के साथ बदलता है)।\n\n🔬 वैज्ञानिक सिद्धांत व तथ्य:\n- **विद्युत शक्ति सूत्र**: P = V × I (वाट में) – किसी उपकरण द्वारा प्रति सेकंड उपयोग की गई ऊर्जा।\n- **ओम का नियम**: V = I × R, जहाँ R प्रतिरोध है। इससे बल्ब का प्रतिरोध R = V²/P = (220)²/100 = 484 Ω प्राप्त होता है।\n- **धारा गणना**: I = P/V = 100/220 = 0.4545 A ≈ 0.45 A।\n\n❌ गलत विकल्प विश्लेषण:\n• **0.91 A**: यह मान 100/110 या 220/242 के अनुपात से आ सकता है, लेकिन सही सूत्र P/V नहीं है।\n• **2.2 A**: यह V/P = 220/100 = 2.2 के गलत व्युत्क्रम से प्राप्त होता है, जबकि धारा P/V होती है।\n• **1.1 A**: यह 2.2 A का आधा है, संभवतः शक्ति को 200 W मानने या वोल्टता को 110 V लेने पर आता है।\n\n💡 महत्वपूर्ण तथ्य (Extra Info):\n- किसी बल्ब की शक्ति रेटिंग सामान्यतः उसके निर्धारित वोल्टता पर दी जाती है; कम वोल्टता पर शक्ति घट जाती है।\n- समान शक्ति के दो बल्बों को श्रेणीक्रम में जोड़ने पर कुल शक्ति आधी हो जाती है, जबकि समान्तर क्रम में जोड़ने पर योग होती है।\n- RRB/SSC में अक्सर P = V²/R और P = I²R के रूपांतरण भी पूछे जाते हैं।\n- 100 W, 220 V बल्ब का प्रतिरोध 484 Ω होता है, जो एक सामान्य परीक्षा तथ्य है।",
             "examName": "RRB Level 01 Stage I 30/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_128"
+            "id": "q_electricity_128",
+            "correct_option": 3
         },
         {
             "question": "एक ऐमीटर में 0 से 2 A के बीच 20 विभाजन होते हैं। ऐमीटर का अल्पतमांक _______________ है।",
@@ -1955,7 +2043,8 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_electricity_129"
+            "id": "q_electricity_129",
+            "correct_option": 2
         },
         {
             "question": "6 Ω और 4 Ω के दो प्रतिरोधक श्रेणीक्रम में 12 V की बैटरी से जुड़े हैं। परिपथ की प्रभावी धारा होगी:",
@@ -1970,7 +2059,8 @@
             "examName": "RRB Group D 20 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_130"
+            "id": "q_electricity_130",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किसे मापने के लिए व्हीटस्टोन सेतु विधि का उपयोग किया जाता है?",
@@ -2000,7 +2090,8 @@
             "examName": "RRB Group D 22/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_132"
+            "id": "q_electricity_132",
+            "correct_option": 2
         },
         {
             "question": "यदि किसी चालक के सिरों के बीच विभवांतर 1 V है तथा उसमें से 1 A की धारा प्रवाहित होती है, तो चालक का प्रतिरोध कितना होगा?",
@@ -2015,7 +2106,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_electricity_133"
+            "id": "q_electricity_133",
+            "correct_option": 3
         },
         {
             "question": "धारावाही तार द्वारा किसी दिए गए बिंदु पर उत्पन्न चुंबकीय क्षेत्र निम्नलिखित में से किस कारक पर निर्भर करता है?",
@@ -2030,7 +2122,8 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_electricity_134"
+            "id": "q_electricity_134",
+            "correct_option": 3
         },
         {
             "question": "शक्ति (P), धारा (I), प्रतिरोध (R) और विभवांतर (V) के बीच गलत संबंध को पहचानें।",
@@ -2045,7 +2138,8 @@
             "examName": "RRB Group D 23 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_135"
+            "id": "q_electricity_135",
+            "correct_option": 3
         },
         {
             "question": "तीन ओमिक चालकों A, B और C के लिए I बनाम V के तीन ग्राफ़ एक छात्र बनाता है। उसने पाया कि इन तीन ग्राफ़ों की प्रवणता क्रमशः 0.5, 0.1 और 0.2 हैं। यदि चालकों की लंबाई समान है और उनके अनुप्रस्थ-काट क्षेत्रफलों का अनुपात 1 ∶ 2 ∶ 3 है, तो उनके प्रतिरोधकता अनुपात अर्थात ρA ∶ ρB ∶ ρC होगा:",
@@ -2075,7 +2169,8 @@
             "examName": "RRB Group D 23 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_electricity_137"
+            "id": "q_electricity_137",
+            "correct_option": 3
         },
         {
             "question": "एक प्रतिरोधक से गुजरने वाली धारा:",
@@ -2096,7 +2191,7 @@
             "question": "L लंबाई और A अनुप्रस्थ काट के क्षेत्रफल वाले एक तार का प्रतिरोध 0.5 Ω है। समान पदार्थ से निर्मित, समान लंबाई (L) और 2 A अनुप्रस्थ काट के क्षेत्रफल वाले तार का प्रतिरोध ________ होगा।",
             "options": [
                 "0.5 Ω",
-                "0.25 Ω",
+                "25 Ω",
                 "0 Ω",
                 "0 Ω"
             ],
@@ -2105,7 +2200,8 @@
             "examName": "RRB Group D 26 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_139"
+            "id": "q_electricity_139",
+            "correct_option": 1
         },
         {
             "question": "दो प्रतिरोधक जिसमें से एक 10 Ω और एक 15 Ω एक दूसरे से समांतरक्रम संयोजन में जुड़े हुए हैं। यह संयोजन 24 Ω के प्रतिरोधक और 12 V बैटरी के साथ श्रेणीक्रम संयोजन में जुड़ा हुआ है। 15 Ω के प्रतिरोधक में धारा क्या है?",
@@ -2113,14 +2209,15 @@
                 "0.40 A",
                 "0.24 A",
                 "0.12 A",
-                "0.16 A"
+                "16 A"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: 0.16 A\n\n📝 विस्तृत व्याख्या:\nसमांतर संयोजन में 10 Ω और 15 Ω का तुल्य प्रतिरोध 6 Ω होता है। यह 24 Ω के साथ श्रेणी में जुड़ा है, अतः कुल प्रतिरोध 30 Ω है। बैटरी से कुल धारा। = V/R = 12/30 = 0.4 A प्रवाहित होती है, जो समांतर संयोजन में भी जाती है। समांतर शाखाओं में धारा प्रतिरोध के व्युत्क्रमानुपाती होती है, अतः 15 Ω में धारा = (10/(10⁺¹⁵)) × 0.4 = 0.16 A होगी।\n\n🔬 वैज्ञानिक सिद्धांत व तथ्य:\n• समांतर संयोजन का तुल्य प्रतिरोध: 1/Rp = 1/R₁ + 1/R₂\n• श्रेणी संयोजन में कुल प्रतिरोध: Rs = R₁ + R₂ +.\n• ओम का नियम: V = IR\n• समांतर शाखाओं में धारा का विभाजन: I₁ = (R₂/(R₁+R₂)) × I_total\n\n❌ गलत विकल्प विश्लेषण:\n• 0.40 A: यह कुल धारा है, 15 Ω में नहीं।\n• 0.24 A: यह 10 Ω में धारा होगी (0.4 × 15/25 = 0.24 A), 15 Ω में नहीं।\n• 0.12 A: यह मान गलत गणना से आता है, जैसे कुल धारा को 2 से भाग देने पर।\n\n💡 महत्वपूर्ण तथ्य (Extra Info):\n• समांतर संयोजन में तुल्य प्रतिरोध सबसे छोटे प्रतिरोध से भी कम होता है।\n• श्रेणी संयोजन में धारा सभी प्रतिरोधों में समान होती है।\n• RRB परीक्षाओं में प्रतिरोधों के मिश्रित संयोजन पर आधारित प्रश्न बार-बार पूछे जाते हैं।\n• ओम का नियम केवल ओमीय प्रतिरोधों के लिए लागू होता है।",
             "examName": "RRB ALP Electronics Mechanic 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_140"
+            "id": "q_electricity_140",
+            "correct_option": 3
         },
         {
             "question": "ऊष्मा के जूल नियम के अनुसार, परिपथ में उत्पन्न ऊष्मा कुछ कारकों पर निर्भर होती है। इसमें निम्न में से किसे आरोपित किया जा सकता है?",
@@ -2135,7 +2232,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_141"
+            "id": "q_electricity_141",
+            "correct_option": 1
         },
         {
             "question": "l लंबाई, r त्रिज्या और ρ प्रतिरोधकता वाले तार का प्रतिरोध _______ है।",
@@ -2155,7 +2253,7 @@
         {
             "question": "कई प्रतिरोधकों को समान्तर क्रम में जोड़ना निम्नलिखित के समतुल्य माना जा सकता है:",
             "options": [
-                "चालक का अनुप्रस्थ-काट क्षेत्र मे वृद्धि",
+                "चालक का अनुप्रस्थ-काट क्षेत्र में वृद्धि",
                 "चालक के अनुप्रस्थ-काट क्षेत्र में कमी",
                 "चालक की लंबाई बढ़ाना",
                 "चालक का प्रतिरोध बढ़ाना"
@@ -2180,7 +2278,8 @@
             "examName": "RRB Group D 7/10/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_144"
+            "id": "q_electricity_144",
+            "correct_option": 3
         },
         {
             "question": "नियत प्रतिरोध वाले एक प्रतिरोधक के लिए, उत्पन्न ऊष्मा का परिमाण निम्नलिखित में से किसके अनुक्रमानुपाती होता है?",
@@ -2195,7 +2294,8 @@
             "examName": "RRB Level 01 Stage I 10/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_electricity_145"
+            "id": "q_electricity_145",
+            "correct_option": 2
         },
         {
             "question": "माना एक परिपथ में, 220 V की विद्युत आपूर्ति लाइन पर कई विद्युत लैंपों (बल्बों) का उपयोग करने की आवश्यकता होती है और उन्हें 10 W के रूप में अंकित (रेट) किया जाता है। यदि अधिकतम अनुमत धारा 10 A है, तो 220 V लाइन के दो तारों के बीच एक दूसरे के समानांतर में जोड़े जा सकने वाले लैंपों की संख्या कितनी है?",
@@ -2210,12 +2310,13 @@
             "examName": "RRB Group D 19 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_146"
+            "id": "q_electricity_146",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से सही कथन को पहचानें।",
             "options": [
-                "और (b) दोनों",
+                "(a) और (b) दोनों",
                 "और (c) दोनों",
                 "केवल (a)",
                 "केवल (b)"
@@ -2245,7 +2346,8 @@
             "examName": "RRB Group D 17 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_148"
+            "id": "q_electricity_148",
+            "correct_option": 3
         },
         {
             "question": "प्रतिरोधों के श्रेणी संयोजन का तुल्य प्रतिरोध क्या होता है?",
@@ -2265,7 +2367,7 @@
         {
             "question": "जब एक विद्युत इस्त्री (iron)₂₂₀ V पर अधिकतम गर्म होती है, तो यह 840 W की दर से ऊर्जा का उपयोग करती है। इस्त्री में प्रयुक्त कॉइल का प्रतिरोध कितना होगा?",
             "options": [
-                "47.6 Ω",
+                "6 Ω",
                 "50.6 Ω",
                 "55.6 Ω",
                 "57.6 Ω"
@@ -2280,7 +2382,7 @@
         {
             "question": "निम्नलिखित में से कौन सा उपकरण विद्युत धारा के तापन प्रभाव पर कार्य करता है?",
             "options": [
-                "विद्युत मोटर",
+                "इलेक्ट्रॉनरिक आयरन",
                 "ट्रांसफार्मर",
                 "जनरेटर",
                 "इलेक्ट्रिक आयरन"
@@ -2320,7 +2422,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_electricity_153"
+            "id": "q_electricity_153",
+            "correct_option": 1
         },
         {
             "question": "एक विद्युत उपकरण 220 V आपूर्ति से संयोजित होने पर 5 A की करंट खींचता है। विद्युत उपकरण की शक्ति है:",
@@ -2335,14 +2438,15 @@
             "examName": "RRB Group D 25 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_154"
+            "id": "q_electricity_154",
+            "correct_option": 1
         },
         {
             "question": "120 वाट का एक विद्युत लैंप (बल्ब) प्रति दिन 8 घंटे के लिए उपयोग किया जाता है। एक दिन में लैंप द्वारा व्यय की गई ऊर्जा की इकाइयों की गणना कीजिए।",
             "options": [
                 "16.00 इकाई",
                 "50 इकाई",
-                "0.96 इकाई",
+                "96 इकाई",
                 "00 इकाई"
             ],
             "correctIndex": 2,
@@ -2350,7 +2454,8 @@
             "examName": "RRB Group D 18/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_155"
+            "id": "q_electricity_155",
+            "correct_option": 2
         },
         {
             "question": "एक विद्युत परिपथ में चार समान बल्ब एक दूसरे के समानांतर 10 V (नगण्य आंतरिक प्रतिरोध) की बैटरी से जुड़े हैं। जब चारों बल्ब जलते हैं, तो 4 A की धारा रिकॉड की जाती है। तब परिपथ में क्षयित शक्ति और प्रत्येक बल्ब का प्रतिरोध क्रमशः _________ और ________ है।",
@@ -2365,7 +2470,8 @@
             "examName": "RRB Group D 19 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_156"
+            "id": "q_electricity_156",
+            "correct_option": 3
         },
         {
             "question": "वे दो कारक कौन से हैं, जिन पर एक विद्युत उपकरण द्वारा उपभोग की जाने वाली विद्युत ऊर्जा निर्भर करती है?",
@@ -2395,7 +2501,8 @@
             "examName": "RRB Group D 19 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_electricity_158"
+            "id": "q_electricity_158",
+            "correct_option": 1
         },
         {
             "question": "नियत ताप पर किसी चालक पर लागू विभवांतर को बढ़ाने पर, ______",
@@ -2425,7 +2532,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_160"
+            "id": "q_electricity_160",
+            "correct_option": 3
         },
         {
             "question": "विद्युत परिपथ में, एमीटर को जोड़ने का सही तरीका क्या है?",
@@ -2440,7 +2548,8 @@
             "examName": "RRB JE CE 22 Apr 2025 Shift 2 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_161"
+            "id": "q_electricity_161",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा उपकरण अपने कार्यपद्धति के लिए धारा के तापीय प्रभाव का उपयोग नहीं करता है?",
@@ -2455,7 +2564,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_162"
+            "id": "q_electricity_162",
+            "correct_option": 3
         },
         {
             "question": "दो तार A और B एक ही पदार्थ से बने हैं और उनकी लंबाई समान है लेकिन उनके अनुप्रस्थ काट का क्षेत्रफल अलग-अलग है। यदि तार A का प्रतिरोध तार B के प्रतिरोध का 9 गुना है, तो तार A की त्रिज्या का तार B की त्रिज्या से अनुपात क्या है?",
@@ -2470,7 +2580,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_163"
+            "id": "q_electricity_163",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन एक सुचालक के प्रतिरोध को विपरीत रूप से प्रभावित करेगा?",
@@ -2485,7 +2596,8 @@
             "examName": "RRB Group D 4/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_164"
+            "id": "q_electricity_164",
+            "correct_option": 2
         },
         {
             "question": "प्रतिरोध (R) वाली एक विद्युत इस्त्री के सिरों पर विभवांतर (V) लगाने पर जब उसमें धारा (I) प्रवाहित होती है, तो उसके साथ एक शक्ति (P) संबद्ध होती है। निम्नलिखित में से कौन-सा संबंध सही नहीं है?",
@@ -2515,7 +2627,8 @@
             "examName": "RRB Group D 10/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_166"
+            "id": "q_electricity_166",
+            "correct_option": 2
         },
         {
             "question": "दो तार A और B एक ही पदार्थ से बने हैं और समान लंबाई लेकिन भिन्न-भिन्न अनुप्रस्थ-काट क्षेत्रफल वाले हैं। यदि तार A का प्रतिरोध, तार B के प्रतिरोध का 9 गुना है, तो तार A की त्रिज्या का तार B की त्रिज्या से अनुपात क्या है?",
@@ -2530,7 +2643,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_167"
+            "id": "q_electricity_167",
+            "correct_option": 1
         },
         {
             "question": "2Ω और 6Ω के दो प्रतिरोध श्रेणीक्रम संयोजन में जुड़े हुए हैं और यह संयोजन 12 V बैटरी से जुड़ा हुआ है। 6Ω प्रतिरोधक में धारा ज्ञात कीजिए।",
@@ -2560,12 +2674,13 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_electricity_169"
+            "id": "q_electricity_169",
+            "correct_option": 1
         },
         {
             "question": "एक परिपथ में, प्रत्येक 5 Ω के पाँच प्रतिरोधक हैं, और वे इस तरह से जोड़े गए हैं कि परिपथ का प्रतिरोध अधिकतम है। अब यह परिपथ 15 V की बैटरी से जोड़ा जाता है। परिपथ से प्रवाहित होने वाली धारा कितनी है?",
             "options": [
-                "0.6 A",
+                "6 A",
                 "0.9 A",
                 "0.8 A",
                 "0.4 A"
@@ -2635,12 +2750,13 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_electricity_174"
+            "id": "q_electricity_174",
+            "correct_option": 2
         },
         {
             "question": "टॉर्च का बल्ब केवल स्विच चालू करने पर ही क्यों जलता है?",
             "options": [
-                "क्योंकि बल्ब कार्यात्मक है",
+                "क्योंकि स्विच परिपथ को पूर्ण कर देता है, जिससे विद्युत धारा प्रवाहित होने लगती है",
                 "क्योंकि बल्ब सेल के साथ श्रेणी में जुड़ा हुआ है",
                 "क्योंकि बैटरी चाज होती है",
                 "क्योंकि स्विच परिपथ को पूर्ण कर देता है, जिससे विद्युत धारा प्रवाहित होने लगति है"
@@ -2665,7 +2781,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_electricity_176"
+            "id": "q_electricity_176",
+            "correct_option": 2
         },
         {
             "question": "एक प्रतिरोधक के सिरों पर ______ उसमें प्रवाहित धारा के समानुपाती होता है, बशर्ते उसका तापमान समान रहे।",
@@ -2680,7 +2797,8 @@
             "examName": "RRB ALP Fitter 23 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_electricity_177"
+            "id": "q_electricity_177",
+            "correct_option": 1
         },
         {
             "question": "प्रतिरोधकता की SI इकाई है:",
@@ -2725,14 +2843,15 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_180"
+            "id": "q_electricity_180",
+            "correct_option": 1
         },
         {
             "question": "फ़्यूज़ तार के बारे में निम्नलिखित कथन पर विचार कीजिये:",
             "options": [
                 "केवल (b)",
                 "केवल (a)",
-                "और (b) दोनों",
+                "(a) और (b) दोनों",
                 "न तो (a) और न ही (b)"
             ],
             "correctIndex": 2,
@@ -2744,7 +2863,8 @@
             "statements": [
                 "(a) यह उपकरण के साथ श्रेणीक्रम में संयोजित किया जाता है।",
                 "(b) यह निम्न गलनांक वाले पदार्थ से बना होता है। उपरोक्त में से कौन सा/से कथन सही है/हैं?"
-            ]
+            ],
+            "correct_option": 2
         },
         {
             "question": "शब्द \" AGC\" का अर्थ AGC का कौन-सा अनुप्रयोग होता है?",
@@ -2759,7 +2879,8 @@
             "examName": "RRB JE CBT-II Electronics : 31 Aug, 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_182"
+            "id": "q_electricity_182",
+            "correct_option": 1
         },
         {
             "question": "दैनिक जीवन में, धारा-वाही चालक पर बल के सिद्धांत का उपयोग निम्नलिखित में से किस उपकरण में किया जाता है?",
@@ -2789,7 +2910,8 @@
             "examName": "RRB NTPC CBT-I : 7 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_electricity_184"
+            "id": "q_electricity_184",
+            "correct_option": 1
         },
         {
             "question": "4 Ω प्रतिरोध का एक विद्युत गीजर प्रति सेकंड 100 J ऊष्मा उत्पन्न करता है। इससे प्रवाहित होने वाली धारा होगी:",
@@ -2809,7 +2931,7 @@
         {
             "question": "15 Ω और 5 Ω के दो प्रतिरोधक 12 V की बैटरी के साथ श्रेणीक्रम में जुड़े हैं। परिपथ में कितनी धारा प्रवाहित होगी?",
             "options": [
-                "0.6 A",
+                "6 A",
                 "0.5 A",
                 "0.65 A",
                 "0.45 A"
@@ -2834,7 +2956,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_electricity_187"
+            "id": "q_electricity_187",
+            "correct_option": 2
         },
         {
             "question": "हीटिंग उपकरणों के हीटिंग तत्व बनाने के लिए चुनी जाने वाली सामग्री में जो गुण/गुण होने चाहिए वे हैं:",
@@ -2884,7 +3007,8 @@
             "examName": "RRB Group D 15/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_190"
+            "id": "q_electricity_190",
+            "correct_option": 2
         },
         {
             "question": "नीचे दिए गए विलयनों में से कौन बिजली का संचालन नहीं करता है?",
@@ -2929,7 +3053,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_193"
+            "id": "q_electricity_193",
+            "correct_option": 3
         },
         {
             "question": "ओम के नियम के अनुसार निम्नलिखित में से कौन सा कथन सही है?",
@@ -2944,7 +3069,8 @@
             "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_194"
+            "id": "q_electricity_194",
+            "correct_option": 2
         },
         {
             "question": "एक 10 Ω प्रतिरोधक A, को एक 20 Ω प्रतिरोधक B, और एक 6 V बैटरी के साथ श्रेणी में जोड़ा जाता है। A और B पर विभव पतन क्रमशः _______ हैं।",
@@ -2959,7 +3085,8 @@
             "examName": "RRB Group D 12 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_195"
+            "id": "q_electricity_195",
+            "correct_option": 2
         },
         {
             "question": "40 Ω का एक विद्युत लैंप, 200 Ω प्रतिरोध का एक टोस्टर और 400 Ω प्रतिरोध का एक जल फिल्टर 220 V के स्रोत से समानांतर क्रम में जुड़े हुए हैं। मान लीजिए कि 220 V के स्रोत से जुड़ा एक विद्युत इस्तरी उपरोक्त तीन उपकरणों के समान धारा लेता है, तो इस्तरी का प्रतिरोध और उसमें से प्रवाहित होने वाली धारा है:",
@@ -2967,14 +3094,15 @@
                 "50.77 Ω और 4.15 A, क्रमशः",
                 "20.77 Ω और 9.15 A, क्रमशः",
                 "40.77 Ω और 5.15 A, क्रमशः",
-                "30.77 Ω और 7.15 A, क्रमशः"
+                "77 Ω और 7.15 A, क्रमशः"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: 30.77 Ω और 7.15 A, क्रमशः\n\n📝 विस्तृत व्याख्या:\nसमानांतर क्रम में जुड़े तीन उपकरणों (40 Ω, 200 Ω, 400 Ω) का तुल्य प्रतिरोध \\( R_p \\) ज्ञात करने पर \\( 1/R_p = 1/40 + 1/200 + 1/400 = 13/400 \\) ⇒ \\( R_p = 400/13 approx 30.77 \\, Omega \\) प्राप्त होता है। 220 V स्रोत से ली गई कुल धारा \\( I = V/R_p = 220/400/13 = 7.15 \\, A \\) है। चूँकि विद्युत इस्तरी भी समान धारा लेती है और समान वोल्टता (220 V) पर कार्य करती है, अतः इसका प्रतिरोध \\( R = V/I = 220/7.15 approx 30.77 \\, Omega \\) होगा।\n\n🔬 वैज्ञानिक सिद्धांत व तथ्य:\n• समानांतर परिपथ में तुल्य प्रतिरोध का सूत्र: \\( 1/R_p = 1/R₁ + 1/R₂ + 1/R₃ \\)\n• ओम का नियम: \\( V = IR \\) (वोल्टता = धारा × प्रतिरोध)\n• समानांतर संयोजन में सभी उपकरणों पर वोल्टता समान (220 V) होती है।\n\n❌ गलत विकल्प विश्लेषण:\n• **50.77 Ω और 4.15 A**: यह मान तुल्य प्रतिरोध की गणना में त्रुटि (जैसे श्रेणीक्रम समझ लेना) से उत्पन्न होता है।\n• **20.77 Ω और 9.15 A**: यह प्रतिरोधों के व्युत्क्रमों का योग गलत करने (जैसे 1/40 + 1/200 + 1/400 = 1/30.77 के स्थान पर 1/20.77) से आता है।\n• **40.77 Ω और 5.15 A**: यह केवल एक उपकरण (40 Ω) की धारा लेने पर आधारित है, पूर्ण समानांतर संयोजन नहीं।\n\n💡 महत्वपूर्ण तथ्य (Extra Info):\n• समानांतर परिपथ में कुल धारा शाखाओं की धाराओं का योग होती है: \\( I = I₁ + I₂ + I₃ \\)।\n• यदि n समान प्रतिरोध R समानांतर में हों, तो तुल्य प्रतिरोध \\( R/n \\) होता है।\n• RRB परीक्षाओं में प्रायः समानांतर-श्रेणी मिश्रित परिपथों के लिए तुल्य प्रतिरोध निकालने पर प्रश्न पूछे जाते हैं।\n• 220 V भारतीय घरेलू वोल्टता है; अधिकतम सुरक्षित धारा 5-15 A के बीच होती है।",
             "examName": "RRB Group D 7/10/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_196"
+            "id": "q_electricity_196",
+            "correct_option": 3
         },
         {
             "question": "प्रतिरोधकता ρ वाले धातु के तार को चार बराबर भागों में काटा जाता है। प्रत्येक भाग की प्रतिरोधकता कितनी होती है?",
@@ -2989,7 +3117,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_197"
+            "id": "q_electricity_197",
+            "correct_option": 3
         },
         {
             "question": "किसी चालक तार के लिए विभवांतर बनाम धारा आलेख एक सरल रेखा है। इस रेखा की प्रवणता क्या प्रदान करती है?",
@@ -3004,7 +3133,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_electricity_198"
+            "id": "q_electricity_198",
+            "correct_option": 3
         },
         {
             "question": "अनुपयोगी बिजली के उपकरणों को बंद करने से ऊर्जा संरक्षण में कैसे योगदान मिलता है?",
@@ -3057,14 +3187,15 @@
                 "18 Ω",
                 "3 Ω",
                 "2 Ω",
-                "0.5 Ω"
+                "5 Ω"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: 0.5 Ω\n\n📝 विस्तृत व्याख्या:\nसमांतर क्रम में जुड़े प्रतिरोधों का प्रभावी प्रतिरोध (R_eq) हमेशा सबसे छोटे प्रतिरोध से भी कम होता है। यहाँ छह प्रतिरोधक, प्रत्येक 3 Ω के हैं, समांतर में जुड़े हैं। समांतर संयोजन का सूत्र 1/R_eq = 1/R₁ + 1/R₂ +. + 1/Rₙ है। चूँकि सभी प्रतिरोध समान हैं, R_eq = R/n = 3 Ω / 6 = 0.5 Ω होगा। इस प्रकार कुल प्रतिरोध 0.5 Ω है।\n\n🔬 वैज्ञानिक सिद्धांत व तथ्य:\n• समांतर संयोजन में प्रतिरोधों का व्युत्क्रमों का योग कुल प्रतिरोध का व्युत्क्रम देता है: 1/R_eq = Σ(1/Rᵢ)।\n• समान प्रतिरोध R के n प्रतिरोधकों के समांतर संयोजन का प्रभावी प्रतिरोध R/n होता है।\n• समांतर संयोजन में वोल्टता सभी प्रतिरोधों पर समान रहती है, जबकि धारा विभाजित होती है।\n\n❌ गलत विकल्प विश्लेषण:\n• **18 Ω**: यह श्रेणीक्रम संयोजन (3 Ω × 6) का परिणाम है, समांतर का नहीं।\n• **3 Ω**: यह एकल प्रतिरोध का मान है, समांतर संयोजन के बाद प्रभावी प्रतिरोध इससे कम होगा।\n• **2 Ω**: यह गलत गणना से आ सकता है, जैसे 6/3 = 2, जबकि सही सूत्र R/n = 3/6 = 0.5 है।\n\n💡 महत्वपूर्ण तथ्य (Extra Info):\n• समांतर संयोजन में प्रभावी प्रतिरोध सदैव सबसे छोटे प्रतिरोध से कम होता है।\n• श्रेणीक्रम में प्रभावी प्रतिरोध = R₁ + R₂ +. (सबसे बड़े से बड़ा)।\n• यदि दो प्रतिरोध R₁ और R₂ समांतर में हों, तो R_eq = (R₁R₂)/(R₁+R₂)।\n• RRB परीक्षाओं में अक्सर समान प्रतिरोधों के n समांतर संयोजन का सूत्र R/n पूछा जाता है।",
             "examName": "RRB Technician Grade III 09/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_electricity_202"
+            "id": "q_electricity_202",
+            "correct_option": 3
         },
         {
             "question": "विद्युत के माध्यम से किसी अन्य पदार्थ के ऊपर, किसी भी अन्य वांछित धातु की परत चढ़ाने की प्रक्रिया को _______ कहा जाता है।",
@@ -3079,7 +3210,8 @@
             "examName": "RRB NTPC CBT-I : 21 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_electricity_203"
+            "id": "q_electricity_203",
+            "correct_option": 2
         },
         {
             "question": "47 Ω और 3 Ω प्रतिरोध के दो प्रतिरोधक, एक परिपथ में श्रेणी क्रम में संयोजित हैं। यदि दिया गया वोल्टेज 250 V है, तो परिपथ में प्रवाहित धारा ज्ञात कीजिए।",
@@ -3094,12 +3226,13 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_204"
+            "id": "q_electricity_204",
+            "correct_option": 2
         },
         {
             "question": "जूल के तापन प्रभाव (Joule's heating effect) के सूत्र को__________ के रूप में निरूपित किया जाता है। (विकल्पों में, H उत्पन्न ऊष्मा को निरूपित करता है, I चालक के माध्यम से प्रवाहित धारा है, R प्रतिरोध है, और t समयावधि है।)",
             "options": [
-                "H = VIR",
+                "H = I²Rt",
                 "H = QIt",
                 "H = I Rt",
                 "H = VIt"
@@ -3139,12 +3272,13 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_electricity_207"
+            "id": "q_electricity_207",
+            "correct_option": 3
         },
         {
             "question": "इलेक्ट्रॉनिक्स में PCB का पूर्ण रूप क्या है?",
             "options": [
-                "पर्सनल कंट्रोल बोर्ड",
+                "प्रिंटेड सर्किट बोड",
                 "पोर्टेबल कंट्रोल बेस",
                 "पावर सर्किट बोर्ड",
                 "प्रिंटेड सर्किट बोर्ड"
@@ -3184,7 +3318,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_electricity_210"
+            "id": "q_electricity_210",
+            "correct_option": 3
         },
         {
             "question": "5 Ω प्रतिरोध वाला तार स्वयं पर दोहराया जाता है। तार के नए प्रतिरोध की गणना करें।",
@@ -3214,7 +3349,8 @@
             "examName": "RRB JE CBT-I : 22 May, 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_electricity_212"
+            "id": "q_electricity_212",
+            "correct_option": 2
         },
         {
             "question": "तीन प्रतिरोध 3 Ω, 4 Ω, और 6 Ω को किस प्रकार संयोजित किया जाए ताकि उनका कुल प्रतिरोध 13 Ω हो?",
@@ -3244,7 +3380,8 @@
             "examName": "RRB Group D 5 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_214"
+            "id": "q_electricity_214",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा डिवाइस, चुंबकीय क्षेत्र में धारा-वाही चालक पर बल के सिद्धांत पर कार्य करता है?",
@@ -3259,7 +3396,8 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_electricity_215"
+            "id": "q_electricity_215",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किसमें एक उच्च विद्युत प्रतिरोध है? 100 Ω, 80 Ω बल्ब या 60 Ω बल्ब?",
@@ -3274,7 +3412,8 @@
             "examName": "RRB JE 22 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_216"
+            "id": "q_electricity_216",
+            "correct_option": 1
         },
         {
             "question": "एक विद्युत परिपथ में, जहाँ 5 लैंप श्रेणीक्रम में जुड़े हुए हैं, यदि शक्ति, वोल्टेज, धारा और प्रतिरोध को क्रमशः P, V. I और R द्वारा दर्शाया जाता है, तो निम्नलिखित में से कौन-सा संबंध सत्य है?",
@@ -3289,7 +3428,8 @@
             "examName": "RRB Group D 16 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_217"
+            "id": "q_electricity_217",
+            "correct_option": 3
         },
         {
             "question": "एक विद्युत हीटर 70 V के स्रोत से जुड़ने पर 5 A की धारा कर्षित करता है। यदि विभवांतर को बढ़ाकर 126 V कर दिया जाए, तो हीटर द्वारा कर्षित नई धारा कितनी होगी?",
@@ -3304,7 +3444,8 @@
             "examName": "RRB Level 01 Stage I 05/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_electricity_218"
+            "id": "q_electricity_218",
+            "correct_option": 3
         },
         {
             "question": "दो प्रतिरोधक, प्रत्येक 20 Ω के, समानांतर में जुड़े हुए हैं, और यह संयोजन 40- V आपूर्ति से जुड़ा है। प्रत्येक प्रतिरोधक के सिरों पर वोल्टता ज्ञात कीजिए।",
@@ -3319,7 +3460,8 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_219"
+            "id": "q_electricity_219",
+            "correct_option": 2
         },
         {
             "question": "एक 2200 W विद्युत टोस्टर 220 V पर संचालित होता है। इसकी कुंडली का प्रतिरोध क्या है?",
@@ -3334,7 +3476,8 @@
             "examName": "RRB Group D 2 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_220"
+            "id": "q_electricity_220",
+            "correct_option": 2
         },
         {
             "question": "किसी पदार्थ की प्रतिरोधकता (ρ) क्या होती है? है।",
@@ -3349,7 +3492,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_electricity_221"
+            "id": "q_electricity_221",
+            "correct_option": 3
         },
         {
             "question": "एक चालक में प्रवाहित विद्युत धारा और विभवांतर के बीच क्या संबंध होता है?",
@@ -3364,7 +3508,8 @@
             "examName": "RRB Group D 15/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_222"
+            "id": "q_electricity_222",
+            "correct_option": 2
         },
         {
             "question": "तार, और अन्य प्रतिरोध, स्विच, एक सेल के टर्मिनलों से मिलकर बने एक सतत धारावाही माग, जिसमे से होकर धारा प्रवाहित होती है, उसको क्या कहा जाता है?",
@@ -3379,7 +3524,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_223"
+            "id": "q_electricity_223",
+            "correct_option": 1
         },
         {
             "question": "जब प्रतिरोधकों को श्रेणीक्रम में जोड़ा जाता है, तो सभी प्रतिरोधकों में कौन-सी राशि समान रहती है?",
@@ -3394,7 +3540,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_224"
+            "id": "q_electricity_224",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा उपकरण विद्युत चुंबकीय प्रेरण की घटना पर आधारित है?",
@@ -3409,7 +3556,8 @@
             "examName": "RRB NTPC CBT-I : 13 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_electricity_225"
+            "id": "q_electricity_225",
+            "correct_option": 2
         },
         {
             "question": "विद्युत परिपथ में प्लग कुंजी (plug key) का क्या उद्देश्य है?",
@@ -3424,7 +3572,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_226"
+            "id": "q_electricity_226",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन विद्युत धारा की दिशा का सही वर्णन करता है?",
@@ -3439,7 +3588,8 @@
             "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_227"
+            "id": "q_electricity_227",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा संबंध सही नहीं है?",
@@ -3454,7 +3604,8 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_228"
+            "id": "q_electricity_228",
+            "correct_option": 2
         },
         {
             "question": "प्रकाश बल्बों और पंखों की तुलना में गीजर और एयर कंडीशनर जैसे उपकरणों के लिए निम्न में से किसकी आवश्यकता होती है?",
@@ -3469,7 +3620,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_electricity_229"
+            "id": "q_electricity_229",
+            "correct_option": 3
         },
         {
             "question": "10 Ω, 15 Ω और 30 Ω के तीन प्रतिरोधक श्रेणी में जुड़े हुए हैं। संयोजन का प्रतिरोध क्या है?",
@@ -3484,7 +3636,8 @@
             "examName": "RRB Group D 6 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_230"
+            "id": "q_electricity_230",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा नियम विद्युत धारा के तापन प्रभाव के साथ संबंधित है?",
@@ -3514,12 +3667,13 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_electricity_232"
+            "id": "q_electricity_232",
+            "correct_option": 2
         },
         {
             "question": "जूल के तापन नियम के अनुसार, किसी प्रतिरोधक में उत्पन्न ऊष्मा _____________________ होती है।",
             "options": [
-                "धारा के वर्ग के अनुक्रमानुपाती",
+                "धारा के वग के अनुक्रमानुपाती",
                 "प्रतिरोध के वर्ग के अनुक्रमानुपाती",
                 "प्रतिरोध के वर्ग के व्युत्क्रमानुपाती",
                 "धारा के वर्ग के व्युत्क्रमानुपाती"
@@ -3549,7 +3703,7 @@
         {
             "question": "स्विच चालू करने पर बल्ब कैसे जलता है?",
             "options": [
-                "तंतु एक दूसरे को स्पर्श करते हैं।",
+                "विद्युत धारा के कारण तंतु गम हो जाते हैं और प्रकाशित हो जाते हैं。",
                 "तंतु का विस्तार होता है।",
                 "विद्युत धारा के कारण तंतु गर्म हो जाते हैं और प्रकाशित हो जाते हैं।",
                 "परिपथ के माध्यम से धारा प्रवाहित नहीं होती है।"
@@ -3574,7 +3728,8 @@
             "examName": "RRB Group D 17 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_236"
+            "id": "q_electricity_236",
+            "correct_option": 1
         },
         {
             "question": "श्रेणी परिपथ का एक उदाहरण ______ है।",
@@ -3589,7 +3744,8 @@
             "examName": "RRB Group D 7/10/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_237"
+            "id": "q_electricity_237",
+            "correct_option": 3
         },
         {
             "question": "प्रतिरोधकों के समान्तर संयोजन में, निम्नलिखित में से कौन सी राशि सभी प्रतिरोधकों में समान रहती है?",
@@ -3604,7 +3760,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_238"
+            "id": "q_electricity_238",
+            "correct_option": 1
         },
         {
             "question": "4 Ω के दो प्रतिरोध 5 V के बैटरी स्रोत से समांतरक्रम में जुड़े हैं। परिपथ में कुल विद्युत धारा ज्ञात कीजिए।",
@@ -3634,7 +3791,8 @@
             "examName": "RRB Group D 10/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_240"
+            "id": "q_electricity_240",
+            "correct_option": 3
         },
         {
             "question": "घरेलू परिपथ में, विशेष रूप से धातु उपकरणों के लिए, हरे रंग के विद्युत्रोधी अर्थ तार का प्राथमिक सुरक्षा कार्य क्या है?",
@@ -3664,7 +3822,8 @@
             "examName": "RRB Group D 25/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_242"
+            "id": "q_electricity_242",
+            "correct_option": 3
         },
         {
             "question": "प्रतिरोध 2Ω, 3Ω, 4Ω, 6Ω और 12Ω के 5 कुंडलियों के संयोजन से प्राप्त किया जा सकने वाला अधिकतम और न्यूनतम कुल प्रतिरोध होगा?",
@@ -3694,7 +3853,8 @@
             "examName": "RRB Group D 22 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_244"
+            "id": "q_electricity_244",
+            "correct_option": 3
         },
         {
             "question": "दो प्रतिरोधक, R₁ और R₂, समांतर क्रम में जुड़े हुए हैं। उनका तुल्य प्रतिरोध 5 Ω है। जब उनमें से एक को हटा दिया जाता है, तो परिपथ का प्रतिरोध बढ़कर 10 Ω हो जाता है। निम्नलिखित में से दूसरे प्रतिरोधक का सही मान कितना है?",
@@ -3709,7 +3869,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_245"
+            "id": "q_electricity_245",
+            "correct_option": 1
         },
         {
             "question": "12 ओम, 16 ओम और 48 ओम के तीन प्रतिरोध समानांतर में जुड़े हुए हैं। नेट (कुल) प्रतिरोध क्या है?",
@@ -3740,7 +3901,8 @@
             "examName": "RRB Group D 22 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_247"
+            "id": "q_electricity_247",
+            "correct_option": 1
         },
         {
             "question": "एम्पियर प्रति वर्ग इंच इलेक्ट्रोड अनुप्रस्थ काट का क्षेत्र है-",
@@ -3770,7 +3932,8 @@
             "examName": "RRB Group D 20 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_249"
+            "id": "q_electricity_249",
+            "correct_option": 1
         },
         {
             "question": "9Ω, 4Ω और 12Ω मान के तीन प्रतिरोध समांतर क्रम में जुड़े हैं। परिपथ का तुल्य प्रतिरोध क्या होगा?",
@@ -3785,7 +3948,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_250"
+            "id": "q_electricity_250",
+            "correct_option": 1
         },
         {
             "question": "बिजली के बल्ब पर शक्ति अनुमतांक 100 वाट का क्या अर्थ है?",
@@ -3800,7 +3964,8 @@
             "examName": "RRB JE 27 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_251"
+            "id": "q_electricity_251",
+            "correct_option": 1
         },
         {
             "question": "किसी दिए गए पदार्थ के एक तार की लंबाई l तथा अनुप्रस्थ काट का क्षेत्रफल A है, और इसका प्रतिरोध 9 Ω है। उसी पदार्थ के एक अन्य तार की लम्बाई l/3 और अनुप्रस्थ काट का क्षेत्रफल 3 A है। इस दूसरे तार का प्रतिरोध क्या होगा?",
@@ -3815,7 +3980,8 @@
             "examName": "RRB JE 20/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_electricity_252"
+            "id": "q_electricity_252",
+            "correct_option": 3
         },
         {
             "question": "तांबे, चांदी, निक्रोम और कांच के तार समान लंबाई और व्यास के होते हैं। किसका प्रतिरोध सबसे अधिक होगा?",
@@ -3830,7 +3996,8 @@
             "examName": "RRB Group D 9 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_253"
+            "id": "q_electricity_253",
+            "correct_option": 1
         },
         {
             "question": "घरेलू परिपथों में प्रयुक्त उपकरणों के लिए निम्नलिखित में से कौन सा कथन सत्य है?",
@@ -3845,12 +4012,13 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_electricity_254"
+            "id": "q_electricity_254",
+            "correct_option": 3
         },
         {
             "question": "एक विद्युत बल्ब की रेटेड शक्ति 110 वाट - 220 वोल्ट है। बल्ब द्वारा ली गई धारा.है।",
             "options": [
-                "0.5 A",
+                "5 A",
                 "20 A",
                 "2 A",
                 "24,200 A"
@@ -3865,7 +4033,7 @@
         {
             "question": "एक व्यवस्थित विद्युत परिपथ आरेख में, विभवांतर को मापने के लिए वोल्टमीटर को सामान्यत: किस प्रकार दर्शाया जाता है?",
             "options": [
-                "श्रेणीक्रम में जुड़ा हुआ एक वृत्त, जिसके भीतर \\'A\\' है",
+                "समांतर क्रम में जुड़ा हुआ एक वृत्त, जिसके भीतर'V' है",
                 "समांतर क्रम में जुड़ा हुआ एक वृत्त, जिसके भीतर \\'V\\' है",
                 "समांतर क्रम में जुड़ा हुआ एक वर्ग, जिसके भीतर \\'V\\' है",
                 "श्रेणीक्रम में जुड़ा हुआ एक आयत, जिसके भीतर \\'R\\' है"
@@ -3890,7 +4058,8 @@
             "examName": "RRB Group D 9 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_257"
+            "id": "q_electricity_257",
+            "correct_option": 1
         },
         {
             "question": "What role does the earth wire play in the safety of domestic appliances with metallic bodies?",
@@ -3905,12 +4074,13 @@
             "examName": "RRB JE 20/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_electricity_258"
+            "id": "q_electricity_258",
+            "correct_option": 3
         },
         {
             "question": "जब हम एक प्रकाश बल्ब स्विच ऑन करते हैं तो क्या होता है?",
             "options": [
-                "इसके अंदर का फिलामेंट या तार एक पीले रंग की ज्वाला के साथ जलता है",
+                "इसके अंदर का फिलामेंट या तार गम हो जाता है और चमक उठता है",
                 "फिलामेंट सक्रिय हो जाता है और चमक उठता है।",
                 "इसके अंदर का फिलामेंट या तार गर्म हो जाता है और चमक उठता है",
                 "इसके अंदर का तार जल जाता है"
@@ -3927,7 +4097,7 @@
             "options": [
                 "2 A",
                 "12 A",
-                "0.6 A",
+                "6 A",
                 "0 A"
             ],
             "correctIndex": 2,
@@ -3935,7 +4105,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_260"
+            "id": "q_electricity_260",
+            "correct_option": 2
         },
         {
             "question": "विद्युत परिपथ में धारा नियंत्रक का उपयोग किस लिए किया जाता है?",
@@ -3965,12 +4136,13 @@
             "examName": "RRB Group D 6/10/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_262"
+            "id": "q_electricity_262",
+            "correct_option": 2
         },
         {
             "question": "नीचे वर्णित सामग्री A और सामग्री B के तारों के लिए V-I ग्राफ पर विचार करें: सामग्री A: यह मूल बिंदु से गुजरने वाली एक सीधी रेखा है और धारा I अक्ष के साथ 20° के कोण पर झुकी हुई है। सामग्री B: यह मूल बिंदु से गुजरने वाली एक सीधी रेखा है और धारा I अक्ष के साथ 60° के कोण पर झुकी हुई है। निम्नलिखित में से कौन सा विकल्प सही है?",
             "options": [
-                "B ओम के नियम का पालन करता है लेकिन A नहीं करता है।",
+                "A और B दोनों ओम के नियम का पालन करते हैं。",
                 "A और B दोनों ओम के नियम का पालन करते हैं।",
                 "A ओम के नियम का पालन करता है लेकिन B नहीं करता है।",
                 "न तो A और न ही B ओम के नियम का पालन करते हैं।"
@@ -4010,7 +4182,8 @@
             "examName": "RRB Group D 17 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_265"
+            "id": "q_electricity_265",
+            "correct_option": 1
         },
         {
             "question": "एक बल्ब को 12 V की बैटरी से जोड़े जाने पर 3 A की धारा लेता है। बल्ब की शक्ति है:",
@@ -4025,22 +4198,24 @@
             "examName": "RRB Group D 29 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_266"
+            "id": "q_electricity_266",
+            "correct_option": 3
         },
         {
             "question": "100 W का एक विद्युत बल्ब प्रतिदिन 8 घंटे तक उपयोग किया जाता है। बल्ब द्वारा एक सप्ताह में ______ यूनिट ऊर्जा की खपत होगी।",
             "options": [
-                "560",
                 "5.6",
-                "0.56",
-                "56"
+                "56",
+                "560",
+                "0.56"
             ],
             "correctIndex": 1,
             "explanation": "सही उत्तर: 5.6\n\n📝 व्याख्या:\nबल्ब की शक्ति P = 100 W = 0.1 kW।\nप्रतिदिन उपयोग का समय = 8 घंटे। 1 सप्ताह (7 दिन) में कुल समय t = 8 × 7 = 56 घंटे।\nकुल खपत ऊर्जा = P × t = 0.1 kW × 56 h = **5.6 kWh** (या 5.6 यूनिट)।",
             "examName": "RRB Group D 24/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_electricity_267"
+            "id": "q_electricity_267",
+            "correct_option": 0
         },
         {
             "question": "0.75 A की विद्युत धारा, एक विद्युत बल्ब के फिलामेंट में 6 मिनट तक प्रवाहित होती है। विद्युत धारा के कारण प्रवाहित होने वाले वैद्युत आवेश की मात्रा ज्ञात कीजिए।",
@@ -4055,7 +4230,8 @@
             "examName": "RRB Group D 12 Nov 2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_268"
+            "id": "q_electricity_268",
+            "correct_option": 1
         },
         {
             "question": "एक विद्युत गीजर में 10 सेकंड तक 1 A धारा प्रवाहित करने पर 100 J ऊष्मा उत्पन्न होती है। गीजर का प्रतिरोध कितना होगा?",
@@ -4070,7 +4246,8 @@
             "examName": "RRB Level 01 Stage I 26/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_269"
+            "id": "q_electricity_269",
+            "correct_option": 3
         },
         {
             "question": "विद्युत हीटर के टर्मिनलों के बीच विभवांतर 60 V है जब यह स्रोत से 4 A की धारा लेता है। यदि विभवांतर को बढ़ाकर 165 V कर दिया जाता है, तो हीटर कितनी धारा लेता है?",
@@ -4085,7 +4262,8 @@
             "examName": "RRB Group D 1/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_270"
+            "id": "q_electricity_270",
+            "correct_option": 3
         },
         {
             "question": "विभवांतर 12 V और किया गया कार्य 60 J है। परिपथ से प्रवाहित होने वाला विद्युत आवेश ज्ञात कीजिए।",
@@ -4100,12 +4278,13 @@
             "examName": "RRB Group D 12/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_271"
+            "id": "q_electricity_271",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा नियम किसी धातु के तार के माध्यम से प्रवाहित होने वाली धारा और उसके सिरों के मध्य विभवांतर के बीच संबंध बताता है?",
             "options": [
-                "R = (R₁ × R₂) / (R₁ + R₂)",
+                "ओम का नियम",
                 "R = R₁ + R₂",
                 "R = R₁ / R₂",
                 "1/R = R₁ + R₂"
@@ -4146,7 +4325,8 @@
             "examName": "RRB ALP Electronics Mechanic 23 Jan 2019 Shift 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_electricity_274"
+            "id": "q_electricity_274",
+            "correct_option": 1
         },
         {
             "question": "5 C का आवेश विभवांतर से होकर गुजरता है। यदि किया गया कार्य 30 J है, तो दोनों बिंदुओं के बीच विभवांतर कितना होगा?",
@@ -4161,7 +4341,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_275"
+            "id": "q_electricity_275",
+            "correct_option": 3
         },
         {
             "question": "विद्युत धारा के कारण किसी चालक में उत्पन्न ऊष्मा को क्या कहते हैं?",
@@ -4176,7 +4357,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_276"
+            "id": "q_electricity_276",
+            "correct_option": 3
         },
         {
             "question": "16 V के विभवांतर वाले दो बिंदुओं के पार 5 C के आवेश को स्थानांतरित करने में कितना कार्य होता है?",
@@ -4191,7 +4373,8 @@
             "examName": "RRB Group D 25/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_277"
+            "id": "q_electricity_277",
+            "correct_option": 3
         },
         {
             "question": "दाहिने हाथ के अंगूठे के नियम के अनुसार, यदि हमारे दाहिने हाथ की उंगलियों को मोड़ने से चुंबकीय क्षेत्र की दिशा मिलती है, तो हमारे दाहिने हाथ का अंगूठा किस भौतिक राशि की दिशा में संरेखित होता है?",
@@ -4206,7 +4389,8 @@
             "examName": "RRB Level 01 Stage I 06/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_electricity_278"
+            "id": "q_electricity_278",
+            "correct_option": 3
         },
         {
             "question": "विद्युत परिपथ में विद्युत ऊर्जा के क्षय की दर को ___________ कहा जाता है।",
@@ -4221,12 +4405,13 @@
             "examName": "RRB Group D 30 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_279"
+            "id": "q_electricity_279",
+            "correct_option": 3
         },
         {
             "question": "200 वाट का एक बल्ब 220 वोल्ट के स्रोत से जुड़ा है। बल्ब से गुजरने वाली धारा ज्ञात कीजिए।",
             "options": [
-                "0.91 A",
+                "91 A",
                 "1 A",
                 "0.45 A",
                 "2 A"
@@ -4241,7 +4426,7 @@
         {
             "question": "तांबे के तार में विभवांतर 5.0 V है जब इसमें 0.5 A विद्युत्धारा प्रवाहित होती है। तार का प्रतिरोध ______ है।",
             "options": [
-                "10.0 Ω",
+                "0 Ω",
                 "5 Ω",
                 "0.1 Ω",
                 "5.0 Ω"
@@ -4266,7 +4451,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_282"
+            "id": "q_electricity_282",
+            "correct_option": 3
         },
         {
             "question": "_________ अत्यधिक उच्च विद्युत धारा के प्रवाह को रोककर परिपथों और उपकरणों की सुरक्षा करता है।",
@@ -4281,12 +4467,13 @@
             "examName": "RRB Group D 29 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_283"
+            "id": "q_electricity_283",
+            "correct_option": 2
         },
         {
             "question": "यदि प्रतिरोध बढ़ता है, तो विद्युत धारा,।",
             "options": [
-                "शून्य हो जाएगी।",
+                "घट जाएगी。",
                 "घट जाएगी।",
                 "स्थिर हो जाएगी।",
                 "दो गुनी हो जाएगी।"
@@ -4326,7 +4513,8 @@
             "examName": "RRB Group D 12 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_286"
+            "id": "q_electricity_286",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा विद्युत शक्ति का गलत सूत्र है?",
@@ -4341,12 +4529,13 @@
             "examName": "RRB Group D 13 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_287"
+            "id": "q_electricity_287",
+            "correct_option": 3
         },
         {
             "question": "एक समानांतर परिपथ में, प्रत्येक प्रतिरोधक पर वोल्टता बैटरी द्वारा आपूर्ति की गई कुल वोल्टता की तुलना में कैसे होता है?",
             "options": [
-                "यह प्रतिरोध मानों के अनुसार विभाजित होता है।",
+                "यह प्रत्येक प्रतिरोधक के लिए समान है。",
                 "यह शून्य है।",
                 "यह प्रतिरोध के व्युत्क्रमानुपाती है।",
                 "यह प्रत्येक प्रतिरोधक के लिए समान है।"
@@ -4362,7 +4551,7 @@
             "question": "मान लीजिए कि जब प्रतिरोधक पर वोल्टता 10 V है, तब प्रतिरोध R के एक तार से 0.05 A की विद्युत धारा प्रवाहित हो रही है। जब प्रतिरोधक पर वोल्टता 20 V होगी, तब इस तार से कितनी विद्युत धारा प्रवाहित होगी?",
             "options": [
                 "0.02 A",
-                "0.1 A",
+                "1 A",
                 "0.01 A",
                 "0.2 A"
             ],
@@ -4371,7 +4560,8 @@
             "examName": "RRB Group D 17 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_289"
+            "id": "q_electricity_289",
+            "correct_option": 1
         },
         {
             "question": "विद्युत शक्ति का SI मात्रक _______ है।",
@@ -4386,7 +4576,8 @@
             "examName": "RRB Group D 7/10/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_290"
+            "id": "q_electricity_290",
+            "correct_option": 1
         },
         {
             "question": "दिए गए परिपथ में 4Ω प्रतिरोध पर विभव पतन है:",
@@ -4401,7 +4592,8 @@
             "examName": "RRB Group D 17 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_291"
+            "id": "q_electricity_291",
+            "correct_option": 2
         },
         {
             "question": "विभवांतर के SI मात्रक, एक वोल्ट (1 V) को किस रूप में परिभाषित किया जाता है?",
@@ -4461,7 +4653,8 @@
             "examName": "RRB Group D 17 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_295"
+            "id": "q_electricity_295",
+            "correct_option": 1
         },
         {
             "question": "धात्विक तार का प्रतिरोध _________ होता है।",
@@ -4491,7 +4684,8 @@
             "examName": "RRB Group D 19 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_electricity_297"
+            "id": "q_electricity_297",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा घरेलू उपकरण विद्युत मोटर का उपयोग नहीं करता है?",
@@ -4506,7 +4700,8 @@
             "examName": "RRB Group D 23 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_298"
+            "id": "q_electricity_298",
+            "correct_option": 2
         },
         {
             "question": "एक विद्युत परिपथ में दो बिंदुओं के बीच विद्युत ______ एक आवेश को एक बिंदु से दूसरे तक ले जाने के लिए किया जाने वाला कार्य है।",
@@ -4521,7 +4716,8 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_electricity_299"
+            "id": "q_electricity_299",
+            "correct_option": 2
         },
         {
             "question": "गतिशील लौह मापयंत्र (Moving iron instrument) का प्रचालन ________ पर आधारित होता है।",
@@ -4536,7 +4732,8 @@
             "examName": "RRB JE CE 19 Sept 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_electricity_300"
+            "id": "q_electricity_300",
+            "correct_option": 2
         },
         {
             "question": "समान मोटाई लेकिन क्रमशः लंबाइयाँ L और 4L के दो तारों A और B पर विचार करें।",
@@ -4552,7 +4749,8 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_electricity_301",
-            "answer": "\"N/A\" है क्योंकि ओम के नियम V = IR के अनुसार प्रतिरोध R = V/I है। प्रतिरोध का SI मात्रक ओम (Ω) है। प्रतिरोधकता ρ = RA/L, SI मात्रक Ωm। ताप बढ़ने पर धातुओं में प्रतिरोध बढ़ता है।"
+            "answer": "\"N/A\" है क्योंकि ओम के नियम V = IR के अनुसार प्रतिरोध R = V/I है। प्रतिरोध का SI मात्रक ओम (Ω) है। प्रतिरोधकता ρ = RA/L, SI मात्रक Ωm। ताप बढ़ने पर धातुओं में प्रतिरोध बढ़ता है।",
+            "correct_option": 2
         },
         {
             "question": "दो प्रतिरोधक, 6 Ω का A और 12 Ω का B, 3 V की बैटरी के समानांतर जुड़े हुए हैं। 1 सेकंड में परिपथ को बैटरी द्वारा आपूर्ति की गई कुल ऊर्जा है:",
@@ -4627,7 +4825,8 @@
             "examName": "RRB Group D 22 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_306"
+            "id": "q_electricity_306",
+            "correct_option": 3
         },
         {
             "question": "विद्युत परिपथ में, यदि विद्युत, वोल्टता और प्रतिरोध का प्रतिनिधित्व क्रमशः P, V और R द्वारा किया जाता है, तो उनके बीच सही संबंध है:",
@@ -4753,7 +4952,7 @@
         {
             "question": "लंबाई L और प्रतिरोध R के एक तार को इस प्रकार सुधारा जाता है कि इसकी लंबाई 25% बढ़ जाती है और इसके आयतन में कोई परिवर्तन नहीं होता है। नये तार का प्रतिरोध है:",
             "options": [
-                "1.56 R",
+                "उपरोक्त दोनों कथन सत्य हैं",
                 "1.25 R",
                 "1.50 R",
                 "R"
@@ -4878,14 +5077,15 @@
                 "विद्युत आवेश",
                 "प्रतिरोध",
                 "विद्युत धारा",
-                "विभवांतर"
+                "विभवांतर (Potential difference)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: विभवांतर (Potential difference)\n\nव्याख्या:\nवोल्टमीटर (Voltmeter) — किसी चालक के दो सिरों के बीच विभवांतर मापने का उपकरण।\n• इसे सदैव समानांतर क्रम (Parallel) में जोड़ा जाता है।\n• विभवांतर का SI मात्रक: वोल्ट (V), V = W/Q\n\nअन्य विकल्प:\n• विद्युत आवेश → कूलॉममीटर\n• प्रतिरोध → ओममीटर\n• विद्युत धारा → ऐमीटर",
             "examName": "RRB JE 29 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_323"
+            "id": "q_electricity_323",
+            "correct_option": 3
         },
         {
             "question": "' समय-परिवर्ती वैद्युत क्षेत्र, चुंबकीय क्षेत्र उत्पन्न करता है।' इस परिघटना को क्या कहा जाता है?",
@@ -4960,7 +5160,8 @@
             "examName": "RRB Group D 7/10/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_328"
+            "id": "q_electricity_328",
+            "correct_option": 3
         },
         {
             "question": "एक चालक तार की लंबाई 1 किमी है और इसके अनुप्रस्थ काट की त्रिज्या 7 मिमी है। इस तार से 10 Ω प्रतिरोध का एक प्रतिरोधक बनाया गया है। इस चालक की प्रतिरोधकता _________ होगी।",
@@ -4982,7 +5183,7 @@
             "options": [
                 "प्रतिरोध",
                 "ऊर्जा",
-                "धारा",
+                "धारा (Current)",
                 "प्रतिरोध के वर्ग"
             ],
             "correctIndex": 2,
@@ -4990,7 +5191,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_electricity_330"
+            "id": "q_electricity_330",
+            "correct_option": 2
         },
         {
             "question": "विद्युत बल्ब के तंतु में उपयोग किए जाने वाले पदार्थ के लिए निम्नलिखित में से कौन सा गुण आवश्यक है? -6 -6 -6 -6?",
@@ -5260,7 +5462,8 @@
             "examName": "RRB Group D 29/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_348"
+            "id": "q_electricity_348",
+            "correct_option": 3
         },
         {
             "question": "एक तकनीशियन को घरेलू परिपथ में एक नया उपकरण इस प्रकार जोड़ना है कि उसे पूर्ण वोल्टेज मिले और वह स्वतंत्र रूप से कार्य कर सके। तकनीशियन को क्या करना चाहिए?",
@@ -5321,7 +5524,8 @@
             "examYear": "2024",
             "type": "fillInBlanks",
             "id": "q_electricity_352",
-            "answer": "\"N/A\" है क्योंकि ओम के नियम V = IR के अनुसार प्रतिरोध R = V/I है। प्रतिरोध का SI मात्रक ओम (Ω) है। प्रतिरोधकता ρ = RA/L, SI मात्रक Ωm। ताप बढ़ने पर धातुओं में प्रतिरोध बढ़ता है।"
+            "answer": "\"N/A\" है क्योंकि ओम के नियम V = IR के अनुसार प्रतिरोध R = V/I है। प्रतिरोध का SI मात्रक ओम (Ω) है। प्रतिरोधकता ρ = RA/L, SI मात्रक Ωm। ताप बढ़ने पर धातुओं में प्रतिरोध बढ़ता है।",
+            "correct_option": 2
         },
         {
             "question": "18 ओम प्रतिरोध के एक विद्युत बल्ब की शक्ति क्या होगी यदि इसके सिरों पर कोई वोल्टेज नहीं लगाया जाता है?",
@@ -5341,7 +5545,7 @@
         {
             "question": "निम्नलिखित में से कौन सा शक्ति (power) के लिए एक गलत सूत्र है?",
             "options": [
-                "VI",
+                "I²Rt (यह ऊर्जा का सूत्र है, शक्ति का नहीं)",
                 "I² R",
                 "I² Rt",
                 "V² /R"
@@ -5423,7 +5627,7 @@
             "options": [
                 "0.05 वाट",
                 "10 वाट",
-                "0.8 वाट",
+                "8 वाट",
                 "20 वाट"
             ],
             "correctIndex": 2,
@@ -5431,7 +5635,8 @@
             "examName": "RRB Group D 8 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_359"
+            "id": "q_electricity_359",
+            "correct_option": 2
         },
         {
             "question": "एक विद्युतरोधी _______ प्रतिरोध प्रदान करता है।",
@@ -5781,7 +5986,7 @@
         {
             "question": "प्रतिरोध के प्रतीक (R) को _________द्वारा निरूपित किया जाता है l",
             "options": [
-                "ओम (Ω)",
+                "केवल कथन 1 सत्य है",
                 "एम्पियर (A)",
                 "वोल्ट (V)",
                 "वाट (W)"
@@ -5943,7 +6148,8 @@
             "examName": "RRB Group D 24/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_393"
+            "id": "q_electricity_393",
+            "correct_option": 2
         },
         {
             "question": "कौन सा विद्युत उपकरण कम तापमान बनाए रखकर भोजन को संरक्षित करने में सहायता करता है?",
@@ -5994,7 +6200,7 @@
             "question": "वोल्टमीटर द्वारा किसका मापन किया जाता है?",
             "options": [
                 "धारा की ताकत",
-                "वोल्टेज",
+                "वोल्टेज (विभवांतर)",
                 "प्रतिरोध",
                 "उपभुक्त ऊर्जा"
             ],
@@ -6003,7 +6209,8 @@
             "examName": "RRB ALP Electrician 23 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_397"
+            "id": "q_electricity_397",
+            "correct_option": 1
         },
         {
             "question": "1000 W पर अंकित एक इलेक्ट्रिक हीटर का उपयोग प्रतिदिन 5 घंटे के लिए किया जाता है। 6.00 रुपये प्रति यूनिट की लागत के लिए, सितंबर महीने के लिए डिवाइस को चलाने की कुल लागत (रुपये में) की गणना करें।",
@@ -6038,7 +6245,7 @@
         {
             "question": "सात प्रतिरोधकों, जिनमें से प्रत्येक का प्रतिरोध 1/6 Ω है, का उपयोग करके बनाए जा सकने वाले परिपथ का न्यूनतम प्रतिरोध क्या है?",
             "options": [
-                "1/42 Ω",
+                "उपरोक्त में से कोई नहीं",
                 "7/6 Ω",
                 "1/6 Ω",
                 "1/7 Ω"
@@ -6261,7 +6468,8 @@
             "examName": "RRB Group D 10/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_414"
+            "id": "q_electricity_414",
+            "correct_option": 3
         },
         {
             "question": "एक तार का प्रतिरोध 1 Ω है। यदि इसे दो बराबर भागों में काटा जाए, तो प्रत्येक भाग का प्रतिरोध कितना होगा?",
@@ -6326,7 +6534,7 @@
         {
             "question": "निम्नलिखित में से कौन-सा संबंध विद्युत शक्ति (P) के लिए गलत है?",
             "options": [
-                "P=I²R",
+                "P = R/V² (गलत सूत्र)",
                 "P=R/V²",
                 "P=V²/R",
                 "P=VI"
@@ -6418,7 +6626,7 @@
             "question": "किसी चालक से प्रवाहित आवेश (Q), आवेश प्रवाह के समय (t) और चालक से प्रवाहित धारा (I) के बीच सही संबंध है:",
             "options": [
                 "I = Q / t",
-                "I = Q 2 t",
+                "\"I = Q 2 t\" है। विद्युत धारा। = Q/t, SI मात्रक एम्पियर (A)। इलेक्ट्रॉन ऋण से धन की ओर चलते हैं जबकि परंपरागत धारा धन से ऋण की ओर।",
                 "I = Q t 2",
                 "I = Qt"
             ],
@@ -6428,7 +6636,8 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_electricity_425",
-            "answer": "\"I = Q 2 t\" है। विद्युत धारा I = Q/t, SI मात्रक एम्पियर (A)। इलेक्ट्रॉनरॉन ऋण से धन की ओर चलते हैं जबकि परंपरागत धारा धन से ऋण की ओर।"
+            "answer": "\"I = Q 2 t\" है। विद्युत धारा I = Q/t, SI मात्रक एम्पियर (A)। इलेक्ट्रॉनरॉन ऋण से धन की ओर चलते हैं जबकि परंपरागत धारा धन से ऋण की ओर।",
+            "correct_option": 1
         },
         {
             "question": "2 Ω, 3 Ω और 5 Ω प्रतिरोध के तीन प्रतिरोधक, V वोल्टेज की बैटरी से श्रेणीक्रम में जुड़े हुए हैं। यदि 2 Ω प्रतिरोधक से गुजरने वाली धारा 4 A है, तो V ______ है।",
@@ -6495,7 +6704,7 @@
             "options": [
                 "I/V",
                 "(I × t)/V",
-                "I × V",
+                "I × V (P = VI)",
                 "V/I"
             ],
             "correctIndex": 2,
@@ -6503,7 +6712,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_electricity_430"
+            "id": "q_electricity_430",
+            "correct_option": 2
         },
         {
             "question": "गोलीय दर्पणों के लिए चिह्न परिपाटी के अनुसार, अवतल दर्पण की फोकस दूरी के बारे में कौन-सा विकल्प सही है?",
@@ -6609,7 +6819,8 @@
             "examName": "RRB Group D 28 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_437"
+            "id": "q_electricity_437",
+            "correct_option": 2
         },
         {
             "question": "दो प्रतिरोधों के समान्तर संयोजन का प्रभावी प्रतिरोध हमेशा _______ होता है।",
@@ -6670,7 +6881,8 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_electricity_441",
-            "answer": "\"N/A\" है। विद्युत के मूल सिद्धांतों के अनुसार यह विकल्प सही है क्योंकि प्रश्न में दिए गए तथ्यों के आधार पर यही उपयुक्त विकल्प है।"
+            "answer": "\"N/A\" है। विद्युत के मूल सिद्धांतों के अनुसार यह विकल्प सही है क्योंकि प्रश्न में दिए गए तथ्यों के आधार पर यही उपयुक्त विकल्प है।",
+            "correct_option": 1
         },
         {
             "question": "समान लंबाई और समान मोटाई के तीन तारों, A, B और C का प्रतिरोध क्रमशः 0.5 Ω, 0.2 Ω और 1.0 Ω है। उनकी प्रतिरोधकता ______ है।",
@@ -6761,7 +6973,8 @@
             "examYear": "2022",
             "type": "fillInBlanks",
             "id": "q_electricity_447",
-            "answer": "\"N/A\" है क्योंकि ओम के नियम V = IR के अनुसार प्रतिरोध R = V/I है। प्रतिरोध का SI मात्रक ओम (Ω) है। प्रतिरोधकता ρ = RA/L, SI मात्रक Ωm। ताप बढ़ने पर धातुओं में प्रतिरोध बढ़ता है।"
+            "answer": "\"N/A\" है क्योंकि ओम के नियम V = IR के अनुसार प्रतिरोध R = V/I है। प्रतिरोध का SI मात्रक ओम (Ω) है। प्रतिरोधकता ρ = RA/L, SI मात्रक Ωm। ताप बढ़ने पर धातुओं में प्रतिरोध बढ़ता है।",
+            "correct_option": 2
         },
         {
             "question": "समानांतर परिपथ के लिए निम्नलिखित में से कौन सा कथन सत्य है? होता है। है।",
@@ -6814,14 +7027,15 @@
                 "कार्य",
                 "आवेश",
                 "विद्युत धारा",
-                "प्रतिरोध"
+                "प्रतिरोध (Resistance)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: प्रतिरोध (Resistance)\n\nव्याख्या:\nओम का नियम: V = IR ⇒ R = V/I\nप्रतिरोध का SI मात्रक: वोल्ट/एम्पियर = ओम (Ω)₁ Ω = 1 V/A\n\nअन्य विकल्प:\n• कार्य → J (जूल)\n• आवेश → C (कूलॉम)\n• धारा → A (एम्पियर)",
             "examName": "RRB Group D 28 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electricity_451"
+            "id": "q_electricity_451",
+            "correct_option": 3
         },
         {
             "question": "एक तार में प्रवाहित धारा की गणना कीजिए, यदि 10 मिनट में उसमें से 1200 C आवेश प्रवाहित होता है।",
@@ -7142,7 +7356,7 @@
         {
             "question": "निम्नलिखित में से कौन-सा विद्युत शक्ति (P) के लिए सही व्यंजक नहीं है?",
             "options": [
-                "P = I R²",
+                "उपरोक्त दोनों कथन सत्य हैं",
                 "P = V I",
                 "P = I² R",
                 "P = V² / R"
@@ -7275,7 +7489,8 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_electricity_481",
-            "answer": "\"N/A\" है क्योंकि ओम के नियम V = IR के अनुसार प्रतिरोध R = V/I है। प्रतिरोध का SI मात्रक ओम (Ω) है। प्रतिरोधकता ρ = RA/L, SI मात्रक Ωm। ताप बढ़ने पर धातुओं में प्रतिरोध बढ़ता है।"
+            "answer": "\"N/A\" है क्योंकि ओम के नियम V = IR के अनुसार प्रतिरोध R = V/I है। प्रतिरोध का SI मात्रक ओम (Ω) है। प्रतिरोधकता ρ = RA/L, SI मात्रक Ωm। ताप बढ़ने पर धातुओं में प्रतिरोध बढ़ता है।",
+            "correct_option": 3
         },
         {
             "question": "यदि किसी तार में 2 एम्पियर की विद्युत धारा प्रवाहित हो रही है, तो 5 सेकंड में इसके अनुप्रस्थ काट से कितना आवेश प्रवाहित होगा?",
@@ -7351,7 +7566,8 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_electricity_486",
-            "answer": "\"N/A\" है क्योंकि ओम के नियम V = IR के अनुसार प्रतिरोध R = V/I है। प्रतिरोध का SI मात्रक ओम (Ω) है। प्रतिरोधकता ρ = RA/L, SI मात्रक Ωm। ताप बढ़ने पर धातुओं में प्रतिरोध बढ़ता है।"
+            "answer": "\"N/A\" है क्योंकि ओम के नियम V = IR के अनुसार प्रतिरोध R = V/I है। प्रतिरोध का SI मात्रक ओम (Ω) है। प्रतिरोधकता ρ = RA/L, SI मात्रक Ωm। ताप बढ़ने पर धातुओं में प्रतिरोध बढ़ता है।",
+            "correct_option": 2
         },
         {
             "question": "यदि किसी परिपथ में धारा और विभवांतर को तीन गुना कर दिया जाए, प्रतिरोध स्थिर रखते हुए, तो शक्ति में वृद्धि होगी:",
@@ -7521,7 +7737,7 @@
         {
             "question": "जब एक बिजली का पंखा 20 V के स्रोत से जुड़ा होता है, तो उसकी शक्ति 10 वाट होती है। पंखे से गुजरने वाली धारा क्या है?",
             "options": [
-                "0.5 amp",
+                "5 amp",
                 "200 amp",
                 "0.005 amp",
                 "2 amp"
@@ -7562,7 +7778,8 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_electricity_500",
-            "answer": "\"P = IR\" है क्योंकि ओम के नियम V = IR के अनुसार प्रतिरोध R = V/I है। प्रतिरोध का SI मात्रक ओम (Ω) है। प्रतिरोधकता ρ = RA/L, SI मात्रक Ωm। ताप बढ़ने पर धातुओं में प्रतिरोध बढ़ता है।"
+            "answer": "\"P = IR\" है क्योंकि ओम के नियम V = IR के अनुसार प्रतिरोध R = V/I है। प्रतिरोध का SI मात्रक ओम (Ω) है। प्रतिरोधकता ρ = RA/L, SI मात्रक Ωm। ताप बढ़ने पर धातुओं में प्रतिरोध बढ़ता है।",
+            "correct_option": 1
         },
         {
             "question": "किसी परिपथ में शक्ति निवेश P को परिपथ में वोल्टेज V और धारा। के पदों में निम्न प्रकार व्यक्त किया जा सकता है:",
@@ -7928,7 +8145,7 @@
         {
             "question": "दो समान बल्ब 4 V की बैटरी के समानांतर क्रम में जुड़े हुए हैं। यदि परिपथ में धारा 0.2 A है, तो बैटरी द्वारा व्यय की गई शक्ति कितनी है?",
             "options": [
-                "0.8 W",
+                "8 W",
                 "10 W",
                 "0.05 W",
                 "20 W"
@@ -7974,7 +8191,7 @@
             "question": "वोल्टेज स्रोत को बदले बिना बिजली के प्रवाह को नियंत्रित करने के लिए किस घटक का उपयोग किया जाता है?",
             "options": [
                 "परिवर्तनशील पकड़",
-                "परिवर्तनीय प्रतिरोध",
+                "परिवर्तनीय प्रतिरोध (Variable resistance / Rheostat)",
                 "परिवर्तनीय प्रतिबाधा",
                 "स्थैतिक प्रतिरोध"
             ],
@@ -7983,7 +8200,8 @@
             "examName": "RPF Constable 2018 17 Feb 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_528"
+            "id": "q_electricity_528",
+            "correct_option": 1
         },
         {
             "question": "कई प्रतिरोधकों को समान्तर में जोड़ना निम्नलिखित के समतुल्य माना जा सकता है:",
@@ -8283,7 +8501,8 @@
             "examName": "RRB Group D 28/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_548"
+            "id": "q_electricity_548",
+            "correct_option": 2
         },
         {
             "question": "यदि किसी धात्विक चालक का तापमान बढ़ता है, तो उसकी प्रतिरोधकता में क्या परिवर्तन होता है और ऐसा क्यों होता है?",
@@ -8318,7 +8537,7 @@
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प, किसी परिपथ में विद्युत शक्ति P का उचित निरूपण नहीं करता है (धारा, विभवांतर और प्रतिरोध को प्रतीकात्मक रूप से क्रमशः I , V और R के रूप में लिखा जाता है।)?",
             "options": [
-                "P = I R²",
+                "उपरोक्त में से कोई नहीं",
                 "P = V I",
                 "P = I² R",
                 "P = V² / R"
@@ -8437,7 +8656,8 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_electricity_558",
-            "answer": "N/A (प्रश्न में विकल्प अस्पष्ट)"
+            "answer": "N/A (प्रश्न में विकल्प अस्पष्ट)",
+            "correct_option": 2
         },
         {
             "question": "4 ओम के चार प्रतिरोधक पार्श्वक्रम में संयोजित हैं। इसके बाद चार ऐसे पार्श्वक्रम संयोजनों को 9 श्रेणीक्रम में संयोजित किया जाता है। समतुल्य प्रतिरोध ज्ञात कीजिए।",
@@ -8468,7 +8688,8 @@
             "examYear": "2018",
             "type": "fillInBlanks",
             "id": "q_electricity_560",
-            "answer": "\"N/A\" है क्योंकि ओम के नियम V = IR के अनुसार प्रतिरोध R = V/I है। प्रतिरोध का SI मात्रक ओम (Ω) है। प्रतिरोधकता ρ = RA/L, SI मात्रक Ωm। ताप बढ़ने पर धातुओं में प्रतिरोध बढ़ता है।"
+            "answer": "\"N/A\" है क्योंकि ओम के नियम V = IR के अनुसार प्रतिरोध R = V/I है। प्रतिरोध का SI मात्रक ओम (Ω) है। प्रतिरोधकता ρ = RA/L, SI मात्रक Ωm। ताप बढ़ने पर धातुओं में प्रतिरोध बढ़ता है।",
+            "correct_option": 2
         },
         {
             "question": "2 Ω प्रतिरोध वाले एक चालक से 5 A धारा प्रवाहित होती है। चालक के सिरों के बीच विभवांतर (वोल्ट में) है:",
@@ -8559,12 +8780,13 @@
             "examName": "RRB Group D 28 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_566"
+            "id": "q_electricity_566",
+            "correct_option": 3
         },
         {
             "question": "विद्युत धारा द्वारा उत्पन्न ऊष्मा के लिए सही संबंध है:",
             "options": [
-                "H = R/T",
+                "H = V.I.T",
                 "H = I².R",
                 "H = V.I.t",
                 "H = R/T"
@@ -8665,7 +8887,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_electricity_573"
+            "id": "q_electricity_573",
+            "correct_option": 3
         },
         {
             "question": "दो प्रतिरोधक, A (20 Ω) और B (40 Ω), समानांतर में जुड़े हुए हैं। संयोजन को 6 V की बैटरी से जोड़ा जाता है। A और B में धाराएँ क्रमशः ________ हैं।",
@@ -8732,7 +8955,7 @@
             "options": [
                 "एम्पियर",
                 "कूलाम",
-                "वोल्ट",
+                "वोल्ट (Volt)",
                 "ओम"
             ],
             "correctIndex": 2,
@@ -8740,7 +8963,8 @@
             "examName": "RRB Group D 26/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_578"
+            "id": "q_electricity_578",
+            "correct_option": 2
         },
         {
             "question": "शॉर्ट सर्किट में धारा _______।",
@@ -8957,7 +9181,7 @@
             "options": [
                 "प्रतिरोधकता",
                 "शक्ति",
-                "धारा",
+                "धारा (Current)",
                 "समय"
             ],
             "correctIndex": 2,
@@ -8965,7 +9189,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electricity_593"
+            "id": "q_electricity_593",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा घटक विद्युत आवेशों के रूप में ऊर्जा संचित करता है?",
@@ -9424,14 +9649,15 @@
                 "श्रेणीक्रम में",
                 "तियक रूप में",
                 "स्विच के स्थान पर",
-                "समानांतर क्रम में"
+                "समानांतर क्रम में (Parallel)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: समानांतर क्रम में (Parallel)\n\nव्याख्या:\nवोल्टमीटर को सदैव समानांतर (Parallel) में जोड़ा जाता है ताकि यह उसी विभवांतर को माप सके जो उस घटक पर है।\nइसका उच्च प्रतिरोध होता है — बहुत कम धारा लेता है, जिससे मापन सटीक रहता है।\n\n📌 ऐमीटर को श्रेणीक्रम (Series) में जोड़ा जाता है — निम्न प्रतिरोध।",
             "examName": "RRB Level 01 Stage I 12/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_electricity_624"
+            "id": "q_electricity_624",
+            "correct_option": 3
         },
         {
             "question": "विद्युत धारा को.के रूप में व्यक्त किया जाता है।",
@@ -9656,7 +9882,8 @@
             "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_639"
+            "id": "q_electricity_639",
+            "correct_option": 1
         },
         {
             "question": "यदि विद्युत प्रवाह के प्रतिरोध और समय को अपरिवर्तित रखते हुए हीटर से गुजरने वाली विद्युत धारा को तीन गुना कर दिया जाए, तो उत्पन्न ऊष्मा -",
@@ -9737,7 +9964,7 @@
             "question": "तीन बल्ब A, B और C जिनकी रेटेड शक्ति क्रमशः 40 W, 60 W और 100 W है, 220 V के वोल्टेज स्रोत से समानांतर में जुड़े हुए हैं। अधिकतम चमक के साथ चमकने वाला बल्ब है:",
             "options": [
                 "सभी बल्ब समान चमक से चमकेंगे।",
-                "बल्ब C",
+                "बल्ब C (100 W — अधिकतम शक्ति)",
                 "बल्ब A",
                 "बल्ब B"
             ],
@@ -9746,7 +9973,8 @@
             "examName": "RRB Group D 23 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_645"
+            "id": "q_electricity_645",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा कारक सुचालक के प्रतिरोध को प्रभावित नहीं करता है?",
@@ -9776,7 +10004,8 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electricity_647"
+            "id": "q_electricity_647",
+            "correct_option": 2
         },
         {
             "question": "यदि एक टोस्टर को 220 V AC के स्थान पर 440 V AC से जोड़ा जाए, तो प्रति सेकण्ड उत्पन्न ऊष्मा प्रारम्भिक मात्रा की ___________ होगी।",
@@ -9957,7 +10186,8 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_electricity_659",
-            "answer": "\"R =\" है क्योंकि ओम के नियम V = IR के अनुसार प्रतिरोध R = V/I है। प्रतिरोध का SI मात्रक ओम (Ω) है। प्रतिरोधकता ρ = RA/L, SI मात्रक Ωm। ताप बढ़ने पर धातुओं में प्रतिरोध बढ़ता है।"
+            "answer": "\"R =\" है क्योंकि ओम के नियम V = IR के अनुसार प्रतिरोध R = V/I है। प्रतिरोध का SI मात्रक ओम (Ω) है। प्रतिरोधकता ρ = RA/L, SI मात्रक Ωm। ताप बढ़ने पर धातुओं में प्रतिरोध बढ़ता है।",
+            "correct_option": 1
         },
         {
             "question": "1100 W के एक तापन उपकरण को 220 V लाइन वोल्टेज पर उपयोग किए जाने हेतु डिजाइन किया गया है। किसी विशेष दिन, लाइन वोल्टेज घटकर 110 V रह जाने पर, इससे प्रवाहित धारा_______ और इसकी आउटपुट शक्ति ________होगी।",
@@ -10033,7 +10263,8 @@
             "examName": "RRB Group D 8/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_electricity_664"
+            "id": "q_electricity_664",
+            "correct_option": 3
         },
         {
             "question": "दिए गए आलेख का उपयोग करके चालक का प्रतिरोध ज्ञात कीजिए।",
@@ -10048,13 +10279,14 @@
             "examName": "RRB Group D 29 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electricity_665"
+            "id": "q_electricity_665",
+            "correct_option": 2
         },
         {
             "question": "प्रतिरोध को परिवर्तित करने के लिए परिपथ में सामान्यतः किस घटक का उपयोग किया जाता है?",
             "options": [
                 "वोल्टमीटर",
-                "धारा नियंत्रक",
+                "धारा नियंत्रक (Rheostat / Variable resistor)",
                 "ट्रांसफार्मर",
                 "डायोड"
             ],
@@ -10063,7 +10295,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 12 Jun, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electricity_666"
+            "id": "q_electricity_666",
+            "correct_option": 1
         }
     ]
 }

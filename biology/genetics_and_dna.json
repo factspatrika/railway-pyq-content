@@ -31,7 +31,8 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_genetics_and_dna_2"
+            "id": "q_genetics_and_dna_2",
+            "correct_option": 3
         },
         {
             "question": "लैंगिक जनन करने वाले प्राणियों में दो अलग-अलग व्यष्टियों (individuals) के DNA के संयोजन का क्या लाभ है?",
@@ -46,7 +47,8 @@
             "examName": "RRB Level 01 Stage I 10/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_genetics_and_dna_3"
+            "id": "q_genetics_and_dna_3",
+            "correct_option": 1
         },
         {
             "question": "इनमें से कौन सा केवल मानव मादा में पाया जाता है?",
@@ -76,7 +78,8 @@
             "examName": "RRB Group D 16 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_genetics_and_dna_5"
+            "id": "q_genetics_and_dna_5",
+            "correct_option": 1
         },
         {
             "question": "मनुष्य में बच्चे का लिंग (sex) निर्धारण किससे होता है?",
@@ -91,7 +94,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_6"
+            "id": "q_genetics_and_dna_6",
+            "correct_option": 3
         },
         {
             "question": "मानव युग्मकों (अंडाणु और शुक्राणु) में गुणसूत्रों की संख्या क्या होती है?",
@@ -136,7 +140,8 @@
             "examName": "RRB Group D 26 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_genetics_and_dna_9"
+            "id": "q_genetics_and_dna_9",
+            "correct_option": 2
         },
         {
             "question": "मोनोहाइब्रिड क्रॉस में _____ युग्म विषम स्वरूप होते हैं।",
@@ -151,7 +156,8 @@
             "examName": "RRB Group D 9/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_genetics_and_dna_10"
+            "id": "q_genetics_and_dna_10",
+            "correct_option": 2
         },
         {
             "question": "लिंग गुणसूत्रों का पूर्ण युग्म _______ में पाया जाता है।",
@@ -181,7 +187,8 @@
             "examName": "RRB Group D 28/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_genetics_and_dna_12"
+            "id": "q_genetics_and_dna_12",
+            "correct_option": 1
         },
         {
             "question": "डीएनए और RNA के बारे में निम्नलिखित में से कौन-सा कथन सत्य है?",
@@ -196,7 +203,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 23 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_13"
+            "id": "q_genetics_and_dna_13",
+            "correct_option": 2
         },
         {
             "question": "मानव नर गुणसूत्र का निम्नलिखित में से कौन-सा युग्म, आमाप में बमेंेल होता है?",
@@ -211,7 +219,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_14"
+            "id": "q_genetics_and_dna_14",
+            "correct_option": 3
         },
         {
             "question": "कोशिकाओं में RNA अणुओं की कार्यात्मक विविधता की सबसे अच्छी व्याख्या कौन सी है?",
@@ -226,7 +235,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 21 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_15"
+            "id": "q_genetics_and_dna_15",
+            "correct_option": 1
         },
         {
             "question": "गुणसूत्र संख्या 2n = 18 वाले लैंगिक प्रजनन करने वाले जीव में कितने ऑटोसोम मौजूद होंगे?",
@@ -241,12 +251,13 @@
             "examName": "RRB Group D 18/8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_genetics_and_dna_16"
+            "id": "q_genetics_and_dna_16",
+            "correct_option": 1
         },
         {
             "question": "सूत्रीविभाजन में पश्चावस्था-अंत्यावस्था संक्रमण का क्या कार्य है?",
             "options": [
-                "अर्धगुणसूत्र का पृथक्करण और केंद्रकीय आवरण में सुधार करना",
+                "अधगुणसूत्र का पृथक्करण और केंद्रकीय आवरण में सुधार करना",
                 "गुणसूत्रों का संघनन करना",
                 "DNA रज्जकों का संश्लेषण करना",
                 "DNA पुनरावृत्ति की शुरुआत करना"
@@ -261,7 +272,7 @@
         {
             "question": "निम्नलिखित में से कौन-सा कथन असत्य है?",
             "options": [
-                "प्रत्येक जीन एक लक्षण को नियंत्रित करता है।",
+                "युग्मक के निर्माण के समय दो युग्म विकल्पी एक साथ आते हैं।",
                 "उपरोक्त दोनों कथन सत्य हैं",
                 "प्रत्येक जनन कोशिका प्रत्येक युग्में से एक गुणसूत्र लेती है।",
                 "जीन गुणसूत्रों पर स्थित होते हैं।"
@@ -286,7 +297,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_genetics_and_dna_19"
+            "id": "q_genetics_and_dna_19",
+            "correct_option": 1
         },
         {
             "question": "किसी व्यक्ति की पूर्ण अनुवांशिक संरचना कौन है?",
@@ -301,7 +313,8 @@
             "examName": "RPF Constable 2018 : 03 Feb, 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_genetics_and_dna_20"
+            "id": "q_genetics_and_dna_20",
+            "correct_option": 2
         },
         {
             "question": "DNA अणु का दोहरा कुंडलित मॉडल किसके द्वारा प्रस्तावित किया गया था?",
@@ -316,7 +329,8 @@
             "examName": "RRB JE CBT I - : 30 May 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_genetics_and_dna_21"
+            "id": "q_genetics_and_dna_21",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा सबसे अच्छा स्पष्टीकरण देता है कि थाइमिन के बजाय RNA में यूरैसिल का उपयोग क्यों किया जाता है?",
@@ -331,7 +345,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 06 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_22"
+            "id": "q_genetics_and_dna_22",
+            "correct_option": 3
         },
         {
             "question": "पीले बीजों वाले तद्रूप प्रजनन वाले एक लंबे मटर के पौधे का संकरण हरे बीजों वाले तद्रूप प्रजनन वाले बौने मटर के पौधे के साथ कराया जाता है। F₁ पीढ़ी में, सभी पौधे लंबे थे। इस प्रयोग से क्या निष्कष निकाला जा सकता है?",
@@ -346,7 +361,8 @@
             "examName": "RRB Group D 5 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_genetics_and_dna_23"
+            "id": "q_genetics_and_dna_23",
+            "correct_option": 1
         },
         {
             "question": "प्रभावशीलता के नियम में लक्षणों को नियंत्रित करने वाली पृथक इकाई का नाम बताइए?",
@@ -361,7 +377,8 @@
             "examName": "RPF SI 2018 : 11 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_genetics_and_dna_24"
+            "id": "q_genetics_and_dna_24",
+            "correct_option": 2
         },
         {
             "question": "एक मानव महिला के जनन कोशिका में गुणसूत्रों की संख्या है: ______जोड़े",
@@ -376,7 +393,8 @@
             "examName": "RRB Group D 12/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_genetics_and_dna_25"
+            "id": "q_genetics_and_dna_25",
+            "correct_option": 2
         },
         {
             "question": "कोशिका में राइबोसोम की खोज किसने की?",
@@ -391,7 +409,8 @@
             "examName": "RPF SI 2018 : 10 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_genetics_and_dna_26"
+            "id": "q_genetics_and_dna_26",
+            "correct_option": 2
         },
         {
             "question": "वाक्यांश \"बनने वाली DNA प्रतिकृतियाँ एकसमान तो होंगी, परंतु मौलिक DNA के समरूप नहीं होंगी\" का क्या अर्थ है?",
@@ -406,7 +425,8 @@
             "examName": "RRB Level 01 Stage I 27/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_27"
+            "id": "q_genetics_and_dna_27",
+            "correct_option": 1
         },
         {
             "question": "किस प्रकार का RNA, केंद्रक में DNA से कोशिका द्रव्य में राइबोसोम तक आनुवंशिक सूचना का परिवहन करता है, जहाँ यह प्रोटीन संश्लेषण का निर्देशन करता है?",
@@ -421,7 +441,8 @@
             "examName": "RPF Constable 2024 05 Mar, 2025 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_genetics_and_dna_28"
+            "id": "q_genetics_and_dna_28",
+            "correct_option": 2
         },
         {
             "question": "मानव में अन्य गुणसूत्रों की तुलना में लिंग गुणसूत्रों की क्या अनूठी विशेषता है?",
@@ -436,7 +457,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_genetics_and_dna_29"
+            "id": "q_genetics_and_dna_29",
+            "correct_option": 2
         },
         {
             "question": "प्लाज्मा झिल्ली _____________ से बनी होती है।",
@@ -451,7 +473,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_genetics_and_dna_30"
+            "id": "q_genetics_and_dna_30",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प यह सुनिश्चित करता है, कि प्रत्येक पीढ़ी में DNA की मात्रा दोगुनी न हो?",
@@ -466,7 +489,8 @@
             "examName": "RRB Level 01 Stage I 19/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_31"
+            "id": "q_genetics_and_dna_31",
+            "correct_option": 2
         },
         {
             "question": "उस विकल्प का चयन कीजिए, जो अभिकथन",
@@ -500,7 +524,8 @@
             "examName": "RPF SI CBT-I 2024 : 13 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_genetics_and_dna_33"
+            "id": "q_genetics_and_dna_33",
+            "correct_option": 3
         },
         {
             "question": "मनुष्य की सामान्य कोशिका में 46 गुणसूत्र होते हैं, हालाँकि, जनन कोशिका में होते हैं:",
@@ -515,7 +540,8 @@
             "examName": "RRB Group D 20 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_genetics_and_dna_34"
+            "id": "q_genetics_and_dna_34",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा, वंशागति के संबंध में मेन्डल के निष्कष को सही रूप से दर्शाता है?",
@@ -530,7 +556,8 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_35"
+            "id": "q_genetics_and_dna_35",
+            "correct_option": 2
         },
         {
             "question": "1950 के दशक से पहले संरचनात्मक अध्ययन के लिए इंटेक्ट DNA को अलग करने में असमथता मुख्य रूप से किस आणविक विशेषता के कारण थी?",
@@ -545,7 +572,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 14 Jun, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_36"
+            "id": "q_genetics_and_dna_36",
+            "correct_option": 1
         },
         {
             "question": "रूक्ष अंतर्द्रव्यी जालिका (rough endoplasmic reticulum) निम्नलिखित में से किससे संबंधित है?",
@@ -560,7 +588,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_genetics_and_dna_37"
+            "id": "q_genetics_and_dna_37",
+            "correct_option": 2
         },
         {
             "question": "अधिकांश कोशिकीय प्रक्रियाओं के लिए ऊर्जा मुद्रा क्या है?",
@@ -575,7 +604,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_genetics_and_dna_38"
+            "id": "q_genetics_and_dna_38",
+            "correct_option": 2
         },
         {
             "question": "गुणसूत्र संख्या 2n = 18 के साथ लैंगिक रूप से प्रजनन करने वाले जीव में कितने अलिंग गुणसूत्र (ऑटोसोम) उपस्थित होंगे?",
@@ -590,7 +620,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_genetics_and_dna_39"
+            "id": "q_genetics_and_dna_39",
+            "correct_option": 1
         },
         {
             "question": "माइटोकॉन्ड्रियारियल डीएनए (Mitochondrial DNA) रिया के समान प्लास्टिडों में भी स्वयं के/की __________ और __________ होती/होते हैं।",
@@ -620,7 +651,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 16 Jun, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_41"
+            "id": "q_genetics_and_dna_41",
+            "correct_option": 3
         },
         {
             "question": "जीन उत्परिवर्तन निम्न में से किसके कारण होता है?",
@@ -635,7 +667,8 @@
             "examName": "RRB Group D 31/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_genetics_and_dna_42"
+            "id": "q_genetics_and_dna_42",
+            "correct_option": 2
         },
         {
             "question": "चार रक्त समूह हैं: A, B, AB और O। इन रक्त समूहों के वंशानेक्रम को नियंत्रित करने वाले जीन को IA, IB और i के रूप में नामित किया गया है। निम्नलिखित में से कौन-सा जीन संयोजन परिणामी रक्त समूह 'A’ होगा?",
@@ -650,7 +683,8 @@
             "examName": "RRB Group D 23 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_genetics_and_dna_43"
+            "id": "q_genetics_and_dna_43",
+            "correct_option": 1
         },
         {
             "question": "समसूत्री विभाजन में, संतति कोशिकाओं के गुणसूत्रों की तुलना जनक कोशिका के गुणसूत्रों से किस प्रकार की जाती है?",
@@ -680,7 +714,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_45"
+            "id": "q_genetics_and_dna_45",
+            "correct_option": 3
         },
         {
             "question": "मानव जीनोम के पूर्ण अनुक्रमण ने किसकी शुरुआत को चिह्नित किया है?",
@@ -710,7 +745,8 @@
             "examName": "RRB NTPC UG CBT-I : 18 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_47"
+            "id": "q_genetics_and_dna_47",
+            "correct_option": 2
         },
         {
             "question": "केंद्रक में क्रोमोसोम होते हैं, जो केवल कोशिका विभाजन के समय ही छड़ाकार (rod-shaped) की संरचनाओं के रूप में दिखाई पड़ते हैं। ये क्रोमोसोम _____ से बने होते हैं।",
@@ -725,7 +761,8 @@
             "examName": "RRB JE 19/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_genetics_and_dna_48"
+            "id": "q_genetics_and_dna_48",
+            "correct_option": 2
         },
         {
             "question": "DNA पॉलीमरेज़ DNA प्रतिकृति के दौरान न्यूक्लियोटाइड्स के जुड़ने को उत्प्रेरित करता है। इसकी मुख्य भूमिका है:",
@@ -740,7 +777,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 09 Jun, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_49"
+            "id": "q_genetics_and_dna_49",
+            "correct_option": 1
         },
         {
             "question": "किसी लक्षण को नियंत्रित करने वाले जीन के दो रूपों को क्या कहा जाता है?",
@@ -755,7 +793,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_genetics_and_dna_50"
+            "id": "q_genetics_and_dna_50",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा विकल्प पुनेट वग की भविष्यवाणियों का सबसे अच्छा प्रतिनिधित्व करता है?",
@@ -830,7 +869,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_55"
+            "id": "q_genetics_and_dna_55",
+            "correct_option": 1
         },
         {
             "question": "DNA का वह खंड जो प्रोटीन को जानकारी प्रदान करता है, उस प्रोटीन का __________ कहलाता है।",
@@ -875,7 +915,8 @@
             "examName": "RRB Group D 28/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_genetics_and_dna_58"
+            "id": "q_genetics_and_dna_58",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन तकनीक की एक शाखा है जो 100 नैनोमीटर से कम के आयामों और सहनशीलताओं पर काम करती है, विशेष रूप से व्यक्तिगत परमाणुओं और अणुओं के हेरफेर के ऊपर?",
@@ -890,7 +931,8 @@
             "examName": "RRB NTPC Tier I : 22 Apr 2016 Shift 2",
             "examYear": "2016",
             "type": "standard",
-            "id": "q_genetics_and_dna_59"
+            "id": "q_genetics_and_dna_59",
+            "correct_option": 2
         },
         {
             "question": "लक्षण किसके द्वारा प्रभावित हो सकते हैं?",
@@ -920,7 +962,8 @@
             "examName": "RPF SI Previous Paper : 5 Jan 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_genetics_and_dna_61"
+            "id": "q_genetics_and_dna_61",
+            "correct_option": 1
         },
         {
             "question": "मानव नर जनन कोशिका में गुणसूत्रों की संख्या कितनी होती है?",
@@ -935,7 +978,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_genetics_and_dna_62"
+            "id": "q_genetics_and_dna_62",
+            "correct_option": 1
         },
         {
             "question": "कौन-सी फसल किस्म सुधार विधि में वांछनीय गुणों वाले जनक का चयन करना और उनका संकरण करना शामिल है?",
@@ -980,7 +1024,8 @@
             "examName": "RRB Group D 27 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_genetics_and_dna_65"
+            "id": "q_genetics_and_dna_65",
+            "correct_option": 2
         },
         {
             "question": "कार्यात्मक संतति कोशिकाओं के निर्माण को सुनिश्चित करने के लिए DNA प्रतिलिपीयन के साथ कौन-सी प्रक्रिया होनी चाहिए?",
@@ -995,7 +1040,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_66"
+            "id": "q_genetics_and_dna_66",
+            "correct_option": 3
         },
         {
             "question": "जीन के विभिन्न रूपों का वर्णन करने के लिए किस शब्द का प्रयोग किया जाता है?",
@@ -1055,7 +1101,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_genetics_and_dna_70"
+            "id": "q_genetics_and_dna_70",
+            "correct_option": 1
         },
         {
             "question": "आनुवंशिक जानकारी अणुओं की लंबी श्रृंखलाओं द्वारा ले जाया जाता है। इन अणुओं को क्या कहा जाता है?",
@@ -1070,7 +1117,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_genetics_and_dna_71"
+            "id": "q_genetics_and_dna_71",
+            "correct_option": 3
         },
         {
             "question": "मानव में लिंग गुणसूत्रों की वंशानुगतता के संदर्भ में, निम्नलिखित में से कौन सा कथन सही है? गुणसूत्र द्वारा निर्धारित होता है। गुणसूत्र द्वारा निर्धारित होता है। गुणसूत्र द्वारा निर्धारित होता है। गुणसूत्र द्वारा निर्धारित होता है।",
@@ -1085,7 +1133,8 @@
             "examName": "RPF Constable 2024 : 10 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_genetics_and_dna_72"
+            "id": "q_genetics_and_dna_72",
+            "correct_option": 1
         },
         {
             "question": "वह प्राथमिक तंत्र क्या है जिसके माध्यम से लैंगिक प्रजनन संततियों में आनुवंशिक विविधता उत्पन्न करता है? अशुद्धियां की वितरण",
@@ -1100,7 +1149,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_73"
+            "id": "q_genetics_and_dna_73",
+            "correct_option": 2
         },
         {
             "question": "नीचे जीन की कुछ विशेषताओं का उल्लेख किया गया है। कौन सा विकल्प जीन की गलत विशेषता बताता है?",
@@ -1130,7 +1180,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_75"
+            "id": "q_genetics_and_dna_75",
+            "correct_option": 1
         },
         {
             "question": "जीन निक्षेपण का पहला चरण क्या है, जिसमें एंजाइम आरएनए पॉलीमरेज़ को आरएनए (विशेष रूप से एमआरेने) में डीएनए के किसी विशेष खंड में कॉपी किया जाता है?",
@@ -1145,7 +1196,8 @@
             "examName": "RPF Constable 2018 18 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_genetics_and_dna_76"
+            "id": "q_genetics_and_dna_76",
+            "correct_option": 3
         },
         {
             "question": "चिकनी अंतःप्रद्रव्यी जालिका (SER) ___________ के निर्माण में सहायक होती है।",
@@ -1160,7 +1212,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_genetics_and_dna_77"
+            "id": "q_genetics_and_dna_77",
+            "correct_option": 1
         },
         {
             "question": "एक लंबे पौधे (TT) और एक छोटे पौधे (tt) के बीच संकरण से F₁ संतति प्राप्त हुई जो सभी लंबे पौधे थे, क्योंकि:",
@@ -1175,7 +1228,8 @@
             "examName": "RRB Group D 30 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_genetics_and_dna_78"
+            "id": "q_genetics_and_dna_78",
+            "correct_option": 2
         },
         {
             "question": "आनुवंशिकी में पनेट वग (Punnett square) का उद्देश्य क्या है?",
@@ -1190,7 +1244,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 17/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_genetics_and_dna_79"
+            "id": "q_genetics_and_dna_79",
+            "correct_option": 1
         },
         {
             "question": "देशी और विदेशी कुक्कुट (Poultry) नस्लों के बीच संकरण कार्यक्रम क्यों चलाए जाते हैं?",
@@ -1205,7 +1260,8 @@
             "examName": "RRB JE 19/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_genetics_and_dna_80"
+            "id": "q_genetics_and_dna_80",
+            "correct_option": 2
         },
         {
             "question": "आनुवंशिक अभियांत्रिकी के लिए अन्य शब्द क्या है?",
@@ -1220,7 +1276,8 @@
             "examName": "RRB NTPC Tier I : 22 Apr 2016 Shift 2",
             "examYear": "2016",
             "type": "standard",
-            "id": "q_genetics_and_dna_81"
+            "id": "q_genetics_and_dna_81",
+            "correct_option": 2
         },
         {
             "question": "एक मेंडेलियन परीक्षण में, बैंगनी पुष्पों के साथ मटर के लंबे पौधों और श्वेत पुष्पों के साथ छोटे पौधों का प्रयोग प्रजनन हेतु किया गया। इनकी संतति के सभी पुष्प का रंग बैंगनी था परंतु लगभग आधे पौधों का कद छोटा था। इससे यह पता चलता है कि लंबे पौधे के आनुवंशिक संघटन को ________ रूप में दशाया जा सकता है।",
@@ -1250,7 +1307,8 @@
             "examName": "RPF SI CBT-I 2024 : 03 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_genetics_and_dna_83"
+            "id": "q_genetics_and_dna_83",
+            "correct_option": 1
         },
         {
             "question": "सजीवों में रासायनिक बंधों के रूप में ऊर्जा के भण्डार पाए जाते हैं, ऊर्जा के इन रसायनों को कहते हैं -",
@@ -1265,7 +1323,8 @@
             "examName": "RPF SI 2018 : 16 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_genetics_and_dna_84"
+            "id": "q_genetics_and_dna_84",
+            "correct_option": 2
         },
         {
             "question": "किसी जीव में प्रत्येक लक्षण किसके द्वारा प्रभावित होता है?",
@@ -1280,7 +1339,8 @@
             "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_genetics_and_dna_85"
+            "id": "q_genetics_and_dna_85",
+            "correct_option": 1
         },
         {
             "question": "बच्चों का लिंग यह निर्धारित करेगा कि उन्हें क्या वंशानेक्रम में मिला है:",
@@ -1295,7 +1355,8 @@
             "examName": "RRB Group D 25/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_genetics_and_dna_86"
+            "id": "q_genetics_and_dna_86",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा हरितलवक और माइटोकॉन्ड्रियारियल डीएनए (Mitochondrial DNA) रिया (Mitochondria) के बीच समानता को निरूपित करता है?",
@@ -1310,7 +1371,8 @@
             "examName": "RRB Level 01 Stage I 10/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_genetics_and_dna_87"
+            "id": "q_genetics_and_dna_87",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस विधि में पुनः संयोजक DNA को सीधे जन्तु कोशिकाओं के नाभिक में प्रविष्ट कराया जाता है? य",
@@ -1325,7 +1387,8 @@
             "examName": "RPF SI 2018 : 16 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_genetics_and_dna_88"
+            "id": "q_genetics_and_dna_88",
+            "correct_option": 1
         },
         {
             "question": "एक पीढ़ी से दूसरी पीढ़ी तक विरासत में मिलने वाली आनुवंशिक सामग्री क्या है?",
@@ -1340,7 +1403,8 @@
             "examName": "RRB Group D 30 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_genetics_and_dna_89"
+            "id": "q_genetics_and_dna_89",
+            "correct_option": 2
         },
         {
             "question": "वंशानुगत इकाइयाँ, जिन्हें मेंडल ने' कारक' कहा था, अब क्या कहलाती हैं?",
@@ -1355,7 +1419,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_genetics_and_dna_90"
+            "id": "q_genetics_and_dna_90",
+            "correct_option": 2
         },
         {
             "question": "अगर युग्मज में ________ संयोजन होता है तो बच्चा एक पुरुष होगा।",
@@ -1370,7 +1435,8 @@
             "examName": "RRB Group D 17 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_genetics_and_dna_91"
+            "id": "q_genetics_and_dna_91",
+            "correct_option": 2
         },
         {
             "question": "भारत में डी. एन. ए. फिंगरप्रिटिंग के पिता के रूप में किसे जाना जाता है?",
@@ -1385,7 +1451,8 @@
             "examName": "RRB Group D 11 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_genetics_and_dna_92"
+            "id": "q_genetics_and_dna_92",
+            "correct_option": 3
         },
         {
             "question": "A रक्त समूह वाले एक व्यक्ति ने B रक्त समूह वाली महिला से विवाह किया, उनका AB रक्त समूह वाला बच्चा हुआ। आनुवंशिकी के संदर्भ में इसका क्या अर्थ है?",
@@ -1400,7 +1467,8 @@
             "examName": "RRB Group D 27 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_genetics_and_dna_93"
+            "id": "q_genetics_and_dna_93",
+            "correct_option": 3
         },
         {
             "question": "एक ही जनक (parents) के दो बच्चे एक दूसरे के समरूप होते हैं परंतु बिल्कुल एक जैसे नहीं होते क्योंकि ___________ ।",
@@ -1430,7 +1498,8 @@
             "examName": "RRB NTPC CBT-I : 1 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_genetics_and_dna_95"
+            "id": "q_genetics_and_dna_95",
+            "correct_option": 3
         },
         {
             "question": "पादप संख्या में विभिन्नता उत्पन्न करने में, लैंगिक जनन का क्या महत्व है?",
@@ -1445,7 +1514,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_genetics_and_dna_96"
+            "id": "q_genetics_and_dna_96",
+            "correct_option": 3
         },
         {
             "question": "जीव विज्ञान की कौन सी शाखा वंशागति प्रतिरूप के अध्ययन पर केंद्रित है?",
@@ -1460,7 +1530,8 @@
             "examName": "RRB Group D 23 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_genetics_and_dna_97"
+            "id": "q_genetics_and_dna_97",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा शब्द डीएनए अनुक्रम में परिवर्तन का वर्णन करता है जिसके परिणामस्वरूप जीव के जीनोटाइप और फेनोटाइप में परिवर्तन होता है?",
@@ -1475,7 +1546,8 @@
             "examName": "RRB NTPC UG CBT-I : 02 Sept, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_genetics_and_dna_98"
+            "id": "q_genetics_and_dna_98",
+            "correct_option": 1
         },
         {
             "question": "जब मेंडल ने मटर के पौधे में दो लक्षणों के वंशानुगत को अध्ययन किया, तो F₂ पीढ़ी में पौधों के लिए उसे किस फेनोटाइपिक अनुपात में मिला?",
@@ -1505,7 +1577,8 @@
             "examName": "RRB ALP CBT-I 2024 : 27 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_genetics_and_dna_100"
+            "id": "q_genetics_and_dna_100",
+            "correct_option": 2
         },
         {
             "question": "समाचारों में अक्सर देखे जाने वाले पुनर्योगज प्रोटीन _____ होते हैं।",
@@ -1520,7 +1593,8 @@
             "examName": "RPF Constable 2024 05 Mar, 2025 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_genetics_and_dna_101"
+            "id": "q_genetics_and_dna_101",
+            "correct_option": 1
         },
         {
             "question": "जैविक विविधता का मूल स्रोत ________ है।",
@@ -1550,7 +1624,8 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_genetics_and_dna_103"
+            "id": "q_genetics_and_dna_103",
+            "correct_option": 1
         },
         {
             "question": "जीवों में प्रोटीन बनाने के लिए सूचना का स्रोत क्या है?",
@@ -1565,7 +1640,8 @@
             "examName": "RRB Group D 6 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_genetics_and_dna_104"
+            "id": "q_genetics_and_dna_104",
+            "correct_option": 3
         },
         {
             "question": "बच्चे का लिंग कौन निर्धारित करता है?",
@@ -1580,7 +1656,8 @@
             "examName": "RRB JE 23 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_genetics_and_dna_105"
+            "id": "q_genetics_and_dna_105",
+            "correct_option": 3
         },
         {
             "question": "______ लिंग निर्धारण के लिए उत्तरदायी होते हैं।",
@@ -1610,7 +1687,8 @@
             "examName": "RRB Group D 24/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_genetics_and_dna_107"
+            "id": "q_genetics_and_dna_107",
+            "correct_option": 3
         },
         {
             "question": "मेंडल के प्रयोग में, जब F₁ पीढ़ी के पादप को स्वपरागित किया गया था, तब जीन प्ररूप का अनुपात क्या था?",
@@ -1625,7 +1703,8 @@
             "examName": "RRB Group D 2 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_genetics_and_dna_108"
+            "id": "q_genetics_and_dna_108",
+            "correct_option": 1
         },
         {
             "question": "मेंडल के स्वतंत्र अपव्यूहन के नियम किस आधार पर था, जहाँ पैतृक मटर के पौधों में कितने लक्षणों में अंतर था?",
@@ -1645,7 +1724,7 @@
         {
             "question": "जीन के विभिन्न रूपों को क्या कहा जाता है?",
             "options": [
-                "गुणसूत्र",
+                "युग्म विकल्पी (अलील)",
                 "जीनोटाइप",
                 "फीनोटाइप",
                 "उपरोक्त में से कोई नहीं"
@@ -1670,7 +1749,8 @@
             "examName": "RRB Group D 24/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_genetics_and_dna_111"
+            "id": "q_genetics_and_dna_111",
+            "correct_option": 1
         },
         {
             "question": "एक अनिषेचित मानव अंडाणु में ________ होता है।",
@@ -1685,7 +1765,8 @@
             "examName": "RRB Group D 1/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_genetics_and_dna_112"
+            "id": "q_genetics_and_dna_112",
+            "correct_option": 2
         },
         {
             "question": "आधुनिक आनुवंशिकी के' जनक' के रूप में किसे जाना जाता है?",
@@ -1700,7 +1781,8 @@
             "examName": "RRB NTPC CBT-I : 14 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_genetics_and_dna_113"
+            "id": "q_genetics_and_dna_113",
+            "correct_option": 3
         },
         {
             "question": "प्रोटीन संश्लेषण में मुख्य घटना ____ का निर्माण है।",
@@ -1715,7 +1797,8 @@
             "examName": "RRB Group D 19/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_genetics_and_dna_114"
+            "id": "q_genetics_and_dna_114",
+            "correct_option": 2
         },
         {
             "question": "मानव कोशिकाओं के नाभिक में ________ गुणसूत्र पाए जाते हैं?",
@@ -1730,7 +1813,8 @@
             "examName": "RPF Constable 2018 24 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_genetics_and_dna_115"
+            "id": "q_genetics_and_dna_115",
+            "correct_option": 3
         },
         {
             "question": "RNA का अर्थ क्या है?",
@@ -1775,7 +1859,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_genetics_and_dna_118"
+            "id": "q_genetics_and_dna_118",
+            "correct_option": 2
         },
         {
             "question": "DNA अणु, कोशिका के शेष भाग से संचार (communicate) करने के लिए जिस मध्यवर्ती का उपयोग करता है, वह निम्नलिखित में से कौन-सा है?",
@@ -1790,7 +1875,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 18/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_genetics_and_dna_119"
+            "id": "q_genetics_and_dna_119",
+            "correct_option": 2
         },
         {
             "question": "ब्यूटेन (C₄H₁₀) दो अलग-अलग रूपों में पाया जाता है: एक सीधी श्रृंखला वाला और दूसरा शाखित श्रृंखला वाला। इस परिघटना को क्या कहते हैं?",
@@ -1820,7 +1906,8 @@
             "examName": "RPF Constable 2018 18 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_genetics_and_dna_121"
+            "id": "q_genetics_and_dna_121",
+            "correct_option": 1
         }
     ]
 }

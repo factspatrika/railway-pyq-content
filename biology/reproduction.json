@@ -16,7 +16,8 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_reproduction_1"
+            "id": "q_reproduction_1",
+            "correct_option": 3
         },
         {
             "question": "पुष्पीय पौधों में लैंगिक प्रजनन से संबंधित सही कथन का चयन करें। गुजरती हुई अंडाशय तक पहुँचती हैं।",
@@ -31,7 +32,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_2"
+            "id": "q_reproduction_2",
+            "correct_option": 1
         },
         {
             "question": "लार्वा (Larva) का उग्र-परिवर्तनों द्वारा वयस्क मेंढक में बदलने की प्रक्रिया क्या कहलाती है?",
@@ -76,7 +78,8 @@
             "examName": "RRB JE CBT I - : 31 May 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_reproduction_5"
+            "id": "q_reproduction_5",
+            "correct_option": 2
         },
         {
             "question": "निषेचन के लिए कौन सा प्रजनन अंग आवश्यक है?",
@@ -91,7 +94,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_6"
+            "id": "q_reproduction_6",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सी प्रक्रिया, अर्धसूत्री (Meiotic) (meiotic) कोशिका विभाजन के सबसे विशिष्ट उद्देश्य का निरूपण करती है?",
@@ -121,7 +125,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 19 Jun, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_8"
+            "id": "q_reproduction_8",
+            "correct_option": 1
         },
         {
             "question": "________ को द्विलिंगी फूल के रूप में जाना जाता है।",
@@ -136,7 +141,8 @@
             "examName": "RRB Group D 24/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_9"
+            "id": "q_reproduction_9",
+            "correct_option": 3
         },
         {
             "question": "भ्रूण की किस अवस्था में शरीर के सभी अंगों की पहचान की जा सकती है?",
@@ -151,7 +157,8 @@
             "examName": "RPF Constable 2018 08 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_10"
+            "id": "q_reproduction_10",
+            "correct_option": 3
         },
         {
             "question": "भ्रूण विकास की वह अवस्था जिसमें बच्चे के सभी अंगों की पहचान की जा सकती है, कौन-सी है?",
@@ -166,7 +173,8 @@
             "examName": "RPF Constable 2018 12 Feb 2019 shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_11"
+            "id": "q_reproduction_11",
+            "correct_option": 1
         },
         {
             "question": "सही कथन का चयन करें। अंडे होते हैं।",
@@ -196,7 +204,8 @@
             "examName": "RRB Group D 17 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_13"
+            "id": "q_reproduction_13",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा परिवर्तन किशोरावस्था में प्रवेश करने वाले बच्चों (लड़के और लड़कियाँ) में देखा जाने वाला परिवर्तन नहीं है?",
@@ -211,7 +220,8 @@
             "examName": "RRB Group D 28 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_14"
+            "id": "q_reproduction_14",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सी चीज एक महिला को परिवार नियोजन शुरू करने में मदद नहीं करेगी?",
@@ -241,7 +251,8 @@
             "examName": "RRB Group D 17 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_16"
+            "id": "q_reproduction_16",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सी घटना, रजोधम (menstruation) की प्रक्रिया को प्रत्यक्ष रूप से ट्रिगर करती है?",
@@ -256,7 +267,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_17"
+            "id": "q_reproduction_17",
+            "correct_option": 2
         },
         {
             "question": "किसी पुष्प के मादा जनन भाग के मध्य दीर्घित भाग को क्या कहा जाता है?",
@@ -286,7 +298,8 @@
             "examName": "RRB Group D 7/10/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_19"
+            "id": "q_reproduction_19",
+            "correct_option": 2
         },
         {
             "question": "गलत कथन का चयन करें:",
@@ -301,7 +314,8 @@
             "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_20"
+            "id": "q_reproduction_20",
+            "correct_option": 1
         },
         {
             "question": "नर तथा मादा युग्मक के संलयन से आरंभ होने वाले जनन को क्या कहा जाता है?",
@@ -331,7 +345,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_22"
+            "id": "q_reproduction_22",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किसे गतिशील जनन कोशिका कहा जाता है?",
@@ -346,7 +361,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_23"
+            "id": "q_reproduction_23",
+            "correct_option": 3
         },
         {
             "question": "अंडाशय से एक अंडाणु निकलने की प्रक्रिया को ________ कहा जाता है।",
@@ -361,7 +377,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_24"
+            "id": "q_reproduction_24",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प अलैंगिक जनन की विधि के रूप में खंडन (fragmentation) का सर्वोत्तम रूप से वर्णन करता है? हैं। है।",
@@ -376,7 +393,8 @@
             "examName": "RRB Level 01 Stage I 08/01/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_25"
+            "id": "q_reproduction_25",
+            "correct_option": 3
         },
         {
             "question": "वह विशेष ऊतक जिसके माध्यम से भ्रूण को पोषण प्राप्त होता है, उसे निम्नलिखित में से क्या कहा जाता है?",
@@ -406,7 +424,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_27"
+            "id": "q_reproduction_27",
+            "correct_option": 2
         },
         {
             "question": "लूप गर्भनिरोधक के रूप में कैसे कार्य करता है?",
@@ -421,7 +440,8 @@
             "examName": "RRB Group D 30 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_28"
+            "id": "q_reproduction_28",
+            "correct_option": 3
         },
         {
             "question": "किशोरावस्था के दौरान मानव शरीर में कई परिवर्तन होते हैं। निम्नलिखित में से कौन-सा परिवर्तन केवल लड़कियों में यौन परिपक्वता से संबंधित है?",
@@ -436,7 +456,8 @@
             "examName": "RRB Group D 17 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_29"
+            "id": "q_reproduction_29",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित विकल्पों में से कौन-सा, कार्यिक प्रवर्धन का एक लाभ है?",
@@ -451,7 +472,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_30"
+            "id": "q_reproduction_30",
+            "correct_option": 1
         },
         {
             "question": "सामान्य परिस्थितियों में मानव महिला शरीर में निषेचन के बाद भ्रूण को कहां रोपित किया जाता है?",
@@ -466,7 +488,8 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_31"
+            "id": "q_reproduction_31",
+            "correct_option": 2
         },
         {
             "question": "पौधों में निषेचन के बारे में निम्नलिखित में से कौन सा कथन सही है? साथ जुड़ती है। जुड़ती है। जुड़ती है। जुड़ती है।",
@@ -481,7 +504,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_32"
+            "id": "q_reproduction_32",
+            "correct_option": 2
         },
         {
             "question": "पुरुष प्रजनन तंत्र के संबंध में निम्नलिखित में से कौन सा कथन सही है? होती है।",
@@ -496,7 +520,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_33"
+            "id": "q_reproduction_33",
+            "correct_option": 2
         },
         {
             "question": "जब परागकण वर्तिकाग्र पर पहुँचता है, तो सबसे पहले क्या होता है?",
@@ -511,7 +536,8 @@
             "examName": "RRB Group D 20 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_34"
+            "id": "q_reproduction_34",
+            "correct_option": 1
         },
         {
             "question": "महिलाओं के शरीर में मुखीय गर्भनिरोधक गोलियों का क्या प्रभाव होता है?",
@@ -526,7 +552,8 @@
             "examName": "RRB Level 01 Stage I 19/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_35"
+            "id": "q_reproduction_35",
+            "correct_option": 1
         },
         {
             "question": "अंडे को अंडाशय से गभाशय तक किसके द्वारा ले जाया जाता है?",
@@ -556,7 +583,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_37"
+            "id": "q_reproduction_37",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा गर्भनिरोधक उपकरण/तरीका एड्स जैसे यौन संचारित रोगों (STD) को फैलने से रोकता है?",
@@ -601,7 +629,8 @@
             "examName": "RRB Group D 11/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_40"
+            "id": "q_reproduction_40",
+            "correct_option": 1
         },
         {
             "question": "अधिकांश कोशिकाएँ वृद्धि के लिए विभाजित होती हैं। कोशिकाओं के विभाजन की इस प्रक्रिया को ______ कहा जाता है।",
@@ -631,7 +660,8 @@
             "examName": "RRB Level 01 Stage I 26/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_42"
+            "id": "q_reproduction_42",
+            "correct_option": 1
         },
         {
             "question": "जीवों में लैंगिक जनन के संबंध में सही विशेषता का चयन कीजिए।",
@@ -646,7 +676,8 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_43"
+            "id": "q_reproduction_43",
+            "correct_option": 2
         },
         {
             "question": "पुष्पी पादपों में प्रजनन के संबंध में निम्नलिखित में से कौन-सा कथन असत्य है? हो सकता है।",
@@ -661,7 +692,8 @@
             "examName": "RRB Group D 29 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_44"
+            "id": "q_reproduction_44",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन, अलैंगिक प्रजनन की विशेषता दर्शाता है?",
@@ -676,7 +708,8 @@
             "examName": "RRB Level 01 Stage I 08/01/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_45"
+            "id": "q_reproduction_45",
+            "correct_option": 2
         },
         {
             "question": "ऋतुस्राव के दौरान क्या होता है?",
@@ -691,7 +724,8 @@
             "examName": "RRB Group D 19 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_46"
+            "id": "q_reproduction_46",
+            "correct_option": 1
         },
         {
             "question": "यदि अंडा, शुक्राणु से निषेचित नहीं होता है, तो निम्नलिखित में से कौन-सा कथन सही है?",
@@ -706,7 +740,8 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_47"
+            "id": "q_reproduction_47",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा शब्द किसी पौधे की वृद्धि द्वारा अपने खोए हुए भागों को पुनः प्राप्त करने की क्षमता का वर्णन करने के लिए प्रयोग किया जाता है?",
@@ -721,7 +756,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_48"
+            "id": "q_reproduction_48",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा पुनर्जनन के साथ-साथ मुकुलन द्वारा उत्पन्न हो सकता है?",
@@ -751,7 +787,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_50"
+            "id": "q_reproduction_50",
+            "correct_option": 3
         },
         {
             "question": "जीवों के दीर्घकालिक अस्तित्व में ______ महत्वपूर्ण भूमिका निभाता है।",
@@ -766,7 +803,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_reproduction_51"
+            "id": "q_reproduction_51",
+            "correct_option": 3
         },
         {
             "question": "स्व-परागण की तुलना में पर-परागण का प्राथमिक लाभ क्या है? जाती है।",
@@ -781,7 +819,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_52"
+            "id": "q_reproduction_52",
+            "correct_option": 3
         },
         {
             "question": "शुक्राणु कहाँ उत्पन्न होते हैं?",
@@ -811,12 +850,13 @@
             "examName": "RRB Group D 12 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_54"
+            "id": "q_reproduction_54",
+            "correct_option": 3
         },
         {
             "question": "नर जनन तंत्र के उस अंग की पहचान कीजिए जो शुक्राणु और मूत्र दोनों के लिए एकल माग का निर्माण करता है।",
             "options": [
-                "गभाशय",
+                "मूत्रमार्ग",
                 "शुक्रवाहिका",
                 "वीयकोष",
                 "मूत्रमाग"
@@ -841,7 +881,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_56"
+            "id": "q_reproduction_56",
+            "correct_option": 3
         },
         {
             "question": "कार्यिक प्रवर्धन के माध्यम से विकसित नहीं होने वाला पौधा ________ है।",
@@ -856,7 +897,8 @@
             "examName": "RRB Group D 20 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_57"
+            "id": "q_reproduction_57",
+            "correct_option": 1
         },
         {
             "question": "किस प्रक्रिया में बहुकोशिकीय जीव परिपक्व होने पर छोटे-छोटे टुकड़ों में टूट जाते हैं?",
@@ -916,7 +958,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_61"
+            "id": "q_reproduction_61",
+            "correct_option": 2
         },
         {
             "question": "पुष्प में स्त्रीकेसर के शीष भाग को क्या कहा जाता है?",
@@ -946,7 +989,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_63"
+            "id": "q_reproduction_63",
+            "correct_option": 2
         },
         {
             "question": "एक पुष्प से परागकणों का दूसरे पुष्प के वर्तिकाग्र तक अंतरण की प्रक्रिया क्या कहलाती है?",
@@ -961,7 +1005,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_64"
+            "id": "q_reproduction_64",
+            "correct_option": 1
         },
         {
             "question": "मानव में, जब X गुणसूत्र युक्त शुक्राणु अंडे को निषेचित करता है, तो युग्मज ________ के रूप में विकसित होता है।",
@@ -991,13 +1036,14 @@
             "examName": "RRB Group D 3/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_66"
+            "id": "q_reproduction_66",
+            "correct_option": 2
         },
         {
             "question": "राइजोपस के निम्नलिखित चित्र में कार्यिक भाग और प्रजनन भाग की पहचान कीजिए।",
             "options": [
                 "और b दोनों कार्यिक भाग हैं।",
-                "प्रजनन भाग है, जबकि b कार्यिक भाग है।",
+                "a प्रजनन भाग है, जबकि b कार्यिक भाग है।",
                 "और b दोनों प्रजनन अंग हैं।",
                 "कार्यिक भाग है, जबकि b प्रजनन भाग है।"
             ],
@@ -1006,7 +1052,8 @@
             "examName": "RRB Group D 6 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_67"
+            "id": "q_reproduction_67",
+            "correct_option": 1
         },
         {
             "question": "______बडिंग द्वारा प्रजनन कर सकते हैं।",
@@ -1036,7 +1083,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_69"
+            "id": "q_reproduction_69",
+            "correct_option": 2
         },
         {
             "question": "पुष्पीय पौधों में कार्यिक प्रवर्धन का निम्नलिखित में से कौन-सा लाभ है?",
@@ -1051,7 +1099,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_70"
+            "id": "q_reproduction_70",
+            "correct_option": 1
         },
         {
             "question": "जब दो व्यक्तियों की दो जनन कोशिकाएं यौन प्रजनन के दौरान संयोजित होती हैं, तो वे ______ बनाती हैं।",
@@ -1066,7 +1115,8 @@
             "examName": "RRB Group D 19/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_71"
+            "id": "q_reproduction_71",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन तेजी से बढ़ता है और फल बनाने के लिए पकता है?",
@@ -1081,7 +1131,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_72"
+            "id": "q_reproduction_72",
+            "correct_option": 3
         },
         {
             "question": "मादा प्रजनन तंत्र के किस भाग से होकर अंडा अंडाशय से गभाशय तक जाता है?",
@@ -1096,7 +1147,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_73"
+            "id": "q_reproduction_73",
+            "correct_option": 2
         },
         {
             "question": "_______ में मांसपेशियों के लयबद्ध संकुचन के परिणामस्वरूप बच्चा पैदा होता है।",
@@ -1111,7 +1163,8 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_74"
+            "id": "q_reproduction_74",
+            "correct_option": 2
         },
         {
             "question": "मानव पुरुष जनन तंत्र में प्रोस्टेट ग्रंथि और शुक्राशय (seminal vesicles) की क्या भूमिका है?",
@@ -1126,7 +1179,8 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_75"
+            "id": "q_reproduction_75",
+            "correct_option": 2
         },
         {
             "question": "निम्न में से किस प्रकार के प्रजनन के दौरान पूरी तरह से परिपक्व छोटे जीव मूल शरीर से अलग हो जाते हैं और नए स्वतंत्र जीव बन जाते हैं?",
@@ -1141,7 +1195,8 @@
             "examName": "RRB Group D 3/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_76"
+            "id": "q_reproduction_76",
+            "correct_option": 2
         },
         {
             "question": "मध्यवर्ती पट्टिका पर कोशिका के केंद्र में गुणसूत्रों का संरेखण समसूत्रण की किस अवस्था का निर्माण करता है?",
@@ -1156,7 +1211,8 @@
             "examName": "RRB NTPC CBT-I : 19 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_reproduction_77"
+            "id": "q_reproduction_77",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा पशु प्रजनन से संबंधित गलत विशेषता है?",
@@ -1171,7 +1227,8 @@
             "examName": "RRB Group D 24 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_78"
+            "id": "q_reproduction_78",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन पर-परागण को सही ढंग से परिभाषित करता है?",
@@ -1186,7 +1243,8 @@
             "examName": "RRB Level 01 Stage I 15/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_79"
+            "id": "q_reproduction_79",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन बीजाणु निर्माण द्वारा प्रजनन करता है?",
@@ -1201,7 +1259,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_80"
+            "id": "q_reproduction_80",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा महिला प्रजनन तंत्र का एक हिस्सा नहीं है?",
@@ -1216,7 +1275,8 @@
             "examName": "RRB Group D 26/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_81"
+            "id": "q_reproduction_81",
+            "correct_option": 3
         },
         {
             "question": "प्रजनन के दौरान DNA प्रतिकृतियों में लघु परिवर्तन महत्वपूर्ण होते हैं, क्योंकि वे ________ ।",
@@ -1231,7 +1291,8 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_reproduction_82"
+            "id": "q_reproduction_82",
+            "correct_option": 3
         },
         {
             "question": "एक लिंगीय पुष्प की पहचान कीजिए।",
@@ -1246,7 +1307,8 @@
             "examName": "RRB Group D 22/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_83"
+            "id": "q_reproduction_83",
+            "correct_option": 1
         },
         {
             "question": "परिपक्व शुक्राणु कहाँ उत्पन्न होते हैं?",
@@ -1261,7 +1323,8 @@
             "examName": "RRB Group D 27/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_84"
+            "id": "q_reproduction_84",
+            "correct_option": 3
         },
         {
             "question": "अलैंगिक प्रजनन के संबंध में निम्नलिखित में से कौन-सा कथन गलत है? हैं।",
@@ -1306,7 +1369,8 @@
             "examName": "RRB Level 01 Stage I 10/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_87"
+            "id": "q_reproduction_87",
+            "correct_option": 2
         },
         {
             "question": "अलैंगिक जनन, लैंगिक जनन से भिन्न होता है। निम्नलिखित में से कौन-सा विकल्प, अलैंगिक जनन को निरूपित नहीं करता है?",
@@ -1336,7 +1400,8 @@
             "examName": "RRB Group D 24/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_89"
+            "id": "q_reproduction_89",
+            "correct_option": 1
         },
         {
             "question": "माँ से भ्रूण को पोषक तत्व किसके माध्यम से मिलते हैं?",
@@ -1351,7 +1416,8 @@
             "examName": "RRB Group D 22 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_90"
+            "id": "q_reproduction_90",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा, T- आकृति का अंतगभाशय गर्भनिरोधक उपकरण है, जो दीर्घकालिक (बहु-वर्षीय) गभ निरोध प्रदान करता है?",
@@ -1381,7 +1447,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_92"
+            "id": "q_reproduction_92",
+            "correct_option": 3
         },
         {
             "question": "निषेचन के बाद, बीजांड के अंदर युग्मनज के कई बार विभाजित होने पर निम्नलिखित में से क्या बनता है?",
@@ -1411,7 +1478,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_94"
+            "id": "q_reproduction_94",
+            "correct_option": 1
         },
         {
             "question": "कौन सा विकल्प सही ढंग से उस पथ को दर्शाता है जो शुक्राणु मानव पुरुष प्रजनन प्रणाली से निकलने पर अपनाते हैं?",
@@ -1471,7 +1539,8 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_98"
+            "id": "q_reproduction_98",
+            "correct_option": 3
         },
         {
             "question": "दिए गए विकल्पों में से, अलैंगिक जनन की कौन-सी विधि जनक पादप (parent plant) के खंडित हिस्से से एक नए पादप का निर्माण करती है?",
@@ -1531,7 +1600,8 @@
             "examName": "RRB Group D 22/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_102"
+            "id": "q_reproduction_102",
+            "correct_option": 3
         },
         {
             "question": "पादपों में लैंगिक जनन के संदर्भ में निम्नलिखित में से कौन-सा कथन सही नहीं है? जाता है।",
@@ -1576,7 +1646,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_105"
+            "id": "q_reproduction_105",
+            "correct_option": 1
         },
         {
             "question": "कौन सी एक गर्भनिरोधक तकनीक गभाशय के भीतर शुक्राणुओं की भक्षकाणु क्रिया को बढ़ाती है?",
@@ -1606,7 +1677,8 @@
             "examName": "RRB Group D 28 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_107"
+            "id": "q_reproduction_107",
+            "correct_option": 3
         },
         {
             "question": "सही कथन का चयन करें।",
@@ -1636,7 +1708,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_reproduction_109"
+            "id": "q_reproduction_109",
+            "correct_option": 1
         },
         {
             "question": "निषेचन के बाद, निम्नलिखित में से कौन एक मोटा आवरण विकसित करता है, धीरे-धीरे बीज में परिवर्तित हो जाता है और युग्मनज इसके भीतर एक भ्रूण बनाने के लिए कई बार विभाजित होता है?",
@@ -1786,7 +1859,8 @@
             "examName": "RRB Group D 5 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_reproduction_119"
+            "id": "q_reproduction_119",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी गर्भनिरोधक युक्ति सगभता की रोकथाम के लिए गभाशय में स्थापित की जाती है?",
@@ -1801,7 +1875,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_120"
+            "id": "q_reproduction_120",
+            "correct_option": 2
         },
         {
             "question": "किसी एक डीएनए में से आरएनए पर आनुवंशिक जानकारी की प्रतिलिपि बनाने की प्रक्रिया को _____________ कहा जाता है।",
@@ -1831,7 +1906,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_122"
+            "id": "q_reproduction_122",
+            "correct_option": 3
         },
         {
             "question": "नर जनन तंत्र में, शुक्राणु का निर्माण कहाँ होता है?",
@@ -1861,7 +1937,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_124"
+            "id": "q_reproduction_124",
+            "correct_option": 3
         },
         {
             "question": "जटिल शारीरिक संरचना वाले ऐसे जंतु जो लैंगिग जनन करते हैं उनकी जनन कोशिकाओं में कौन-सी विशिष्टताएँ पाई जाती हैं?",
@@ -1876,7 +1953,8 @@
             "examName": "RRB Group D 1 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_125"
+            "id": "q_reproduction_125",
+            "correct_option": 1
         },
         {
             "question": "जीवों की आबादी में विविधता मुख्यतः क्यों महत्वपूर्ण है?",
@@ -1891,7 +1969,8 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_126"
+            "id": "q_reproduction_126",
+            "correct_option": 1
         },
         {
             "question": "दी गई व्याख्या के साथ प्रक्रिया को पहचानें। बीज में भविष्य का पौधा या भ्रूण होता है जो उपयुक्त परिस्थितियों में एक अंकुर में विकसित होता है।",
@@ -1906,7 +1985,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_127"
+            "id": "q_reproduction_127",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस मामले में गभधारण की संभावना सबसे कम है?",
@@ -1921,7 +2001,8 @@
             "examName": "RRB Level 01 Stage I 08/01/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_128"
+            "id": "q_reproduction_128",
+            "correct_option": 3
         },
         {
             "question": "अमीबा जैसे जीवों में प्रजनन की अलैंगिक विधि निम्नलिखित में से कौन-सी है?",
@@ -1966,7 +2047,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_131"
+            "id": "q_reproduction_131",
+            "correct_option": 1
         },
         {
             "question": "पादपों में निषेचन के बाद, बीजांड किसमे परिवर्तित हो जाता है?",
@@ -2011,7 +2093,8 @@
             "examName": "RRB Group D 12 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_134"
+            "id": "q_reproduction_134",
+            "correct_option": 1
         },
         {
             "question": "मानव में, निम्नलिखित में से कौन विकसित भ्रूण को अपशिष्ट उत्पादों को बाहर निकालने में सहायता करता है?",
@@ -2026,7 +2109,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_135"
+            "id": "q_reproduction_135",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा पुष्प के नर प्रजनन भाग का घटक नहीं है?",
@@ -2041,7 +2125,8 @@
             "examName": "RRB Group D 8 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_136"
+            "id": "q_reproduction_136",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन, एककोशिकीय जीवों में द्वि-खंडन और बहु- खंडन के बीच सही अंतर करता है? कई संतति कोशिकाओं का निर्माण होता है। में होता है। दो संतति कोशिकाएं बनती हैं। बीजाणुओं की आवश्यकता नहीं होती है।",
@@ -2086,7 +2171,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_139"
+            "id": "q_reproduction_139",
+            "correct_option": 2
         },
         {
             "question": "गभनिरोध की कौन सी विधि शरीर के हार्मोनल संतुलन को बदल देती है?",
@@ -2101,7 +2187,8 @@
             "examName": "RRB Group D 11/10/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_140"
+            "id": "q_reproduction_140",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन सही है?",
@@ -2116,7 +2203,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_141"
+            "id": "q_reproduction_141",
+            "correct_option": 1
         },
         {
             "question": "गभरोधाची कोणती पद्धत अंडोत्सग थांबवण्यासाठी संप्रेरक स्त्राव करते?",
@@ -2131,7 +2219,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_reproduction_142"
+            "id": "q_reproduction_142",
+            "correct_option": 1
         },
         {
             "question": "यौवनारम्भ के दौरान आवाज में परिवर्तन _______ के कारण होता है।",
@@ -2146,7 +2235,8 @@
             "examName": "RRB Group D 1 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_reproduction_143"
+            "id": "q_reproduction_143",
+            "correct_option": 3
         },
         {
             "question": "कुछ महिलाओं में, कुछ समस्या के कारण निषेचन नहीं हो पाता है। ऐसे मामलों में, शरीर से बाहर निषेचन होने के लिए ताजे जारी अंडाणुओं और शुक्राणुओं को कुछ घंटों के लिए एक साथ रखा जाता है। इसे क्या कहा जाता है?",
@@ -2176,7 +2266,8 @@
             "examName": "RPF SI 2018 : 12 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_145"
+            "id": "q_reproduction_145",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा कार्य, अपरा द्वारा नहीं किया जाता है?",
@@ -2221,7 +2312,8 @@
             "examName": "RRB Group D 11 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_148"
+            "id": "q_reproduction_148",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प अपनी क्रियाविधि के अनुसार सही ढंग से युग्मित है?",
@@ -2236,7 +2328,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_149"
+            "id": "q_reproduction_149",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित को मनुष्यों में निषेचन के बाद विकास के सही अनुक्रम में व्यवस्थित कीजिए। भ्रूण (Embryo), युग्मनज (Zygote) और गभ (Foetus)",
@@ -2281,7 +2374,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_152"
+            "id": "q_reproduction_152",
+            "correct_option": 1
         },
         {
             "question": "मानव मादाओं में निम्नलिखित में से कौन-सा अंग हार्मोन उत्पन्न कर सकता है?",
@@ -2296,7 +2390,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_153"
+            "id": "q_reproduction_153",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित के लिए सही लेबल की पहचान कीजिए।",
@@ -2311,7 +2406,8 @@
             "examName": "RRB Group D 5 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_154"
+            "id": "q_reproduction_154",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प पुष्प की प्रजनन प्रणाली के घटक का सबसे अच्छा वर्णन करता है?",
@@ -2356,7 +2452,8 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_157"
+            "id": "q_reproduction_157",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सी विधि पौधों में अलैंगिक प्रजनन का उदाहरण है?",
@@ -2401,7 +2498,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_160"
+            "id": "q_reproduction_160",
+            "correct_option": 3
         },
         {
             "question": "_______ कालान्तर में जातियों के अस्तित्व के लिए उपयोगी है।",
@@ -2416,7 +2514,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_reproduction_161"
+            "id": "q_reproduction_161",
+            "correct_option": 3
         },
         {
             "question": "महिलाओं में निषेचन सामान्यतः प्रजनन तंत्र के किस हिस्से में होता है?",
@@ -2476,7 +2575,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_165"
+            "id": "q_reproduction_165",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस प्रक्रिया के परिणामस्वरूप दो समान संतति कोशिकाओं का निर्माण होता है?",
@@ -2491,7 +2591,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_166"
+            "id": "q_reproduction_166",
+            "correct_option": 2
         },
         {
             "question": "स्पोरैंगिया ब्लॉब्स में कोशिकाएँ या बीजाणु होते हैं जो अंततः नए राइज़ोपस व्यक्तियों में विकसित हो सकते हैं। इस तरह के अलैंगिक प्रजनन को इस रूप में जाना जाता है:",
@@ -2521,7 +2622,8 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_168"
+            "id": "q_reproduction_168",
+            "correct_option": 2
         },
         {
             "question": "निषेचन के बाद, पुष्प के इन भागों - पुंकेसर, वर्तिकाग्र, वर्तिका, पंखुड़ी और बाह्यदल का क्या होगा?",
@@ -2596,7 +2698,8 @@
             "examName": "RRB Level 01 Stage I 22/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_173"
+            "id": "q_reproduction_173",
+            "correct_option": 3
         },
         {
             "question": "ब्रायोफिलम के पत्ते के किनारे पर बनी कलिकाएँ मिट्टी पर गिर जाती हैं और नए पौधों में विकसित हो जाती हैं। इस प्रकार के प्रजनन को किस रूप में जाना जाता है?",
@@ -2611,7 +2714,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_174"
+            "id": "q_reproduction_174",
+            "correct_option": 3
         },
         {
             "question": "पौधों में, बीजाणु निर्माण प्रजनन का एक तरीका है जिसमें बीजाणुओं का उत्पादन सम्मिलित होता है। बीजाणु निर्माण के बारे में निम्नलिखित में से कौन सा कथन सत्य है? विकसित होते हैं।",
@@ -2626,7 +2730,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_175"
+            "id": "q_reproduction_175",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सी पौधों में प्रजनन की एक विधि है, जिसमें केवल एक ही जनक शामिल होता है?",
@@ -2641,7 +2746,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_176"
+            "id": "q_reproduction_176",
+            "correct_option": 1
         },
         {
             "question": "किस प्रक्रिया द्वारा संतति कोशिका में गुणसूत्रों की संख्या आधी हो जाती है?",
@@ -2656,7 +2762,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_177"
+            "id": "q_reproduction_177",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से प्रजनन की कौन-सी विधि में बैक्टीरिया में जनक कोशिका को दो संतति कोशिकाओं में विभाजित होने की प्रक्रिया शामिल है?",
@@ -2671,7 +2778,8 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_178"
+            "id": "q_reproduction_178",
+            "correct_option": 2
         },
         {
             "question": "'मातृ स्वास्थ्य' के अंतर्गत क्या आता है?",
@@ -2686,7 +2794,8 @@
             "examName": "RRB Group D 28 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_179"
+            "id": "q_reproduction_179",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सी जीवन प्रक्रिया किसी जीव के जीवन को बनाए रखने के लिए आवश्यक नहीं है?",
@@ -2731,7 +2840,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_182"
+            "id": "q_reproduction_182",
+            "correct_option": 1
         },
         {
             "question": "______में मांसपेशियों के लयबद्ध संकुचन के परिणामस्वरूप बच्चा पैदा होता है।",
@@ -2746,7 +2856,8 @@
             "examName": "RRB Group D 17 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_183"
+            "id": "q_reproduction_183",
+            "correct_option": 3
         },
         {
             "question": "सरीसृपों में, संतति का लिंग किस तापमान पर निर्धारित होता है जिस पर:",
@@ -2761,7 +2872,8 @@
             "examName": "RRB Group D 20 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_184"
+            "id": "q_reproduction_184",
+            "correct_option": 1
         },
         {
             "question": "एक वैज्ञानिक ने एक बहुकोशिकीय जीव में प्रजनन प्रक्रिया का अवलोकन किया। निम्नलिखित में से कौन-सी विधि पौधे द्वारा उपयोग नहीं की जाएगी?",
@@ -2776,7 +2888,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_185"
+            "id": "q_reproduction_185",
+            "correct_option": 1
         },
         {
             "question": "जब जल और पोषक तत्व उपलब्ध होते हैं, तो शैवाल _________ प्रक्रिया द्वारा तेजी से वृद्धि करते हैं और गुणित होते हैं।",
@@ -2791,7 +2904,8 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_reproduction_186"
+            "id": "q_reproduction_186",
+            "correct_option": 3
         },
         {
             "question": "माँ के रक्त से भ्रूण को पोषण किसकी सहायता से मिलता है?",
@@ -2806,7 +2920,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_187"
+            "id": "q_reproduction_187",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से वह कौन-सी अवस्था है जिसके दौरान मनुष्यों में प्रजनन ऊतक परिपक्व होने लगते हैं?",
@@ -2821,7 +2936,8 @@
             "examName": "RRB Level 01 Stage I 09/01/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_188"
+            "id": "q_reproduction_188",
+            "correct_option": 1
         },
         {
             "question": "कुछ पौधों की जड़ें, तना और पत्तियां _______ की प्रक्रिया के माध्यम से नए पौधों में विकसित होती हैं।",
@@ -2836,7 +2952,8 @@
             "examName": "RRB Group D 26 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_189"
+            "id": "q_reproduction_189",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा जानवर बडिंग (मुकुलन) द्वारा प्रजनन करता है और पुनर्जनन कर सकता है?",
@@ -2866,7 +2983,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_191"
+            "id": "q_reproduction_191",
+            "correct_option": 3
         },
         {
             "question": "परागण का वह प्रकार जिसमें परागकण वायु के माध्यम से एक ही प्रजाति के एक पुष्प से दूसरे पुष्प तक स्थानांतरित होते हैं, _____________ कहलाता है।",
@@ -2911,7 +3029,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 22/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_194"
+            "id": "q_reproduction_194",
+            "correct_option": 3
         },
         {
             "question": "पुष्प में स्त्रीकेसर _______ है।",
@@ -2926,7 +3045,8 @@
             "examName": "RRB NTPC CBT-I : 4 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_reproduction_195"
+            "id": "q_reproduction_195",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा उपयुक्त परिस्थितियों में अंकुर के रूप में विकसित होता है?",
@@ -2941,7 +3061,8 @@
             "examName": "RRB Group D 19 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_196"
+            "id": "q_reproduction_196",
+            "correct_option": 2
         },
         {
             "question": "गभाशय में भ्रूण को पोषण प्रदान करने वाला ऊतक __________ है।",
@@ -2956,7 +3077,8 @@
             "examName": "RRB Group D 22/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_197"
+            "id": "q_reproduction_197",
+            "correct_option": 2
         },
         {
             "question": "परिक्षेपित बीज के सफलतापूवक अंकुरण और नवोद्भि द्के रूप में विकसित होने के लिए कौन-सी स्थिति आवश्यक है?",
@@ -2971,7 +3093,8 @@
             "examName": "RRB Level 01 Stage I 10/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_198"
+            "id": "q_reproduction_198",
+            "correct_option": 2
         },
         {
             "question": "एक प्रजनन विधि जिसमें एक ही जनक संतान उत्पन्न करने में सक्षम होता है, उसे _____ कहा जाता है।",
@@ -3001,7 +3124,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_200"
+            "id": "q_reproduction_200",
+            "correct_option": 2
         },
         {
             "question": "यदि निषेचन नहीं होता है, तो महिलाओं में गभाशय की मोटी अस्तर का क्या होता है?",
@@ -3031,7 +3155,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_202"
+            "id": "q_reproduction_202",
+            "correct_option": 3
         },
         {
             "question": "यदि किसी पुष्प के पुंकेसर निष्क्रि य हों, तो कौन-सी प्रक्रिया नहीं होगी?",
@@ -3046,7 +3171,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_203"
+            "id": "q_reproduction_203",
+            "correct_option": 2
         },
         {
             "question": "मानव में, जब Y गुणसूत्र युक्त शुक्राणु अंडे को निषेचित करता है, तो युग्मज का रूप क्या होता है?",
@@ -3091,7 +3217,8 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_reproduction_206"
+            "id": "q_reproduction_206",
+            "correct_option": 3
         },
         {
             "question": "पुष्प का निम्नलिखित में से कौन-सा भाग निषेचन के बाद फल में विकसित होता है?",
@@ -3121,7 +3248,8 @@
             "examName": "RRB Group D 25 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_208"
+            "id": "q_reproduction_208",
+            "correct_option": 1
         },
         {
             "question": "किस प्रकार के जीवों को अंडज जीव कहा जाता है?",
@@ -3136,7 +3264,8 @@
             "examName": "RRB Group D 5/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_209"
+            "id": "q_reproduction_209",
+            "correct_option": 2
         },
         {
             "question": "__________ भ्रातृ जुड़वां होने की संभावना होती है।",
@@ -3166,7 +3295,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_211"
+            "id": "q_reproduction_211",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा पयावरणीय कारक कुछ जंतुओं में विकासशील जीव के लिंग निधारण में महत्वपूर्ण भूमिका निभाता है?",
@@ -3181,7 +3311,8 @@
             "examName": "RRB Group D 24 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_212"
+            "id": "q_reproduction_212",
+            "correct_option": 3
         },
         {
             "question": "लगभग 40 सेंटीमीटर लंबी सीधी नली, जो शुक्राणुओं को लाभदायक पुटिकाओं तक ले जाती है, कहा जाता है?",
@@ -3211,7 +3342,8 @@
             "examName": "RRB JE 26 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_reproduction_214"
+            "id": "q_reproduction_214",
+            "correct_option": 2
         },
         {
             "question": "जीवों में आनुवंशिक विविधता का महत्व यह है कि _________ ।",
@@ -3226,7 +3358,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_reproduction_215"
+            "id": "q_reproduction_215",
+            "correct_option": 3
         },
         {
             "question": "_______ के परिणाम स्वरूप युग्मज का निर्माण होता है।",
@@ -3241,7 +3374,8 @@
             "examName": "RRB Group D 24/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_216"
+            "id": "q_reproduction_216",
+            "correct_option": 1
         },
         {
             "question": "एस्ट्रोजन का मूल कार्य क्या है?",
@@ -3256,7 +3390,8 @@
             "examName": "RRB NTPC CBT-I : 24 July 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_reproduction_217"
+            "id": "q_reproduction_217",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा परिवर्तन यौवन की शुरुआत को चिह्नित नहीं करता है",
@@ -3271,7 +3406,8 @@
             "examName": "RRB Group D 25 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_218"
+            "id": "q_reproduction_218",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से क्या, बिना किसी युग्मक के, केवल एक जनक के द्वारा प्रजनन का वर्णन करता है?",
@@ -3316,7 +3452,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_221"
+            "id": "q_reproduction_221",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन अंडाशय से गभाशय तक अंडे को ले जाता है?",
@@ -3421,7 +3558,8 @@
             "examName": "RRB Group D 8 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_228"
+            "id": "q_reproduction_228",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा अंग मानव मादा प्रजनन प्रणाली का हिस्सा है?",
@@ -3436,7 +3574,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_229"
+            "id": "q_reproduction_229",
+            "correct_option": 3
         },
         {
             "question": "मानव मादाओं में, यदि अंडा निषेचित नहीं होता है, तो गभाशय अस्तर के मासिक बहाव को निम्नलिखित में से क्या कहा जाता है?",
@@ -3451,7 +3590,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_230"
+            "id": "q_reproduction_230",
+            "correct_option": 2
         },
         {
             "question": "गन्ना, गुलाब या अंगूर जैसे कई पौधों को कृषि उद्देश्यों के लिए उगाने के लिए स्तरीकरण या रोपण जैसी विधियों में प्रजनन की विधि क्या है?",
@@ -3466,7 +3606,8 @@
             "examName": "RRB ALP CBT-I 2024 : 27 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_231"
+            "id": "q_reproduction_231",
+            "correct_option": 3
         },
         {
             "question": "गर्भनिरोधक उपकरणों के उपयोग के संबंध में निम्नलिखित में से एक के अलार्वा (Larva) शेष सभी कथन सत्य हैं। गलत विकल्प का चयन कीजिए।",
@@ -3496,7 +3637,8 @@
             "examName": "RRB Group D 22 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_233"
+            "id": "q_reproduction_233",
+            "correct_option": 3
         },
         {
             "question": "आवृत्तबीजी के प्रजनन अंग ________ में स्थित होते हैं।",
@@ -3511,7 +3653,8 @@
             "examName": "RRB Group D 25/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_234"
+            "id": "q_reproduction_234",
+            "correct_option": 1
         },
         {
             "question": "हाइड्रा में मुकुल _____________ ।",
@@ -3541,7 +3684,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_236"
+            "id": "q_reproduction_236",
+            "correct_option": 2
         },
         {
             "question": "सही कथन का चयन करें।",
@@ -3556,7 +3700,8 @@
             "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_237"
+            "id": "q_reproduction_237",
+            "correct_option": 3
         },
         {
             "question": "एंजियोस्पम में, अपने बीज में एक से अधिक भ्रूण पैदा करने की घटना को _______ कहा जाता है।",
@@ -3571,7 +3716,8 @@
             "examName": "RPF SI 2018 : 10 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_238"
+            "id": "q_reproduction_238",
+            "correct_option": 2
         },
         {
             "question": "एक विद्यार्थी ने देखा कि हाइड्रा अपने शरीर पर छोटे-छोटे बहि:सरण विकसित करके नए जीव बनाता है, जो अंततः अलग हो जाते हैं। यह किस प्रकार का प्रजनन है?",
@@ -3586,7 +3732,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_239"
+            "id": "q_reproduction_239",
+            "correct_option": 2
         },
         {
             "question": "नर जननांग, लिंग, किसके स्थानांतरण में मदद करता है?",
@@ -3661,7 +3808,8 @@
             "examName": "RRB Group D 6 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_244"
+            "id": "q_reproduction_244",
+            "correct_option": 2
         },
         {
             "question": "______ द्विधारी विखंडन द्वारा पुनःउत्पन्न होते हैं।",
@@ -3721,7 +3869,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_248"
+            "id": "q_reproduction_248",
+            "correct_option": 2
         },
         {
             "question": "पुरुषों में गर्भनिरोधक शल्य प्रक्रियाओं में, शुक्राणु का स्थानांतरण किसके अवरुद्ध होने पर रेक जाता है?",
@@ -3781,7 +3930,8 @@
             "examName": "RRB Group D 25/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_252"
+            "id": "q_reproduction_252",
+            "correct_option": 1
         },
         {
             "question": "कोशिका विभाजन की वह विधि जिसके द्वारा जनन कोशिकाओं को गैर-प्रजनन कोशिकाओं की तुलना में DNA की आधी मात्रा प्राप्त होती है, ______ कहलाती है।",
@@ -3856,7 +4006,8 @@
             "examName": "RRB Group D 27 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_257"
+            "id": "q_reproduction_257",
+            "correct_option": 2
         },
         {
             "question": "लैंगिक रूप से प्रजनन करने वाले पादपों में निषेचन से पूव निम्नलिखित में से कौन-सी प्रक्रिया होती है?",
@@ -3946,7 +4097,8 @@
             "examName": "RRB Level 01 Stage I 09/01/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_263"
+            "id": "q_reproduction_263",
+            "correct_option": 1
         },
         {
             "question": "फूल के नर प्रजनन भागों को ______ कहा जाता है।",
@@ -3961,7 +4113,8 @@
             "examName": "RRB Group D 20 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_264"
+            "id": "q_reproduction_264",
+            "correct_option": 1
         },
         {
             "question": "पुष्पी पादपों में, बीजांड के अंदर नर और मादा युग्मकों का संलयन, ______ कहलाता है।",
@@ -3991,7 +4144,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_266"
+            "id": "q_reproduction_266",
+            "correct_option": 2
         },
         {
             "question": "कौन-सी गर्भनिरोधक विधि सगभता और अधिकांश यौन संचारित रोगों से दोहरी सुरक्षा प्रदान करती है?",
@@ -4006,7 +4160,8 @@
             "examName": "RRB Level 01 Stage I 09/01/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_267"
+            "id": "q_reproduction_267",
+            "correct_option": 1
         },
         {
             "question": "पादपों में, अलैंगिक जनन में क्या शामिल होता है?",
@@ -4036,7 +4191,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_269"
+            "id": "q_reproduction_269",
+            "correct_option": 2
         },
         {
             "question": "स्पाइरोगाइरा में सफल खंडन जनन के लिए सबसे महत्वपूर्ण शत क्या है?",
@@ -4051,7 +4207,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_270"
+            "id": "q_reproduction_270",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से क्या यौवनारंभ विकास का भाग नहीं है?",
@@ -4066,7 +4223,8 @@
             "examName": "RRB Group D 24 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_271"
+            "id": "q_reproduction_271",
+            "correct_option": 2
         },
         {
             "question": "______ प्रजनन के समान नहीं है।",
@@ -4081,7 +4239,8 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_272"
+            "id": "q_reproduction_272",
+            "correct_option": 3
         },
         {
             "question": "पादप में जनन के संबंध में निम्नलिखित में से कौन-सा कथन सही है? आवश्यकता होती है।",
@@ -4096,7 +4255,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_273"
+            "id": "q_reproduction_273",
+            "correct_option": 1
         },
         {
             "question": "मानव में परिवर्धनशील भ्रूण का अंतर्रोपण मादा जनन तंत्र के किस भाग में होता है?",
@@ -4126,7 +4286,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_275"
+            "id": "q_reproduction_275",
+            "correct_option": 1
         },
         {
             "question": "मनुष्यों में निषेचन के बाद, भ्रूण का विकास और वृद्धि मुख्यत: कहां होती है?",
@@ -4201,7 +4362,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_280"
+            "id": "q_reproduction_280",
+            "correct_option": 3
         },
         {
             "question": "किशोरावस्था लगभग 11 वष की आयु से शुरू होती है और कब तक चलती है?",
@@ -4216,7 +4378,8 @@
             "examName": "RRB Group D 19 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_281"
+            "id": "q_reproduction_281",
+            "correct_option": 2
         },
         {
             "question": "हाइड्रा और प्लेनेरिया जैसे जानवरों को किसी भी संख्या में टुकड़ों में काटा जा सकता है और प्रत्येक टुकड़ा एक पूर्ण जीव में विकसित होता है। इसे किस रूप में जाना जाता है?",
@@ -4231,7 +4394,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_282"
+            "id": "q_reproduction_282",
+            "correct_option": 1
         },
         {
             "question": "मानव मादा प्रजनन तंत्र में निषेचन के बाद क्या होता है? implant) हो जाता है।",
@@ -4261,7 +4425,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_284"
+            "id": "q_reproduction_284",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा पौधा एकलिंगी पुष्प उत्पन्न करता है?",
@@ -4291,7 +4456,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_reproduction_286"
+            "id": "q_reproduction_286",
+            "correct_option": 1
         },
         {
             "question": "राइजोपस जैसे कवकों में विशेष प्रजनन संरचनाएँ, जो अंकुरित होकर नए जीवों का निर्माण करता है, कहलाता हैं:",
@@ -4306,7 +4472,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_287"
+            "id": "q_reproduction_287",
+            "correct_option": 1
         },
         {
             "question": "जन्म के समय, बालिका के अंडाशय में ________________ होते हैं।",
@@ -4336,7 +4503,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_289"
+            "id": "q_reproduction_289",
+            "correct_option": 3
         },
         {
             "question": "पुरुषों में वृषण, उदर गयहा के बाहर क्यों स्थित होते हैं?",
@@ -4381,7 +4549,8 @@
             "examName": "RRB Group D 1/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_292"
+            "id": "q_reproduction_292",
+            "correct_option": 1
         },
         {
             "question": "स्पर्मेटेका ब्लैडर से आने वाली ट्यूब से जुड़कर एक सामान्य माग बनाती है जिसे _____ कहा जाता है।",
@@ -4411,7 +4580,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_294"
+            "id": "q_reproduction_294",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन प्रजनन के लिए बीजाणुओं का उपयोग करता है?",
@@ -4426,7 +4596,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_295"
+            "id": "q_reproduction_295",
+            "correct_option": 1
         },
         {
             "question": "यौन प्रजनन करने वाले जीवों में एक पीढ़ी से दूसरी पीढ़ी में गुणसूत्र संख्या कैसे बनी रहती है?",
@@ -4471,7 +4642,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_298"
+            "id": "q_reproduction_298",
+            "correct_option": 3
         },
         {
             "question": "प्रजनन में मूल घटना क्या है?",
@@ -4486,7 +4658,8 @@
             "examName": "RRB Group D 24 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_299"
+            "id": "q_reproduction_299",
+            "correct_option": 3
         },
         {
             "question": "पूर्णतः विभेदित जीव के अपने शरीर के अंगों से नए जीवों को उत्पन्न करने की क्षमता को क्या कहते हैं?",
@@ -4501,7 +4674,8 @@
             "examName": "RRB ALP CBT-I 2024 : 27 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_300"
+            "id": "q_reproduction_300",
+            "correct_option": 3
         },
         {
             "question": "हाइड्रा की मुकुलन प्रक्रिया में चरणों का अनुक्रम क्या है? मुकुल वियोजन (Bud detachment) → नई व्यष्टि (New individual)",
@@ -4531,7 +4705,8 @@
             "examName": "RRB Group D 17 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_302"
+            "id": "q_reproduction_302",
+            "correct_option": 3
         },
         {
             "question": "अधिक विविधता _________ के प्रजनन से होती है।",
@@ -4546,7 +4721,8 @@
             "examName": "RRB Group D 14 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_303"
+            "id": "q_reproduction_303",
+            "correct_option": 3
         },
         {
             "question": "मानव पुरुषों में शुक्राणु और मूत्र के लिए सामान्य माग _____ है।",
@@ -4591,7 +4767,8 @@
             "examName": "RRB Level 01 Stage I 05/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_306"
+            "id": "q_reproduction_306",
+            "correct_option": 3
         },
         {
             "question": "एक आदमी के पास कितने अंडकोश होते हैं?",
@@ -4666,7 +4843,8 @@
             "examName": "RPF Constable 2024 : 17 Mar, 2025 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_311"
+            "id": "q_reproduction_311",
+            "correct_option": 2
         },
         {
             "question": "जब निषेचन मादा शरीर के भीतर होता है, तो इसे _______ कहा जाता है।",
@@ -4711,7 +4889,8 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_314"
+            "id": "q_reproduction_314",
+            "correct_option": 3
         },
         {
             "question": "स्व-परागण केवल किसमें संभव है? हैं",
@@ -4726,7 +4905,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_315"
+            "id": "q_reproduction_315",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन, लैंगिक जनन में निषेचन के महत्व का सर्वोत्तम रूप से वर्णन करता है?",
@@ -4771,7 +4951,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_318"
+            "id": "q_reproduction_318",
+            "correct_option": 2
         },
         {
             "question": "परागकण _______ द्वारा निर्मित होते हैं।",
@@ -4786,7 +4967,8 @@
             "examName": "RRB Group D 12/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_319"
+            "id": "q_reproduction_319",
+            "correct_option": 2
         },
         {
             "question": "पुष्पी पादपों में परागकण की नर जनन-कोशिका का जब मादा युग्मक के साथ संलयन होता है, तो क्या बनता है?",
@@ -4816,7 +4998,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_321"
+            "id": "q_reproduction_321",
+            "correct_option": 3
         },
         {
             "question": "यौन प्रजनन में, माता-पिता योगदान देते हैं:",
@@ -4831,7 +5014,8 @@
             "examName": "RRB Group D 26/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_322"
+            "id": "q_reproduction_322",
+            "correct_option": 1
         },
         {
             "question": "पादपों में निषेचन के पश्चात अंडाशय तथा बीजांड क्या बनाते हैं?",
@@ -4876,7 +5060,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_325"
+            "id": "q_reproduction_325",
+            "correct_option": 2
         },
         {
             "question": "यदि किसी स्तनधारी प्रजाति में शिश्न के स्तंभन (erect) की क्षमता न हो, तो लैंगिक प्रजनन पर इसका प्रत्यक्ष प्रभाव क्या पड़ेगा?",
@@ -4936,7 +5121,8 @@
             "examName": "RRB Level 01 Stage I 17/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_329"
+            "id": "q_reproduction_329",
+            "correct_option": 3
         },
         {
             "question": "जब प्लेनेरिया को कई टुकड़ों में काटा जाता है, तो प्रत्येक टुकड़ा एक पूर्ण जीव में विकसित हो जाता है। इसे क्या कहा जाता है?",
@@ -4951,7 +5137,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_330"
+            "id": "q_reproduction_330",
+            "correct_option": 1
         },
         {
             "question": "लैंगिक जनन करने वाले जंतुओं में आनुवंशिक विविधता निम्नलिखित में से किसके द्वारा सुनिश्चित की जाती है?",
@@ -4966,7 +5153,8 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_331"
+            "id": "q_reproduction_331",
+            "correct_option": 1
         },
         {
             "question": "मुकुलन द्वारा जनन (reproduce) करने वाले पादपों में, कौन-सा प्रक्रम प्रत्यक्ष रूप से एक नए जीव (individual) के निर्माण की शुरुआत करता है? क कोशिका मृत्यु",
@@ -5011,7 +5199,8 @@
             "examName": "RRB Level 01 Stage I 17/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_334"
+            "id": "q_reproduction_334",
+            "correct_option": 3
         },
         {
             "question": "पौधे जो बीज उत्पन्न करने की अपनी क्षमता खो चके हैं, वे ________ विधि द्वारा पुनरुत्पादित करते हैं।",
@@ -5026,7 +5215,8 @@
             "examName": "RRB Group D 6 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_335"
+            "id": "q_reproduction_335",
+            "correct_option": 1
         },
         {
             "question": "क्या X गुणसूत्र वाले शुक्राणुओं और Y गुणसूत्र वाले शुक्राणुओं में कोई दृश्यमान अंतर है?",
@@ -5046,7 +5236,7 @@
         {
             "question": "स्टारफिश जैसे एकाइनोडम में जल वाहिकीय प्रणाली (water vascular system) का प्राथमिक कार्य क्या है?",
             "options": [
-                "जनन (Reproduction)",
+                "गर्मन और भोजन (Locomotion and feeding)",
                 "इंद्रिय प्रत्यक्षीकरण (Sensory perception)",
                 "गमन और भोजन (Locomotion and feeding)",
                 "गैस विनिमय (Gas exchange)"
@@ -5071,7 +5261,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_338"
+            "id": "q_reproduction_338",
+            "correct_option": 2
         },
         {
             "question": "मौखिक गर्भनिरोधक गोलियाँ ________ को रोककर काम करती हैं।",
@@ -5086,7 +5277,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_reproduction_339"
+            "id": "q_reproduction_339",
+            "correct_option": 2
         },
         {
             "question": "पराग को पुंकेसर से वर्तिकाग्र तक स्थानांतरित करने की आवश्यकता होती है। यदि पराग का यह स्थानांतरण एक ही पुष्प में होता है, तो इस घटना को क्या कहा जाता है?",
@@ -5101,7 +5293,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_340"
+            "id": "q_reproduction_340",
+            "correct_option": 3
         },
         {
             "question": "पहला आतव प्रवाह यौवनारंभ में शुरू होता है, इसे क्या कहा जाता है?",
@@ -5116,7 +5309,8 @@
             "examName": "RRB Group D 17 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_341"
+            "id": "q_reproduction_341",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन विखंडन के बारे में सत्य नहीं है?",
@@ -5146,7 +5340,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_reproduction_343"
+            "id": "q_reproduction_343",
+            "correct_option": 2
         },
         {
             "question": "नीचे दिए गए विकल्पों में से गर्भनिरोधक की यांत्रिक अवरोध विधि के लिए सही उदाहरण का चयन कीजिए।",
@@ -5161,7 +5356,8 @@
             "examName": "RRB Group D 13 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_344"
+            "id": "q_reproduction_344",
+            "correct_option": 1
         },
         {
             "question": "कुछ महिलाओं में अंडवाहिनी अवरुद्ध हो जाती है। ये महिलाएँ बच्चे पैदा करने में असमथ होती हैं क्योंकि शुक्राणु निषेचन के लिए अंड तक नहीं पहुँच पाते हैं। ऐसी स्थिति में डॉक्टर IVF (पात्रे निषेचन) की सलाह देते हैं। नीचे प्रक्रिया के कुछ चरण दिए गए हैं। गलत चरण का चयन कीजिए।",
@@ -5206,7 +5402,8 @@
             "examName": "RRB Level 01 Stage I 27/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_reproduction_347"
+            "id": "q_reproduction_347",
+            "correct_option": 3
         },
         {
             "question": "स्कूलों में यौन शिक्षा देने के महत्व को उजागर करने वाले कुछ कारण नीचे दिए गए हैं। गलत विकल्प चुनें. लगते हैं",
@@ -5221,7 +5418,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_348"
+            "id": "q_reproduction_348",
+            "correct_option": 2
         },
         {
             "question": "मादा जनन तंत्र में अंड का सही माग क्या है?",
@@ -5341,7 +5539,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_356"
+            "id": "q_reproduction_356",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा अलैंगिक प्रजनन का तरीका केवल एककोशिकीय जीवों द्वारा उपयोग किया जाता है?",
@@ -5371,7 +5570,8 @@
             "examName": "RRB Group D 4/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_358"
+            "id": "q_reproduction_358",
+            "correct_option": 3
         },
         {
             "question": "नर जनन तंत्र में शुक्रवाहिका का मुख्य कार्य क्या है?",
@@ -5416,7 +5616,8 @@
             "examName": "RRB Group D 3/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_361"
+            "id": "q_reproduction_361",
+            "correct_option": 1
         },
         {
             "question": "निषेचित अंड, युग्मनज, ________ में प्रत्यारोपित हो जाता है।",
@@ -5476,7 +5677,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_365"
+            "id": "q_reproduction_365",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सी जनन विधि, समष्टि में अधिक विविधता उत्पन्न करेगी?",
@@ -5521,7 +5723,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_368"
+            "id": "q_reproduction_368",
+            "correct_option": 2
         },
         {
             "question": "आधुनिक मत्स्य-पालन के संबंध में निम्नलिखित में से कौन-सा कथन सत्य है?",
@@ -5551,7 +5754,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_370"
+            "id": "q_reproduction_370",
+            "correct_option": 1
         },
         {
             "question": "गुलदाउदी में किस प्रकार का कार्यिक प्रवर्धित देखा जाता है?",
@@ -5566,7 +5770,8 @@
             "examName": "RRB Group D 7 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_371"
+            "id": "q_reproduction_371",
+            "correct_option": 3
         },
         {
             "question": "पशुओं में लैंगिक जनन के दौरान DNA की मात्रा दोगुनी क्यों नहीं होती है?",
@@ -5581,7 +5786,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_372"
+            "id": "q_reproduction_372",
+            "correct_option": 1
         },
         {
             "question": "परागकण से वर्तिकाग्र तक एक नलिका जैसी संरचना नीचे की ओर बढ़ती है और बीजांड तक पहुँचती है। यह पराग नलिका किसके लिए उत्तरदायी है?",
@@ -5596,7 +5802,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_373"
+            "id": "q_reproduction_373",
+            "correct_option": 2
         },
         {
             "question": "पौधों में परागण बीज निर्माण में किस प्रकार योगदान देता है?",
@@ -5611,7 +5818,8 @@
             "examName": "RRB Level 01 Stage I 17/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_374"
+            "id": "q_reproduction_374",
+            "correct_option": 2
         },
         {
             "question": "द्वि-खंडन (binary fission) के बारे में निम्नलिखित में से कौन-सा कथन सत्य नहीं है?",
@@ -5626,7 +5834,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_375"
+            "id": "q_reproduction_375",
+            "correct_option": 3
         },
         {
             "question": "मादा जनन-कोशिकाएं या अंडे निम्न में बनते हैं:",
@@ -5701,7 +5910,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_380"
+            "id": "q_reproduction_380",
+            "correct_option": 3
         },
         {
             "question": "एका पेशीचे विभाजन होऊन दोन समान जन्य पेशी तयार होतात, प्रत्येक पेशीची गुणसूत्र संख्या जनक पेशीइतकीच असते. याला कोणत्या प्रकारचे पेशी विभाजन म्हणतात?",
@@ -5716,7 +5926,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_381"
+            "id": "q_reproduction_381",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन परागण की विधि नहीं है?",
@@ -5731,7 +5942,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_382"
+            "id": "q_reproduction_382",
+            "correct_option": 3
         },
         {
             "question": "मादा मानव में, जब अंडा निषेचित नहीं होता है, तो निम्नलिखित में से कौन-सी प्रक्रिया होती है?",
@@ -5746,7 +5958,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_383"
+            "id": "q_reproduction_383",
+            "correct_option": 3
         },
         {
             "question": "मनुष्यों में निषेचन _______ में होता है।",
@@ -5806,7 +6019,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_reproduction_387"
+            "id": "q_reproduction_387",
+            "correct_option": 3
         },
         {
             "question": "परिवार नियोजन में कॉपर- T जैसे उपकरणों का उपयोग करने का उद्देश्य क्या है?",
@@ -5821,7 +6035,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_388"
+            "id": "q_reproduction_388",
+            "correct_option": 2
         },
         {
             "question": "निषेचन के बाद पुष्प का कौन-सा भाग सामान्यतः सिकुड़ कर गिर जाता है?",
@@ -5866,7 +6081,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_reproduction_391"
+            "id": "q_reproduction_391",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा युग्म प्रजनन की विधि के अनुसार गलत ढंग से मिलान किया गया है?",
@@ -5916,7 +6132,7 @@
         {
             "question": "घोंघे जैसे जानवरों में, वह अपना लिंग बदल सकते हैं। इसका क्या अर्थ है?",
             "options": [
-                "लिंग किसी भी पयावरणीय कारक द्वारा निर्धारित किया जा सकता है।",
+                "लिंग आनुवंशिक रूप से निधारित नहीं होता है।",
                 "लिंग जीन द्वारा निर्धारित होता है।",
                 "लिंग आनुवंशिक रूप से निर्धारित नहीं होता है।",
                 "लिंग तापमान द्वारा निर्धारित होता है।"
@@ -5941,7 +6157,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_396"
+            "id": "q_reproduction_396",
+            "correct_option": 2
         },
         {
             "question": "अमीबा किस प्रकार प्रजनन करता है?",
@@ -5971,7 +6188,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_reproduction_398"
+            "id": "q_reproduction_398",
+            "correct_option": 2
         },
         {
             "question": "एक प्रकार का जनन जिसमें एक पौधे के शरीर का एक हिस्सा एक नई वनस्पति को जन्म देता है, उसे _________ कहा जाता है।",
@@ -5986,7 +6204,8 @@
             "examName": "RRB Group D 17/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_reproduction_399"
+            "id": "q_reproduction_399",
+            "correct_option": 2
         },
         {
             "question": "स्थायी ऊतकों के विभिन्न प्रकार ______ के परिणामस्वरूप उत्पन्न होते हैं",
@@ -6001,7 +6220,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_reproduction_400"
+            "id": "q_reproduction_400",
+            "correct_option": 1
         },
         {
             "question": "मौखिक गर्भनिरोधक गोलियाँ _______ को रोककर काम करती हैं।",
@@ -6016,7 +6236,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_reproduction_401"
+            "id": "q_reproduction_401",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा पुष्पीय भाग, जनन में उसके प्राथमिक जैविक कार्य से सही सुमेलित है?",
@@ -6031,7 +6252,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "matchFollowing",
-            "id": "q_reproduction_402"
+            "id": "q_reproduction_402",
+            "correct_option": 2
         },
         {
             "question": "पौधों में नर और मादा युग्मकों के संलयन की प्रक्रिया को क्या कहते हैं?",
@@ -6081,7 +6303,7 @@
         {
             "question": "निम्नलिखित में से कौन-सी, गर्भनिरोधक विधि नहीं है?",
             "options": [
-                "गभ का गभपात",
+                "जनन (Reproduction) एवं जीव विज्ञान के सिद्धांतों के अनुसार, इस प्रश्न का सही उत्तर **गभ का गभपात** है।",
                 "अंडाशय से अंडों के निकलने को रोकने के लिए हार्मोनल संतुलन में परिवर्तन करना",
                 "कंडोम का उपयोग करके शुक्राणुओं को अंडे तक पहुँचने से रोकना",
                 "गभाशय में कॉपर- T डालना"
@@ -6121,7 +6343,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_reproduction_408"
+            "id": "q_reproduction_408",
+            "correct_option": 2
         },
         {
             "question": "नीचे दिए गए विभिन्न बिंदु प्रजनन स्वास्थ्य निर्मित करते हैं। गलत विकल्प का चयन करें।",
@@ -6136,7 +6359,8 @@
             "examName": "RRB Group D 14 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_409"
+            "id": "q_reproduction_409",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सी, एकल व्यष्टि जीव (solitary individual organism) द्वारा जनन की विधि नहीं है?",

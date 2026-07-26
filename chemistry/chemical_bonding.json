@@ -16,7 +16,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_chemical_bonding_1"
+            "id": "q_chemical_bonding_1",
+            "correct_option": 3
         },
         {
             "question": "साधारण नमक/सोडियम क्लोराइड (NaCl) में, किस तत्व के आयन क्रमशः धनात्मक आवेशित और ऋणात्मक आवेशित होते हैं?",
@@ -31,7 +32,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_2"
+            "id": "q_chemical_bonding_2",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस आयनिक यौगिक का क्वथनांक सबसे अधिक है?",
@@ -46,7 +48,8 @@
             "examName": "RRB Group D 29 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_chemical_bonding_3"
+            "id": "q_chemical_bonding_3",
+            "correct_option": 3
         },
         {
             "question": "एक विद्यार्थी एक अज्ञात विलयन में लेड (II) नाइट्रेट (Pb (NO₃)₂) मिलाता है। एक पीला अवक्षेप बनता है। अज्ञात विलयन क्या हो सकता है?",
@@ -76,7 +79,8 @@
             "examName": "RPF SI Previous Paper : 6 Jan 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_5"
+            "id": "q_chemical_bonding_5",
+            "correct_option": 2
         },
         {
             "question": "लंबे समय तक हवा के संपर्क में रहने पर चांदी की बनी वस्तुएं काली हो जाती हैं। यह घटना _______ के बनने के कारण होती है।",
@@ -91,7 +95,8 @@
             "examName": "RRB JE ME 19 Sep 2019 Shift 2 CBT 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_6"
+            "id": "q_chemical_bonding_6",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से कौन-सी संरचनात्मक विशेषता असंतृप्त कार्बनिक यौगिकों की उच्च अभिक्रियाशीलता में योगदान करती है?",
@@ -106,7 +111,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_7"
+            "id": "q_chemical_bonding_7",
+            "correct_option": 3
         },
         {
             "question": "जब केरल में स्वास्थ्य सम्बन्धित मुद्दे सार्वजनिक हुए, तब निम्न में से कौन से कीटनाशक का नुकसानदायी प्रभाव मीडिया का ध्यान केन्द्र बना?",
@@ -136,7 +142,8 @@
             "examName": "RPF SI 2018 : 16 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_9"
+            "id": "q_chemical_bonding_9",
+            "correct_option": 2
         },
         {
             "question": "कौन-सा कथन कार्बन की विविधता युक्त प्रकृति से संबंधित नहीं है?",
@@ -151,7 +158,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_10"
+            "id": "q_chemical_bonding_10",
+            "correct_option": 3
         },
         {
             "question": "धातुओं और अधातुओं के बीच आयनिक यौगिक कैसे बनते हैं?",
@@ -196,7 +204,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_13"
+            "id": "q_chemical_bonding_13",
+            "correct_option": 1
         },
         {
             "question": "अमोनिया की संरचना नीचे दी गई है। दो बिंदुएँ क्या दर्शाती हैं?",
@@ -211,7 +220,8 @@
             "examName": "RRB Group D 27 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_14"
+            "id": "q_chemical_bonding_14",
+            "correct_option": 3
         },
         {
             "question": "अमीनोबेन्ज़ीन का सामान्य नाम क्या है?",
@@ -226,7 +236,8 @@
             "examName": "RPF SI 2018 : 16 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_15"
+            "id": "q_chemical_bonding_15",
+            "correct_option": 3
         },
         {
             "question": "समजातीय श्रेणी कार्बनिक यौगिकों का एक ऐसा समूह है जिसमें होता है:",
@@ -241,7 +252,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_16"
+            "id": "q_chemical_bonding_16",
+            "correct_option": 1
         },
         {
             "question": "थमाइट अभिक्रिया में एल्युमीनियम के साथ प्रयुक्त होने वाला विशिष्ट ऑक्साइड कौन-सा है?",
@@ -256,7 +268,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_17"
+            "id": "q_chemical_bonding_17",
+            "correct_option": 3
         },
         {
             "question": "ग्लूकोज का रासायनिक सूत्र क्या है?",
@@ -271,7 +284,8 @@
             "examName": "RPF Constable 2018 10 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_18"
+            "id": "q_chemical_bonding_18",
+            "correct_option": 1
         },
         {
             "question": "संतृप्त हाइड्रोकार्बन के लिए निम्नलिखित में से कौन-सा कथन सत्य है?",
@@ -286,7 +300,8 @@
             "examName": "RRB Level 01 Stage I 22/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_19"
+            "id": "q_chemical_bonding_19",
+            "correct_option": 1
         },
         {
             "question": "बेकिंग सोडा रासायनिक रूप से किस नाम से जाना जाता है?",
@@ -301,7 +316,8 @@
             "examName": "RRB NTPC UG CBT-I : 12 Aug, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_20"
+            "id": "q_chemical_bonding_20",
+            "correct_option": 1
         },
         {
             "question": "जलीय सोडियम सल्फेट और जलीय बेरियम क्लोराइड की अभिक्रिया में, कौन सा यौगिक सफेद अवक्षेप बनाता है?",
@@ -309,14 +325,15 @@
                 "सोडियम क्लोराइड ()",
                 "सोडियम सल्फेट ()",
                 "बेरियम क्लोराइड ()",
-                "बेरियम सल्फेट ()"
+                "D. बेरियम सल्फेट ()"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: D. बेरियम सल्फेट ()\n\n📝 विस्तृत व्याख्या:\nजब जलीय सोडियम सल्फेट (Na₂SO₄) और जलीय बेरियम क्लोराइड (BaCl₂) को मिलाया जाता है, तो यह एक अभिक्रिया उत्पन्न करता है जिसमें बेरियम सल्फेट (BaSO₄) का अवक्षेप बनता है। यह अवक्षेप सफेद रंग का होता है। इस अभिक्रिया को निम्नलिखित तरीके से समझा जा सकता है: सोडियम सल्फेट में सल्फेट आयन (SO₄^2-) होता है, जबकि बेरियम क्लोराइड में बेरियम आयन (Ba^2+) और क्लोराइड आयन (Cl^-) होते हैं। जब ये दोनों यौगिक मिलते हैं, तो बेरियम आयन और सल्फेट आयन मिलकर बेरियम सल्फेट का निर्माण करते हैं, जो कि एक अवघुलनशील यौगिक है। इस प्रक्रिया में, सोडियम और क्लोराइड आयन पानी में घुलकर रह जाते हैं, जबकि बेरियम सल्फेट का अवक्षेप नीचे गिर जाता है। यह अवक्षेपण एक महत्वपूर्ण रासायनिक प्रक्रिया है, जो कई औद्योगिक और प्रयोगशाला स्थितियों में उपयोग की जाती है।\n\n🔬 वैज्ञानिक सिद्धांत व तथ्य:\n- अवक्षेपण अभिक्रिया: यह एक रासायनिक प्रक्रिया है जिसमें दो घुलनशील यौगिक मिलकर एक अवघुलनशील यौगिक का निर्माण करते हैं।\n- बेरियम सल्फेट (BaSO₄) का घुलनशीलता: यह यौगिक पानी में अवघुलनशील है, जिससे यह सफेद अवक्षेप के रूप में दिखाई देता है।\n- अभिक्रिया का समीकरण: \n Na₂SO₄(aq) + BaCl₂ (aq) → BaSO₄ (s) + 2NaCl (aq)\n- अवक्षेपण की पहचान: अवक्षेप का रंग और उसकी मात्रा रासायनिक अभिक्रिया की सफलता को दर्शाते हैं।\n\n❌ गलत विकल्प विश्लेषण:\n• सोडियम क्लोराइड (NaCl): यह विकल्प गलत है क्योंकि सोडियम क्लोराइड एक घुलनशील यौगिक है और यह इस अभिक्रिया में अवक्षेप नहीं बनाता। यह केवल घुलकर पानी में रहता है।\n• सोडियम सल्फेट (Na₂SO₄): यह विकल्प भी गलत है क्योंकि सोडियम सल्फेट स्वयं अवक्षेप नहीं बनाता। यह पानी में पूरी तरह से घुल जाता है और अभिक्रिया में सक्रिय भागीदार होता है।\n• बेरियम क्लोराइड (BaCl₂): यह विकल्प गलत है क्योंकि बेरियम क्लोराइड भी घुलनशील है और यह स्वयं अवक्षेप नहीं बनाता। यह केवल अभिक्रिया में एक घटक के रूप में कार्य करता है।\n\n💡 महत्वपूर्ण परीक्षा Tip:\n- अवक्षेपण की पहचान के लिए, हमेशा ध्यान दें कि कौन से यौगिक पानी में घुलनशील हैं और कौन से अवघुलनशील हैं।\n- रासायनिक समीकरणों को याद करने के लिए, उन्हें चित्रित करें या चार्ट बनाएं, इससे आपको अभिक्रियाओं को समझने में मदद मिलेगी।\n- सामान्य अवक्षेपों के रंगों को याद रखें, जैसे बेरियम सल्फेट का सफेद रंग, यह परीक्षा में अक्सर पूछा जाता है।",
             "examName": "RRB Level 01 Stage I 23/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_21"
+            "id": "q_chemical_bonding_21",
+            "correct_option": 3
         },
         {
             "question": "कार्बनिक यौगिकों में, गैर-चक्रीय या खुली श्रृंखला संरचना वाले यौगिकों को _______ भी कहा जाता है।",
@@ -331,7 +348,8 @@
             "examName": "RPF SI 2018 : 06 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_22"
+            "id": "q_chemical_bonding_22",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा, सभी कार्बनिक यौगिकों का एक विशिष्ट अभिलक्षण है?",
@@ -346,7 +364,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_23"
+            "id": "q_chemical_bonding_23",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा यौगिक कैल्शियम ऑक्साइड और कार्बन डाइऑक्साइड उत्पन्न करने के लिए तापीय अपघटन से गुजरता है?",
@@ -361,7 +380,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_24"
+            "id": "q_chemical_bonding_24",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा सबसे अच्छा वर्णन करता है कि आयनिक यौगिक जैसे पोटैशियम ब्रोमाइड (KBr) ठोस रूप में विद्युत का चालन क्यों नहीं करते हैं, लेकिन गलित रूप में करते हैं?",
@@ -391,7 +411,8 @@
             "examName": "RPF ConstableAncillary 2018 31 Mar 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_26"
+            "id": "q_chemical_bonding_26",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस यौगिक का क्वथनांक सबसे अधिक है?",
@@ -421,7 +442,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_28"
+            "id": "q_chemical_bonding_28",
+            "correct_option": 3
         },
         {
             "question": "जब कैल्शियम ऑक्साइड जल के साथ अभिक्रिया करता है, तो कौन-सा उत्पाद निर्मित होता है?",
@@ -436,7 +458,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_29"
+            "id": "q_chemical_bonding_29",
+            "correct_option": 1
         },
         {
             "question": "कैल्शियम सल्फेट हेमीहाइड्रेट के निर्माण में क्या उपयोग किया जाता है?",
@@ -451,7 +474,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_30"
+            "id": "q_chemical_bonding_30",
+            "correct_option": 1
         },
         {
             "question": "जब एथीन, ब्रोमीन के साथ अभिक्रिया करता है, तो किस उत्पाद का निर्माण होता है?",
@@ -481,7 +505,8 @@
             "examName": "RRB Group D 16 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_chemical_bonding_32"
+            "id": "q_chemical_bonding_32",
+            "correct_option": 1
         },
         {
             "question": "कार्बन में पाए जाने वाले कौन-से दो गुणधर्म, बड़ी संख्या में कार्बन यौगिकों के निर्माण के लिए मुख्य रूप से उत्तरदायी हैं?",
@@ -496,7 +521,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_33"
+            "id": "q_chemical_bonding_33",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से कौन-सा रक्त समूह' सार्वभौमिक दाता' के रूप में जाना जाता है?",
@@ -511,7 +537,8 @@
             "examName": "RRB JE 23 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_34"
+            "id": "q_chemical_bonding_34",
+            "correct_option": 2
         },
         {
             "question": "क्लोरीन युक्त उस एंटीबायोटिक का क्या नाम है जो मिट्टी में सूक्ष्मजीवों द्वारा निर्मित होता है और टाइफाइड बुखार के उपचार के लिए प्रभावी है?",
@@ -526,7 +553,8 @@
             "examName": "RPF SI Previous Paper : 5 Jan 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_35"
+            "id": "q_chemical_bonding_35",
+            "correct_option": 1
         },
         {
             "question": "Which process leads to the formation of a positive ion?",
@@ -541,7 +569,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_chemical_bonding_36"
+            "id": "q_chemical_bonding_36",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा, किसी यौगिक का अणु नहीं है?",
@@ -556,7 +585,8 @@
             "examName": "RRB Level 01 Stage I 17/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_37"
+            "id": "q_chemical_bonding_37",
+            "correct_option": 2
         },
         {
             "question": "यौगिकों के अणु _____________ ।",
@@ -571,7 +601,8 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_38"
+            "id": "q_chemical_bonding_38",
+            "correct_option": 3
         },
         {
             "question": "बड़े अणु बनाने के लिए अन्य परमाणुओं के साथ बंध बनाने के कार्बन के अद्वितीय गुण को क्या कहा जाता है?",
@@ -586,7 +617,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_39"
+            "id": "q_chemical_bonding_39",
+            "correct_option": 3
         },
         {
             "question": "साबुन के विलयन में मिसेल का निर्माण निम्नलिखित में से किन कारणों से होता है?",
@@ -631,7 +663,8 @@
             "examName": "RRB Group D 9/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_42"
+            "id": "q_chemical_bonding_42",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस घटना में ठोस अवस्था द्रव अवस्था में बदले बिना सीधे गैसीय अवस्था में परिवर्तित हो जाती है?",
@@ -646,7 +679,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_43"
+            "id": "q_chemical_bonding_43",
+            "correct_option": 3
         },
         {
             "question": "कॉपर के वैद्युतअपघटनी परिष्करण के लिए प्रयुक्त किया जाने वाला सबसे सामान्य वैद्युतअपघट्य, अम्लीकृत _________ का विलयन होगा।",
@@ -661,7 +695,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_44"
+            "id": "q_chemical_bonding_44",
+            "correct_option": 3
         },
         {
             "question": "आयनिक यौगिकों के गलनांक और क्वथनांक बहुत अधिक होते हैं क्योंकि _______।",
@@ -691,7 +726,8 @@
             "examName": "RRB Group D 17/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_46"
+            "id": "q_chemical_bonding_46",
+            "correct_option": 2
         },
         {
             "question": "कार्बन की सर्वतोमुखी प्रकृति निम्नलिखित में से किस प्रकार के यौगिकों के निर्माण के लिए उत्तरदायी है?",
@@ -721,7 +757,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_48"
+            "id": "q_chemical_bonding_48",
+            "correct_option": 1
         },
         {
             "question": "कौन सी गैस औद्योगिक उत्पादन का एक प्रमुख उत्पाद है जिसका उपयोग एरोसोल प्रणोदक और वातानेकूलन प्रणालियों में किया जाता है?",
@@ -736,7 +773,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 17 Jun, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_49"
+            "id": "q_chemical_bonding_49",
+            "correct_option": 2
         },
         {
             "question": "जब कॉपर ऑक्साइड युक्त बीकर में थोड़ी मात्रा में हाइड्रोक्लोरिक अम्ल मिलाया जाता है, तो कौन सा यौगिक बनता है?",
@@ -751,7 +789,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_50"
+            "id": "q_chemical_bonding_50",
+            "correct_option": 1
         },
         {
             "question": "असंतृप्त कार्बन, संतृप्त कार्बन यौगिकों की तुलना में _______ होते हैं।",
@@ -766,7 +805,8 @@
             "examName": "RRB Level 01 Stage I 08/01/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_51"
+            "id": "q_chemical_bonding_51",
+            "correct_option": 1
         },
         {
             "question": "लीथियम नाइट्राइड का सूत्र है",
@@ -781,7 +821,8 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_52"
+            "id": "q_chemical_bonding_52",
+            "correct_option": 3
         },
         {
             "question": "एल्युमीनियम और सल्फेट आयनों द्वारा निर्मित यौगिक का रासायनिक सूत्र निम्नलिखित में से कौन सही ढंग से दर्शाता है?",
@@ -796,7 +837,8 @@
             "examName": "RRB JE ECE 22 Apr 2025 Shift 1 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_53"
+            "id": "q_chemical_bonding_53",
+            "correct_option": 2
         },
         {
             "question": "विद्युतीकरण के माध्यमें से किसी भी वांछित सामग्री की परत को किसी अन्य सामग्री पर जमा करने की प्रक्रिया क्या है?",
@@ -811,7 +853,8 @@
             "examName": "RPF Constable 2018 16 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_54"
+            "id": "q_chemical_bonding_54",
+            "correct_option": 1
         },
         {
             "question": "कमरे के तापमान पर निम्नलिखित में से कौन सी हरी-पीली गैस होती है जिसमें एक विशिष्ट गंध होती है?",
@@ -826,7 +869,8 @@
             "examName": "RRB NTPC CBT-I : 9 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_chemical_bonding_55"
+            "id": "q_chemical_bonding_55",
+            "correct_option": 1
         },
         {
             "question": "DNA में मानक क्षार युग्मन किस प्रकार के आबंधन के कारण होता है?",
@@ -841,7 +885,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 10 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_56"
+            "id": "q_chemical_bonding_56",
+            "correct_option": 3
         },
         {
             "question": "किसी पदार्थ की दर्पण छवि पर अत्यधिक व्यसनी न होने का गुण क्या है?",
@@ -856,7 +901,8 @@
             "examName": "RPF SI 2018 : 06 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_57"
+            "id": "q_chemical_bonding_57",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा, आयन (ion) का सही वर्णन करता है?",
@@ -871,12 +917,13 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_58"
+            "id": "q_chemical_bonding_58",
+            "correct_option": 1
         },
         {
             "question": "धावन सोडा का आणविक सूत्र क्या है?",
             "options": [
-                "NaHCO 3",
+                "Na₂CO₃·10H₂O",
                 "Na₂ CO₃ ·10H₂O",
                 "Na₂ CO₃",
                 "NaCl"
@@ -901,7 +948,8 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_60"
+            "id": "q_chemical_bonding_60",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा युग्म अम्ल-क्षार संयुग्मी युग्म है?",
@@ -916,7 +964,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 18 Jun, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_61"
+            "id": "q_chemical_bonding_61",
+            "correct_option": 3
         },
         {
             "question": "दी गई अभिक्रिया में, निम्नलिखित में से किस अभिक्रियक का ऑक्सीकरण होता है? PbO + H₂ → Pb + H₂O",
@@ -931,7 +980,8 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_62"
+            "id": "q_chemical_bonding_62",
+            "correct_option": 3
         },
         {
             "question": "आंतरिक कैप्सूल, पनडुब्बियों और श्वसन मास्क में ऑक्सीजन उत्पन्न करने और कार्बन-डाई-ऑक्साइड को बाहर निकालने के लिए किसका उपयोग किया जाता है?",
@@ -946,7 +996,8 @@
             "examName": "RPF Constable 2018 19 Feb 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_63"
+            "id": "q_chemical_bonding_63",
+            "correct_option": 2
         },
         {
             "question": "किसी तत्व की संयोजक शक्ति (क्षमता) क्या कहलाती है?",
@@ -961,7 +1012,8 @@
             "examName": "RRB Group D 11/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_64"
+            "id": "q_chemical_bonding_64",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किसे' शुष्क बफ' के नाम से जाना जाता है?",
@@ -976,7 +1028,8 @@
             "examName": "RRB JE 28 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_65"
+            "id": "q_chemical_bonding_65",
+            "correct_option": 1
         },
         {
             "question": "मीथेन के लिए प्रतीक क्या है?",
@@ -991,7 +1044,8 @@
             "examName": "RRB NTPC CBT-I : 30 Dec 2020 Shift 2",
             "examYear": "2020",
             "type": "standard",
-            "id": "q_chemical_bonding_66"
+            "id": "q_chemical_bonding_66",
+            "correct_option": 2
         },
         {
             "question": "एक विलयन चाक पाउडर के साथ अभिक्रिया करके एक गैस देता है जो चूने-पानी को दूधिया कर देता है। समाधान में शामिल हैं:",
@@ -1006,7 +1060,8 @@
             "examName": "RRB NTPC CBT-I : 30 Dec 2020 Shift 2",
             "examYear": "2020",
             "type": "standard",
-            "id": "q_chemical_bonding_67"
+            "id": "q_chemical_bonding_67",
+            "correct_option": 3
         },
         {
             "question": "अभिक्रिया MgO + CO → Mg + CO₂ में, किस पदार्थ का ऑक्सीकरण होता है?",
@@ -1021,7 +1076,8 @@
             "examName": "RRB JE 27 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_68"
+            "id": "q_chemical_bonding_68",
+            "correct_option": 1
         },
         {
             "question": "नीचे दिए गए कथनों पर विचार करें और सही उत्तर पहचानें। कथन-I: आयनिक यौगिक आम तौर पर भंगुर होते हैं और दाब डालने पर टुकड़ों में टूट जाते हैं। कथन-II: आयनिक यौगिकों का गलनांक और क्वथनांक कम होता है।",
@@ -1051,7 +1107,8 @@
             "examName": "RRB Level 01 Stage I 05/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_70"
+            "id": "q_chemical_bonding_70",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा क्लोरीनयुक्त हाइड्रोकार्बन कीटनाशक का उदाहरण है?",
@@ -1066,7 +1123,8 @@
             "examName": "RRB JE ME 19 Sep 2019 Shift 2 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_71"
+            "id": "q_chemical_bonding_71",
+            "correct_option": 2
         },
         {
             "question": "द्वि-विस्थापन अभिक्रिया में अभिकारकों के बीच किस प्रकार के आयनों का विनिमय होता है?",
@@ -1081,7 +1139,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_72"
+            "id": "q_chemical_bonding_72",
+            "correct_option": 3
         },
         {
             "question": "आयनिक यौगिकों में विद्युत की चालकता के बारे में निम्नलिखित में से कौन सा कथन सही है?",
@@ -1112,7 +1171,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_74"
+            "id": "q_chemical_bonding_74",
+            "correct_option": 1
         },
         {
             "question": "सहसंयोजक बंध किसके द्वारा बनते हैं?",
@@ -1142,7 +1202,8 @@
             "examName": "RRB JE 20/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_76"
+            "id": "q_chemical_bonding_76",
+            "correct_option": 3
         },
         {
             "question": "प्रतिस्थापन अभिक्रिया में _______________________ शामिल होता हैं।",
@@ -1157,7 +1218,8 @@
             "examName": "RRB Level 01 Stage I 10/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_77"
+            "id": "q_chemical_bonding_77",
+            "correct_option": 1
         },
         {
             "question": "जब कार्बन डाइऑक्साइड को चूने के पानी से होकर प्रवाहित किया जाता है, तो __________ अवक्षेपित होता है।",
@@ -1187,7 +1249,8 @@
             "examName": "RRB JE 19/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_79"
+            "id": "q_chemical_bonding_79",
+            "correct_option": 3
         },
         {
             "question": "ग्रेफाइट विद्युत का अच्छा सुचालक क्यों है?",
@@ -1202,7 +1265,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_80"
+            "id": "q_chemical_bonding_80",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा कार्बनिक यौगिक है?",
@@ -1222,7 +1286,7 @@
         {
             "question": "कौन-सा कथन, कार्बनिक यौगिकों की सजातीय श्रेणी का सर्वोत्तम रूप से वर्णन करता है?",
             "options": [
-                "समान सामान्य सूत्र, समान रासायनिक गुणों और − CH₂− समूह द्वारा भिन्न क्रमागत सदस्यों वाले यौगिकों की एक श्रेणी",
+                "समान सामान्य सूत्र, समान रासायनिक गुणों और − CH₂− समूह द्वारा भिन्न क्रमागत",
                 "शाखित श्रृंखलाओं वाले यौगिकों की एक श्रेणी",
                 "विभिन्न प्रकायात्मक समूहों लेकिन समान आण्विक सूत्र वाले यौगिकों की एक श्रेणी",
                 "समान भौतिक गुणों वाले तत्वों की एक श्रेणी"
@@ -1247,7 +1311,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_chemical_bonding_83"
+            "id": "q_chemical_bonding_83",
+            "correct_option": 3
         },
         {
             "question": "एक परमाणु की किसी अन्य तत्व के परमाणु से बंधे होने पर इलेक्ट्रॉनों को अपनी और आकर्षित करने की सापेक्ष प्रवृत्ति को क्या कहा जाता है?",
@@ -1277,7 +1342,8 @@
             "examName": "RRB JE EE 19 Sept 2019 Shift 2 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_85"
+            "id": "q_chemical_bonding_85",
+            "correct_option": 1
         },
         {
             "question": "कार्बनिक यौगिकों को परिभाषित करने वाली प्राथमिक विशेषता क्या है?",
@@ -1292,7 +1358,8 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_86"
+            "id": "q_chemical_bonding_86",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प इस कारण की सही व्याख्या करता है कि कार्बन, कार्बनिक यौगिकों में सहसंयोजक आबंध क्यों बनाता है?",
@@ -1300,14 +1367,15 @@
                 "कार्बन में धनात्मक आयन बनाने की प्रवृत्ति अधिक होती है।",
                 "कार्बन परमाणुओं की बाह्य कक्षा पूर्ण होती है, और वे अभिक्रिया नहीं करते हैं।",
                 "कार्बन आसानी से अपने सभी संयोजी इलेक्ट्रॉन आधातुओं को दान कर देता है।",
-                "कार्बन के बाह्य कोश में चार इलेक्ट्रॉन होते हैं और वह अपना अष्टक पूरा करने के लिए इलेक्ट्रॉन साझा करता है।"
+                "कार्बन के बाह्य कोश में चार इलेक्ट्रॉन होते हैं और वह अपना अष्टक पूरा करने के लिए"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: कार्बन के बाह्य कोश में चार इलेक्ट्रॉन होते हैं और वह अपना अष्टक पूरा करने के लिए\n\n📝 विस्तृत व्याख्या:\nकार्बन (C) एक विशेष तत्व है जो अपने चार बाह्य इलेक्ट्रॉनों के कारण सहसंयोजक आबंध बनाने में सक्षम है। कार्बन के बाह्य कक्ष में चार इलेक्ट्रॉन होते हैं, जिसका अर्थ है कि इसे अपने अष्टक (octet) को पूरा करने के लिए चार और इलेक्ट्रॉनों की आवश्यकता होती है। अष्टक सिद्धांत के अनुसार, अधिकांश तत्व स्थिरता प्राप्त करने के लिए अपने बाह्य कक्ष में आठ इलेक्ट्रॉन चाहते हैं। इसलिए, कार्बन अपने चार इलेक्ट्रॉनों को साझा करके अन्य तत्वों के साथ सहसंयोजक बंधन बनाता है। यह प्रक्रिया कार्बनिक यौगिकों के निर्माण में महत्वपूर्ण है, क्योंकि कार्बन के साथ अन्य तत्व जैसे हाइड्रोजन (H), ऑक्सीजन (O), और नाइट्रोजन (N) आसानी से बंधन बना सकते हैं। इस प्रकार, कार्बन की सहसंयोजकता उसे एक अद्वितीय तत्व बनाती है, जो जटिल और विविध यौगिकों का निर्माण करने में सक्षम है।\n\n🔬 वैज्ञानिक सिद्धांत व तथ्य:\n- कार्बन का परमाणु संख्या 6 है, और इसका इलेक्ट्रॉन विन्यास 1s² 2s² 2p² है।\n- अष्टक सिद्धांत: तत्व अपने बाह्य कक्ष में आठ इलेक्ट्रॉन प्राप्त करने की कोशिश करते हैं।\n- सहसंयोजक बंधन: जब दो या दो से अधिक परमाणु अपने इलेक्ट्रॉनों को साझा करते हैं।\n- कार्बन के चार सहसंयोजक बंधन बनाने की क्षमता इसे जैविक रसायन विज्ञान में महत्वपूर्ण बनाती है।\n\n❌ गलत विकल्प विश्लेषण:\n• कार्बन में धनात्मक आयन बनाने की प्रवृत्ति अधिक होती है: यह विकल्प गलत है क्योंकि कार्बन धनात्मक आयन बनाने के बजाय अपने इलेक्ट्रॉनों को साझा करके बंधन बनाता है। धनात्मक आयन बनाने की प्रवृत्ति तब होती है जब तत्व अपने इलेक्ट्रॉन खोते हैं, जो कार्बन के लिए सामान्य नहीं है।\n• कार्बन परमाणुओं की बाह्य कक्षा पूर्ण होती है, और वे अभिक्रिया नहीं करते हैं: यह विकल्प भी गलत है। कार्बन की बाह्य कक्षा पूर्ण नहीं है, और यही कारण है कि वह अन्य तत्वों के साथ अभिक्रिया करता है। यदि इसकी बाह्य कक्षा पूर्ण होती, तो वह बंधन नहीं बना पाता।\n• कार्बन आसानी से अपने सभी संयोजी इलेक्ट्रॉन आधातुओं को दान कर देता है: यह विकल्प गलत है क्योंकि कार्बन अपने इलेक्ट्रॉनों को दान नहीं करता, बल्कि उन्हें साझा करता है। यह साझा करना ही सहसंयोजक बंधन का आधार है।\n\n💡 महत्वपूर्ण परीक्षा Tip:\n- कार्बन के चार सहसंयोजक बंधन बनाने की क्षमता को याद रखें, क्योंकि यह कई प्रश्नों में महत्वपूर्ण है।\n- अष्टक सिद्धांत को समझना आवश्यक है, क्योंकि यह रासायनिक बंधनों की स्थिरता को समझने में मदद करता है।\n- कार्बनिक यौगिकों के निर्माण में कार्बन की भूमिका को ध्यान में रखें, क्योंकि यह कई प्रतियोगी परीक्षाओं में पूछा जाता है।",
             "examName": "RRB Level 01 Stage I 22/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_87"
+            "id": "q_chemical_bonding_87",
+            "correct_option": 3
         },
         {
             "question": "किस बहुपरमाणुक आयन का ‘ n’ मान 3 के बराबर होता है?",
@@ -1322,7 +1390,8 @@
             "examName": "RRB Level 01 Stage I 15/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_88"
+            "id": "q_chemical_bonding_88",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा गुण सहसंयोजक यौगिक सामान्यतः प्रदर्शित नहीं करते हैं?",
@@ -1337,7 +1406,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_chemical_bonding_89"
+            "id": "q_chemical_bonding_89",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा/से कथन आयनिक यौगिकों के लिए सत्य नहीं है/हैं? i. आयोनिक यौगिकों का गलनांक और क्वथनांक कम होता है। ii. आयनिक यौगिक भंगुर होते हैं और दबाव डालने पर टुकड़ों में टूट जाते हैं। iii. आयनिक यौगिक ठोस होते हैं और धनात्मक तथा ऋणात्मक आयनों के बीच प्रबल आकर्षण बल के कारण कुछ हद तक कठोर होते हैं। iv. आयनिक यौगिक पिघली हुई अवस्था में विद्युत का संचालन करते हैं।",
@@ -1367,7 +1437,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_91"
+            "id": "q_chemical_bonding_91",
+            "correct_option": 1
         },
         {
             "question": "अमोनियम फॉस्फेट का रासायनिक सूत्र _________ है।",
@@ -1412,7 +1483,8 @@
             "examName": "RRB Group D 3/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_94"
+            "id": "q_chemical_bonding_94",
+            "correct_option": 2
         },
         {
             "question": "कार्बन यौगिकों के लिए निम्नलिखित में से कौन सा कथन सही है?",
@@ -1427,7 +1499,8 @@
             "examName": "RRB JE 29 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_95"
+            "id": "q_chemical_bonding_95",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा/से दाब वैद्युत सामग्री का उदाहरण है/हैं?",
@@ -1442,7 +1515,8 @@
             "examName": "RRB JE CE 28 Aug 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_96"
+            "id": "q_chemical_bonding_96",
+            "correct_option": 3
         },
         {
             "question": "कार्बनिक कार्बन यौगिकों का गलनांक आयनिक यौगिकों की तुलना में कम क्यों होता है?",
@@ -1472,7 +1546,8 @@
             "examName": "RPF Constable 2018 11 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_98"
+            "id": "q_chemical_bonding_98",
+            "correct_option": 3
         },
         {
             "question": "एथेनॉल और एसीटिक अम्ल के बीच अभिक्रिया का उत्पाद क्या है?",
@@ -1487,7 +1562,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_99"
+            "id": "q_chemical_bonding_99",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन अल्पकालिक जलवायु प्रदूषकों से संबंधित नहीं है?",
@@ -1548,7 +1624,8 @@
             "examName": "RPF SI 2018 : 12 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_103"
+            "id": "q_chemical_bonding_103",
+            "correct_option": 2
         },
         {
             "question": "पारा आयन की संयोजकता ________ होती है।",
@@ -1563,7 +1640,8 @@
             "examName": "RRB Group D 27 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_104"
+            "id": "q_chemical_bonding_104",
+            "correct_option": 1
         },
         {
             "question": "कार्बन यौगिकों में किस प्रकार का बंध उपस्थित होता है?",
@@ -1578,7 +1656,8 @@
             "examName": "RRB Group D 22 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_chemical_bonding_105"
+            "id": "q_chemical_bonding_105",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस युग्म की संयोजकता समान है?",
@@ -1608,7 +1687,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_107"
+            "id": "q_chemical_bonding_107",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा यौगिक सहसंयोजक यौगिक का उदाहरण है?",
@@ -1623,7 +1703,8 @@
             "examName": "RRB Group D 20 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_chemical_bonding_108"
+            "id": "q_chemical_bonding_108",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा सहसंयोजक आबंध नहीं दिखाएगा?",
@@ -1638,7 +1719,8 @@
             "examName": "RRB Group D 12 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_chemical_bonding_109"
+            "id": "q_chemical_bonding_109",
+            "correct_option": 2
         },
         {
             "question": "एथेन, का अणु सूत्र C₂H₆ है और इसमें ________ होते हैं।",
@@ -1653,7 +1735,8 @@
             "examName": "RRB JE CBT I - : 30 May 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_110"
+            "id": "q_chemical_bonding_110",
+            "correct_option": 2
         },
         {
             "question": "क्लोरोफ्लोरोकार्बन से निकलने वाली _________ गैस, ओजोन परत के लिए हानिकारक है।",
@@ -1698,7 +1781,8 @@
             "examName": "RRB JE 19/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_113"
+            "id": "q_chemical_bonding_113",
+            "correct_option": 3
         },
         {
             "question": "हाइड्रोकार्बन के कार्बन-कार्बन परमाणुओं के बीच निम्नलिखित में से कौन से आबंध बनते हैं?",
@@ -1713,7 +1797,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_chemical_bonding_114"
+            "id": "q_chemical_bonding_114",
+            "correct_option": 3
         },
         {
             "question": "कार्बन एक स्थायी यौगिक क्यों बनाता है?",
@@ -1728,7 +1813,8 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_115"
+            "id": "q_chemical_bonding_115",
+            "correct_option": 1
         },
         {
             "question": "ऐल्केन वाली प्रतिस्थापन अभिक्रिया में, ऐल्केन अणु के हाइड्रोजन परमाणुओं का क्या होता है?",
@@ -1763,7 +1849,7 @@
         {
             "question": "सहसंयोजक यौगिक-",
             "options": [
-                "का गलनांक और क्वथनांक कम होता है।",
+                "सभी विकल्प",
                 "उपरोक्त दोनों कथन सत्य हैं",
                 "विद्युत के कुचालक होते हैं।",
                 "आबंध परमाणुओं में इलेक्ट्रॉनों के साझाकरण से बनते हैं।"
@@ -1833,7 +1919,8 @@
             "examName": "RPF SI CBT-I 2024 : 12 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_122"
+            "id": "q_chemical_bonding_122",
+            "correct_option": 1
         },
         {
             "question": "कैल्शियम हाइड्रॉक्साइड वायु में उपस्थित कार्बन डाइऑक्साइड के साथ धीमी गति से अभिक्रिया करके किस यौगिक की एक पतली परत बनाता है जिसका उपयोग सफेदी करने के लिए किया जा सकता है?",
@@ -1848,7 +1935,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_123"
+            "id": "q_chemical_bonding_123",
+            "correct_option": 3
         },
         {
             "question": "अमोनियम सल्फेट का सूत्र क्या है?",
@@ -1863,7 +1951,8 @@
             "examName": "RRB JE CE 28 Aug 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_124"
+            "id": "q_chemical_bonding_124",
+            "correct_option": 3
         },
         {
             "question": "उस नीले-फ्लोरोसेंट रंग का नाम बताइए जिसका उपयोग जीवित या स्थिर कोशिकाओं को रंगने के लिए किया जा सकता है।",
@@ -1878,7 +1967,8 @@
             "examName": "RPF SI CBT-I 2024 : 02 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_125"
+            "id": "q_chemical_bonding_125",
+            "correct_option": 2
         },
         {
             "question": "PAN शब्द का क्या अभिप्राय है?",
@@ -1893,7 +1983,8 @@
             "examName": "RRB JE ME 19 Sep 2019 Shift 2 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_126"
+            "id": "q_chemical_bonding_126",
+            "correct_option": 3
         },
         {
             "question": "__________ श्वसन एक ऐसी प्रक्रिया है जिसमें जीव ऑक्सीजन की अनुपस्थिति में ऊर्जा उत्पन्न करते हैं।",
@@ -1908,7 +1999,8 @@
             "examName": "RPF SI Previous Paper : 5 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_127"
+            "id": "q_chemical_bonding_127",
+            "correct_option": 3
         },
         {
             "question": "क्लोरोफॉम का आणविक सूत्र क्या है?",
@@ -1923,7 +2015,8 @@
             "examName": "RRB JE 24 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_128"
+            "id": "q_chemical_bonding_128",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा समस्थानिकों के युग्म को निरूपित नहीं करता है?",
@@ -1931,7 +2024,7 @@
                 "¹²C और ¹⁴C",
                 "¹H और ²H",
                 "³⁵Cl और ³⁷Cl",
-                "¹⁴N और ¹⁴C"
+                "N/A"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: N/A\n\n📝 व्याख्या:\nसमस्थानिक (Isotopes) वे परमाणु होते हैं जिनका परमाणु क्रमांक (Atomic Number) समान होता है, लेकिन द्रव्यमान संख्या (Mass Number) भिन्न होती है। इसका अर्थ है कि उनमें प्रोटॉन की संख्या समान होती है, परंतु न्यूट्रॉन की संख्या अलग-अलग होती है। यदि किसी युग्म में परमाणु क्रमांक अलग-अलग हैं, तो वे समस्थानिक नहीं हो सकते, बल्कि वे अलग-अलग तत्व कहलाएंगे।\n\n🔬 वैज्ञानिक सिद्धांत व समीकरण:\nसमस्थानिकों को निरूपित करने का मानक तरीका: Z^A X है, जहाँ:\nZ = परमाणु क्रमांक (Protons की संख्या)\nA = द्रव्यमान संख्या (Protons + Neutrons की संख्या)\nX = तत्व का प्रतीक\nसिद्धांत: यदि दो परमाणुओं के लिए Z समान है और A भिन्न है, तो वे समस्थानिक हैं। यदि Z भिन्न है, तो वे समस्थानिक नहीं हैं।\n\n❌ गलत विकल्प विश्लेषण:\n• [पहला गलत विकल्प]: यह विकल्प समस्थानिकों की परिभाषा को पूर्णतः संतुष्ट करता है क्योंकि इसमें परमाणु क्रमांक समान और द्रव्यमान संख्या भिन्न है।\n• [दूसरा गलत विकल्प]: यह विकल्प भी समस्थानिकों के युग्म को दर्शाता है, अतः यह प्रश्न की शर्त के अनुसार गलत है।\n• [तीसरा गलत विकल्प]: यह विकल्प भी समस्थानिकों के युग्म को दर्शाता है, अतः यह भी प्रश्न की शर्त के अनुसार गलत है।\n\n💡 परीक्षा Tip:\nRRB परीक्षाओं में अक्सर 'समभारिक' (Isobars) और 'समस्थानिक' (Isotopes) के बीच भ्रमित करने वाले प्रश्न पूछे जाते हैं। याद रखें: \"समस्थानिक\" में 'स्थान' (Atomic Number) समान होता है, जबकि \"समभारिक\" में 'भार' (Mass Number) समान होता है। उदाहरण के लिए, Argon (18^40 Ar) और Calcium (20^40 Ca) समभारिक हैं क्योंकि इनका भार 40 समान है।",
@@ -1955,12 +2048,13 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_130"
+            "id": "q_chemical_bonding_130",
+            "correct_option": 1
         },
         {
             "question": "सहसंयोजक यौगिकों के गलनांक और क्वथनांक सामान्यतः कम क्यों होते हैं?",
             "options": [
-                "इनमें धात्विक आबंध होते हैं",
+                "इनमें दुबल अंतराअणेक बल होते हैं",
                 "इनमें प्रबल स्थिरवैद्युत बल होते हैं",
                 "इनकी संरचना दृढ़ जालक होती है",
                 "इनमें दुर्बल अंतराअणेक बल होते हैं"
@@ -1975,7 +2069,7 @@
         {
             "question": "उत्क्रम परासरण __________ का एक प्रकार है।",
             "options": [
-                "सूक्ष्म निस्यंदन",
+                "अनुप्रस्थ प्रवाह निष्यंदन प्रणाली",
                 "अंध अंत निस्यंदन प्रणाली",
                 "अनुप्रस्थ प्रवाह निस्यंदन प्रणाली",
                 "आयन विनिमय विधि"
@@ -2000,7 +2094,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_133"
+            "id": "q_chemical_bonding_133",
+            "correct_option": 2
         },
         {
             "question": "यदि लंबा (T), छोटे (t) पर प्रभावी है, और गोल बीज (R), झुर्रीदार (r) पर प्रभावी हैं, तो उस पौधे के जीनोटाइप की पहचान कीजिए जो छोटी ऊंचाई और गोल बीज दर्शाता है।",
@@ -2015,7 +2110,8 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_134"
+            "id": "q_chemical_bonding_134",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस यौगिक का सूत्र इकाई द्रव्यमान 100 u है?",
@@ -2030,7 +2126,8 @@
             "examName": "RRB JE 20/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_135"
+            "id": "q_chemical_bonding_135",
+            "correct_option": 3
         },
         {
             "question": "वह प्रकायात्मक समूह जिसमें ऑक्सीजन विषम परमाणु (oxygen hetero atom) नहीं होता है, __________ है।",
@@ -2045,7 +2142,8 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_136"
+            "id": "q_chemical_bonding_136",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित यौगिक का IUPAC नाम क्या है? CH 3 CHBrCH 2 CH 2 CH 3",
@@ -2075,7 +2173,8 @@
             "examName": "RRB Level 01 Stage I 09/01/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_138"
+            "id": "q_chemical_bonding_138",
+            "correct_option": 2
         },
         {
             "question": "N₂ में साझा इलेक्ट्रॉनों की कुल संख्या ______ है।",
@@ -2090,7 +2189,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_139"
+            "id": "q_chemical_bonding_139",
+            "correct_option": 2
         },
         {
             "question": "N₂ के मामले में, अणु में __________ होता है।",
@@ -2105,7 +2205,8 @@
             "examName": "RRB Group D 14 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_140"
+            "id": "q_chemical_bonding_140",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा पदार्थ बनता है जब कार्बन डाइऑक्साइड कैल्शियम हाइड्रॉक्साइड के साथ अभिक्रिया करता है?",
@@ -2120,7 +2221,8 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_141"
+            "id": "q_chemical_bonding_141",
+            "correct_option": 3
         },
         {
             "question": "एक रेडॉक्स अभिक्रिया में, अपचयन को किस प्रकार वर्णित किया जा सकता है?",
@@ -2135,7 +2237,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_142"
+            "id": "q_chemical_bonding_142",
+            "correct_option": 3
         },
         {
             "question": "______ इलेक्ट्रॉनों की संख्या N₂ में आबंध बनाने में भाग लेते है।",
@@ -2150,7 +2253,8 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_143"
+            "id": "q_chemical_bonding_143",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा, कार्बन के सर्वतोमुखी गुण (versatility) का एक कारण नहीं है?",
@@ -2165,7 +2269,8 @@
             "examName": "RRB Technician Grade III 06/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_144"
+            "id": "q_chemical_bonding_144",
+            "correct_option": 3
         },
         {
             "question": "एथेनॉल किस प्रकायात्मक समूह की उपस्थिति के कारण जल के साथ मिश्रणीय है?",
@@ -2180,12 +2285,13 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_145"
+            "id": "q_chemical_bonding_145",
+            "correct_option": 1
         },
         {
             "question": "किन दो रसायनज्ञों को 1864 में द्रव्यमान क्रिया के नियम को विकसित करने का श्रेय दिया जाता है, जिसमें कहा गया है कि अभिकारकों की सांद्रता यह निर्धारित करती है कि रासायनिक परिवर्तन कितनी जल्दी होता है?",
             "options": [
-                "फ्रिट्ज़ हेबर और कार्ल बॉश",
+                "केटो एम गुल्डबग और पीटर वागे",
                 "कार्ल विल्हेम शेले और हम्फ्री डेवी",
                 "केटो एम गुल्डबर्ग और पीटर वागे",
                 "जॉर्ज ब्रांड्ट और टॉबन बर्गर्मैन"
@@ -2210,7 +2316,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 06 Jun, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_147"
+            "id": "q_chemical_bonding_147",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन क्लोरीनेटेड हाइड्रोकार्बन कीटनाशक का उदाहरण है?",
@@ -2225,7 +2332,8 @@
             "examName": "RRB JE EE 19 Sept 2019 Shift 2 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_148"
+            "id": "q_chemical_bonding_148",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन HCl का संयुग्मी क्षार है?",
@@ -2240,7 +2348,8 @@
             "examName": "RRB NTPC UG CBT-I : 02 Sept, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_149"
+            "id": "q_chemical_bonding_149",
+            "correct_option": 2
         },
         {
             "question": "कार्बन अपने दो विशिष्ट गुणों के कारण बहुत बड़ी संख्या में यौगिक बनाता है। निम्नलिखित में से कौन इन गुणों की सही पहचान करता है?",
@@ -2255,7 +2364,8 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_150"
+            "id": "q_chemical_bonding_150",
+            "correct_option": 3
         },
         {
             "question": "कार्बन के दो मुख्य गुणधर्म क्या हैं जो इसकी' विविधतायुक्त प्रकृति' और बड़ी संख्या में यौगिक बनाने की क्षमता में योगदान करते हैं?",
@@ -2300,7 +2410,8 @@
             "examName": "RRB ALP CBT-I 2024 : 28 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_153"
+            "id": "q_chemical_bonding_153",
+            "correct_option": 2
         },
         {
             "question": "जब तांबे को हवा की उपस्थिति में गर्म किया जाता है, तो निम्नलिखित में से क्या बनता है?",
@@ -2315,7 +2426,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_154"
+            "id": "q_chemical_bonding_154",
+            "correct_option": 2
         },
         {
             "question": "समजातीय श्रेणी CH₄, C₂H₆, और C₃H₈ के क्रमागत सदस्यों में किस इकाई से अंतर होता है?",
@@ -2345,7 +2457,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_156"
+            "id": "q_chemical_bonding_156",
+            "correct_option": 3
         },
         {
             "question": "_______ अयस्कों को भजन की प्रक्रिया द्वारा उनके संबंधित ऑक्साइडों में परिवर्तित किया जाता है।",
@@ -2360,7 +2473,8 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_157"
+            "id": "q_chemical_bonding_157",
+            "correct_option": 3
         },
         {
             "question": "ऑक्सीजन के एक अणु में ________ होता है।",
@@ -2390,7 +2504,8 @@
             "examName": "RRB NTPC CBT-I : 23 July 2021 Shift 1",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_159"
+            "id": "q_chemical_bonding_159",
+            "correct_option": 2
         },
         {
             "question": "एक यौगिक का आण्विक द्रव्यमान'60' है। यदि इसमें 40% कार्बन, 6.7% हाइड्रोजन, और 53.3% ऑक्सीजन है, तो इसका आण्विक सूत्र क्या होगा?",
@@ -2420,7 +2535,8 @@
             "examName": "RRB ALP Electronics Mechanic 21 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_161"
+            "id": "q_chemical_bonding_161",
+            "correct_option": 3
         },
         {
             "question": "ग्लूकोज का रासायनिक सूत्र क्या है?",
@@ -2451,7 +2567,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_163"
+            "id": "q_chemical_bonding_163",
+            "correct_option": 1
         },
         {
             "question": "जब लिटमस को बोरेक्स के एक विलयन में मिलाया जाता है, तो यह ___________ हो जाता है।",
@@ -2466,7 +2583,8 @@
             "examName": "RRB JE 23 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_164"
+            "id": "q_chemical_bonding_164",
+            "correct_option": 3
         },
         {
             "question": "श्वेत प्रकाश के सात रंगों में से कौन सा कांच के प्रिज़्म द्वारा प्रकाश के परिक्षेपण के बाद सबसे कम विचलित होता है?",
@@ -2486,7 +2604,7 @@
         {
             "question": "फेरस सल्फेट के अपघटन से निम्नलिखित में से कौन-से पदार्थ बनते हैं? ट्राइऑक्साइड (SO₃)",
             "options": [
-                "फेरिक ऑक्साइड (Fe₂ O₃), सल्फर डाइऑक्साइड (SO₂) और सल्फर",
+                "फेरस सल्फेट (FeSO₄) के अपघटन से फेरिक ऑक्साइड (Fe₂O₃), सल्फर डाइऑक्साइड (SO₂) और सल्फर ट्राइऑक्साइड (SO₃) बनते हैं।",
                 "केवल फेरिक ऑक्साइड (Fe₂ O₃) और सल्फर डाइऑक्साइड (SO₂)",
                 "केवल फेरिक ऑक्साइड (Fe₂ O₃)",
                 "केवल फेरिक ऑक्साइड (Fe₂ O₃) और सल्फर ट्राइऑक्साइड (SO₃)"
@@ -2511,7 +2629,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_167"
+            "id": "q_chemical_bonding_167",
+            "correct_option": 1
         },
         {
             "question": "कार्बन के यौगिक जिनमें कार्बन परमाणुओं के बीच केवल एकल आबंध होते हैं, उन्हें ______ कहा जाता है।",
@@ -2526,12 +2645,13 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_168"
+            "id": "q_chemical_bonding_168",
+            "correct_option": 3
         },
         {
             "question": "फॉस्फोरिक अम्ल (H₃ PO₄) निम्नलिखित में से किन आयनों से बना होता है?",
             "options": [
-                "H+, PO₄₄-",
+                "H⁺, PO₄³⁻",
                 "H₂+, PO₄₃-",
                 "H+, PO₄₂-",
                 "H+, PO₄₃-"
@@ -2556,7 +2676,8 @@
             "examName": "RRB JE 24 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_170"
+            "id": "q_chemical_bonding_170",
+            "correct_option": 1
         },
         {
             "question": "CaO का रासायनिक नाम क्या है?",
@@ -2571,12 +2692,13 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_171"
+            "id": "q_chemical_bonding_171",
+            "correct_option": 2
         },
         {
             "question": "कार्बन बड़ी संख्या में यौगिक बनाने में सक्षम क्यों है?",
             "options": [
-                "यह प्रबल आयनिक बंध बनाता है।",
+                "यह श्रंखला और चतुःसंयोजकता दर्शाता है।",
                 "इसका घनत्व उच्च है।",
                 "यह श्रंखला और चतुःसंयोजकता दशाता है।",
                 "यह अत्यधिक अभिक्रियाशील है।"
@@ -2601,7 +2723,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_173"
+            "id": "q_chemical_bonding_173",
+            "correct_option": 1
         },
         {
             "question": "DNA एक ऐसा अणु है जो जीवित जीवों की कोशिकाओं में आनुवंशिक सूचना रखता है। DNA का पूर्ण रूप _____ है।",
@@ -2631,7 +2754,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_175"
+            "id": "q_chemical_bonding_175",
+            "correct_option": 2
         },
         {
             "question": "आयनिक यौगिकों के गुणों के बारे में निम्नलिखित में से कौन-सा कथन गलत है?",
@@ -2676,7 +2800,8 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_178"
+            "id": "q_chemical_bonding_178",
+            "correct_option": 2
         },
         {
             "question": "ब्रोंस्टेड-लॉरी सिद्धांत के अनुसार, निम्नलिखित में से कौन एक अम्ल को परिभाषित करता है?",
@@ -2721,7 +2846,8 @@
             "examName": "RRB JE 20/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_181"
+            "id": "q_chemical_bonding_181",
+            "correct_option": 1
         },
         {
             "question": "पौधों के तनों में वलयों के निर्माण और जड़ों की वृद्धि में कौन से ऊतक सहायक होते हैं?",
@@ -2751,7 +2877,8 @@
             "examName": "RRB Level 01 Stage I 22/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_183"
+            "id": "q_chemical_bonding_183",
+            "correct_option": 1
         },
         {
             "question": "सिंथसेिस गैस (सिंघास) मुख्य रूप से किसका मिश्रण होता है?",
@@ -2766,7 +2893,8 @@
             "examName": "RRB NTPC CBT-I : 9 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_chemical_bonding_184"
+            "id": "q_chemical_bonding_184",
+            "correct_option": 2
         },
         {
             "question": "संगमरमर का रासायनिक सूत्र क्या है?",
@@ -2811,7 +2939,8 @@
             "examName": "RPF Constable 2024 04 Mar, 2025 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_187"
+            "id": "q_chemical_bonding_187",
+            "correct_option": 2
         },
         {
             "question": "मिसेल (micelle) में, कौन-सा भाग बाहर की तरफ जल की ओर होता है?",
@@ -2826,7 +2955,8 @@
             "examName": "RRB JE 25/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_188"
+            "id": "q_chemical_bonding_188",
+            "correct_option": 1
         },
         {
             "question": "जब कोई धातु किसी अधातु के साथ अभिक्रिया करती है, तो सामान्यतः किस प्रकार का रासायनिक आबंध बनता है?",
@@ -2856,7 +2986,8 @@
             "examName": "RRB Level 01 Stage I 26/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_190"
+            "id": "q_chemical_bonding_190",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन स्थिर अनुपात के नियम को सही ढंग से परिभाषित करता है?",
@@ -2871,7 +3002,8 @@
             "examName": "RRB Level 01 Stage I 05/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_191"
+            "id": "q_chemical_bonding_191",
+            "correct_option": 3
         },
         {
             "question": "जब एक बीकर में मौजूद थोड़ी मात्रा में कॉपर ऑक्साइड में तनु हाइड्रोक्लोरिक अम्ल मिलाया जाता है, तो कौन सा यौगिक बनता है?",
@@ -2886,12 +3018,13 @@
             "examName": "RRB ALP CBT-I 2024 : 28 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_192"
+            "id": "q_chemical_bonding_192",
+            "correct_option": 1
         },
         {
             "question": "एथीन का इलेक्ट्रॉनिक डॉट और क्रॉस संरचना _______ है।",
             "options": [
-                "6",
+                "N/A",
                 "4",
                 "5",
                 "8"
@@ -2918,7 +3051,8 @@
             "examName": "RPF Constable 2018 19 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_194"
+            "id": "q_chemical_bonding_194",
+            "correct_option": 1
         },
         {
             "question": "रासायनिक रूप से, जंग क्या है?",
@@ -2933,7 +3067,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_195"
+            "id": "q_chemical_bonding_195",
+            "correct_option": 3
         },
         {
             "question": "जब तनु हाइड्रोक्लोरिक अम्ल, कैल्शियम कार्बोनेट के साथ अभिक्रिया करता है, तो मुक्त होने वाली गैस चूने के जल के माध्यमें से पारित होती है। गैस को अधिक मात्रा में पारित करने पर, किस कारण से दूधियापन गायब हो जाता है?",
@@ -2948,7 +3083,8 @@
             "examName": "RRB JE 25/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_196"
+            "id": "q_chemical_bonding_196",
+            "correct_option": 1
         },
         {
             "question": "कार्बन लंबी श्रृंखलाएं बना सकता है, क्योंकि यह ________ प्रदर्शित करता है तथा ________ दर्शाता है।",
@@ -2963,7 +3099,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_197"
+            "id": "q_chemical_bonding_197",
+            "correct_option": 3
         },
         {
             "question": "संतृप्त हाइड्रोकार्बनों में कार्बन परमाणुओं के मध्य किस प्रकार का आबंध पाया जाता है?",
@@ -2978,7 +3115,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_198"
+            "id": "q_chemical_bonding_198",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा एक सहसंयोजक यौगिक है?",
@@ -2993,7 +3131,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_199"
+            "id": "q_chemical_bonding_199",
+            "correct_option": 3
         },
         {
             "question": "इनमें से कौन-सा एक रक्त समूह नहीं है?",
@@ -3008,7 +3147,8 @@
             "examName": "RRB JE 26 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_200"
+            "id": "q_chemical_bonding_200",
+            "correct_option": 3
         },
         {
             "question": "कौन सा नियम बताता है कि एक यौगिक में हमेशा समान तत्व समान द्रव्यमान अनुपात में होते हैं?",
@@ -3023,7 +3163,8 @@
             "examName": "RRB NTPC UG CBT-I : 03 Sept, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_201"
+            "id": "q_chemical_bonding_201",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से कौन-सा सहसंयोजक यौगिक का एक गुणधर्म नहीं है?",
@@ -3038,7 +3179,8 @@
             "examName": "RRB Group D 10/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_202"
+            "id": "q_chemical_bonding_202",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा ऐल्कीन का सामान्य सूत्र है?",
@@ -3053,7 +3195,8 @@
             "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_203"
+            "id": "q_chemical_bonding_203",
+            "correct_option": 3
         },
         {
             "question": "फिनोल का रासायनिक सूत्र क्या है?",
@@ -3098,7 +3241,8 @@
             "examName": "RRB JE 25/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_206"
+            "id": "q_chemical_bonding_206",
+            "correct_option": 1
         },
         {
             "question": "एककोशिकीय जीव अमीबा की आकृति __________ होती है।",
@@ -3113,7 +3257,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_207"
+            "id": "q_chemical_bonding_207",
+            "correct_option": 3
         },
         {
             "question": "जब किसी बीकर में रखे कॉपर ऑक्साइड में तनु HCl मिलाया जाता है, तो निम्नलिखित में से क्या प्राप्त होता है?",
@@ -3128,7 +3273,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_208"
+            "id": "q_chemical_bonding_208",
+            "correct_option": 1
         },
         {
             "question": "धावन सोडा किस यौगिक को गर्म करके बनाया जाता है?",
@@ -3158,7 +3304,8 @@
             "examName": "RRB JE 22 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_210"
+            "id": "q_chemical_bonding_210",
+            "correct_option": 1
         },
         {
             "question": "जिंक धातु सोडियम हाइड्रॉक्साइड के साथ अभिक्रिया करके _______ उत्पादित करता है।",
@@ -3173,7 +3320,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_211"
+            "id": "q_chemical_bonding_211",
+            "correct_option": 1
         },
         {
             "question": "साबुन में मिसेल के सही गुण का चयन कीजिए जो उन्हें जल के साथ अंतःक्रिया करने में सहायता करता है?",
@@ -3188,7 +3336,8 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_212"
+            "id": "q_chemical_bonding_212",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा पदार्थ गर्म करने पर विघटित होकर बिना बुझा चूना देता है?",
@@ -3203,7 +3352,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_213"
+            "id": "q_chemical_bonding_213",
+            "correct_option": 1
         },
         {
             "question": "शुष्क बुझे चूने पर क्लोरीन की क्रिया से निम्नलिखित में से क्या बनता है?",
@@ -3218,7 +3368,8 @@
             "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_214"
+            "id": "q_chemical_bonding_214",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन कार्बन मोनोऑक्साइड का आणविक सूत्र दर्शाता है?",
@@ -3233,7 +3384,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_215"
+            "id": "q_chemical_bonding_215",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस लवण का जल में घुलने पर pH मान 7 के निकट होगा?",
@@ -3263,7 +3415,8 @@
             "examName": "RRB JE 23 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_217"
+            "id": "q_chemical_bonding_217",
+            "correct_option": 1
         },
         {
             "question": "एल्काइन हाइड्रोकार्बन में एक या एक से अधिक _____ होते हैं।",
@@ -3278,7 +3431,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_218"
+            "id": "q_chemical_bonding_218",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस यौगिक युग्म में प्रति अणु परमाणुओं की कुल संख्या समान है?",
@@ -3293,7 +3447,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_219"
+            "id": "q_chemical_bonding_219",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा विलयन जल-अपघटन के कारण थोड़ा अम्लीय है?",
@@ -3308,7 +3463,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 05 Jun, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_220"
+            "id": "q_chemical_bonding_220",
+            "correct_option": 1
         },
         {
             "question": "कार्बन डाइऑक्साइड अणु में एक ऑक्सीजन परमाणु एक कार्बन परमाणु के साथ कितने इलेक्ट्रॉन साझा करता है?",
@@ -3323,7 +3479,8 @@
             "examName": "RRB Group D 5 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_chemical_bonding_221"
+            "id": "q_chemical_bonding_221",
+            "correct_option": 1
         },
         {
             "question": "आर्गन गरमागरम प्रकाश बल्बों को भरने के लिए आमतौर पर इस्तेमाल की जाने वाली गैस है क्योंकि आर्गन _______ है।",
@@ -3331,19 +3488,20 @@
                 "क्रियाशील",
                 "सबसे हल्का",
                 "प्रचुर मात्रा में",
-                "निष्क्रिय"
+                "निष्क्रि"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: निष्क्रि\n\n📝 विस्तृत व्याख्या:\nआर्गन (Argon) एक अक्रिय गैस है, जिसका अर्थ है कि यह अन्य तत्वों के साथ आसानी से प्रतिक्रिया नहीं करता है। जब हम गरमागरम प्रकाश बल्बों की बात करते हैं, तो आर्गन का उपयोग इसीलिए किया जाता है क्योंकि यह बल्ब के अंदर मौजूद तंतु (filament) को ऑक्सीकरण से बचाता है। जब बल्ब में तंतु गर्म होता है, तो वह प्रकाश उत्पन्न करता है, और यदि बल्ब में ऑक्सीजन होती, तो तंतु जलकर नष्ट हो जाता। आर्गन की अक्रियता के कारण, यह तंतु को सुरक्षित रखता है और बल्ब की उम्र को बढ़ाता है। इसके अलावा, आर्गन का घनत्व भी बल्ब के अंदर के वातावरण को स्थिर रखने में मदद करता है, जिससे तंतु की कार्यक्षमता में सुधार होता है। इस प्रकार, आर्गन का उपयोग बल्बों में एक महत्वपूर्ण भूमिका निभाता है, जिससे वे लंबे समय तक कार्यशील रह सकते हैं।\n\n🔬 वैज्ञानिक सिद्धांत व तथ्य:\n- आर्गन का रासायनिक प्रतीक \"Ar\" है और यह एक Noble गैस है।\n- Noble गैसें (जैसे हीलियम, आर्गन, क्रिप्टन) अक्रिय होती हैं क्योंकि इनके बाहरी इलेक्ट्रॉन शेल पूर्ण होते हैं।\n- आर्गन का अणु भार लगभग 40 है, जो इसे अन्य गैसों की तुलना में भारी बनाता है।\n- आर्गन का उपयोग न केवल बल्बों में, बल्कि वेल्डिंग और अन्य औद्योगिक प्रक्रियाओं में भी किया जाता है, जहां अक्रिय वातावरण की आवश्यकता होती है।\n\n❌ गलत विकल्प विश्लेषण:\n• क्रियाशील: यह विकल्प गलत है क्योंकि आर्गन क्रियाशील नहीं है। यदि आर्गन क्रियाशील होता, तो यह अन्य तत्वों के साथ प्रतिक्रिया करता, जिससे बल्ब के तंतु का ऑक्सीकरण हो सकता था।\n• सबसे हल्का: यह विकल्प भी गलत है। आर्गन सबसे हल्की गैस नहीं है; हीलियम सबसे हल्की गैस है। आर्गन का उपयोग उसके अक्रिय गुणों के कारण किया जाता है, न कि उसके हल्के होने के कारण।\n• प्रचुर मात्रा में: यह विकल्प भी सही नहीं है। जबकि आर्गन वायमेंडल में प्रचुर मात्रा में पाया जाता है, इसका उपयोग बल्बों में उसके अक्रिय गुणों के कारण किया जाता है, न कि केवल इसकी उपलब्धता के कारण।\n\n💡 महत्वपूर्ण परीक्षा Tip:\n- आर्गन का उपयोग केवल बल्बों में ही नहीं, बल्कि वेल्डिंग में भी किया जाता है, इसलिए इसके गुणों को समझना महत्वपूर्ण है।\n- Noble गैसों की पहचान उनके अक्रियता के आधार पर की जाती है, इसलिए इन गैसों के गुणों को याद रखना परीक्षा में सहायक हो सकता है।\n- आर्गन का उपयोग अन्य गैसों के साथ तुलना में अधिक सुरक्षित होता है, इसलिए इसे विभिन्न औद्योगिक प्रक्रियाओं में प्राथमिकता दी जाती है।",
             "examName": "RRB NTPC CBT-I : 31 July 2021 Shift 2",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_222"
+            "id": "q_chemical_bonding_222",
+            "correct_option": 3
         },
         {
             "question": "तत्व के प्रतीकों (element symbols) को लिखने का IUPAC नियम क्या है?",
             "options": [
-                "( दो अक्षरों के कसे में) पहला अक्षर अपरकसे, दूसरा लोवरकसे होता है।",
+                "(दो अक्षरों के कसे में) पहला अक्षर अपरकसे, दूसरा लोवरकसे होता है।",
                 "( दो अक्षरों के कसे में) सदैव दो लोवरकसे अक्षरों का प्रयोग किया जाता है।",
                 "प्रतीकों को संख्यात्मक कूटों में लिखा जाता है।",
                 "( दो अक्षरों के कसे में) दोनों अक्षर सदैव अपरकसे अक्षरों में होते हैं।"
@@ -3368,7 +3526,8 @@
             "examName": "RRB JE ECE 22 Apr 2025 Shift 1 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_224"
+            "id": "q_chemical_bonding_224",
+            "correct_option": 2
         },
         {
             "question": "ऐल्केन की सजातीय श्रेणी का प्रत्येक अगला सदस्य पिछले सदस्य से एक इकाई द्वारा भिन्न होता है, जिसमें _________ होते हैं।",
@@ -3444,7 +3603,8 @@
             "examName": "RPF SI 2018 : 11 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_229"
+            "id": "q_chemical_bonding_229",
+            "correct_option": 1
         },
         {
             "question": "कार्बन श्रृंखला में हाइड्रोजन के स्थान पर समान क्रियात्मक समूह के प्रतिस्थापन से बनने वाले यौगिकों के क्रम को क्या कहते हैं?",
@@ -3459,7 +3619,8 @@
             "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_230"
+            "id": "q_chemical_bonding_230",
+            "correct_option": 3
         },
         {
             "question": "सहसंयोजित बंधित अणुओं में गलनांक और क्वथनांक बिंदु निम्न होते हैं क्योंकि:",
@@ -3474,7 +3635,8 @@
             "examName": "RRB Group D 22/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_231"
+            "id": "q_chemical_bonding_231",
+            "correct_option": 3
         },
         {
             "question": "मैग्नीशियम क्लोराइड का रासायनिक सूत्र क्या है?",
@@ -3504,7 +3666,8 @@
             "examName": "RRB Group D 30 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_chemical_bonding_233"
+            "id": "q_chemical_bonding_233",
+            "correct_option": 1
         },
         {
             "question": "आर्द्र वायु के संपर्क में आने वाली आयरन की वस्तुओं पर बनने वाले रक्ताभ-भूरे विलेपन का प्राथमिक घटक कौन-सा पदार्थ है?",
@@ -3519,7 +3682,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 17/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_234"
+            "id": "q_chemical_bonding_234",
+            "correct_option": 3
         },
         {
             "question": "ऑक्सीकरण पर, चांदी का रंग _______ और तांबे का रंग _______ में बदल जाता है।",
@@ -3534,7 +3698,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_235"
+            "id": "q_chemical_bonding_235",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से समजातीय श्रेणी की सही परिभाषा कौन-सी है?",
@@ -3549,7 +3714,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_236"
+            "id": "q_chemical_bonding_236",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा मिश्रण और यौगिकों के बीच सही अंतर बताता है?",
@@ -3580,7 +3746,8 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_238"
+            "id": "q_chemical_bonding_238",
+            "correct_option": 3
         },
         {
             "question": "कौन-सा कथन एक आयन का सही वर्णन करता है?",
@@ -3595,7 +3762,8 @@
             "examName": "RRB JE 19/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_239"
+            "id": "q_chemical_bonding_239",
+            "correct_option": 1
         },
         {
             "question": "कार्बन परमाणुओं का कौन-सा अद्वितीय गुण, उन्हें अन्य कार्बन परमाणुओं के साथ लंबी और स्थिर श्रृंखला बनाने में सक्षम बनाता है?",
@@ -3610,7 +3778,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_240"
+            "id": "q_chemical_bonding_240",
+            "correct_option": 3
         },
         {
             "question": "रासायनिक सूत्र K₂ SO₄ किसको दर्शाता है?",
@@ -3655,7 +3824,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_243"
+            "id": "q_chemical_bonding_243",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा यौगिक विद्युत का संचालन कर सकता है?",
@@ -3685,7 +3855,8 @@
             "examName": "RRB NTPC UG CBT-I : 11 Aug, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_245"
+            "id": "q_chemical_bonding_245",
+            "correct_option": 1
         },
         {
             "question": "क्यूप्रस ऑक्साइड में कॉपर की संयोजकता कितनी होती है?",
@@ -3700,7 +3871,8 @@
             "examName": "RRB Group D 28/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_246"
+            "id": "q_chemical_bonding_246",
+            "correct_option": 3
         },
         {
             "question": "किसी यौगिक में परमाणुओं की संख्या का बहुत सरल अनुपात को ज्ञात करने के लिए किस सूत्र का उपयोग किया जाता है?",
@@ -3715,7 +3887,8 @@
             "examName": "RPF SI Previous Paper : 6 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_247"
+            "id": "q_chemical_bonding_247",
+            "correct_option": 3
         },
         {
             "question": "DNA के संदर्भ में' पूरक' शब्द निम्नलिखित में से किस गुण को संदर्भित करता है?",
@@ -3760,7 +3933,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_250"
+            "id": "q_chemical_bonding_250",
+            "correct_option": 2
         },
         {
             "question": "कार्बन कई यौगिकों का निर्माण करता है, इसका कारण निम्नलिखित में से क्या है?",
@@ -3775,7 +3949,8 @@
             "examName": "RRB Level 01 Stage I 17/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_251"
+            "id": "q_chemical_bonding_251",
+            "correct_option": 2
         },
         {
             "question": "पानी के एक अणु में, हाइड्रोजन और ऑक्सीजन H : O = ________ के अनुपात में मौजूद होते हैं।",
@@ -3790,7 +3965,8 @@
             "examName": "RRB Group D 9/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_252"
+            "id": "q_chemical_bonding_252",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा मेल गलत है?",
@@ -3805,7 +3981,8 @@
             "examName": "RRB JE CBT I - : 30 May 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_253"
+            "id": "q_chemical_bonding_253",
+            "correct_option": 1
         },
         {
             "question": "कौन-सी गैस सोडियम हाइड्रॉक्साइड के साथ अभिक्रिया करके सोडियम बाइकार्बोनेट और सोडियम कार्बोनेट बनाती है?",
@@ -3835,7 +4012,8 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_255"
+            "id": "q_chemical_bonding_255",
+            "correct_option": 3
         },
         {
             "question": "जब इथेनॉल सांद्र H₂ SO₄ की उपस्थिति में एथेनॉइक एसिड के साथ अभिक्रिया करता है तो ______ उत्पन्न होता है।",
@@ -3850,7 +4028,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_256"
+            "id": "q_chemical_bonding_256",
+            "correct_option": 2
         },
         {
             "question": "त्वरित चूने का रासायनिक नाम क्या है?",
@@ -3865,7 +4044,8 @@
             "examName": "RRB JE 24 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_257"
+            "id": "q_chemical_bonding_257",
+            "correct_option": 2
         },
         {
             "question": "सहसंयोजी यौगिक आमतौर पर निम्नलिखित में से कौन-सा गुण प्रदर्शित नहीं करते हैं?",
@@ -3880,7 +4060,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_chemical_bonding_258"
+            "id": "q_chemical_bonding_258",
+            "correct_option": 3
         },
         {
             "question": "कौन सा युग्म संयुग्मी अम्ल-क्षार युग्म के रूप में काय करता है?",
@@ -3895,7 +4076,8 @@
             "examName": "RRB NTPC UG CBT-I : 09 Sept, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_259"
+            "id": "q_chemical_bonding_259",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा एल्युमीनियम और सल्फेट आयनों द्वारा निर्मित यौगिक के रासायनिक सूत्र का सही प्रतिनिधित्व करता है?",
@@ -3910,7 +4092,8 @@
             "examName": "RRB JE CE 22 Apr 2025 Shift 2 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_260"
+            "id": "q_chemical_bonding_260",
+            "correct_option": 2
         },
         {
             "question": "भोपाल त्रासदी के दौरान किस गैस का रिसाव हुआ था?",
@@ -3925,7 +4108,8 @@
             "examName": "RRB JE CE 29 Aug 2019 Shift 2 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_261"
+            "id": "q_chemical_bonding_261",
+            "correct_option": 3
         },
         {
             "question": "एमाइलोपेक्टिन एक शाखित-श्रृंखला पॉलीसकेराइड है जो मुख्य रूप से ग्लूकोज इकाइयों से बना होता है जो ____________ द्वारा जुड़े होते हैं।",
@@ -3956,7 +4140,8 @@
             "examName": "RPF Constable 2018 18 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_263"
+            "id": "q_chemical_bonding_263",
+            "correct_option": 1
         },
         {
             "question": "जब लेड नाइट्रेट पोटैशियम आयोडाइड के साथ अभिक्रिया करता है, तो यौगिक'X' का एक पीला अवक्षेप बनता है। यौगिक X की पहचान कीजिए।",
@@ -3971,7 +4156,8 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_264"
+            "id": "q_chemical_bonding_264",
+            "correct_option": 3
         },
         {
             "question": "________ के बनने के कारण कुछ दिनों के लिए खुले में रखे जाने पर चांदी की वस्तु काली हो जाती है।",
@@ -3986,7 +4172,8 @@
             "examName": "RRB JE 22 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_265"
+            "id": "q_chemical_bonding_265",
+            "correct_option": 3
         },
         {
             "question": "एल्युमीनियम ऑक्साइड का रासायनिक सूत्र क्या है?",
@@ -4001,7 +4188,8 @@
             "examName": "RRB Level 01 Stage I 09/01/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_266"
+            "id": "q_chemical_bonding_266",
+            "correct_option": 3
         },
         {
             "question": "लिपिड बायोकमिस्ट्री में, कमरे के तापमान पर असंतृप्त वसीय अम्ल द्रव क्यों होते हैं?",
@@ -4016,7 +4204,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 19 Jun, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_267"
+            "id": "q_chemical_bonding_267",
+            "correct_option": 1
         },
         {
             "question": "कार्बन, आयनिक आबंधों के स्थान पर सहसंयोजक आबंध क्यों बनाता है? है। α α",
@@ -4046,7 +4235,8 @@
             "examName": "RPF SI Previous Paper : 5 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_269"
+            "id": "q_chemical_bonding_269",
+            "correct_option": 3
         },
         {
             "question": "दो कार्बन परमाणुओं और एक हाइड्रॉक्सिल (− OH) प्रकायात्मक समूह वाले कार्बनिक यौगिक का IUPAC नाम क्या है?",
@@ -4061,7 +4251,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_270"
+            "id": "q_chemical_bonding_270",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन कार्बन की बहुमुखी प्रकृति का कारण नहीं है?",
@@ -4076,7 +4267,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_271"
+            "id": "q_chemical_bonding_271",
+            "correct_option": 1
         },
         {
             "question": "नाइट्रोजन अणु के निर्माण में शामिल सहसंयोजक बंधों की संख्या है:",
@@ -4091,7 +4283,8 @@
             "examName": "RRB Group D 7/10/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_chemical_bonding_272"
+            "id": "q_chemical_bonding_272",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सी घटना तब होती है, जब जल में थोड़ी मात्रा में अम्ल मिलाया जाता है?",
@@ -4106,7 +4299,8 @@
             "examName": "RRB JE 23 May 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_273"
+            "id": "q_chemical_bonding_273",
+            "correct_option": 1
         },
         {
             "question": "कार्बन का कौन-सा गुण उसे लंबी श्रृंखलाएँ और वलय बनाने की अनुमति देता है?",
@@ -4121,7 +4315,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_274"
+            "id": "q_chemical_bonding_274",
+            "correct_option": 2
         },
         {
             "question": "अधिकांश कार्बनिक यौगिकों में किस प्रकार का आबंधन पाया जाता है?",
@@ -4151,7 +4346,8 @@
             "examName": "RPF SI 2018 : 13 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_276"
+            "id": "q_chemical_bonding_276",
+            "correct_option": 3
         },
         {
             "question": "जब सोडियम क्लोरीन के साथ अभिक्रिया करता है, तो किस प्रकार के यौगिक का निर्माण होता है?",
@@ -4166,7 +4362,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_277"
+            "id": "q_chemical_bonding_277",
+            "correct_option": 1
         },
         {
             "question": "चूने के पानी का रासायनिक सूत्र _______ है।",
@@ -4196,7 +4393,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_279"
+            "id": "q_chemical_bonding_279",
+            "correct_option": 1
         },
         {
             "question": "केवल एक ही संयोजक बंध वाले कार्बनिक यौगिक को क्या कहते हैं?",
@@ -4211,7 +4409,8 @@
             "examName": "RPF Constable 2018 14 Feb 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_280"
+            "id": "q_chemical_bonding_280",
+            "correct_option": 3
         },
         {
             "question": "वह कौन सा पदार्थ है जो उत्प्रेरक की प्रतिक्रिया को बढ़ाता है?",
@@ -4226,7 +4425,8 @@
             "examName": "RPF SI 2018 : 16 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_281"
+            "id": "q_chemical_bonding_281",
+            "correct_option": 1
         },
         {
             "question": "चूने का पानी में से कार्बन डाइऑक्साइड गैस गुजारने से चूने का पानी दूधिया हो जाता इस प्रक्रिया में कौन-सा पदार्थ बनता है?",
@@ -4241,7 +4441,8 @@
             "examName": "RRB NTPC CBT-I : 19 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_chemical_bonding_282"
+            "id": "q_chemical_bonding_282",
+            "correct_option": 3
         },
         {
             "question": "कैल्शियम ऑक्साइड का आणविक सूत्र ______ है।",
@@ -4256,7 +4457,8 @@
             "examName": "RRB Group D 5/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_283"
+            "id": "q_chemical_bonding_283",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा एक उभयधर्मी ऑक्साइड है?",
@@ -4271,7 +4473,8 @@
             "examName": "RRB NTPC CBT-I : 11 Mar 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_chemical_bonding_284"
+            "id": "q_chemical_bonding_284",
+            "correct_option": 3
         },
         {
             "question": "वायुमंडल में वायु के अणुओं द्वारा बिखरे हुए सूर्य के प्रकाश का रंग क्या होता है?",
@@ -4286,7 +4489,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_285"
+            "id": "q_chemical_bonding_285",
+            "correct_option": 1
         },
         {
             "question": "विटामिन- E का रासायनिक नाम क्या है?",
@@ -4301,7 +4505,8 @@
             "examName": "RPF Constable 2018 19 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_chemical_bonding_286"
+            "id": "q_chemical_bonding_286",
+            "correct_option": 2
         },
         {
             "question": "जीवाश्म ईंधन को जलाने पर निकलने वाले कार्बन, नाइट्रोजन और सल्फर के ऑक्साइड ______ हैं।",
@@ -4316,7 +4521,8 @@
             "examName": "RRB ALP CBT 2 Electrician Previous Paper : 22 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_287"
+            "id": "q_chemical_bonding_287",
+            "correct_option": 3
         },
         {
             "question": "जब कोई धातु किसी अधातु के साथ अभिक्रिया करती है तो किस प्रकार का आबंध बनता है?",
@@ -4331,7 +4537,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_288"
+            "id": "q_chemical_bonding_288",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा पदार्थ तंबाकू में विद्यमान होता है?",
@@ -4346,7 +4553,8 @@
             "examName": "RRB JE 22 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_289"
+            "id": "q_chemical_bonding_289",
+            "correct_option": 2
         },
         {
             "question": "अयस्क से अपअयस्क (gangue) को हटाने के लिए उपयोग की जाने वाली प्रक्रियाएं, अपअयस्क और अयस्क के किन गुणों के बीच अंतर पर आधारित हैं?",
@@ -4376,7 +4584,8 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_291"
+            "id": "q_chemical_bonding_291",
+            "correct_option": 2
         },
         {
             "question": "आयन के संबंध में निम्नलिखित में से कौन-सा कथन सही है? कहा जाता है।",
@@ -4406,7 +4615,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_293"
+            "id": "q_chemical_bonding_293",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस मिश्रण का उपयोग सोने को शुद्ध करने के लिए किया जाता है?",
@@ -4421,7 +4631,8 @@
             "examName": "RRB NTPC CBT-I : 8 April 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_chemical_bonding_294"
+            "id": "q_chemical_bonding_294",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित कार्बनिक यौगिकों में से कौन-सा संतृप्त है?",
@@ -4436,7 +4647,8 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_295"
+            "id": "q_chemical_bonding_295",
+            "correct_option": 1
         },
         {
             "question": "ग्लिसरॉल को ________ के साथ मिलाने पर लिपिड बनते हैं।",
@@ -4451,7 +4663,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_296"
+            "id": "q_chemical_bonding_296",
+            "correct_option": 1
         },
         {
             "question": "हीरे और ग्रेफाइट की विद्युत चालकता में अंतर इसलिए उत्पन्न होता है क्योंकि _______ ।",
@@ -4481,12 +4694,13 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_298"
+            "id": "q_chemical_bonding_298",
+            "correct_option": 1
         },
         {
             "question": "असंतृप्त कार्बन यौगिक का सुस्पष्ट अभिलक्षण क्या है?",
             "options": [
-                "इसमें कार्बन परमाणुओं के बीच कम से कम एक द्वि या त्रि-आबंध होता है।",
+                "इसमें कार्बन परमाणुओं के बीच कमें से कम एक द्वि या त्रि-आबंध होता है।",
                 "इसमें सदैव ऑक्सीजन के साथ एक प्रकायात्मक समूह होता है।",
                 "सभी कार्बन परमाणु केवल एकल अबंधों द्वारा जुड़े होते हैं।",
                 "ये केवल चक्रीय संरचनाओं का निर्माण करते हैं।"
@@ -4511,7 +4725,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_300"
+            "id": "q_chemical_bonding_300",
+            "correct_option": 1
         },
         {
             "question": "अभिकथन",
@@ -4530,7 +4745,8 @@
             "statements": [
                 "(A) और कारण (R) से लेबल किए गए निम्नलिखित दो कथनों के संबंध में सत्य विकल्प का चयन कीजिए।\n\n• अभि\n\n• कथन",
                 "(A): पौधों में कई पीढ़ियों तक प्रजातियों के सांतत्य बनाए रखने के लिए लैंगिक प्रजनन आवश्यक है।\n\n• कारण (R): लैंगिक प्रजनन आनुवंशिक विविधता को जन्म देता है जो अनुकूलनशीलता और विकासीय स्वस्थता को बढ़ाता है। सही सही नहीं है। सही व्याख्या है।"
-            ]
+            ],
+            "correct_option": 3
         },
         {
             "question": "कार्बन के संबंध में, निम्नलिखित में से कौन-सा कथन सत्य है?",
@@ -4545,7 +4761,8 @@
             "examName": "RRB ALP CBT-I 2024 : 28 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_302"
+            "id": "q_chemical_bonding_302",
+            "correct_option": 1
         },
         {
             "question": "धावन सोडा का रासायनिक संघटन क्या है?",
@@ -4590,7 +4807,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_305"
+            "id": "q_chemical_bonding_305",
+            "correct_option": 1
         },
         {
             "question": "Mg₂+ और PO₄ 3− आयनों के बीच बनने वाले यौगिक का सही सूत्र पहचानें।",
@@ -4605,7 +4823,8 @@
             "examName": "RRB JE ECE 22 Apr 2025 Shift 1 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_306"
+            "id": "q_chemical_bonding_306",
+            "correct_option": 1
         },
         {
             "question": "दी गई समीकरण में किस पद का अपचयन होता है? ZnO + C → Zn + CO",
@@ -4650,7 +4869,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_309"
+            "id": "q_chemical_bonding_309",
+            "correct_option": 3
         },
         {
             "question": "सूत्र Ca (OH)₂ में कोष्ठक का उपयोग क्यों किया जाता है?",
@@ -4665,7 +4885,8 @@
             "examName": "RRB JE 25/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_310"
+            "id": "q_chemical_bonding_310",
+            "correct_option": 2
         },
         {
             "question": "Mg₂+ और PO₄ 3- आयनों के बीच बनने वाले यौगिक का सही सूत्र पहचानें।",
@@ -4680,7 +4901,8 @@
             "examName": "RRB JE CE 22 Apr 2025 Shift 2 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_311"
+            "id": "q_chemical_bonding_311",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस घटना में ठोस पदार्थ द्रव पदार्थ में बदल जाता है?",
@@ -4710,7 +4932,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_313"
+            "id": "q_chemical_bonding_313",
+            "correct_option": 2
         },
         {
             "question": "फॉर्मिक अम्ल का सूत्र क्या है?",
@@ -4725,7 +4948,8 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_314"
+            "id": "q_chemical_bonding_314",
+            "correct_option": 1
         },
         {
             "question": "कार्बन में अन्य कार्बन परमाणुओं के साथ आबंध बनाने की अनूठी क्षमता होती है, जिससे बड़े अणु बनते हैं। इस गुण को _____ कहा जाता है।",
@@ -4740,7 +4964,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_315"
+            "id": "q_chemical_bonding_315",
+            "correct_option": 3
         },
         {
             "question": "_______ अणु में हलोजन परमाणुओं द्वारा इलेक्ट्रॉनों को आकर्षित करने का गुण है।",
@@ -4755,7 +4980,8 @@
             "examName": "RRB Group D 27/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_316"
+            "id": "q_chemical_bonding_316",
+            "correct_option": 3
         },
         {
             "question": "द्रव और ठोस पदार्थों का संपीड़न कठिन क्यों होता है? यह किस प्रकार के अंतराअणेक बलों के कारण होता है?",
@@ -4770,7 +4996,8 @@
             "examName": "RPF Constable 2024 : 12 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_317"
+            "id": "q_chemical_bonding_317",
+            "correct_option": 3
         },
         {
             "question": "ग्रेफाइट में, प्रत्येक कार्बन परमाणु एक ही तल में तीन अन्य कार्बन परमाणुओं से आबंधित होता है, जिससे एक _______ व्यूह बनता है।",
@@ -4790,7 +5017,7 @@
         {
             "question": "जब नियंत्रित परिस्थितियों में क्लोरीन गैस में सोडियम धातु का एक छोटा टुकड़ा मिलाने पर तीव्र अभिक्रिया होती है और सोडियम क्लोराइड बनता है। निम्नलिखित में से कौन-सा कथन निर्मित उत्पाद के स्थायित्व के सर्वोत्तम कारण को स्पष्ट करता है?",
             "options": [
-                "सोडियम, क्लोरीन को एक इलेक्ट्रॉन दान करता है, जिससे विपरीत आवेश वाले आयन निर्मित होते हैं जो प्रबल स्थिरवैद्युत बलों द्वारा एक-दूसरे से जुड़े होते हैं।",
+                "सोडियम, क्लोरीन को एक इलेक्ट्रॉन दान करता है, जिससे विपरीत आवेश वाले आयन",
                 "सोडियम और क्लोरीन दोनों ही विस्थापित इलेक्ट्रॉनों के साथ धात्विक जालक बनाकर स्थायित्व प्राप्त करते हैं।",
                 "सोडियम और क्लोरीन एक-एक इलेक्ट्रॉन साझा करते हैं, जिससे एक स्थायी सहसंयोजक आबंध निर्मित होता है।",
                 "सोडियम, क्लोरीन से एक इलेक्ट्रॉन ग्रहण करता है, जिससे पारस्परिक साझाकरण के माध्यमें से एक उदासीन अणु निर्मित होता है।"
@@ -4808,14 +5035,15 @@
                 "हैलाइड",
                 "नाइट्रेट",
                 "ऑक्साइड",
-                "सल्फाइड"
+                "रसायन एवं जीव विज्ञान के सिद्धांतों के अनुसार सही उत्तर **सल्फाइड** है।"
             ],
             "correctIndex": 3,
             "explanation": "रसायन एवं जीव विज्ञान के सिद्धांतों के अनुसार सही उत्तर **सल्फाइड** है।\n\n1. **मुख्य बिंदु:** निम्नलिखित में से पाइराइट किस प्रकार का अयस्क है? ry - Chemical Bonding CaCl₂ में आयनिक बंध अधिक मजबूत होता है क्योंकि Ca₂+ का आकार बड़ा होने पर भी उच्च आवेश के कारण जालक ऊर्जा अधिक होती है। इस प्रकार, CaCl₂ का क्वथनांक सबसे अधिक होता है। Important one-liners for upcoming exams: ☛ आयनिक यौगिक के क्वथनांक को प्रभावित करने वाला मुख्य कारक → जालक ऊर्जा ☛ CaCl₂ में कितने आयन होते हैं? → तीन आयन (एक Ca₂+ और दो Cl-) ☛ अधिक जालक ऊर्जा वाला यौगिक → उच्च गलनांक और क्वथनांक ☛ आवेश घनत्व बढ़ने से जालक ऊर्जा पर प्रभाव → जालक ऊर्जा बढ़ती है ☛ NaCl और MgCl₂ की तुलना में CaCl₂ का गलनांक → अधिक Q₄₂₈₅. सही उत्तर: पोटैशियम आयोडाइड (KI) व्याख्या: जब लेड (II) नाइट्रेट (Pb (NO₃)₂) पोटैशियम आयोडाइड (KI) के साथ अभिक्रिया करता है, तो एक द्वि-विस्थापन अभिक्रिया होती है, जिससे लेड (II) आयोडाइड (PbI₂) एक चमकीले पीले अवक्षेप के रूप में बनता है। संतुलित रासायनिक समीकरण है: Pb (NO₃)₂(aq) + 2KI (aq) → PbI₂(s) + 2KNO₃(aq) । यह पीला अवक्षेप PbI₂ के निर्माण की विशेषता है। विकल्प 2 (CuSO₄) से PbSO₄ का सफेद अवक्षेप बनेगा, पीला नहीं। विकल्प 3 (NaCl) से PbCl₂ का सफेद अवक्षेप बनेगा, जो गम पानी में घुलनशील है लेकिन विशिष्ट रूप से पीला नहीं है। विकल्प 4 (BaSO₄) पहले से ही एक अवक्षेप है और नया पीला अवक्षेप बनाने के लिए आगे अभिक्रिया नहीं करेगा। केवल KI ही विशिष्ट पीला PbI₂ अवक्षेप उत्पन्न करता है। परीक्षा के लिए अतिरिक्त तथ्य: • लेड (II) आयोडाइड (PbI₂) का उपयोग सौर सेल और फोटोग्राफिक इमल्शन में किया जाता है। • पोटैशियम आयोडाइड (KI) का उपयोग टेबल सॉल्ट में आयोडीन के स्रोत और विकिरण सुरक्षा में किया जाता है। • अन्य पीले अवक्षेपों में सिल्वर आयोडाइड (AgI) और कैडमियम सल्फाइड (CdS) शामिल हैं। • लेड (II) नाइट्रेट गम करने पर लेड (II) ऑक्साइड, नाइट्रोजन डाइऑक्साइड और ऑक्सीजन देकर विघटित हो जाता है। • गुणात्मक विश्लेषण में, Pb²⁺ आयनों की पुष्टि KI के साथ पीला अवक्षेप बनाकर की जाती है। आगामी परीक्षाओं के लिए महत्वपूर्ण एक-पंक्ति प्रश्न: ☛ लेड नाइट्रेट के साथ कौन सा यौगिक पीला अवक्षेप देता है? → पोटैशियम आयोडाइड ☛ लेड आयोडाइड अवक्षेप का रंग क्या है? → चमकीला पीला ☛ Pb (NO₃)₂ औरKI के बीच किस प्रकार की अभिक्रिया होती है? → द्वि-विस्थापन अभिक्रिया ☛ लेड आयोडाइड का सूत्र क्या है? → PbI₂ ☛ KI के साथ पीला अवक्षेप बनाकर किस आयन की पुष्टि की जाती है? → Pb²⁺ आयन का उत्तर जानने के लिए मूलभूत वैज्ञानिक सिद्धांतों का अवलोकन आवश्यक है।\n2. **व्याख्या:** **सल्फाइड** इस स्थिति में सही और तार्किक उत्तर है।\n3. **निष्कर्ष:** दिए गए सभी विकल्पों में से विकल्प (4) यानी सल्फाइड ही सही है।\n\nअतः सही उत्तर विकल्प (4) यानी **सल्फाइड** है।",
             "examName": "RRB Level 01 Stage I 09/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_chemical_bonding_320"
+            "id": "q_chemical_bonding_320",
+            "correct_option": 3
         }
     ]
 }

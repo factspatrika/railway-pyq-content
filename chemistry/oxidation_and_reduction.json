@@ -6,7 +6,7 @@
         {
             "question": "MnO₂ + 4HCl → MnCl₂ + 2H₂O + Cl₂ दी गई अभिक्रिया के अनुसार, निम्नलिखित में से कौन-सा कथन गलत है?",
             "options": [
-                "MnO₂ का MnCl₂ में अपचयन होता है।",
+                "Cl₂ का HCl में ऑक्सीकरण होता है (यह कथन गलत है)।",
                 "यह एक रेडॉक्स अभिक्रिया है।",
                 "HCl का Cl₂ में ऑक्सीकरण होता है।",
                 "Cl₂ का HCl में ऑक्सीकरण होता है।"
@@ -36,7 +36,7 @@
         {
             "question": "इथेनॉल का एथेनोइक अम्ल में रूपांतरण निम्नलिखित में से किस अभिक्रिया का उदाहरण है?",
             "options": [
-                "ऑक्सीकरण अभिक्रिया",
+                "ऑक्सीकरण अभिक्रिया (Oxidation Reaction)",
                 "दहन अभिक्रिया",
                 "प्रतिस्थापन अभिक्रिया",
                 "योगज अभिक्रिया"
@@ -67,7 +67,8 @@
                 "(ii) कार्बन ऑक्सीकृत हो रहा है।",
                 "(iii) जस्ता ऑक्सीकृत हो रहा है।",
                 "(iv) कार्बन अपचयित हो रहा है।"
-            ]
+            ],
+            "correct_option": 1
         },
         {
             "question": "किसी पदार्थ को रेडॉक्स अभिक्रिया में कम किया जाना कहा जाता है यदि:",
@@ -82,14 +83,15 @@
             "examName": "RRB Group D 17 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_5"
+            "id": "q_oxidation_and_reduction_5",
+            "correct_option": 2
         },
         {
             "question": "वसा और तेल बासी हो जाते हैं क्योंकि:",
             "options": [
                 "वाष्पोत्सजन",
                 "अपचयन",
-                "ऑक्सीकरण",
+                "ऑक्सीकरण (Oxidation)",
                 "संक्षारण"
             ],
             "correctIndex": 2,
@@ -97,7 +99,8 @@
             "examName": "RRB Group D 25/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_6"
+            "id": "q_oxidation_and_reduction_6",
+            "correct_option": 2
         },
         {
             "question": "जब मैंगनीज डाइऑक्साइड में सान्द्र हाइड्रोक्लोरिक अम्ल मिलाया जाता है, तो क्या होता है? 2",
@@ -112,7 +115,8 @@
             "examName": "RRB Group D 19 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_7"
+            "id": "q_oxidation_and_reduction_7",
+            "correct_option": 2
         },
         {
             "question": "खाद्य उत्पादों में विकृतगंधिता (rancidity) का कारण क्या है?",
@@ -120,14 +124,15 @@
                 "किण्वन",
                 "अपचयन",
                 "वाष्पीकरण",
-                "ऑक्सीकरण"
+                "ऑक्सीकरण (Oxidation)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: ऑक्सीकरण (Oxidation)\n\n📝 व्याख्या:\nखाद्य पदार्थों (विशेष रूप से तैलीय और वसायुक्त भोजन) में विकृतगंधिता (Rancidity) का मुख्य कारण हवा में मौजूद ऑक्सीजन द्वारा भोजन का ऑक्सीकरण (Oxidation) होना है।\n\n🔑 विकृतगंधिता रोकने के उपाय:\n• नाइट्रोजन पैकेजिंग (जैसे चिप्स के पैकेटों में N₂ गैस भरना)।\n• रेफ्रिजरेशन (कम तापमान पर रखना)।\n• एंटीऑक्सीडेंट्स (जैसे BHT - Butylated Hydroxytoluene) का उपयोग।",
             "examName": "RRB NTPC GRADUATE CBT 1 19/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_8"
+            "id": "q_oxidation_and_reduction_8",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा, रेडॉक्स अभिक्रिया में अपचयन को सर्वोत्तम रूप से परिभाषित करता है?",
@@ -142,13 +147,14 @@
             "examName": "RRB Technician Grade III 09/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_9"
+            "id": "q_oxidation_and_reduction_9",
+            "correct_option": 2
         },
         {
             "question": "एक छात्र एक रिबन लेता है और उसे ऑक्सीजन की उपस्थिति में जलाता है। यह मैग्नीशियम ऑक्साइड में बदल जाता है। यहां कौन-सी प्रक्रिया हुई है?",
             "options": [
                 "हाइड्रोजनीकरण",
-                "ऑक्सीकरण",
+                "ऑक्सीकरण (Oxidation)",
                 "अपघटन",
                 "अपचयन"
             ],
@@ -157,13 +163,14 @@
             "examName": "RRB Group D 26 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_10"
+            "id": "q_oxidation_and_reduction_10",
+            "correct_option": 1
         },
         {
             "question": "सल्फाइड आयन, सल्फर से ______ के कारण बनता है।",
             "options": [
                 "ऑक्सीकरण",
-                "अपचयन",
+                "अपचयन (Reduction)",
                 "निजलीकरण",
                 "संयोजन"
             ],
@@ -172,7 +179,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_oxidation_and_reduction_11"
+            "id": "q_oxidation_and_reduction_11",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन अपचयन/अवनमन के लिए गलत है?",
@@ -180,20 +188,21 @@
                 "इलेक्ट्रॉनों का लाभ",
                 "हाइड्रोजन का योग",
                 "ऑक्सीजन कों हटाना",
-                "इलेक्ट्रॉनों की हानि"
+                "इलेक्ट्रॉनों की हानि (Loss of electrons)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: इलेक्ट्रॉनों की हानि (Loss of electrons)\n\n📝 व्याख्या:\nअपचयन (Reduction) की आधुनिक इलेक्ट्रॉनिक अवधारणा के अनुसार, \"इलेक्ट्रॉनों की हानि\" अपचयन का गुण नहीं है; यह ऑक्सीकरण (Oxidation) का गुण है।\n\n🔑 अपचयन (Reduction) के लक्षण:\n• इलेक्ट्रॉनों को ग्रहण करना (Gain of electrons)।\n• हाइड्रोजन का जुड़ना (Addition of Hydrogen)।\n• ऑक्सीजन का बाहर निकलना (Removal of Oxygen)।\n• ऑक्सीकरण संख्या में कमी आना।",
             "examName": "RRB Group D 28 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_12"
+            "id": "q_oxidation_and_reduction_12",
+            "correct_option": 3
         },
         {
             "question": "ऑक्सीजन की अनुपस्थिति में कायद्रव के अपूर्ण विघटन को _____ कहा जाता है।",
             "options": [
                 "अंतरिय श्वसन",
-                "अनॉक्सीय श्वसन",
+                "अनॉक्सीय श्वसन (Anaerobic Respiration)",
                 "ऑक्सीजनीकरण",
                 "संवहनी श्वसन"
             ],
@@ -202,7 +211,8 @@
             "examName": "RRB Group D 5/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_oxidation_and_reduction_13"
+            "id": "q_oxidation_and_reduction_13",
+            "correct_option": 1
         },
         {
             "question": "ब्लीचिंग पाउडर की प्रकृति क्या है?",
@@ -210,19 +220,20 @@
                 "अपचायक कारक",
                 "ब्लिस्टरिंग कारक",
                 "सल्फोनेटिंग कारक",
-                "ऑक्सीकरण कारक"
+                "ऑक्सीकरण कारक (Oxidising Agent)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: ऑक्सीकरण कारक (Oxidising Agent)\n\n📝 व्याख्या:\nब्लीचिंग पाउडर (विरंजक चूर्ण - CaOCl₂) की प्रकृति एक ऑक्सीकरण कारक (Oxidising Agent) के रूप में होती है।\n\n🔑 क्रिया विधि:\n• यह आसानी से नवजात ऑक्सीजन (Nascent Oxygen) या क्लोरीन गैस मुक्त करता है जो रंगीन पदार्थों को ऑक्सीकृत करके रंगहीन (विरंजित) कर देती है:\n CaOCl₂ + H₂O → Ca (OH)₂ + Cl₂ (या [O])\n• इसके इसी ऑक्सीकारक गुण के कारण इसका उपयोग रोगाणुनाशी के रूप में पानी को साफ करने में किया जाता है।",
             "examName": "RRB JE CBT-I : 22 May, 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_14"
+            "id": "q_oxidation_and_reduction_14",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन रेडॉक्स अभिक्रिया का उदाहरण नहीं है?",
             "options": [
-                "iv",
+                "iv (AgNO₃ + NaCl → AgCl + NaNO₃)",
                 "iii",
                 "i",
                 "ii"
@@ -244,7 +255,7 @@
             "question": "ZnO + C → Zn + CO दी गई अभिक्रिया में, कौन सा कथन गलत है?",
             "options": [
                 "C का CO में ऑक्सीकरण होता है",
-                "ZnO का Zn में ऑक्सीकरण होता है",
+                "ZnO का Zn में ऑक्सीकरण होता है (यह कथन गलत है)।",
                 "ZnO एक ऑक्सीकारक के रूप में काय करता है",
                 "C एक अपचायक के रूप में काय करता है"
             ],
@@ -253,13 +264,14 @@
             "examName": "RRB Group D 6 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_16"
+            "id": "q_oxidation_and_reduction_16",
+            "correct_option": 1
         },
         {
             "question": "यदि कोई पदार्थ अभिक्रिया के दौरान हाइड्रोजन ग्रहण करता है, तो इसे क्या कहा जाता है?",
             "options": [
                 "उदासीनीकृत",
-                "अपचयित",
+                "अपचयित (Reduced)",
                 "अपघटित",
                 "ऑक्सीकृत"
             ],
@@ -268,7 +280,8 @@
             "examName": "RRB Group D 26 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_17"
+            "id": "q_oxidation_and_reduction_17",
+            "correct_option": 1
         },
         {
             "question": "अभिक्रिया MnO + 4HCl → MnCl + 2H O + Cl में निम्न होता है- MnO MnCl में ऑक्सीकृत हो जाता है",
@@ -299,12 +312,13 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_19"
+            "id": "q_oxidation_and_reduction_19",
+            "correct_option": 2
         },
         {
             "question": "एक तनु फेरस सल्फेट विलयन को अम्लीय पोटैशियम परमैंगनेट के विलयन वाले बीकर में धीरे-धीरे मिलाया जाता है। विलयन का हल्का बैंगनी रंग फीका हो जाता है और अंत में गायब हो जाता. इस प्रेक्षण के लिए निम्नलिखित में से कौन-सा सही स्पष्टीकरण है?",
             "options": [
-                "तनुकरण की वजह से रंग गायब हो जाता है।",
+                "पोटैशियम परमैंगनेट एक ऑक्सीकारक अभिकर्मक है, यह फेरस सल्फेट को ऑक्सीकृत करता है।",
                 "पोटैशियम परमैंगनेट एक अस्थिर यौगिक है।",
                 "फेरस सल्फेट एक ऑक्सीकारक के रूप में कार्य करता है और पोटैशियम परमैंगनेट को अपचयित करता है।",
                 "पोटैशियम परमैंगनेट एक ऑक्सीकारक (Oxidising Agent) है, यह फेरस सल्फेट को ऑक्सीकृत करता है।"
@@ -321,7 +335,7 @@
             "options": [
                 "ऑक्सीकारण कमक",
                 "विलायक कमक",
-                "अपचायक कमक",
+                "अपचायक कमक (Reducing Agent)",
                 "उत्प्रेरक"
             ],
             "correctIndex": 2,
@@ -329,7 +343,8 @@
             "examName": "RRB Group D 1 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_oxidation_and_reduction_21"
+            "id": "q_oxidation_and_reduction_21",
+            "correct_option": 2
         },
         {
             "question": "जब इथेनॉल अम्लीय माध्यम में पोटैशियम डाइक्रोमेट (K₂Cr₂O₇) के साथ अभिक्रिया करता है, तो मुख्य उत्पाद क्या होता है?",
@@ -337,20 +352,21 @@
                 "एथेनल",
                 "एथीन",
                 "एथाइल एथेनोएट",
-                "एथेनोइक अम्ल"
+                "एथेनोइक अम्ल (Ethanoic Acid)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: एथेनोइक अम्ल (Ethanoic Acid)\n\n📝 व्याख्या:\nजब इथेनॉल (C₂H₅OH) को अम्लीय माध्यम में पोटैशियम डाइक्रोमेट (K₂Cr₂O₇) के साथ गर्म किया जाता है, तो इसका पूर्ण ऑक्सीकरण होता है और मुख्य उत्पाद एथेनोइक अम्ल (एसिटिक एसिड - CH₃COOH) प्राप्त होता है।\n\n🔑 रासायनिक अभिक्रिया:\nCH₃CH₂OH → (अम्लीय K₂Cr₂O₇) → CH₃COOH\n• अम्लीय पोटैशियम डाइक्रोमेट (K₂Cr₂O₇ + H₂SO₄) एक तीव्र ऑक्सीकारक है जो इथेनॉल को सीधे कार्बोक्सिलिक अम्ल में बदल देता है।",
             "examName": "RRB Group D 15 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_22"
+            "id": "q_oxidation_and_reduction_22",
+            "correct_option": 3
         },
         {
             "question": "चिप्स के ऑक्सीकरण को रोकने के लिए उपयोग की जाने वाली गैस है:",
             "options": [
                 "हाइड्रोजन",
-                "नाइट्रोजन",
+                "नाइट्रोजन (Nitrogen)",
                 "आर्गन",
                 "ऑक्सीजन"
             ],
@@ -359,7 +375,8 @@
             "examName": "RRB Group D 7/10/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_23"
+            "id": "q_oxidation_and_reduction_23",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित अभिक्रिया Fe + CuSO₄ → FeSO₄ + Cu में, लोहा ___________ ।",
@@ -374,12 +391,13 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_oxidation_and_reduction_24"
+            "id": "q_oxidation_and_reduction_24",
+            "correct_option": 2
         },
         {
             "question": "दी गई अभिक्रिया में, किस पदार्थ का अपचयन होता है? Fe₂O₃ (s) + 2Al (s) → Al₂O₃ (s) + 2Fe (l)",
             "options": [
-                "फेरिक ऑक्साइड",
+                "फेरिक ऑक्साइड (Ferric Oxide)",
                 "एल्युमीनियम",
                 "एल्युमीनियम ऑक्साइड",
                 "आयरन"
@@ -404,12 +422,13 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_26"
+            "id": "q_oxidation_and_reduction_26",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा रासायनिक अपक्षय का हिस्सा नहीं है?",
             "options": [
-                "तुषार क्रिया",
+                "तुषार क्रिया (Frost Action)",
                 "जलयोजन",
                 "ऑक्सीकरण",
                 "कार्बोनेशन"
@@ -434,12 +453,13 @@
             "examName": "RRB JE CBT I - : 31 May 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_28"
+            "id": "q_oxidation_and_reduction_28",
+            "correct_option": 2
         },
         {
             "question": "एक प्रयोगशाला प्रयोग में, एक विद्यार्थी हाइड्रोक्लोरिक अम्ल (HCl) और सोडियम हाइड्रॉक्साइड (NaOH) का मिश्रण करता है। ऐसा करने पर किस प्रकार की अभिक्रिया होती है?",
             "options": [
-                "उदासीनीकरण",
+                "उदासीनीकरण (Neutralization)",
                 "ऑक्सीकरण",
                 "अपघटन",
                 "अवक्षेपण"
@@ -464,7 +484,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_30"
+            "id": "q_oxidation_and_reduction_30",
+            "correct_option": 2
         },
         {
             "question": "अभिक्रिया MnO ₂ + 4HCl → MnCl ₂ + 2H ₂ O + Cl ₂ में कौन-सा पदार्थ ऑक्सीकृत होता है तथा कौन-सा पदार्थ अपचित होता है?",
@@ -479,14 +500,15 @@
             "examName": "RRB Level 01 Stage I 27/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_31"
+            "id": "q_oxidation_and_reduction_31",
+            "correct_option": 3
         },
         {
             "question": "जब बेरियम क्लोराइड, सोडियम सल्फेट के साथ अभिक्रिया करता है तो किस प्रकार की अभिक्रिया होती है?",
             "options": [
                 "ऑक्सीकरण",
                 "संयोजन",
-                "दोहरा विस्थापन",
+                "दोहरा विस्थापन (Double Displacement)",
                 "अपघटन"
             ],
             "correctIndex": 2,
@@ -494,12 +516,13 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_32"
+            "id": "q_oxidation_and_reduction_32",
+            "correct_option": 2
         },
         {
             "question": "वायु की उपस्थिति में मैग्नीशियम को जलाने पर मैग्नीशियम ऑक्साइड बनता है। इनमें शामिल अभिक्रिया के प्रकार का चयन कीजिए।",
             "options": [
-                "ऑक्सीकरण अभिक्रिया",
+                "ऑक्सीकरण अभिक्रिया (Oxidation Reaction)",
                 "अपचयन अभिक्रिया",
                 "विस्थापन अभिक्रिया",
                 "द्वि - विस्थापन अभिक्रिया"
@@ -524,7 +547,8 @@
             "examName": "RRB Group D 20 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_34"
+            "id": "q_oxidation_and_reduction_34",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से कौन-सा/से कथन सत्य है/हैं?\n• A. विकृतगंधिता (Rancidity): जब वसा और तेल का ऑक्सीकरण होता है तो वे विकृतगंधी हो जाते हैं और उनकी गंध और स्वाद बदल जाता है।\n• B. संक्षारण (Corrosion): यदि किसी अभिक्रियाशील धातु की सतह हवा, पानी या अपने आस-पास के अन्य पदार्थों द्वारा प्रभावित होती है, तो इसे संक्षारित होना कहा जाता है और इस प्रभाव को संक्षारण कहा जाता है।",
@@ -539,7 +563,8 @@
             "examName": "RRB Group D 24/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_35"
+            "id": "q_oxidation_and_reduction_35",
+            "correct_option": 3
         },
         {
             "question": "अभिक्रिया ZnO + C → Zn + CO:",
@@ -554,7 +579,8 @@
             "examName": "RRB Group D 22 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_36"
+            "id": "q_oxidation_and_reduction_36",
+            "correct_option": 2
         },
         {
             "question": "चिप पैकेटों (chip packets) में नाइट्रोजन गैस की क्या भूमिका होती है?",
@@ -569,7 +595,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_37"
+            "id": "q_oxidation_and_reduction_37",
+            "correct_option": 1
         },
         {
             "question": "नीचे दिए गए कथनों पर विचार करें और सही उत्तर की पहचान करें। कथन - I: यदि कोई पदार्थ किसी अभिक्रिया के दौरान ऑक्सीजन खो देता है, तो उसे अपचयित कहा जाता है। कथन-II: यदि किसी पदार्थ में अभिक्रिया के दौरान हाइड्रोजन प्राप्त होता है, तो उसे अपचयित कहा जाता है।",
@@ -584,7 +611,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_38"
+            "id": "q_oxidation_and_reduction_38",
+            "correct_option": 3
         },
         {
             "question": "रेडॉक्स विस्थापन अभिक्रिया में, यदि तत्व X इलेक्ट्रॉन का त्याग करता है और तत्व Y इलेक्ट्रॉन ग्रहण करता है, तो क्या होता है?",
@@ -607,20 +635,21 @@
                 "आयनीकरण",
                 "ऑक्सीकरण",
                 "अपचयन",
-                "गैल्वनीकरण"
+                "गैल्वनीकरण (Galvanization)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: गैल्वनीकरण (Galvanization)\n\n📝 व्याख्या:\nलोहे और इस्पात को जंग (संक्षारण) से बचाने के लिए उन पर जस्ते (जिंक - Zn) की एक पतली सुरक्षात्मक परत चढ़ाने की प्रक्रिया को गैल्वनीकरण (Galvanization / यशद लेपन) कहते हैं।\n\n🔑 गैल्वनीकरण के तथ्य:\n• जिंक, लोहे की तुलना में अधिक अभिक्रियाशील होता है।\n• यह हवा के संपर्क में आकर एक सुरक्षात्मक परत बना लेता है। यदि जिंक की परत कहीं से टूट भी जाए, तो भी लोहा सुरक्षित रहता है क्योंकि जिंक स्वयं को बलि चढ़ा देता है।",
             "examName": "RPF Constable 2018 08 Feb 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_40"
+            "id": "q_oxidation_and_reduction_40",
+            "correct_option": 3
         },
         {
             "question": "CH₃COONa की उपस्थिति में CH₃COOH की विलेयता घटती है, इसका कारण है:",
             "options": [
                 "ऑक्सीकरण",
-                "सम आयन प्रभाव",
+                "सम आयन प्रभाव (Common Ion Effect)",
                 "आयन युग्मन",
                 "तापमान में वृद्धि"
             ],
@@ -629,7 +658,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 06 Jun, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_41"
+            "id": "q_oxidation_and_reduction_41",
+            "correct_option": 1
         },
         {
             "question": "अम्ल और क्षार के बीच अभिक्रिया का सामान्य नाम क्या है?",
@@ -637,14 +667,15 @@
                 "अपघटन",
                 "ऑक्सीकरण",
                 "दहन",
-                "उदासीनीकरण"
+                "उदासीनीकरण (Neutralization)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: उदासीनीकरण (Neutralization)\n\n📝 व्याख्या:\nअम्ल और क्षार के बीच होने वाली अभिक्रिया को उदासीनीकरण (Neutralization) कहा जाता है।\n\n🔑 उदाहरण:\nअम्ल (HCl) + क्षार (NaOH) → लवण (NaCl) + जल (H₂O) + ऊष्मा\n• इस अभिक्रिया में अम्ल का H⁺ आयन और क्षार का OH⁻ आयन मिलकर उदासीन जल (H₂O) बनाते हैं।",
             "examName": "RRB Level 01 Stage I 09/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_42"
+            "id": "q_oxidation_and_reduction_42",
+            "correct_option": 3
         },
         {
             "question": "नीचे दिए गए कथनों पर विचार कीजिए और सही उत्तर की पहचान कीजिए:\nकथन-I: गर्म करने पर कॉपर पाउडर की सतह काले कॉपर (II) ऑक्साइड से लेपित हो जाती है।\nकथन-II: यदि इस गर्म पदार्थ (CuO) के ऊपर से हाइड्रोजन गैस प्रवाहित की जाए, तो सतह की काली परत भूरे रंग में बदल जाती है।",
@@ -659,14 +690,15 @@
             "examName": "RRB Group D 22 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_43"
+            "id": "q_oxidation_and_reduction_43",
+            "correct_option": 3
         },
         {
             "question": "जब हाइड्रोजन के साथ कॉपर ऑक्साइड को गर्म किया जाता है, तो कॉपर मेटल और पानी बनता है। इस अभिक्रिया में हाइड्रोजन का क्या होता है?",
             "options": [
                 "ऑक्सीकरण और अपचयन दोनों",
                 "अपचयन",
-                "ऑक्सीकरण",
+                "ऑक्सीकरण (Oxidation)",
                 "विघटन"
             ],
             "correctIndex": 2,
@@ -674,12 +706,13 @@
             "examName": "RRB Group D 23 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_44"
+            "id": "q_oxidation_and_reduction_44",
+            "correct_option": 2
         },
         {
             "question": "निम्न में से कौन-सा उच्च तापमान पर आसानी से ऑक्सीकृत (जलना) नहीं होता है?",
             "options": [
-                "मिश्रित धातु",
+                "मिश्रित धातु (Alloy)",
                 "विद्युतरोधी",
                 "चालक",
                 "अर्धचालक"
@@ -696,7 +729,7 @@
             "options": [
                 "It is a catalyst that speeds up the reaction.",
                 "It is an agent that helps other substances to be oxidized.",
-                "It is a substance that causes reduction and itself gets oxidized.",
+                "It is a substance that causes reduction and itself gets oxidized. (यह वह पदार्थ है जो अपचयन का कारण बनता है और स्वयं ऑक्सीकृत हो जाता है।)",
                 "It is a substance that only participates in decomposition"
             ],
             "correctIndex": 2,
@@ -704,7 +737,8 @@
             "examName": "RRB JE 20/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_46"
+            "id": "q_oxidation_and_reduction_46",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सी भर्जन (Roasting) प्रक्रिया सल्फाइड अयस्क से सल्फर का दहन कर देती है?",
@@ -719,7 +753,8 @@
             "examName": "RRB Level 01 Stage I 08/01/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_47"
+            "id": "q_oxidation_and_reduction_47",
+            "correct_option": 3
         },
         {
             "question": "दी गई अभिक्रिया में कौन सा पदार्थ ऑक्सीकरण से गुजरता है? 2Cu + O₂ → 2CuO",
@@ -739,7 +774,7 @@
         {
             "question": "एथेनॉल का एसीटिक अम्ल में रूपांतरण किसका उदाहरण है?",
             "options": [
-                "ऑक्सीकरण अभिक्रिया",
+                "ऑक्सीकरण अभिक्रिया (Oxidation Reaction)",
                 "प्रतिस्थापन अभिक्रिया",
                 "योगात्मक अभिक्रिया",
                 "अपचयन अभिक्रिया"
@@ -754,7 +789,7 @@
         {
             "question": "आभूषणों का धूमिल होना __________ का एक उदाहरण है।",
             "options": [
-                "ऑक्सीकरण अभिक्रिया",
+                "ऑक्सीकरण अभिक्रिया (Oxidation Reaction)",
                 "उदासीनीकरण अभिक्रिया",
                 "उष्माक्षेपी अभिक्रिया",
                 "प्रकाश-अपघटनी अभिक्रिया"
@@ -770,7 +805,7 @@
             "question": "यदि कोई पदार्थ अभिक्रिया के दौरान ऑक्सीजन ग्रहण करता है, तो उसे ________ कहा जाता है।",
             "options": [
                 "विघटित हुआ",
-                "ऑक्सीकृत हुआ",
+                "ऑक्सीकृत हुआ (Oxidised)",
                 "उदासीनीकृत हुआ",
                 "अपचयित हुआ"
             ],
@@ -779,7 +814,8 @@
             "examName": "RRB Group D 26 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_oxidation_and_reduction_51"
+            "id": "q_oxidation_and_reduction_51",
+            "correct_option": 1
         },
         {
             "question": "भोजन को वायुरोधी पात्र में रखने पर क्या लाभ होता है?",
@@ -794,13 +830,14 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 16 Jun, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_52"
+            "id": "q_oxidation_and_reduction_52",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन नीचे दी गयी अभिक्रिया के बारे में गलत है? 2PbO (s)+C (s) → 2Pb (s)+CO₂ (g)\n• A. कार्बन डाई-ऑक्साइड का उपचयन हो रहा है\n• B. लेड का अपचयन हो रहा है\n• C. कार्बन का उपचयन हो रहा है\n• D. लेड ऑक्साइड का अपचयन हो रहा है",
             "options": [
                 "A और C",
-                "A और B",
+                "A और B (दोनों गलत हैं)",
                 "B और C",
                 "A, B और C"
             ],
@@ -809,7 +846,8 @@
             "examName": "RRB Group D 3/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_53"
+            "id": "q_oxidation_and_reduction_53",
+            "correct_option": 1
         },
         {
             "question": "रेडॉक्स अभिक्रिया वह अभिक्रिया है जिसमें ___________।",
@@ -839,12 +877,13 @@
             "examName": "RRB Group D 22 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_55"
+            "id": "q_oxidation_and_reduction_55",
+            "correct_option": 1
         },
         {
             "question": "कौन-सी रासायनिक अभिक्रिया में पदार्थ ऑक्सीजन के साथ अभिक्रिया करके ऊष्मा उत्पन्न करता है?",
             "options": [
-                "दहन",
+                "दहन (Combustion)",
                 "विस्फोट",
                 "ऑक्सीकरण",
                 "अपसेट"
@@ -869,14 +908,15 @@
             "examName": "RRB Group D 5 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_57"
+            "id": "q_oxidation_and_reduction_57",
+            "correct_option": 2
         },
         {
             "question": "यदि कोई पदार्थ किसी प्रतिक्रिया के दौरान हाइड्रोजन खो देता है, तो उसे कहा जाता है:",
             "options": [
                 "बेअसर करना",
                 "कम किया हुआ",
-                "ऑक्सीकृत",
+                "ऑक्सीकृत (Oxidised)",
                 "विघटित"
             ],
             "correctIndex": 2,
@@ -884,7 +924,8 @@
             "examName": "RRB Group D 24 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_58"
+            "id": "q_oxidation_and_reduction_58",
+            "correct_option": 2
         },
         {
             "question": "नीचे दिए गए कथनों पर विचार कीजिए और सही उत्तर की पहचान कीजिए:\nकथन-I: भोजन को वायुरोधी डिब्बों में रखने से ऑक्सीकरण की गति धीमी हो जाती है।\nकथन-II: चिप्स को ऑक्सीकृत होने से बचाने के लिए निर्माता आमतौर पर चिप्स के थैलों में ऑक्सीजन जैसी सक्रिय गैस भर देते हैं।",
@@ -904,7 +945,7 @@
         {
             "question": "एथेनॉल (Ethanol) को सांद्र सल्फ्यूरिक अम्ल (H₂SO₄) की अधिकता में 443 K पर गर्म करने पर एथीन (Ethene) प्राप्त होता है। होने वाला रासायनिक परिवर्तन ____________ होगा।",
             "options": [
-                "हैलोजनन",
+                "निर्जलीकरण (Dehydration)",
                 "निजलीकरण",
                 "ऑक्सीकरण",
                 "अपचयन"
@@ -920,7 +961,7 @@
             "question": "निम्नलिखित में से कौन-सी अभिक्रिया अघुलनशील लवण (Insoluble Salt) पैदा करती है?",
             "options": [
                 "अपचयन",
-                "अवक्षेपण",
+                "अवक्षेपण (Precipitation)",
                 "ऑक्सीकरण",
                 "उदासीनीकरण"
             ],
@@ -929,7 +970,8 @@
             "examName": "RRB JE 23 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_61"
+            "id": "q_oxidation_and_reduction_61",
+            "correct_option": 1
         },
         {
             "question": "अंग्रेजी रसायनज्ञ हमफ्री डेवी ने किस विधि को अपनाकर अत्यधिक अभिक्रियाशील क्षार धातुओं, विशेष रूप से सोडियम और पोटैशियम की खोज और पृथक्करण किया?",
@@ -937,14 +979,15 @@
                 "कार्बन के साथ अपचयन",
                 "गलन",
                 "भजन और निस्तापन",
-                "विद्युत अपघटन"
+                "विद्युत अपघटन (Electrolysis)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: विद्युत अपघटन (Electrolysis)\n\n📝 व्याख्या:\nअंग्रेज रसायनज्ञ सर हम्फ्री डेवी (Humphry Davy) ने पिघले हुए लवणों के विद्युत अपघटन (Electrolysis) की विधि को अपनाकर सोडियम (Na) और पोटैशियम (K) जैसी अत्यधिक क्रियाशील धातुओं की खोज और उन्हें अलग किया था।\n\n🔑 ऐतिहासिक तथ्य:\n• 1807 में उन्होंने पिघले हुए पोटैशियम हाइड्रॉक्साइड (KOH) और सोडियम हाइड्रॉक्साइड (NaOH) के विद्युत अपघटन से इन धातुओं को पृथक किया था।\n• चूंकि ये धातुएं बहुत सक्रिय हैं, इन्हें कार्बन अपचयन जैसी पारंपरिक विधियों से पृथक नहीं किया जा सकता।",
             "examName": "RPF Constable 2024 06 Mar, 2025 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_62"
+            "id": "q_oxidation_and_reduction_62",
+            "correct_option": 3
         },
         {
             "question": "एक रासायनिक अभिक्रिया में, कोई पदार्थ हाइड्रोजन ग्रहण करता है। इस प्रक्रिया को ______ कहा जाता है।",
@@ -952,14 +995,15 @@
                 "ब्रोमीनीकरण",
                 "ऑक्सीकरण",
                 "क्लोरीनीकरण",
-                "अपचयन"
+                "अपचयन (Reduction)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: अपचयन (Reduction)\n\n📝 व्याख्या:\nएक रासायनिक अभिक्रिया में, जब कोई पदार्थ हाइड्रोजन ग्रहण करता है, तो इस प्रक्रिया को अपचयन (Reduction) कहा जाता है।\n\n🔑 सारांश:\n• ऑक्सीजन का ह्रास / हाइड्रोजन का योग = अपचयन (Reduction)\n• ऑक्सीजन का योग / हाइड्रोजन का ह्रास = ऑक्सीकरण (Oxidation)",
             "examName": "RRB Group D 30 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_oxidation_and_reduction_63"
+            "id": "q_oxidation_and_reduction_63",
+            "correct_option": 3
         }
     ]
 }

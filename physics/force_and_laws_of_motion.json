@@ -16,7 +16,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 16/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_1"
+            "id": "q_force_and_laws_of_motion_1",
+            "correct_option": 2
         },
         {
             "question": "किसी वस्तु का द्रव्यमान सर्वत्र (पृथ्वी या चंद्रमा पर) नियत रहता है, जबकि उसका भार बदल जाता है क्योंकि ___________ ।",
@@ -31,7 +32,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_2"
+            "id": "q_force_and_laws_of_motion_2",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस क्रिया में वैज्ञानिक कार्य शामिल है?",
@@ -46,12 +48,13 @@
             "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_3"
+            "id": "q_force_and_laws_of_motion_3",
+            "correct_option": 1
         },
         {
             "question": "यदि आप किसी गैस पर दाब डालते हैं, तो अंतराआणविक अवकाशों और बलों पर क्या प्रभाव पड़ता है?",
             "options": [
-                "अंतराआणविक अवकाश घटते हैं, अंतराआणविक बल बढ़ते हैं।",
+                "अंतराआणविक अवकाश घटते हैं, अंतराआणविक बल बढ़ते हैं。",
                 "अंतराआणविक अवकाश बढ़ते हैं, अंतराआणविक बल घटते हैं।",
                 "अंतराआणविक अवकाश और बल दोनों बढ़ते हैं।",
                 "अंतराआणविक अवकाश और बल दोनों अपरिवर्तित रहते हैं।"
@@ -76,7 +79,8 @@
             "examName": "RRB JE ECE 22 Apr 2025 Shift 2 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_5"
+            "id": "q_force_and_laws_of_motion_5",
+            "correct_option": 3
         },
         {
             "question": "किसी निकाय के संवेग के परिवर्तन की दर _______ के अनुक्रमानुपाती होती है।",
@@ -91,7 +95,8 @@
             "examName": "RRB Group D 22 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_6"
+            "id": "q_force_and_laws_of_motion_6",
+            "correct_option": 1
         },
         {
             "question": "किसी वस्तु की स्थिर अवस्था या उसकी गति की अवस्था का विरोध करने की प्रवृत्ति _________ कहलाती है।",
@@ -106,7 +111,8 @@
             "examName": "RRB Group D 26/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_7"
+            "id": "q_force_and_laws_of_motion_7",
+            "correct_option": 3
         },
         {
             "question": "न्यूटन के तीसरे नियम के अनुसार क्रिया और प्रतिक्रिया बलों के बारे में निम्नलिखित में से कौन-सा कथन सत्य है?",
@@ -121,7 +127,8 @@
             "examName": "RRB Level 01 Stage I 17/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_8"
+            "id": "q_force_and_laws_of_motion_8",
+            "correct_option": 3
         },
         {
             "question": "जब एक बंदूक चलाई जाती है, तो गोली के आगे चलने पर बंदूक पीछे की ओर धक्का देती है। यह न्यूटन के गति के तीसरे नियम को कैसे प्रदर्शित करता है?",
@@ -136,12 +143,13 @@
             "examName": "RRB JE 19/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_9"
+            "id": "q_force_and_laws_of_motion_9",
+            "correct_option": 3
         },
         {
             "question": "न्यूटन के गति के तीसरे नियम के अनुसार, निम्नलिखित में से कौन-सा कथन सत्य है?",
             "options": [
-                "क्रिया और प्रतिक्रिया बराबर और विपरीत होती हैं लेकिन दो अलग-अलग पिंडों पर कार्य करती हैं।",
+                "क्रिया और प्रतिक्रिया बराबर और विपरीत होती हैं लेकिन दो अलग-अलग पिंडों पर कार्य करती हैं。",
                 "क्रिया और प्रतिक्रिया असमान होती हैं और एक ही पिंड पर कार्य करती हैं।",
                 "क्रिया और प्रतिक्रिया एक ही पिंड पर कार्य करती हैं और परिमाण में बराबर होती हैं।",
                 "क्रिया और प्रतिक्रिया एक दूसरे को रद्द कर देती हैं क्योंकि वे एक ही पिंड पर कार्य"
@@ -181,7 +189,8 @@
             "examName": "RPF Constable 2024 : 10 Mar, 2025 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_12"
+            "id": "q_force_and_laws_of_motion_12",
+            "correct_option": 3
         },
         {
             "question": "द्रव्यमान और जड़त्व के बीच संबंध में निम्नलिखित में से कौन-सा विकल्प सही है?",
@@ -196,7 +205,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_13"
+            "id": "q_force_and_laws_of_motion_13",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प, अविक्षुब्ध वस्तुओं को विरामावस्था में रहने या समान वेग से गतिमान रहने की प्रवृत्ति का सर्वोत्तम रूप से वर्णन करता है?",
@@ -211,7 +221,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 25/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_14"
+            "id": "q_force_and_laws_of_motion_14",
+            "correct_option": 3
         },
         {
             "question": "कौन-सा नियम काले पिंडों के रंगों की व्याख्या करता है, जिसमें सूर्य और अन्य तारे भी शामिल हैं, उनके तापमान के संदर्भ में?",
@@ -226,7 +237,8 @@
             "examName": "RRB NTPC UG CBT-I : 21 Aug, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_15"
+            "id": "q_force_and_laws_of_motion_15",
+            "correct_option": 2
         },
         {
             "question": "कौन-सा नियम धारावाही लूप के अंदर चुंबकीय क्षेत्र की दिशा निधारित करने में मदद करता है?",
@@ -241,7 +253,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_16"
+            "id": "q_force_and_laws_of_motion_16",
+            "correct_option": 2
         },
         {
             "question": "दो वस्तुएँ त्वरित हो रही हैं - एक का द्रव्यमान 3 kg है और वह m/s² की गति से त्वरित होती है, और दूसरी का द्रव्यमान 5 kg है और वह 2 m/s² की गति से त्वरित होती है। इनमें से किसको गति करने के लिए अधिक बल की आवश्यकता है?",
@@ -256,7 +269,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_17"
+            "id": "q_force_and_laws_of_motion_17",
+            "correct_option": 2
         },
         {
             "question": "15 kg द्रव्यमान का पिंड 5ms–2 त्वरण से गतिमान है। तो उस पर कार्यरत बल ______ होगा।",
@@ -271,12 +285,13 @@
             "examName": "RRB Group D 26/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_18"
+            "id": "q_force_and_laws_of_motion_18",
+            "correct_option": 3
         },
         {
             "question": "द्रव्यमान 80 kg की एक वस्तु 60 m/s के वेग के साथ घूम रही है, तब वस्तु का संवेग ___________ है।",
             "options": [
-                "4800 kg·m/s²",
+                "4800 kgms­-1",
                 "4800 kg·m/s",
                 "4800 kg·m/s",
                 "4800 kg·m/s²"
@@ -336,7 +351,7 @@
         {
             "question": "क्रिया और प्रतिक्रिया बलों की मात्रा बराबर होने पर भी, वे बराबर त्वरण उत्पन्न नहीं कर सकते। क्यों?",
             "options": [
-                "क्योंकि बल एक ही वस्तु पर कार्य करते हैं।",
+                "क्योंकि प्रत्येक बल एक अलग वस्तु पर कार्य करता है, और वस्तुओं का द्रव्यमान भिन्न हो सकता है。",
                 "क्योंकि प्रतिक्रिया बल हमेशा कम प्रभावी होते हैं।",
                 "क्योंकि प्रत्येक बल एक अलग वस्तु पर कार्य करता है, और वस्तुओं का द्रव्यमान भिन्न हो सकता है।",
                 "क्योंकि केवल अधिक बल ही त्वरण उत्पन्न करता है।"
@@ -376,7 +391,8 @@
             "examName": "RPF SI 2018 : 10 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_25"
+            "id": "q_force_and_laws_of_motion_25",
+            "correct_option": 1
         },
         {
             "question": "कॉक पानी में क्यों तैरती रहती है, जबकि लोहे की कील डूब जाती है?",
@@ -391,12 +407,13 @@
             "examName": "RRB JE CBT I - : 30 May 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_26"
+            "id": "q_force_and_laws_of_motion_26",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन, द्रव्यमान और जड़त्व के बीच संबंध का सही तरीके से वर्णन करता है?",
             "options": [
-                "द्रव्यमान, जड़त्व के वर्ग के अनुक्रमानुपाती होता है।",
+                "द्रव्यमान, जड़त्व के अनुक्रमानुपाती होता है。",
                 "द्रव्यमान, जड़त्व के अनुक्रमानुपाती होता है।",
                 "द्रव्यमान, जड़त्व से स्वतंत्र होता है।",
                 "द्रव्यमान, जड़त्व के व्युत्क्रमानुपाती होता है।"
@@ -421,7 +438,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_28"
+            "id": "q_force_and_laws_of_motion_28",
+            "correct_option": 3
         },
         {
             "question": "जब कोई पिंड, दूसरे पिंड की सतह पर लुढ़कता है, तो इसकी गति का विरोध करने वाले बल को क्या कहा जाता है?",
@@ -451,12 +469,13 @@
             "examName": "RRB Group D 4/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_30"
+            "id": "q_force_and_laws_of_motion_30",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा शुष्क घर्षण के नियम के संबंध में सही कथन है?",
             "options": [
-                "प्रतिबंधक घर्षण का परिमाण दो संपर्क सतहों के बीच सामान्य अभिक्रिया के लिए स्थिर",
+                "घर्षण का बल दो सतहों के बीच संपर्क के क्षेत्रफल से स्वतंत्र होता है。",
                 "घर्षण का बल दो सतहों के बीच संपर्क के क्षेत्रफल से स्वतंत्र होता है।",
                 "घर्षण बल सदैव उस दिशा के विपरीत दिशा में कार्य करता है, जिस दिशा में निकाय गति करता है।",
                 "घर्षण का बल सतहों की रेक्षता/चिकनाई पर निर्भर करता है।"
@@ -486,7 +505,7 @@
         {
             "question": "जब एक खाली बोतल को हवा बंद करके पानी में डुबोया जाता है और फिर छोड़ा जाता है, तो वह वापस ऊपर उछलती है। ऐसा इसलिए है क्योंकि ________ । अधिक है।",
             "options": [
-                "पानी एक खाली बोतल पर बल नहीं लगाता है।",
+                "बोतल पर पानी का उत्प्लावन बल बोतल पर कार्य करने वाले गुरुत्वाकर्षण बल से अधिक है。",
                 "बोतल पर गुरुत्वाकर्षण बल पानी के उत्प्लावन बल के बराबर है।",
                 "बोतल पर पानी का उत्प्लावन बल बोतल पर कार्य करने वाले गुरुत्वाकर्षण बल से अधिक है।",
                 "बोतल पर कार्य करने वाला गुरुत्वाकर्षण बल पानी के उत्प्लावन बल से अधिक है।"
@@ -541,7 +560,8 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_36"
+            "id": "q_force_and_laws_of_motion_36",
+            "correct_option": 3
         },
         {
             "question": "चलती कार में अचानक ब्रेक लगाने पर यात्री आगे की ओर झटका क्यों खाते हैं?",
@@ -616,7 +636,8 @@
             "examName": "RPF Constable 2018 03 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_41"
+            "id": "q_force_and_laws_of_motion_41",
+            "correct_option": 2
         },
         {
             "question": "हाइड्रोलिक ब्रेक और हाइड्रोलिक लिफ्ट जैसे उपकरण किस भौतिक नियम या सिद्धांत पर काम करते हैं?",
@@ -631,7 +652,8 @@
             "examName": "RPF Constable 2024 03 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_42"
+            "id": "q_force_and_laws_of_motion_42",
+            "correct_option": 3
         },
         {
             "question": "_______ एक कारक है, जो किसी वस्तु को रोकने या गति देने का कार्य करता है।",
@@ -646,7 +668,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_43"
+            "id": "q_force_and_laws_of_motion_43",
+            "correct_option": 2
         },
         {
             "question": "\"जब एक टंबलर के ऊपर रखा गया कार्ड उंगली से झटकाया जाता है, तो उसके ऊपर रखा सिक्का टम्बलर में गिरता है\"।",
@@ -661,7 +684,8 @@
             "examName": "RRB Group D 17 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_44"
+            "id": "q_force_and_laws_of_motion_44",
+            "correct_option": 2
         },
         {
             "question": "ग्रहों की गति के नियमों का प्रस्ताव किसने दिया?",
@@ -676,7 +700,8 @@
             "examName": "RRB NTPC CBT-I : 20 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_45"
+            "id": "q_force_and_laws_of_motion_45",
+            "correct_option": 2
         },
         {
             "question": "चंद्रमा पर किसी वस्तु का भार ______ होता है।",
@@ -691,7 +716,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_46"
+            "id": "q_force_and_laws_of_motion_46",
+            "correct_option": 1
         },
         {
             "question": "यदि किसी पिंड का वेग 4 सेकंड में + 20 m/s से - 10 m/s हो जाता है, तो त्वरण _______ होगा।",
@@ -706,7 +732,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_47"
+            "id": "q_force_and_laws_of_motion_47",
+            "correct_option": 1
         },
         {
             "question": "जब साइकिल में ब्रेक लगाया जाता है, तो ब्रेक पैड पहिए को स्पर्श करता है। अब पहिए को क्या रोकता है?",
@@ -736,7 +763,8 @@
             "examName": "RRB JE CBT-I : 28 June 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_49"
+            "id": "q_force_and_laws_of_motion_49",
+            "correct_option": 2
         },
         {
             "question": "निम्न में से किसमें दिशा और परिमाण दोनों होते हैं?",
@@ -751,7 +779,8 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_50"
+            "id": "q_force_and_laws_of_motion_50",
+            "correct_option": 2
         },
         {
             "question": "यदि हम पेड की शाखा को तेजी से हिलाऍं तो कुछ पत्तियां पेड़ से अलग हो जाती हैं। यह ________ के कारण होता है।",
@@ -766,12 +795,13 @@
             "examName": "RRB Group D 4 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_51"
+            "id": "q_force_and_laws_of_motion_51",
+            "correct_option": 3
         },
         {
             "question": "एक स्थिर बल 2 सेकंड की अवधि के लिए 5 kg द्रव्यमान की वस्तु पर कार्य करता है। यह वस्तु के वेग को 4 m·s⁻¹ से 7 m·s⁻¹ तक बढ़ा देता है प्रयुक्त बल की मात्रा ज्ञात करें।",
             "options": [
-                "5.5 N",
+                "5 N",
                 "8.5 N",
                 "7.5 N",
                 "8 N"
@@ -786,7 +816,7 @@
         {
             "question": "जब कोई ठोस पिघलता है लेकिन उसका तापमान अपरिवर्तित रहता है, तो ऊष्मा ऊर्जा कहाँ जाती है?",
             "options": [
-                "इसका उपयोग कणों के बीच के प्रतिकर्षण बल को दूर करने के लिए होता है।",
+                "इसका उपयोग कणों के बीच के आकर्षण बल को दूर करने के लिए होता है。",
                 "इसका उपयोग कणों के बीच के आकर्षण बल को दूर करने के लिए होता है।",
                 "यह प्रतिकर्षण बल को दूर करने के दौरान परिवेश में विलीन हो जाती है।",
                 "आकर्षण बल को दूर करने के दौरान यह ऊर्जा परिवेश में विलीन हो जाती है।"
@@ -801,7 +831,7 @@
         {
             "question": "' पदार्थ के कणों के आकर्षण' के बारे में निम्नलिखित में से कौन-सा कथन सही है?",
             "options": [
-                "विभिन्न कणों के लिए आकर्षण बल भिन्न-भिन्न होता है।",
+                "विभिन्न कणों के लिए आकर्षण बल भिन्न-भिन्न होता है。",
                 "गैसों की तुलना में द्रवों में आकर्षण बल कम होता है।",
                 "विभिन्न कणों के लिए आकर्षण बल समान होता है।",
                 "ठोस पदार्थों की तुलना में तरल पदार्थों में आकर्षण बल अधिक होता है।"
@@ -841,12 +871,13 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_56"
+            "id": "q_force_and_laws_of_motion_56",
+            "correct_option": 2
         },
         {
             "question": "जब माध्यम का तापमान बढ़ता है, तो ध्वनि की गति _________",
             "options": [
-                "प्रभावित नहीं होती है।",
+                "बढ़ती है。",
                 "घटती है।",
                 "शून्य हो जाती है।",
                 "बढ़ती है।"
@@ -871,7 +902,8 @@
             "examName": "RRB Group D 23/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_58"
+            "id": "q_force_and_laws_of_motion_58",
+            "correct_option": 1
         },
         {
             "question": "यदि कोई बल `F` किसी पिंड पर इस प्रकार कार्य करता है कि पिंड बल की दिशा में `x` दूरी तक विस्थापित हो जाता है, तो बल द्वारा किया गया कार्य _______ है।",
@@ -886,12 +918,13 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_59"
+            "id": "q_force_and_laws_of_motion_59",
+            "correct_option": 3
         },
         {
             "question": "जूते के तलवों में खांचे क्यों बनाए जाते हैं?",
             "options": [
-                "जूते के डिजाइन की सुंदरता बढ़ाने के लिए।",
+                "घर्षण को बढ़ाने और बेहतर पकड़ प्रदान करने के लिए。",
                 "जूते को फश पर आसानी से फिसलने लायक बनाने के लिए।",
                 "घर्षण को कम करने के लिए।",
                 "घर्षण को बढ़ाने और बेहतर पकड़ प्रदान करने के लिए।"
@@ -916,7 +949,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 05 Jun, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_61"
+            "id": "q_force_and_laws_of_motion_61",
+            "correct_option": 2
         },
         {
             "question": "ऊर्जा संरक्षण का सिद्धांत ___________ लागू होता है।",
@@ -931,7 +965,8 @@
             "examName": "RRB Level 01 Stage I 05/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_62"
+            "id": "q_force_and_laws_of_motion_62",
+            "correct_option": 1
         },
         {
             "question": "कागज के तल में एक चालक पर विचार करें, जिसमें विद्युत धारा नीचे से ऊपर की ओर जा रही है। चालक के बाईं ओर चुंबकीय क्षेत्र रेखाओं की दिशा क्या होगी?",
@@ -946,7 +981,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_63"
+            "id": "q_force_and_laws_of_motion_63",
+            "correct_option": 3
         },
         {
             "question": "10 kg द्रव्यमान वाले एक बॉक्स पर 20 s के लिए लगाए गए बल का परिमाण ज्ञात कीजिए। यह बॉक्स के वेग को 5 m s⁻¹ से 15 m s⁻¹ तक बढ़ाता है?",
@@ -961,7 +997,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_64"
+            "id": "q_force_and_laws_of_motion_64",
+            "correct_option": 2
         },
         {
             "question": "तनाव जानने का सूत्र है:",
@@ -1011,7 +1048,7 @@
         {
             "question": "पृथ्वी और चंद्रमा के द्रव्यमान और उनके बीच की दूरी के स्वीकृत मानों के आधार पर, पृथ्वी द्वारा चंद्रमा पर लगाया गया परिकलित गुरुत्वाकर्षण बल कितना है?",
             "options": [
-                "2.0 × 10²⁰ N",
+                "02 x 10²0 N",
                 "7.4 × 10²² N",
                 "6.67 × 10⁻¹¹ N",
                 "9.8 N"
@@ -1026,7 +1063,7 @@
         {
             "question": "असंतुलित बल का गतिमान वस्तु पर क्या प्रभाव पड़ता है?",
             "options": [
-                "यह वस्तु को तुरंत रोक देता है।",
+                "यह चाल या गति की दिशा में परिवर्तन करता है。",
                 "यह चाल या गति की दिशा में परिवर्तन करता है।",
                 "यह वस्तु का भार बढ़ा देता है।",
                 "यह वस्तु को विरामावस्था में रखता है।"
@@ -1051,7 +1088,8 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_70"
+            "id": "q_force_and_laws_of_motion_70",
+            "correct_option": 2
         },
         {
             "question": "यदि किसी वस्तु की चाल दोगुनी कर दी जाए, तो उसकी गतिज ऊर्जा ________ ।",
@@ -1081,7 +1119,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_72"
+            "id": "q_force_and_laws_of_motion_72",
+            "correct_option": 2
         },
         {
             "question": "ब्रह्मांड में सभी द्रव्यमानों के बीच का आकर्षण बल विशेष रूप से पृथ्वी की सतह के पास के पिंडों के लिए पृथ्वी के द्रव्यमान के आकर्षण को ________ कहा जाता है।",
@@ -1096,7 +1135,8 @@
             "examName": "RRB JE 26 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_73"
+            "id": "q_force_and_laws_of_motion_73",
+            "correct_option": 2
         },
         {
             "question": "जब आप कुर्सी पर बैठते हैं, तो कुर्सी आप पर ऊपर की ओर बल लगाती है। इस स्थिति में प्रतिक्रिया बल क्या होता है?",
@@ -1126,12 +1166,13 @@
             "examName": "RPF Constable 2018 16 Feb 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_75"
+            "id": "q_force_and_laws_of_motion_75",
+            "correct_option": 1
         },
         {
             "question": "जब एक मंदक बल 'F' विपरीत दिशा में लगाया जाता है, तो दोनों दिशाओं के बीच का कोण _____ होगा।",
             "options": [
-                "30°",
+                "180o",
                 "60°",
                 "180°",
                 "90°"
@@ -1156,7 +1197,8 @@
             "examName": "RRB Group D 6 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_77"
+            "id": "q_force_and_laws_of_motion_77",
+            "correct_option": 2
         },
         {
             "question": "न्यूटन का गति का पहला नियम _______ के लिए वैध नहींहै।",
@@ -1171,7 +1213,8 @@
             "examName": "RRB Group D 20 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_78"
+            "id": "q_force_and_laws_of_motion_78",
+            "correct_option": 1
         },
         {
             "question": "यदि एक सीधे चालक में प्रवाहित धारा को दोगुना कर दिया जाए, तो उससे दी गई दूरी पर चुंबकीय क्षेत्र _______________ ।",
@@ -1201,7 +1244,8 @@
             "examName": "RRB NTPC Tier I : 6 Apr 2016 Shift 1",
             "examYear": "2016",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_80"
+            "id": "q_force_and_laws_of_motion_80",
+            "correct_option": 1
         },
         {
             "question": "एक कार 180 km/h की चाल से गतिमान है। ब्रेक लगाने पर यह 5 सेकंड में पूरी तरह रेक जाती है। यदि कार और उसके यात्रियों का कुल द्रव्यमान 4200 kg हो, तो कार को रोकने के लिए ब्रेक द्वारा लगाया गया बल ज्ञात करें।",
@@ -1221,7 +1265,7 @@
         {
             "question": "यदि दो अलग-अलग द्रव्यमान की वस्तुओं पर एक नियत बल कार्य करता है, तो गति के दूसरे नियम के अनुसार कौन-सा कथन उनके त्वरण का सबसे अच्छा वर्णन करता है?",
             "options": [
-                "दोनों वस्तुओं का त्वरण समान होगा।",
+                "कम द्रव्यमान वाली वस्तु का त्वरण अधिक होगा。",
                 "त्वरण, द्रव्यमान पर निर्भर नहीं करता।",
                 "अधिक द्रव्यमान वाली वस्तु का त्वरण अधिक होगा।",
                 "कम द्रव्यमान वाली वस्तु का त्वरण अधिक होगा।"
@@ -1239,14 +1283,15 @@
                 "यदि त्वरण वेग की दिशा के विपरीत हो तो वह धनात्मक होता है।",
                 "त्वरण हमेशा धनात्मक होता है, चाहे दिशा कोई भी हो।",
                 "यदि त्वरण वेग की दिशा में हो तो वह ऋणात्मक होता है।",
-                "त्वरण धनात्मक होता है यदि वह वेग की दिशा में हो, और ऋणात्मक होता है यदि वह"
+                "त्वरण धनात्मक होता है यदि वह वेग की दिशा में हो, और ऋणात्मक होता है यदि वह विपरीत दिशा में हो।"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: त्वरण धनात्मक होता है यदि वह वेग की दिशा में हो, और ऋणात्मक होता है यदि वह विपरीत दिशा में हो।\n\n📝 व्याख्या:\nत्वरण (Acceleration) एक सदिश राशि है।\n\n• यदि बल वस्तु की गति (वेग) की ही दिशा में लगता है, तो वेग बढ़ता है, और इसे **धनात्मक त्वरण** माना जाता है।\n• यदि बल गति की विपरीत दिशा में (जैसे ब्रेक) लगता है, तो वेग घटता है, और इसे **ऋणात्मक त्वरण (मंदन)** माना जाता है।",
             "examName": "RRB Level 01 Stage I 23/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_83"
+            "id": "q_force_and_laws_of_motion_83",
+            "correct_option": 3
         },
         {
             "question": "जब हवा का तापमान बढ़ता है, तो ध्वनि तरंगों की चाल।",
@@ -1261,7 +1306,8 @@
             "examName": "RRB Level 01 Stage I 09/01/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_84"
+            "id": "q_force_and_laws_of_motion_84",
+            "correct_option": 2
         },
         {
             "question": "न्यूटन के गति के प्रथम नियम का अन्य नाम क्या है?",
@@ -1276,7 +1322,8 @@
             "examName": "RRB NTPC CBT-I : 4 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_85"
+            "id": "q_force_and_laws_of_motion_85",
+            "correct_option": 2
         },
         {
             "question": "बफ, जल के पृष्ठ पर क्यों तैरती है?",
@@ -1306,7 +1353,8 @@
             "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_87"
+            "id": "q_force_and_laws_of_motion_87",
+            "correct_option": 1
         },
         {
             "question": "दो वृत्ताकार कुंडलियाँ A और B, समान त्रिज्या R रखती हैं, और समान धारा ले जाती हैं, लेकिन क्रमशः 50 और 100 फेरे हैं। उत्पन्न चमें्बकीय क्षेत्र:",
@@ -1321,12 +1369,13 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_88"
+            "id": "q_force_and_laws_of_motion_88",
+            "correct_option": 1
         },
         {
             "question": "घर्षण बल किसी वस्तु की गति को/का ______",
             "options": [
-                "सहारा देता है।",
+                "विरोध करता है。",
                 "विरोध करता है।",
                 "बढ़ाता है।",
                 "कोई प्रभाव नहीं होता है।"
@@ -1341,7 +1390,7 @@
         {
             "question": "गति के प्रथम नियम के अनुसार निम्नलिखित में से कौन सा कथन सत्य है?",
             "options": [
-                "इंजन चालू होने पर एक कार त्वरित हो जाती है।",
+                "जब एक कार अचानक रेक जाती है, तो भी व्यक्ति आगे बढ़ना जारी रखता है。",
                 "गुरुत्वाकर्षण के प्रभाव में स्वतंत्र रूप से गिरता हुआ एक पत्थर।",
                 "जब एक कार अचानक रेक जाती है, तो भी व्यक्ति आगे बढ़ना जारी रखता है।",
                 "ऊपर की ओर प्रक्षेपित होता एक रॉकेट।"
@@ -1366,7 +1415,8 @@
             "examName": "RRB Group D 19/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_91"
+            "id": "q_force_and_laws_of_motion_91",
+            "correct_option": 1
         },
         {
             "question": "किसी वस्तु को केन्द्र से मोड़ने या धकेलने के लिए कार्यरत छद्म बल को क्या कहते हैं?",
@@ -1381,7 +1431,8 @@
             "examName": "RPF SI 2018 : 13 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_92"
+            "id": "q_force_and_laws_of_motion_92",
+            "correct_option": 2
         },
         {
             "question": "यदि एक बंदूक से गोली चलाई जाती है और बंदूक पीछे की ओर आती है तो बंदूक की गतिज ऊर्जा क्या होगी?",
@@ -1396,12 +1447,13 @@
             "examName": "RRB Group D 16/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_93"
+            "id": "q_force_and_laws_of_motion_93",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सी स्थिति न्यूटन के तीसरे नियम को स्पष्ट रूप से दर्शाती है, जहाँ क्रिया और प्रतिक्रिया बल दो अलग-अलग वस्तुओं पर कार्य करते हैं और बराबर और विपरीत होते हैं?",
             "options": [
-                "मेज पर रखी एक पुस्तक स्थिर अवस्था में रहती है।",
+                "नाविक आगे की ओर कूदते हुए नाव को पीछे की ओर धकेलता है और नाव उसे आगे की ओर धकेलती है。",
                 "इंजन की शक्ति के कारण त्वरित होती कार।",
                 "नाविक आगे की ओर कूदते हुए नाव को पीछे की ओर धकेलता है और नाव उसे आगे की ओर धकेलती है।",
                 "ज़मीन पर रखा एक पत्थर।"
@@ -1416,7 +1468,7 @@
         {
             "question": "निम्नलिखित में से कौन सा विकल्प न्यूटन के गति के दूसरे नियम के समान है?",
             "options": [
-                "किसी पिंड पर लगाया गया बल, पिंड के त्वरण के व्युत्क्रमानुपाती होता है।",
+                "यदि कोई वस्तु गति में है, तो लगाया गया बल त्वरण के समानुपाती होता है。",
                 "किसी वस्तु के संवेग परिवर्तन की दर, लगाए गए असंतुलित बल से स्वतंत्र होती है।",
                 "विराम अवस्था में कोई वस्तु तब तक विराम अवस्था में रहेगी जब तक कि बाहरी बल",
                 "यदि कोई वस्तु गति में है, तो लगाया गया बल त्वरण के समानुपाती होता है।"
@@ -1441,7 +1493,8 @@
             "examName": "RRB Group D 4/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_96"
+            "id": "q_force_and_laws_of_motion_96",
+            "correct_option": 2
         },
         {
             "question": "जब आप किसी वस्तु को जल में डुबाते हैं, तो उस वस्तु पर कितना बल लगता है?",
@@ -1456,7 +1509,8 @@
             "examName": "RPF Constable 2018 09 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_97"
+            "id": "q_force_and_laws_of_motion_97",
+            "correct_option": 2
         },
         {
             "question": "एकसमान वृत्तीय गति में, पिंड की चाल ____________________ ।",
@@ -1471,7 +1525,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_98"
+            "id": "q_force_and_laws_of_motion_98",
+            "correct_option": 3
         },
         {
             "question": "जब कोई स्थिर बल 3 s तक 8 kg द्रव्यमान की एक वस्तु पर कार्य करता है तो यह वस्तु के वेग को 4 m·s⁻¹ से 6 m/s तक बढ़ा देता है। लागू बल का परिमाण क्या है?",
@@ -1486,7 +1541,8 @@
             "examName": "RRB Group D 27/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_99"
+            "id": "q_force_and_laws_of_motion_99",
+            "correct_option": 1
         },
         {
             "question": "न्यूटन के गति के दूसरे नियम का समीकरण क्या है?",
@@ -1517,7 +1573,8 @@
             "examName": "RRB Level 01 Stage I 19/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_101"
+            "id": "q_force_and_laws_of_motion_101",
+            "correct_option": 2
         },
         {
             "question": "त्वरण का प्रतिरोध करने की पिंड की प्रवृत्ति को _____कहा जाता है।",
@@ -1562,7 +1619,8 @@
             "examName": "RRB Level 01 Stage I 17/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_104"
+            "id": "q_force_and_laws_of_motion_104",
+            "correct_option": 2
         },
         {
             "question": "विज्ञान के अनुसार कार्य होने के लिए निम्नलिखित में से कौन-सी शत पूरी की जानी चाहिए?",
@@ -1577,7 +1635,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_105"
+            "id": "q_force_and_laws_of_motion_105",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस राशि का SI मात्रक न्यूटन (N) है?",
@@ -1607,7 +1666,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_107"
+            "id": "q_force_and_laws_of_motion_107",
+            "correct_option": 2
         },
         {
             "question": "संवेग परिवर्तन की दर किसके समानुपाती होती है?",
@@ -1622,7 +1682,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_108"
+            "id": "q_force_and_laws_of_motion_108",
+            "correct_option": 3
         },
         {
             "question": "चंद्रमा पर किसी वस्तु का भार 3 N है। पृथ्वी पर उस वस्तु का भार कितना होगा?",
@@ -1637,7 +1698,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_109"
+            "id": "q_force_and_laws_of_motion_109",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा, क्रिया-प्रतिक्रिया युग्म का उदाहरण नहीं है?",
@@ -1667,7 +1729,8 @@
             "examName": "RRB Group D 22 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_111"
+            "id": "q_force_and_laws_of_motion_111",
+            "correct_option": 1
         },
         {
             "question": "जब बंदूक से गोली चलाई जाती है तो गोली के आगे बढ़ने के बावजूद बंदूक में प्रतिक्षेप क्यों होता है?",
@@ -1682,7 +1745,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_112"
+            "id": "q_force_and_laws_of_motion_112",
+            "correct_option": 2
         },
         {
             "question": "गतिमान बस में एक यात्री बस के अचानक रुकने पर आगे की ओर गिर जाता है। ऐसा निम्नलिखित में से किसके कारण होता है?",
@@ -1697,14 +1761,15 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_113"
+            "id": "q_force_and_laws_of_motion_113",
+            "correct_option": 1
         },
         {
             "question": "10 N का बल द्रव्यमान m 1 को 20 m/s² और द्रव्यमान m 2 को 40 m/s² की गति से त्वरित करता है। यदि दोनों द्रव्यमानों को एक साथ बांध दिया जाए, तो समान बल कितना त्वरण उत्पन्न करेगा?",
             "options": [
                 "6 m/s²",
                 "10 m/s²",
-                "13.3 m/s²",
+                "3 m/s²",
                 "26.7 m/s²"
             ],
             "correctIndex": 2,
@@ -1712,7 +1777,8 @@
             "examName": "RRB Level 01 Stage I 27/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_114"
+            "id": "q_force_and_laws_of_motion_114",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सी घटना न्यूटन के गति के तीसरे नियम को दर्शाती है?",
@@ -1727,7 +1793,8 @@
             "examName": "RRB Group D 17/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_115"
+            "id": "q_force_and_laws_of_motion_115",
+            "correct_option": 2
         },
         {
             "question": "आपतन कोण की ज्या और अपवर्तन कोण की ज्या का अनुपात दिए गए रंग और माध्यमों के जोड़े के लिए नियत है। यह कौन सा नियम है?",
@@ -1742,7 +1809,8 @@
             "examName": "RRB JE 24 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_116"
+            "id": "q_force_and_laws_of_motion_116",
+            "correct_option": 3
         },
         {
             "question": "एक 96 kg का अंतरिक्ष यात्री पृथ्वी पर खड़ा है। चंद्रमा पर उसका भार कितना होगा? (पृथ्वी पर g = 10 m/s²)?",
@@ -1762,7 +1830,7 @@
         {
             "question": "न्यूटन का गति का तृतीय नियम:",
             "options": [
-                "जड़त्व के नियमें से भी जाना जाता है।",
+                "दो परस्पर प्रभाव डालने वाली वस्तुओ के बलो के बीच संबंधों का वर्णन करता है。",
                 "उजा संरक्षण के नियमें से भी जाना जाता है।",
                 "ऊष्मा के प्रभावों को समझने में सहायक है।",
                 "दो परस्पर प्रभाव डालने वाली वस्तुओ के बलो के बीच संबंधों का वर्णन करता है।"
@@ -1787,12 +1855,13 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_119"
+            "id": "q_force_and_laws_of_motion_119",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित कथनों में से कौन-सा सही है?",
             "options": [
-                "द्रव्यमान और जड़त्व असंबंधित हैं।",
+                "किसी वस्तु का जड़त्व उसके द्रव्यमान के साथ बढ़ता है。",
                 "अधिक द्रव्यमान वाले पिंड का जड़त्व कम होता है।",
                 "एक हल्का पिंड गति में परिवर्तन का अधिक दृढ़ता से प्रतिरोध करता है।",
                 "किसी वस्तु का जड़त्व उसके द्रव्यमान के साथ बढ़ता है।"
@@ -1817,7 +1886,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_121"
+            "id": "q_force_and_laws_of_motion_121",
+            "correct_option": 3
         },
         {
             "question": "विज्ञान में, किए गए कार्य को किस रूप में परिभाषित किया जाता है?",
@@ -1832,7 +1902,8 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_122"
+            "id": "q_force_and_laws_of_motion_122",
+            "correct_option": 2
         },
         {
             "question": "एक बंदूक क्षैतिज दिशा में गोली दागति है। निम्नलिखित में से कौन-सा कथन सही है?",
@@ -1840,14 +1911,15 @@
                 "प्रतिक्षेप गुरुत्वाकर्षण पर निर्भर करता है।",
                 "बंदूक पर गोली के अग्र दिशा की ओर लगने वाले बल की तुलना में पश्च दिशा की ओर",
                 "गोली बंदूक पर कोई बल नहीं लगाती है।",
-                "बंदूक पर, गोली पर अग्र दिशा में लगने वाले बल के बराबर पश्च दिशा की ओर बल"
+                "बंदूक पर, गोली पर अग्र दिशा में लगने वाले बल के बराबर पश्च दिशा की ओर बल लगता है。"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: बंदूक पर, गोली पर अग्र दिशा में लगने वाले बल के बराबर पश्च दिशा की ओर बल लगता है。\n\n📝 व्याख्या:\nन्यूटन के तीसरे नियम के अनुसार, जब बंदूक से गोली (अग्र दिशा में) दागी जाती है, तो बारूद का बल (क्रिया) गोली को आगे धकेलता है।\n\nउसी क्षण, गोली भी बंदूक पर **परिमाण में बिल्कुल बराबर, परंतु विपरीत (पश्च / पीछे) दिशा में** प्रतिक्रिया बल लगाती है, जिसके कारण बंदूक को पीछे की ओर झटका लगता है।",
             "examName": "RRB Level 01 Stage I 08/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_123"
+            "id": "q_force_and_laws_of_motion_123",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा पद धातुओं की पतले तारों में खींचे जाने की क्षमता को परिभाषित करता है?",
@@ -1862,7 +1934,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_124"
+            "id": "q_force_and_laws_of_motion_124",
+            "correct_option": 1
         },
         {
             "question": "अंतरिक्ष में रॉकेट निम्नलिखित में से किस सिद्धांत पर कार्य करता है?",
@@ -1877,7 +1950,8 @@
             "examName": "RRB Group D 1/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_125"
+            "id": "q_force_and_laws_of_motion_125",
+            "correct_option": 2
         },
         {
             "question": "एक वस्तु एकसमान चाल से चलती है, जब _______ का मान नगण्य होता है।",
@@ -1892,7 +1966,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_126"
+            "id": "q_force_and_laws_of_motion_126",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा न्यूटन के तृतीय नियम का उदाहरण नहीं है?",
@@ -1912,7 +1987,7 @@
         {
             "question": "किसी वस्तु पर लगने वाले असंतुलित बल के संबंध में निम्नलिखित में से कौन-सा कथन सत्य है?",
             "options": [
-                "यह वस्तु को स्थिर रखता है।",
+                "यह वस्तु को गति में लाता है。",
                 "यह वस्तु को गति में लाता है।",
                 "इसका वस्तु की गति की अवस्था पर कोई प्रभाव नहीं पड़ता है।",
                 "इससे वस्तु का द्रव्यमान हमेशा बढ़ जाता है।"
@@ -1937,7 +2012,8 @@
             "examName": "RRB JE 28 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_129"
+            "id": "q_force_and_laws_of_motion_129",
+            "correct_option": 3
         },
         {
             "question": "एक इकाई बल (1 न्यूटन) की सही परिभाषा क्या है?",
@@ -1952,7 +2028,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_130"
+            "id": "q_force_and_laws_of_motion_130",
+            "correct_option": 3
         },
         {
             "question": "जब प्रकाश की किरण, विरल माध्यम से सघन माध्यम में जाती है, तो यह ________ ।",
@@ -1967,7 +2044,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_131"
+            "id": "q_force_and_laws_of_motion_131",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा बल वस्तु पर सतह के लंबवत कार्य करता है?",
@@ -1982,7 +2060,8 @@
             "examName": "RRB JE CBT I - : 31 May 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_132"
+            "id": "q_force_and_laws_of_motion_132",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस नियम का उपयोग धारावाही वृत्तीय लूप के कारण चुंबकीय क्षेत्र की दिशा निधारित करने के लिए किया जा सकता है?",
@@ -2005,14 +2084,15 @@
                 "30.5 N",
                 "35 N",
                 "25 N",
-                "29.4 N"
+                "4 N"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: 29.4 N\n\n📝 व्याख्या:\nकिसी वस्तु का भार (Weight, W) उसके द्रव्यमान (m) और गुरुत्वीय त्वरण (g) का गुणनफल होता है।\n\nसूत्र: W = m × g\nदिए गए मान: द्रव्यमान (m) = 3 kg, g = 9.8 m/s²\nभार (W) = 3 × 9.8 = **29.4 N**",
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_134"
+            "id": "q_force_and_laws_of_motion_134",
+            "correct_option": 3
         },
         {
             "question": "हवा से गुजरने वाली वस्तुओं पर हवा द्वारा कौन सा बल लगाया जाता है?",
@@ -2027,7 +2107,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_135"
+            "id": "q_force_and_laws_of_motion_135",
+            "correct_option": 2
         },
         {
             "question": "किसी वस्तु को लगाए गए बल के कारण क्षैतिज रूप से विस्थापित किया जाता है। इस क्रिया से क्या पता चलता है?",
@@ -2042,7 +2123,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_136"
+            "id": "q_force_and_laws_of_motion_136",
+            "correct_option": 3
         },
         {
             "question": "जब बंदूक से गोली चलाई जाती है, तो गोली आगे की ओर जाती है और बंदूक पीछे की ओर लौटती है। यह _________ का एक उदाहरण है।",
@@ -2072,7 +2154,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_138"
+            "id": "q_force_and_laws_of_motion_138",
+            "correct_option": 2
         },
         {
             "question": "यदि ध्वनि तरंग की आवृत्ति बढ़ती है और चाल स्थिर रहती है, तो उसकी तरंगदैर्ध्य __________ ।",
@@ -2087,7 +2170,8 @@
             "examName": "RRB ALP CBT 1 16/02/2026 12:30 PM - 1:30 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_139"
+            "id": "q_force_and_laws_of_motion_139",
+            "correct_option": 3
         },
         {
             "question": "किसी वस्तु का द्रव्यमान इसके ____________ का माप होता है।",
@@ -2102,7 +2186,8 @@
             "examName": "RRB JE 28 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_140"
+            "id": "q_force_and_laws_of_motion_140",
+            "correct_option": 2
         },
         {
             "question": "200g द्रव्यमान के 10 जूल की गतिज ऊर्जा वाली वस्तु का संवेग ________ है।",
@@ -2117,7 +2202,8 @@
             "examName": "RRB Group D 26 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_141"
+            "id": "q_force_and_laws_of_motion_141",
+            "correct_option": 1
         },
         {
             "question": "_______ को उस समय दर के रूप में परिभाषित किया जाता है, जिस पर कार्य किया जाता है या ऊर्जा स्थानांतरित की जाती है।",
@@ -2162,7 +2248,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_144"
+            "id": "q_force_and_laws_of_motion_144",
+            "correct_option": 1
         },
         {
             "question": "जब किसी बिंदु की, सीधे, धारावाही चालक से दूरी दोगुनी कर दी जाती है, तो उस बिंदु पर चुंबकीय क्षेत्र के परिमाण पर क्या प्रभाव पड़ता है?",
@@ -2182,7 +2269,7 @@
         {
             "question": "100 kg द्रव्यमान की दो वस्तुएँ एक-दूसरे से 1 m की दूरी पर स्थित हैं। दोनों वस्तुओं के बीच गुरुत्वाकर्षण बल का परिमाण क्या होगा? (G का मान 6.67 × 10⁻¹¹ N·m²/kg² लीजिए)?",
             "options": [
-                "6.67 × 10⁻⁷ N",
+                "67 x 10⁻⁷ N",
                 "6.67 × 10⁻⁹ N",
                 "6.67 × 10⁷ N",
                 "6.67 × 10⁹ N"
@@ -2215,14 +2302,15 @@
                 "स्थैतिक और गतिज घर्षण दोनों संपर्क के क्षेत्र पर निर्भर करते हैं।",
                 "स्थैतिक घर्षण वास्तविक गति का विरोध करता है, जबकि गतिज घर्षण आसन्न गति का विरोध करता है।",
                 "गतिज घर्षण हमेशा स्थैतिक घर्षण से अधिक होता है।",
-                "स्थैतिक घर्षण आसन्न गति का विरोध करता है और गतिज घर्षण वास्तविक गति का विरोध करता है।"
+                "स्थैतिक घर्षण आसन्न गति का विरोध करता है और गतिज घर्षण वास्तविक गति का"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: स्थैतिक घर्षण आसन्न गति का विरोध करता है और गतिज घर्षण वास्तविक गति का\n\n📝 व्याख्या:\n**स्थैतिक घर्षण (Static Friction):** यह तब कार्य करता है जब वस्तु रेकी हुई हो लेकिन उस पर बल लगाया जा रहा हो। यह 'आसन्न गति (Impending motion)' अर्थात्गति शुरू होने की प्रवृत्ति का विरोध करता है।\n\n**गतिज घर्षण (Kinetic Friction):** यह तब कार्य करता है जब वस्तु वास्तव में सतह पर फिसल रही हो। यह वस्तु की 'वास्तविक गति (Actual motion)' का विरोध करता है।",
             "examName": "RRB NTPC UG CBT-I : 13 Aug, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_148"
+            "id": "q_force_and_laws_of_motion_148",
+            "correct_option": 3
         },
         {
             "question": "दो वस्तुओं के बीच _______ हमेशा समान और विपरीत होता हैं।",
@@ -2237,12 +2325,13 @@
             "examName": "RRB Group D 17 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_149"
+            "id": "q_force_and_laws_of_motion_149",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित कथनों में से कौन सा सही है?",
             "options": [
-                "एक नीचे जाती हुई लिफ्ट में एक पिंड का भार घटता है, जबकि इसका द्रव्यमान समान रहता है।",
+                "एक नीचे जाती हुए लिफ्ट में एक पिंड का भार घटता है, जबकि इसका द्रव्यमान समान रहता है。",
                 "एक नीचे जाती हुए लिफ्ट में पिंड के द्रव्यमान के साथ-साथ नीचे की ओर बढ़ने वाले",
                 "नीचे की ओर जाती हुई एक लिफ्ट में पिंड का भार बढ़ जाता है जबकि इसका द्रव्यमान समान रहता है।",
                 "नीचे की ओर जाती हुए एक लिफ्ट में पिंड का भार और द्रव्यमान नहीं बदलता है।"
@@ -2257,7 +2346,7 @@
         {
             "question": "क्या सतहों को चमकाने या बहुत सारे स्नेहक का उपयोग करके घर्षण को पूर्णतः समाप्त किया जा सकता है?",
             "options": [
-                "चमकाने से घर्षण शून्य हो जाता है और गतिमान वस्तु का वेग बहुत अधिक बढ़ जाता है।",
+                "घर्षण को पूर्णतः समाप्त नहीं किया जा सकता है क्योंकि कुछ अनियमितताएं होंगी。",
                 "घर्षण होता है, जो लगभग नगण्य है।",
                 "घर्षण को पूर्णतः समाप्त नहीं किया जा सकता है क्योंकि कुछ अनियमितताएं होंगी।",
                 "घर्षण को पॉलिश करके शून्य बनाया जा सकता है।"
@@ -2297,7 +2386,8 @@
             "examName": "RRB Level 01 Stage I 27/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_153"
+            "id": "q_force_and_laws_of_motion_153",
+            "correct_option": 1
         },
         {
             "question": "किसी भी एक दिशा में द्रव्यमानों (अर्थात गतिशील निकार्यों) के एक निकार्य का कुल संवेग तब तक नियत रहता है, जब एक उस दिशा में कोई बाह्य बल न लगाए जाए। इस कथन को क्या कहा जाता है?",
@@ -2327,7 +2417,8 @@
             "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_155"
+            "id": "q_force_and_laws_of_motion_155",
+            "correct_option": 1
         },
         {
             "question": "जब दो समान बल वस्तु पर कार्यरत होते हैं और विपरीत दिशा में होते हैं, तो वस्तु पर लगने वाला परिणामी बल _____ हो जाता है।",
@@ -2342,7 +2433,8 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_156"
+            "id": "q_force_and_laws_of_motion_156",
+            "correct_option": 2
         },
         {
             "question": "चुंबकीय क्षेत्र को सदिश राशि के रूप में मान्य बनाने वाला मूलभूत गुण यह है कि इसमें _________ दोनों होते हैं।",
@@ -2387,7 +2479,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_159"
+            "id": "q_force_and_laws_of_motion_159",
+            "correct_option": 3
         },
         {
             "question": "यदि 5 kg द्रव्यमान की वस्तु को 10 m/s² पर त्वरित करने के लिए F₁ बल की आवश्यकता है और 10 kg द्रव्यमान की वस्तु को 12 m/s² पर त्वरित करने के लिए F₂ बल की आवश्यकता है, तो निम्नलिखित में से कौन-सा कथन सत्य है?",
@@ -2402,7 +2495,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_160"
+            "id": "q_force_and_laws_of_motion_160",
+            "correct_option": 2
         },
         {
             "question": "किसी वस्तु के संवेग परिवर्तन की दर है:",
@@ -2432,7 +2526,8 @@
             "examName": "RRB Group D 22 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_162"
+            "id": "q_force_and_laws_of_motion_162",
+            "correct_option": 3
         },
         {
             "question": "m₁ और m₂ द्रव्यमान वाली दो वस्तुओं के बीच गुरुत्वीय बल (F) सदैव ______________ होता है।",
@@ -2492,7 +2587,8 @@
             "examName": "RRB ALP Electronics Mechanic 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_166"
+            "id": "q_force_and_laws_of_motion_166",
+            "correct_option": 3
         },
         {
             "question": "गति के द्वितीय नियम के अनुसार, संवेग परिवर्तन की दर किसके समानुपाती होती है?",
@@ -2522,12 +2618,13 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_168"
+            "id": "q_force_and_laws_of_motion_168",
+            "correct_option": 3
         },
         {
             "question": "एक छात्र का दावा है कि पृथ्वी द्वारा चंद्रमा पर लगाया गया गुरुत्वाकर्षण बल, चंद्रमा द्वारा पृथ्वी पर लगाए गए बल की तुलना में बहुत अधिक प्रबल है। न्यूटन के गति के तीसरे नियम और सावत्रिक गुरुत्वाकर्षण के नियम के आधार पर, क्या यह दावा सही है?",
             "options": [
-                "नहीं, दोनों बल परिमाण में बराबर हैं लेकिन दिशा में विपरीत हैं।",
+                "नहीं, दोनों बल परिमाण में बराबर हैं लेकिन दिशा में विपरीत हैं。",
                 "नहीं, पृथ्वी चंद्रमा पर बहुत कम बल लगाती है।",
                 "हां, क्योंकि पृथ्वी अधिक विशाल है, इसलिए यह अधिक बल लगाती है",
                 "नहीं, चंद्रमा एक मजबूत बल लगाता है क्योंकि यह पृथ्वी के करीब है"
@@ -2557,7 +2654,7 @@
         {
             "question": "एक काँच के बीकर में जल में डूबी पेंसिल पर विचार करें। यदि जल को केरोसीन (मिट्टी के तेल) या तारपीन से बदल दिया जाए, तो क्या पेंसिल उसी सीमा तक विस्थापित दिखाई देगी?",
             "options": [
-                "नहीं, पेंसिल सीधी दिखाई देगी।",
+                "नहीं, विस्थापन अलग-अलग होगा。",
                 "हाँ, विस्थापन समान होगा।",
                 "हाँ, यह जल की तुलना में अधिक विस्थापित होगी।",
                 "नहीं, विस्थापन अलग-अलग होगा।"
@@ -2582,7 +2679,8 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_172"
+            "id": "q_force_and_laws_of_motion_172",
+            "correct_option": 2
         },
         {
             "question": "वेग, ‘v’ से चल रही ’m’ द्रव्यमान की किसी वस्तु का संवेग ________ द्वारा दिया जाता है।",
@@ -2603,7 +2701,7 @@
         {
             "question": "निम्नलिखित में से कौन-सा इस बात का सही कारण है कि, जब वृक्ष की शाखाओं को जोर से हिलाया जाता है तो फल वृक्ष से क्यों गिरते हैं?",
             "options": [
-                "फल, घर्षण बल के कारण नीचे गिरते हैं।",
+                "फल, जड़त्व के कारण नीचे गिरते हैं。",
                 "फल, जड़त्व के कारण नीचे गिरते हैं।",
                 "फल, संवेग में परिवर्तन के कारण नीचे गिरते हैं।",
                 "फल, क्रिया-प्रतिक्रिया बलों के कारण नीचे गिरते हैं।"
@@ -2628,7 +2726,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_175"
+            "id": "q_force_and_laws_of_motion_175",
+            "correct_option": 2
         },
         {
             "question": "किसी वस्तु की विरामावस्था या गति की स्थिति में परिवर्तन का विरोध करने की प्रवृत्ति को _______ कहा जाता है।",
@@ -2643,7 +2742,8 @@
             "examName": "RRB Group D 20 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_176"
+            "id": "q_force_and_laws_of_motion_176",
+            "correct_option": 1
         },
         {
             "question": "धारावाही सीधे तार द्वारा उत्पन्न चुंबकीय क्षेत्र की दिशा क्या होती है?",
@@ -2673,7 +2773,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_178"
+            "id": "q_force_and_laws_of_motion_178",
+            "correct_option": 2
         },
         {
             "question": "जब हम एक हथौड़े की सहायता से दीवार में कील ठोकते हैं, तो कौन-सा बल कील को दीवार में मजबूती से पकड़े रहता है?",
@@ -2688,12 +2789,13 @@
             "examName": "RRB JE 24 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_179"
+            "id": "q_force_and_laws_of_motion_179",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी स्थिति क्रिया और प्रतिक्रिया बलों का एक उदाहरण नहीं है?",
             "options": [
-                "एक तैराक का पानी को पीछे की ओर धकेलना।",
+                "ऊपर फेंकी गई गेंद का गुरुत्वाकर्षण बल के कारण वापस नीचे आना。",
                 "बल्ले द्वारा क्रिकेट की गेंद को मारना।",
                 "ऊपर फेंकी गई गेंद का गुरुत्वाकर्षण बल के कारण वापस नीचे आना।",
                 "ऊपर की ओर प्रक्षेपित होता हुआ रॉकेट"
@@ -2718,12 +2820,13 @@
             "examName": "RRB Technician Grade III 06/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_181"
+            "id": "q_force_and_laws_of_motion_181",
+            "correct_option": 3
         },
         {
             "question": "जब कोई वस्तु पृथ्वी की सतह के पास मुक्त पतन में होती है और यदि वायु प्रतिरोध की उपेक्षा की जाए तो निम्नलिखित में से कौन-सी भौतिक राशि नियत रहती है?",
             "options": [
-                "ऊर्जा नियत रहती है।",
+                "गुरुत्वीय त्वरण नियत रहता है。",
                 "संवेग नियत रहता है।",
                 "गुरुत्वीय त्वरण नियत रहता है।",
                 "वेग नियत रहता है।"
@@ -2738,7 +2841,7 @@
         {
             "question": "60 N का एक बल (F)₆ kg द्रव्यमान (m) पर कार्य करता है। इस बल द्वारा उत्पन्न त्वरण (a) क्या होगा?",
             "options": [
-                "6.0 m/s²",
+                "0 m/s²",
                 "0.10 m/s²",
                 "10.0 m/s²",
                 "360.0 m/s²"
@@ -2763,12 +2866,13 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_184"
+            "id": "q_force_and_laws_of_motion_184",
+            "correct_option": 3
         },
         {
             "question": "जब कोई मोटरगाड़ी तेज चाल से अचानक मोड़ लेती है, तो हम एक तरफ उछल जाते हैं। निम्नलिखित में से कौन-सा कथन इस परिघटना की व्याख्या करता है?",
             "options": [
-                "जड़त्व नियम के कारण हमारा शरीर दिशा परिवर्तन का प्रतिरोध करता है।",
+                "जड़त्व नियम के कारण हमारा शरीर दिशा परिवर्तन का प्रतिरोध करता है。",
                 "गुरुत्वीय बल विपरीत दिशा में कार्य करता है।",
                 "कार के अंदर वायु दाब में परिवर्तन हमें बाहर की ओर धकेलता है।",
                 "सड़क और टायरों के बीच घर्षण कम हो जाता है।"
@@ -2783,7 +2887,7 @@
         {
             "question": "जब कोई व्यक्ति भूमि पर स्थिर खड़ा होता है, तो पृथ्वी द्वारा व्यक्ति पर लगाया गया गुरुत्व बल (क्रिया) और भूमि द्वारा व्यक्ति पर लगाया गया अभिलंब बल (प्रतिक्रिया) बराबर और विपरीत होते हैं। क्या न्यूटन के तृतीय नियम के अनुसार यह क्रिया-प्रतिक्रिया युग्म है?",
             "options": [
-                "हां, क्योंकि ये एक-दूसरे को संतुलित करते हैं, गति को रोकते हैं।",
+                "नहीं, क्योंकि दोनों बल समान वस्तु पर कार्य करते हैं。",
                 "हां, क्योंकि दोनों बल परिमाण में बराबर और विपरीत हैं।",
                 "नहीं, क्योंकि दोनों बल अलग-अलग वस्तुओं पर कार्य करते हैं।",
                 "नहीं, क्योंकि दोनों बल समान वस्तु पर कार्य करते हैं।"
@@ -2798,7 +2902,7 @@
         {
             "question": "एक गोली, जिसका द्रव्यमान 20 g है, क्षैतिज रूप से 2.5 kg द्रव्यमान की पिस्तौल से 150 m/s के वेग से दागी जाती है। पिस्तौल का प्रतिक्षेप वेग क्या है?",
             "options": [
-                "- 1.25 m/s",
+                "-1.2 m·s⁻¹",
                 "-1.5 m/s",
                 "-1.2 m/s",
                 "-2.0 m/s"
@@ -2813,7 +2917,7 @@
         {
             "question": "एक द्विध्रुव एकसमान चुंबकीय क्षेत्र में रखे जाने पर कैसे व्यवहार करता है?",
             "options": [
-                "यह बल आघूर्ण का अनुभव करता है लेकिन कोई शुद्ध बल नहीं।",
+                "यह बल आघूर्ण का अनुभव करता है लेकिन कोई शुद्ध बल नहीं。",
                 "यह शुद्ध बल और बल आघूर्ण दोनों का अनुभव करता है।",
                 "यह शुद्ध बल का अनुभव करता है लेकिन कोई बल आघूर्ण नहीं।",
                 "यह बिना किसी बल या बल आघूर्ण के स्थिर रहता है।"
@@ -2828,7 +2932,7 @@
         {
             "question": "न्यूटन के दूसरे नियम की सबसे उपयुक्त परिभाषा कौन-सी है?",
             "options": [
-                "विराम में स्थित वस्तु विराम में ही रहेगी, और गतिमान वस्तु समान चाल और सीधी रेखा में चलती रहेगी।",
+                "किसी वस्तु का त्वरण वस्तु के द्रव्यमान और लगाए गए बल की मात्रा पर निर्भर करता है。",
                 "किसी वस्तु का त्वरण वस्तु के द्रव्यमान और लगाए गए बल की मात्रा पर निर्भर करता है।",
                 "जब भी कोई वस्तु दूसरी वस्तु पर बल लगाती है, तो दूसरी वस्तु पहले पर समान और विपरीत बल लगाती है।",
                 "किसी स्प्रिंग"
@@ -2853,7 +2957,8 @@
             "examName": "RPF Constable 2018 19 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_190"
+            "id": "q_force_and_laws_of_motion_190",
+            "correct_option": 2
         },
         {
             "question": "न्यूटन के गति के प्रथम नियम को निम्न में से ___________ का नियम भी कहा जाता है।",
@@ -2868,7 +2973,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_191"
+            "id": "q_force_and_laws_of_motion_191",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा एक घर्षण बल के बिना कठिन हो जाता है?",
@@ -2883,7 +2989,8 @@
             "examName": "RRB JE 23 May 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_192"
+            "id": "q_force_and_laws_of_motion_192",
+            "correct_option": 3
         },
         {
             "question": "पृथ्वी पर मापे जाने पर किसी वस्तु का भार 60 N है। चंद्रमा पर मापे जाने पर उसका भार क्या होगा? (दिया गया है, चंद्रमा का गुरुत्वाकर्षण त्वरण (g) पृथ्वी के g का 1/6 वाँ है)?",
@@ -2898,12 +3005,13 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_193"
+            "id": "q_force_and_laws_of_motion_193",
+            "correct_option": 1
         },
         {
             "question": "फ्यूज बदलने से पहले क्या करने की सलाह दी जाती है?",
             "options": [
-                "सुरक्षा बेल्ट पहनें।",
+                "परिपथ बंद करें。",
                 "रबर के दस्ताने पहनें।",
                 "परिपथ बंद करें।",
                 "स्टूल पर खड़े हो।"
@@ -2928,12 +3036,13 @@
             "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_195"
+            "id": "q_force_and_laws_of_motion_195",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सी स्थिति संतुलित बल को निरूपित करती है?",
             "options": [
-                "एक व्यक्ति साइकिल से पहाड़ी पर जा रहा है।",
+                "दो व्यक्ति एक डिब्बे को विपरीत दिशाओं से समान बल से धक्का देते हैं。",
                 "गुरुत्वाकर्षण के प्रभाव में स्वतंत्र रूप से गिरती हुई गेंद।",
                 "ब्रेक लगाने पर एक चलती कार रेक जाती है।",
                 "दो व्यक्ति एक डिब्बे को विपरीत दिशाओं से समान बल से धक्का देते हैं।"
@@ -2958,7 +3067,8 @@
             "examName": "RRB ALP Fitter 23 Jan 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_197"
+            "id": "q_force_and_laws_of_motion_197",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा, क्रिया और प्रतिक्रिया बल का उदाहरण नहीं है?",
@@ -2973,7 +3083,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_198"
+            "id": "q_force_and_laws_of_motion_198",
+            "correct_option": 2
         },
         {
             "question": "गैसों की आसानी से संपीडित होने की क्षमता ___________ के कारण होती है।",
@@ -2988,12 +3099,13 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_199"
+            "id": "q_force_and_laws_of_motion_199",
+            "correct_option": 3
         },
         {
             "question": "80 kg और 250 kg द्रव्यमान वाली दो वस्तुएँ 200 m की दूरी पर रखी गई हैं। उनके बीच गुरुत्वाकर्षण बल क्या है? (G = 6.7 × 10⁻¹¹ N·m²/kg²)?",
             "options": [
-                "6.35 × 10⁻¹¹ N",
+                "35 x 10¹0⁻¹¹ N",
                 "5.75 × 10⁻¹¹ N",
                 "50 × 10⁻¹¹ N",
                 "35 × 10⁻¹¹ N"
@@ -3018,7 +3130,8 @@
             "examName": "RRB Group D 1/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_201"
+            "id": "q_force_and_laws_of_motion_201",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस सदिश राशि की विमाएँ अदिश राशि' कार्य' के समान हैं?",
@@ -3033,12 +3146,13 @@
             "examName": "RPF Constable 2024 : 10 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_202"
+            "id": "q_force_and_laws_of_motion_202",
+            "correct_option": 1
         },
         {
             "question": "कुछ मशीनों में, तेल को स्नेहक के रूप में उपयोग करना उचित क्यों नहीं है?",
             "options": [
-                "तेल मशीन के पुर्जे और पूरी जगह को गंदा कर देता है",
+                "कभी-कभी तेल का मशीन के कुछ हिस्सों में रिसाव हो जाता है जिससे काम करने की अवांछनीय बाधा उत्पन्न होती है",
                 "तेल कभी-कभी घर्षण को बढ़ाता है",
                 "कभी-कभी तेल का मशीन के कुछ हिस्सों में रिसाव हो जाता है जिससे काम करने की क्षमता प्रभावित होती है।",
                 "तेल भागों की गति को कठिन बना देता है"
@@ -3063,13 +3177,14 @@
             "examName": "RRB Group D 19 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_204"
+            "id": "q_force_and_laws_of_motion_204",
+            "correct_option": 2
         },
         {
             "question": "ला-शातेलिए के सिद्धांत के अनुसार, जब किसी साम्यावस्था पर सांद्रता, दाब या तापमान में परिवर्तन किया जाता है, तो उस पर क्या प्रभाव पड़ता है?",
             "options": [
                 "तंत्र स्थायी रूप से अवस्था परिवर्तन से गुजरेगा",
-                "तंत्र उस दिशा में विस्थापित होगा जो परिवर्तन का विरोध करता है ताकि पुनः साम्य",
+                "तंत्र उस दिशा में विस्थापित होगा जो परिवर्तन का विरोध करता है ताकि पुनः साम्य स्थापित हो सके",
                 "तंत्र हमेशा अभिकारकों के निर्माण का पक्षधर होगा",
                 "तंत्र बिना किसी परिवर्तन के साम्य में रहेगा"
             ],
@@ -3078,7 +3193,8 @@
             "examName": "RPF Constable 2024 02 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_205"
+            "id": "q_force_and_laws_of_motion_205",
+            "correct_option": 1
         },
         {
             "question": "स्प्रिंग तुला A एक सिरे पर स्प्रिंग तुला B से जुड़ा है, जिसका दूसरा सिरा एक दृढ़ आधार पर स्थिर है। स्प्रिंग तुला A के मुक्त सिरे पर एक बल लगाया जाता है। दोनों तुला समान पाठ्यांक दर्शाती हैं। यह प्रेक्षण क्या दर्शाता है?",
@@ -3093,12 +3209,13 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_206"
+            "id": "q_force_and_laws_of_motion_206",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा चिह्न (चिह्न) गोलाकार दर्पण और लेंस में प्रयोग किया जाता है?",
             "options": [
-                "नया कार्तीय चिह्न",
+                "नया कार्तीयियन चिन्ह",
                 "नया आइंस्टीन चिह्न",
                 "न्यू न्यूटन साइन",
                 "नया स्वच्छता चिह्न"
@@ -3123,7 +3240,8 @@
             "examName": "RRB Group D 29/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_208"
+            "id": "q_force_and_laws_of_motion_208",
+            "correct_option": 1
         },
         {
             "question": "एक ही पदार्थ के अणुओं के बीच लगने वाले आकर्षण बल को क्या कहते हैं?",
@@ -3138,7 +3256,8 @@
             "examName": "RRB NTPC CBT-I : 11 Feb 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_209"
+            "id": "q_force_and_laws_of_motion_209",
+            "correct_option": 2
         },
         {
             "question": "संतुलन के बारे में निम्नलिखित में से कौन सा कथन सही है?",
@@ -3153,12 +3272,13 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_210"
+            "id": "q_force_and_laws_of_motion_210",
+            "correct_option": 2
         },
         {
             "question": "गति के दूसरे नियम के अनुसार, संवेग में परिवर्तन की दर किसके अनुक्रमानुपाती होती है?",
             "options": [
-                "प्रत्येक वस्तु तब तक विरामावस्था पर या एकसमान गति में रहेगी जब तक कि एक बाह्य बल न लगाया जाए।",
+                "किसी वस्तु के संवेग के परिवर्तन की दर परिणामी बल की दिशा में वस्तु पर लगाए गए परिणामी बल के अनुक्रमानुपाती होती है।",
                 "परिणामी बल लागू होने पर प्रत्येक वस्तु एकसमान चाल से चलेगी।",
                 "किसी वस्तु के संवेग के परिवर्तन की दर परिणामी बल की दिशा में वस्तु पर लगाए गए बल के समानुपाती होती है।",
                 "लागू बल के साथ वस्तु की चाल के परिवर्तन की दर बदल जाएगी।"
@@ -3183,7 +3303,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_212"
+            "id": "q_force_and_laws_of_motion_212",
+            "correct_option": 2
         },
         {
             "question": "किसी वस्तु पर असंतुलित बलों के कार्य करने की स्थिति में, उत्पन्न त्वरण (a) ______________ की दिशा में होता है।",
@@ -3198,7 +3319,8 @@
             "examName": "RRB Level 01 Stage I 17/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_213"
+            "id": "q_force_and_laws_of_motion_213",
+            "correct_option": 2
         },
         {
             "question": "कम द्रव्यमान और उच्च वेग वाली गोली, समान चाल से फेंके गए भारी पत्थर की तुलना में लक्ष्य को अधिक गहराई तक भेद सकती है, क्योंकि _________________ ।",
@@ -3228,7 +3350,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_215"
+            "id": "q_force_and_laws_of_motion_215",
+            "correct_option": 1
         },
         {
             "question": "पदार्थ के कणों के संबंध में निम्नलिखित में से कौन-सा कथन सत्य नहीं है?",
@@ -3243,7 +3366,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_216"
+            "id": "q_force_and_laws_of_motion_216",
+            "correct_option": 2
         },
         {
             "question": "आयनिक यौगिकों में, आयन परस्पर आकर्षित करते हैं और मजबूत_________ द्वारा जुड़े होते हैं।",
@@ -3273,7 +3397,8 @@
             "examName": "RRB Group D 11 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_218"
+            "id": "q_force_and_laws_of_motion_218",
+            "correct_option": 3
         },
         {
             "question": "जब कोई पिंड किसी द्रव में डूबा होता है और द्रव को विस्थापित करता है, तो कौन सा बल उत्पन्न होता है?",
@@ -3288,12 +3413,13 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 24 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_219"
+            "id": "q_force_and_laws_of_motion_219",
+            "correct_option": 1
         },
         {
             "question": "एक कार नियत चाल से चलते हुए अचानक अपनी दिशा बदल देती है। जड़त्व का कौन-सा पहलू प्रदर्शित हो रहा है, और कार का द्रव्यमान इस प्रभाव को कैसे प्रभावित करता है?",
             "options": [
-                "विराम का जड़त्व प्रदर्शित होता है, और कार का द्रव्यमान दिशा परिवर्तन को प्रभावित नहीं करता है।",
+                "The inertia of direction is demonstrated, and a car with greater mass will resist the change in direction more.",
                 "गति का जड़त्व प्रदर्शित होता है, और हल्की कार दिशा परिवर्तन का अधिक विरोध करती है।",
                 "जब कार मुड़ती है, तो द्रव्यमान केवल चाल को प्रभावित करता है, दिशा को नहीं।",
                 "दिशा का जड़त्व प्रदर्शित होता है, और अधिक द्रव्यमान वाली कार दिशा परिवर्तन का अधिक विरोध करेगी।"
@@ -3318,7 +3444,8 @@
             "examName": "RRB Group D 26/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_221"
+            "id": "q_force_and_laws_of_motion_221",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित कथन दिए गए विकल्पों में से किस नियम पर लागू होता है?' वह रेखा जो किसी ग्रह को सूर्य से जोड़ती है, समान समय अंतराल में समान क्षेत्रफल तय करती है।'?",
@@ -3333,7 +3460,8 @@
             "examName": "RRB NTPC CBT-I : 24 July 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_222"
+            "id": "q_force_and_laws_of_motion_222",
+            "correct_option": 3
         },
         {
             "question": "रोलिंग घर्षण और सर्पी घर्षण की तुलना कीजिए।",
@@ -3348,7 +3476,8 @@
             "examName": "RRB JE 25 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_223"
+            "id": "q_force_and_laws_of_motion_223",
+            "correct_option": 2
         },
         {
             "question": "स्क्रू, बॉल बेयरिंग और जूतों के तलवों में घर्षण के कारण क्या होता है?",
@@ -3363,14 +3492,15 @@
             "examName": "RRB JE 24 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_224"
+            "id": "q_force_and_laws_of_motion_224",
+            "correct_option": 3
         },
         {
             "question": "न्यूटन के गति के तीसरे नियम के अनुसार, प्रत्येक क्रिया के लिए:",
             "options": [
                 "एक समान और लंबवत प्रतिक्रिया होती है और वे दो अलग-अलग पिंडों पर कार्य करती हैं।",
                 "एक असमान और विपरीत प्रतिक्रिया होती है और वे एक ही पिंड पर कार्य करती हैं",
-                "एक समान और विपरीत प्रतिक्रिया होती है और वे दो अलग-अलग पिंडों पर कार्य करती हैं।",
+                "एक समान और विपरीत प्रतिक्रिया होती है और वे दो अलग-अलग पिंडों पर कार्य करती हैं",
                 "एक समान और विपरीत प्रतिक्रिया होती है और वे एक ही पिंड पर कार्य करती हैं"
             ],
             "correctIndex": 2,
@@ -3378,7 +3508,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_225"
+            "id": "q_force_and_laws_of_motion_225",
+            "correct_option": 2
         },
         {
             "question": "भाप इंजन किस वैज्ञानिक सिद्धांत पर कार्य करता है?",
@@ -3393,7 +3524,8 @@
             "examName": "RPF SI CBT-I 2024 : 09 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_226"
+            "id": "q_force_and_laws_of_motion_226",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा प्रकृति में कभी अकेले नहीं होता होता है?",
@@ -3423,7 +3555,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_228"
+            "id": "q_force_and_laws_of_motion_228",
+            "correct_option": 3
         },
         {
             "question": "न्यूटन का गति का तीसरा नियम, _________ से संबंधित है।",
@@ -3438,7 +3571,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_229"
+            "id": "q_force_and_laws_of_motion_229",
+            "correct_option": 1
         },
         {
             "question": "जब बंदूक से गोली चलाई जाती है तो बुलेट की गतिज ऊर्जा __________ होती है।",
@@ -3453,7 +3587,8 @@
             "examName": "RRB Group D 22/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_230"
+            "id": "q_force_and_laws_of_motion_230",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा कारक किसी वस्तु पर बल द्वारा किए गए कार्य को बढ़ा सकता है?",
@@ -3468,7 +3603,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_231"
+            "id": "q_force_and_laws_of_motion_231",
+            "correct_option": 3
         },
         {
             "question": "एक ही पिंड में निहित गति की कुल मात्रा को _________ कहा जाता है।",
@@ -3483,7 +3619,8 @@
             "examName": "RRB Group D 6 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_232"
+            "id": "q_force_and_laws_of_motion_232",
+            "correct_option": 2
         },
         {
             "question": "सावत्रिक गुरुत्वाकर्षण का सिद्धांत किसने दिया?",
@@ -3498,7 +3635,8 @@
             "examName": "RPF Constable 2018 24 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_233"
+            "id": "q_force_and_laws_of_motion_233",
+            "correct_option": 3
         },
         {
             "question": "एक पुस्तक मेज पर विरामावस्था में है। निम्नलिखित में से कौन सा कथन न्यूटन के तृतीय नियम के अनुसार क्रिया-प्रतिक्रिया युग्म का सही वर्णन करता है?",
@@ -3513,12 +3651,13 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_234"
+            "id": "q_force_and_laws_of_motion_234",
+            "correct_option": 2
         },
         {
             "question": "जड़त्व और द्रव्यमान के बीच संबंध को दर्शाने के लिए, एक छात्र फुटबॉल को किक मारने की कठिनाई की तुलना समान आकार के पत्थर को किक मारने से करता है। कौन सा मूलभूत सिद्धांत पत्थर को किक मारने से जुड़ी अधिक कठिनाई और संभावित चोट को उचित ठहराता है?",
             "options": [
-                "पत्थर पर लगाया गया बल उसके परमाणुओं को एक साथ बांधे रखने वाले बलों के कारण होता है।",
+                "पत्थर का द्रव्यमान अधिक होता है, जिसके परिणामस्वरूप अधिक जड़त्व होता है, अर्थात यह अपनी विरामावस्था को बदलने में अधिक प्रतिरोध करता है।",
                 "पत्थर का द्रव्यमान अधिक होता है, जिसके परिणामस्वरूप अधिक जड़त्व होता है।",
                 "पत्थर की सतह पर घर्षण कम होता है, जिसके कारण सारा बल संचारित हो जाता है।",
                 "पत्थर गति के प्रथम नियम के अधीन है, जबकि फुटबॉल द्वितीय नियम द्वारा शासित है।"
@@ -3543,7 +3682,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_236"
+            "id": "q_force_and_laws_of_motion_236",
+            "correct_option": 3
         },
         {
             "question": "किसी वस्तु के द्रव्यमान और वेग के गुणनफल को _______ कहा जाता है।",
@@ -3558,12 +3698,13 @@
             "examName": "RPF Constable 2018 25 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_237"
+            "id": "q_force_and_laws_of_motion_237",
+            "correct_option": 2
         },
         {
             "question": "दैनिक स्थलीय अन्योन्यक्रियाओं (everyday terrestrial interactions) में गुरुत्वीय बल को एक दुर्बल बल क्यों माना जाता है?",
             "options": [
-                "क्योंकि बल का अनुभव तभी तब होता है जब वस्तुएं मुक्त पतन में हों।",
+                "क्योंकि बल केवल तभी महत्वपूर्ण होता है जब बड़े द्रव्यमान (जैसे ग्रह या खगोलीय पिंड) शामिल हों。",
                 "क्योंकि वस्तुओं के बीच की दूरी नगण्य है।",
                 "क्योंकि मानवीय वस्तुओं का द्रव्यमान पृथ्वी के द्रव्यमान से बहुत अधिक होता है।",
                 "क्योंकि बल केवल तभी महत्वपूर्ण होता है जब बड़े द्रव्यमान (जैसे ग्रह या खगोलीय पिंड) शामिल हों।"
@@ -3603,7 +3744,8 @@
             "examName": "RPF Constable 2018 10 Feb 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_240"
+            "id": "q_force_and_laws_of_motion_240",
+            "correct_option": 2
         },
         {
             "question": "गति का पहला नियम, _______ और समय के बीच संबंध प्रदान करता है।",
@@ -3638,7 +3780,7 @@
         {
             "question": "एक चलती हुई कार में बैठे यात्री को कार के अचानक शुरू होने पर पीछे की ओर झटका महसूस होता है। गति का पहला नियम इस अनुभव की व्याख्या कैसे करता है?",
             "options": [
-                "जब कार आगे की ओर बढ़ रही होती है, तो यात्री विराम की अवस्था में रहता है, जो शरीर को पीछे की ओर धकेलता है।",
+                "जब कार आगे की ओर बढ़ रही होती है, तो यात्री विराम की अवस्था में रहता है, जो जड़त्व दर्शाता है।",
                 "सीट से होने वाले घर्षण से पीछे की ओर झटका महसूस होता है।",
                 "कार के अंदर मौजूद हवा के द्वारा यात्री को पीछे की ओर धकेला जाता है।",
                 "सीट यात्री को आगे की ओर धकेलती है, जिससे यह महसूस होता है।"
@@ -3663,12 +3805,13 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_244"
+            "id": "q_force_and_laws_of_motion_244",
+            "correct_option": 1
         },
         {
             "question": "यदि पृथ्वी द्वारा चंद्रमा पर लगाए गए बल का परिमाण 2.02 × 10²⁰ N है, तो चंद्रमा द्वारा पृथ्वी पर लगाए गए बल का परिमाण _______ है।",
             "options": [
-                "6.06 × 10²⁰ N",
+                "02 × 1010²0 N",
                 "2.02 × 10²⁰ N",
                 "4.04 × 10²⁰ N",
                 "1.01 × 10²⁰ N"
@@ -3708,7 +3851,8 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_247"
+            "id": "q_force_and_laws_of_motion_247",
+            "correct_option": 1
         },
         {
             "question": "पानी की आपूर्ति होते ही घास के लॉन के लिए उपयोग किए जाने वाले पानी के छिड़काव का चक्र किस सिद्धांत पर आधारित है -",
@@ -3738,7 +3882,8 @@
             "examName": "RRB JE 29 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_249"
+            "id": "q_force_and_laws_of_motion_249",
+            "correct_option": 2
         },
         {
             "question": "किसी वस्तु के जड़त्व मापन की इकाई निम्न में से क्या है?",
@@ -3768,7 +3913,8 @@
             "examName": "RRB JE ECE 22 Apr 2025 Shift 1 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_251"
+            "id": "q_force_and_laws_of_motion_251",
+            "correct_option": 1
         },
         {
             "question": "किसी वस्तु के द्रव्यमान और भार के लिए निम्नलिखित में से कौन-सा कथन सही है?",
@@ -3798,7 +3944,8 @@
             "examName": "RRB JE 26 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_253"
+            "id": "q_force_and_laws_of_motion_253",
+            "correct_option": 1
         },
         {
             "question": "चंद्रमा को अपनी कक्षा में बनाए रखने के लिए आवश्यक अभिकेंद्री बल किस बल द्वारा प्रदान किया जाता है?",
@@ -3813,7 +3960,8 @@
             "examName": "RRB JE EE 1 Sept 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_254"
+            "id": "q_force_and_laws_of_motion_254",
+            "correct_option": 3
         },
         {
             "question": "80 kg द्रव्यमान का एक व्यक्ति 240 N के बल से दौड़ता है। उसका त्वरण ______ होना चाहिए।",
@@ -3843,7 +3991,8 @@
             "examName": "RRB Group D 8/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_256"
+            "id": "q_force_and_laws_of_motion_256",
+            "correct_option": 3
         },
         {
             "question": "जब हम बस में यात्रा कर रहे होते हैं, तो बस के अचानक रुकने पर हम आगे की ओर झुक जाते हैं। इसका कारण है ________ ।",
@@ -3858,12 +4007,13 @@
             "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_257"
+            "id": "q_force_and_laws_of_motion_257",
+            "correct_option": 2
         },
         {
             "question": "जब 7 kg द्रव्यमान की एक वस्तु पर 3 s के लिए एक नियत बल कार्य करता है, तो यह वस्तु के वेग को 3 m/s से 8 m/s तक बढ़ा देता है। आरोपित बल का परिमाण क्या है?",
             "options": [
-                "10.66 N",
+                "66 N",
                 "11.66 N",
                 "13.66 N",
                 "12.66 N"
@@ -3878,7 +4028,7 @@
         {
             "question": "जब 100 N का एक बल 50 kg द्रव्यमान की एक वस्तु पर लगाया जाता है, तो उत्पन्न त्वरण की गणना कीजिए।",
             "options": [
-                "0.2 m/s²",
+                "2 m·s⁻²",
                 "0.2 m/s²",
                 "2 m/s²",
                 "2 m/s²"
@@ -3903,7 +4053,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_260"
+            "id": "q_force_and_laws_of_motion_260",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा किए गए कार्य का उदाहरण नहीं है?",
@@ -3918,7 +4069,8 @@
             "examName": "RRB Level 01 Stage I 05/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_261"
+            "id": "q_force_and_laws_of_motion_261",
+            "correct_option": 2
         },
         {
             "question": "जब कोई मोटरकार तेज चाल से तीव्र मोड़ लेती है, तो हम एक तरफ फेंके जाने लगते हैं। यह उदाहरण गति के किस नियम पर आधारित है?",
@@ -3933,12 +4085,13 @@
             "examName": "RRB ALP CBT-I 2024 : 28 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_262"
+            "id": "q_force_and_laws_of_motion_262",
+            "correct_option": 3
         },
         {
             "question": "मान लीजिए एक छात्र एक मनोरंजन पार्क में झूले का डिज़ाइन तैयार करना चाहता है जो सवारियों को एक समान चाल से एक वृत्त में घुमाए। छात्र को यह सुनिश्चित करने के लिए कौन-सी अवधारणा लागू करनी होगी कि वृत्तीय गति के दौरान सवारियां अपनी सीटों पर सुरक्षित रहें?",
             "options": [
-                "यादृच्छिक रूप से चाल बढ़ाने से वे सुरक्षित रहेंगे।",
+                "सवारियों को एक समान वृत्तीय गति में बनाए रखने के लिए उन पर एक नियत आंतरिक (अभिकेंद्र) बल लगाना होगा。",
                 "सवारियों को अपनी सीटों पर बांधे रखने के लिए केवल गुरुत्वाकर्षण ही पर्याप्त है।",
                 "सवारियों को उनकी सीटों से बांधे रखने के लिए एक नियत बाह्य बल लगाना होगा।",
                 "सवारियों को एक समान वृत्तीय गति में बनाए रखने के लिए उन पर एक नियत आंतरिक (अभिकेंद्र) बल लगाना होगा।"
@@ -3963,12 +4116,13 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_264"
+            "id": "q_force_and_laws_of_motion_264",
+            "correct_option": 1
         },
         {
             "question": "एक राइफल से हल्की बुलेट चलाई जाती है, जिसके परिणामस्वरूप बुलेट का आगे की ओर त्वरण अधिक होता है और राइफल का पीछे की ओर प्रतिक्षेप त्वरण न्यूनतम होता है। यदि बल बराबर और विपरीत (क्रिया/प्रतिक्रिया) हैं, तो राइफल का त्वरण बुलेट के त्वरण से इतना कम क्यों होता है?",
             "options": [
-                "त्वरण द्रव्यमान के व्युत्क्रमानुपाती होता है, और राइफल का द्रव्यमान बुलेट से बहुत अधिक होता है।",
+                "त्वरण द्रव्यमान के व्युत्क्रमानुपाती होता है, और राइफल का द्रव्यमान बुलेट से बहुत अधिक होता है。",
                 "बुलेट का प्रतिक्रिया बल, क्रिया बल की तुलना में कम समय के लिए कार्य करता है।",
                 "क्रिया और प्रतिक्रिया बल रद्द हो जाते हैं क्योंकि ये तात्कालिक रूप से कार्य करते हैं।",
                 "राइफल का बुलेट पर क्रिया बल, राइफल पर बुलेट के प्रतिक्रिया बल से अधिक होता है।"
@@ -3983,7 +4137,7 @@
         {
             "question": "निम्नलिखित में से कौन सा कथन गलत है?",
             "options": [
-                "क्रिया और प्रतिक्रिया बल विभिन्न पिंडों पर कार्यरत होते हैं।",
+                "क्रिया और प्रतिक्रिया बल एक ही पिंड पर कार्य करते हैं。",
                 "एक विलगित बल मौजूद नहीं होता है।",
                 "बल युग्म में मौजूद होते हैं।",
                 "क्रिया और प्रतिक्रिया बल एक ही पिंड पर कार्य करते हैं।"
@@ -4008,7 +4162,8 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_267"
+            "id": "q_force_and_laws_of_motion_267",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प घर्षण का गलत उदाहरण है?",
@@ -4023,7 +4178,8 @@
             "examName": "RRB NTPC Tier I : 22 Apr 2016 Shift 2",
             "examYear": "2016",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_268"
+            "id": "q_force_and_laws_of_motion_268",
+            "correct_option": 3
         },
         {
             "question": "गुरुत्वाकर्षण का नियम किसने दिया था?",
@@ -4038,7 +4194,8 @@
             "examName": "RRB NTPC CBT-I : 27 Feb 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_269"
+            "id": "q_force_and_laws_of_motion_269",
+            "correct_option": 3
         },
         {
             "question": "20ms–1 के वेग से गति कर रहे 50 kg द्रव्यमान वाले एक पिंड का संवेग क्या होगा?",
@@ -4053,7 +4210,8 @@
             "examName": "RRB Group D 12 Nov 2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_270"
+            "id": "q_force_and_laws_of_motion_270",
+            "correct_option": 3
         },
         {
             "question": "पृथ्वी के चारों ओर चंद्रमा की गति किसके कारण होती है?",
@@ -4068,7 +4226,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_271"
+            "id": "q_force_and_laws_of_motion_271",
+            "correct_option": 3
         },
         {
             "question": "विद्युत चुंबकीय प्रेरण की खोज किसने की थी?",
@@ -4083,7 +4242,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_272"
+            "id": "q_force_and_laws_of_motion_272",
+            "correct_option": 1
         },
         {
             "question": "किस बल के कारण चंद्रमा पृथ्वी के परितः अपनी गोलाकार कक्षा में घूमता है?",
@@ -4098,7 +4258,8 @@
             "examName": "RRB JE 27 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_273"
+            "id": "q_force_and_laws_of_motion_273",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा नियम बताता है कि धातु के तार के माध्यम से प्रवाहित होने वाली विद्युत धारा'I' विभवांतर \\'V\\' के अनुक्रमानुपाती है और इसके सिरों पर इसका तापमान स्थिर रहता है?",
@@ -4113,7 +4274,8 @@
             "examName": "RRB JE 26 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_274"
+            "id": "q_force_and_laws_of_motion_274",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस भौतिक राशि में द्रव्यमान और समय में शून्य विमा होती है?",
@@ -4128,7 +4290,8 @@
             "examName": "RRB NTPC UG CBT-I : 19 Aug, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_275"
+            "id": "q_force_and_laws_of_motion_275",
+            "correct_option": 2
         },
         {
             "question": "गति का प्रथम नियम किस रूप में जाना जाता है?",
@@ -4143,12 +4306,13 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_276"
+            "id": "q_force_and_laws_of_motion_276",
+            "correct_option": 2
         },
         {
             "question": "बल के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
             "options": [
-                "बल एक अदिश राशि है जिसे न्यूटन में मापा जाता है।",
+                "बल एक सदिश राशि है जिसे न्यूटन में मापा जाता है。",
                 "बल एक सदिश राशि है जिसे जूल में मापा जाता है।",
                 "बल एक सदिश राशि है जिसे न्यूटन में मापा जाता है।",
                 "बल एक अदिश राशि है जिसे जूल में मापा जाता है।"
@@ -4188,12 +4352,13 @@
             "examName": "RRB Group D 17/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_279"
+            "id": "q_force_and_laws_of_motion_279",
+            "correct_option": 2
         },
         {
             "question": "गुरुत्वाकर्षण बल के बारे में निम्नलिखित में से कौन-सा कथन सही है?",
             "options": [
-                "यह प्रकृति में हमेशा आकषक होता है।",
+                "यह प्रकृति में हमेशा आकषक होता है。",
                 "यह वस्तुओं के बीच के माध्यम पर निर्भर करता है।",
                 "यह आकषक और प्रतिकषक दोनों हो सकता है।",
                 "यह वस्तुओं के आवेश पर निर्भर करता है।"
@@ -4233,12 +4398,13 @@
             "examName": "RRB Technician Grade III 06/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_282"
+            "id": "q_force_and_laws_of_motion_282",
+            "correct_option": 3
         },
         {
             "question": "जब कोई पक्षी ऊपर की ओर उड़ने के लिए अपने पंख नीचे की ओर फड़फड़ाता है, तो कौन-सा कथन उसमें सम्मिलित बलों का सर्वोत्तम रूप से वर्णन करता है?",
             "options": [
-                "पंखों का वायु पर नीचे की ओर धकेलना क्रिया है, और पंखों पर वायु द्वारा उत्पन्न उत्थापन प्रतिक्रिया है।",
+                "पंखों का वायु पर नीचे की ओर धकेलना क्रिया है, और पंखों पर वायु द्वारा उत्पन्न उत्थापन प्रतिक्रिया है。",
                 "पक्षी का भार क्रिया बल के रूप में कार्य करता है, और वायु प्रतिक्रिया बल प्रदान करती है।",
                 "पंखों का फड़फड़ाना क्रिया है, और पक्षी को नीचे की ओर खींचने वाला गुरुत्वाकर्षण प्रतिक्रिया है।",
                 "पक्षी वायु को नीचे की ओर धकेलता है, लेकिन उस पर कोई समान और विपरीत बल कार्य नहीं करता है।"
@@ -4263,7 +4429,8 @@
             "examName": "RRB JE 23 May 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_284"
+            "id": "q_force_and_laws_of_motion_284",
+            "correct_option": 1
         },
         {
             "question": "बल = ________",
@@ -4293,12 +4460,13 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_286"
+            "id": "q_force_and_laws_of_motion_286",
+            "correct_option": 1
         },
         {
             "question": "न्यूटन के गति के दूसरे नियम के अनुसार, बल F = ma के संबंध द्वारा दिया जाता है। यदि किसी पिंड का वेग t समय में u (प्रारंभिक वेग) से v (अंतिम वेग) में बदल जाता है, तो निम्नलिखित में से कौन-सा व्यंजक पिंड पर लगने वाले बल को सही ढंग से दर्शाता है?",
             "options": [
-                "F = t(v-u)/m",
+                "F=m (v-u)/t",
                 "F = mt/(v-u)",
                 "F = m(u-v)/t",
                 "F = m(v-u)/t"
@@ -4328,7 +4496,7 @@
         {
             "question": "निम्नलिखित में से कौन सा पदार्थ के कणों का लक्षण नहीं है?",
             "options": [
-                "वे आकार में बहुत बड़े होते हैं।",
+                "वे आकार में बहुत बड़े होते हैं。",
                 "वे लगातार गतिमान रहते हैं।",
                 "उनके बीच जगह होती है।",
                 "वे एक-दूसरे को आकर्षित करते हैं।"
@@ -4353,7 +4521,8 @@
             "examName": "RPF Constable 2024 06 Mar, 2025 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_290"
+            "id": "q_force_and_laws_of_motion_290",
+            "correct_option": 3
         },
         {
             "question": "किसी बल द्वारा किया गया कार्य धनात्मक तब कहा जाता है, जब _____________________ ।",
@@ -4383,7 +4552,8 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_292"
+            "id": "q_force_and_laws_of_motion_292",
+            "correct_option": 1
         },
         {
             "question": "किसी वस्तु का पृथ्वी पर भार 24 N है। चंद्रमा की सतह पर उसका भार कितना होगा?",
@@ -4398,7 +4568,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_293"
+            "id": "q_force_and_laws_of_motion_293",
+            "correct_option": 2
         },
         {
             "question": "कौन-सा नियम बताता है कि किसी चालक से प्रवाहित होने वाली धारा, उस पर लगाए गए वोल्टेज के समानुपाती होती है, बशर्ते तापमान और अन्य भौतिक स्थितियाँ स्थिर रहें?",
@@ -4428,12 +4599,13 @@
             "examName": "RRB NTPC CBT-I : 15 Feb 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_295"
+            "id": "q_force_and_laws_of_motion_295",
+            "correct_option": 2
         },
         {
             "question": "कक्ष तापमान पर हवा में ध्वनि की चाल लगभग 343 m/s होती है। जल से गुज़रने पर इसकी चाल पर क्या प्रभाव पड़ता है?",
             "options": [
-                "यह शून्य हो जाती है",
+                "यह बढ़ती है。",
                 "यह घटती है",
                 "यह बढ़ती है।",
                 "यह अपरिवर्तित रहती है"
@@ -4458,7 +4630,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_297"
+            "id": "q_force_and_laws_of_motion_297",
+            "correct_option": 2
         },
         {
             "question": "सापेक्ष गति में परस्पर क्रिया करने वाली दो सतहों के बीच कार्यरत घर्षण बल क्या है?",
@@ -4473,13 +4646,14 @@
             "examName": "RPF Constable 2018 03 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_298"
+            "id": "q_force_and_laws_of_motion_298",
+            "correct_option": 1
         },
         {
             "question": "एक रेलगाड़ी सीधी पटरी पर 54 km/hr की चाल से चल रही है। यह 150 m चलने के बाद रेक जाती है। इसके त्वरण का परिमाण क्या है?",
             "options": [
                 "1 m/s²",
-                "0.75 m/s²",
+                "75 m/s²",
                 "5 m/s²",
                 "2 m/s²"
             ],
@@ -4488,7 +4662,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_299"
+            "id": "q_force_and_laws_of_motion_299",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस वैज्ञानिक ने सबसे पहले काँच के प्रिज्म का उपयोग करके सूर्य के प्रकाश के स्पेक्ट्रम की खोज की थी?",
@@ -4533,7 +4708,8 @@
             "examName": "RRB Group D 25/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_302"
+            "id": "q_force_and_laws_of_motion_302",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा, गति के तीसरे नियम का उदाहरण नहीं है?",
@@ -4593,7 +4769,8 @@
             "examName": "RPF Constable 2018 17 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_306"
+            "id": "q_force_and_laws_of_motion_306",
+            "correct_option": 2
         },
         {
             "question": "द्रव्यमान और वेग का गुणनफल क्या है?",
@@ -4623,7 +4800,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 19/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_308"
+            "id": "q_force_and_laws_of_motion_308",
+            "correct_option": 2
         },
         {
             "question": "50 kg द्रव्यमान का एक लकड़ी का गुटका एक चिकनी क्षैतिज सतह पर रखा जाता है। जब वह विरामावस्था में होता है तो उस पर \\'X\\' N का एक नियत क्षैतिज बल लगाया जाता है। गुटका 2 s में 10 m/s का वेग प्राप्त कर लेता है। X का मान क्या है?",
@@ -4638,7 +4816,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_309"
+            "id": "q_force_and_laws_of_motion_309",
+            "correct_option": 3
         },
         {
             "question": "न्यूटन के तीसरे नियम के अनुसार, क्रिया और प्रतिक्रिया बल.।",
@@ -4653,7 +4832,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_310"
+            "id": "q_force_and_laws_of_motion_310",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस स्थिति में स्थितिज ऊर्जा संचित हो रही है?",
@@ -4668,7 +4848,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_311"
+            "id": "q_force_and_laws_of_motion_311",
+            "correct_option": 3
         },
         {
             "question": "किसी वस्तु का भार क्या होता है?",
@@ -4683,7 +4864,8 @@
             "examName": "RRB JE 27 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_312"
+            "id": "q_force_and_laws_of_motion_312",
+            "correct_option": 3
         },
         {
             "question": "m/2 द्रव्यमान और 2v के वेग से गतिमान किसी वस्तु का संवेग क्या है?",
@@ -4714,7 +4896,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_314"
+            "id": "q_force_and_laws_of_motion_314",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस राशि में विमाएं नहीं होती हैं?",
@@ -4729,7 +4912,8 @@
             "examName": "RRB ALP Electronics Mechanic 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_315"
+            "id": "q_force_and_laws_of_motion_315",
+            "correct_option": 2
         },
         {
             "question": "ग्रहों की गति के नियम (The law of planetary motion) की खोज किसने की?",
@@ -4744,7 +4928,8 @@
             "examName": "RRB NTPC CBT-I : 27 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_316"
+            "id": "q_force_and_laws_of_motion_316",
+            "correct_option": 3
         },
         {
             "question": "स्पाइरोगायरा में किस प्रकार का प्रजनन देखा जाता है?",
@@ -4759,7 +4944,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_317"
+            "id": "q_force_and_laws_of_motion_317",
+            "correct_option": 2
         },
         {
             "question": "एक वस्तु को u वेग से ऊर्ध्वावाधर ऊपर की ओर फेंका जाता है। गुरुत्वाकर्षण के प्रभाव में, त्वरण.।",
@@ -4774,7 +4960,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_318"
+            "id": "q_force_and_laws_of_motion_318",
+            "correct_option": 2
         },
         {
             "question": "दो पिंडों के बीच गुरुत्वाकर्षण बल F है; यदि उनमें से किसी एक पिंड का द्रव्यमान उसके प्रारंभिक मान से चार गुना बढ़ा दिया जाए, तो अब पिंडों के बीच गुरुत्वाकर्षण बल होगा:",
@@ -4789,7 +4976,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_319"
+            "id": "q_force_and_laws_of_motion_319",
+            "correct_option": 2
         },
         {
             "question": "व्यवहार में, कार्य इनपुट के कारण घर्षण के प्रभाव के कारण मशीन का कार्य आउटपुट _______ होता है।",
@@ -4804,7 +4992,8 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_320"
+            "id": "q_force_and_laws_of_motion_320",
+            "correct_option": 2
         },
         {
             "question": "न्यूटन के गति का प्रथम नियम निम्नलिखित में से कौन-सी अवधारणा को स्पष्ट करता है?",
@@ -4819,7 +5008,8 @@
             "examName": "RRB Technician Grade III 06/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_321"
+            "id": "q_force_and_laws_of_motion_321",
+            "correct_option": 1
         },
         {
             "question": "जिम्नास्ट अपने हाथों पर कुछ दरदरा पदार्थ क्यों लगाते हैं?",
@@ -4849,7 +5039,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_323"
+            "id": "q_force_and_laws_of_motion_323",
+            "correct_option": 3
         },
         {
             "question": "न्यूटन का गति का तीसरा नियम निम्नलिखित में से किस स्थिति में लागू होता है?",
@@ -4869,7 +5060,7 @@
         {
             "question": "एकसमान वृत्तीय गति में, किसी वस्तु के वेग की दिशा ________ होती है।",
             "options": [
-                "त्रिज्या के अनुदिश, केंद्र की ओर",
+                "वृत्तीय पथ के स्पशरेखीय",
                 "त्रिज्या के अनुदिश, केंद्र से दूर",
                 "घूणन अक्ष के लंबवत",
                 "वृत्तीय पथ के स्पर्शरेखीय"
@@ -4894,7 +5085,8 @@
             "examName": "RRB Group D 20 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_326"
+            "id": "q_force_and_laws_of_motion_326",
+            "correct_option": 1
         },
         {
             "question": "घर्षण बल __________ कार्य करता है।",
@@ -4924,7 +5116,8 @@
             "examName": "RRB NTPC Tier I : 27 Apr 2016 Shift 2",
             "examYear": "2016",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_328"
+            "id": "q_force_and_laws_of_motion_328",
+            "correct_option": 3
         },
         {
             "question": "द्रव्यमान 10 kg की एक वस्तु 2 m/s के वेग के साथ घूम रही है। वस्तु के पास मौजूद संवेग ________ है।",
@@ -4939,7 +5132,8 @@
             "examName": "RRB Group D 26 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_329"
+            "id": "q_force_and_laws_of_motion_329",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा प्रतिबलों की क्रिया के अंतर्गत प्लास्टिक विरूपण की धीमी वृद्धि है?",
@@ -4954,7 +5148,8 @@
             "examName": "RRB JE ME 29 Aug 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_330"
+            "id": "q_force_and_laws_of_motion_330",
+            "correct_option": 3
         },
         {
             "question": "यदि संतुलित बल लगाए जाते हैं, तो किसी वस्तु पर लगने वाला परिणामी बल क्या होता है?",
@@ -4969,7 +5164,8 @@
             "examName": "RRB JE CE 22 Apr 2025 Shift 2 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_331"
+            "id": "q_force_and_laws_of_motion_331",
+            "correct_option": 2
         },
         {
             "question": "गुरुत्वाकर्षण बल के अंतर्गत गतिमान और ऊर्ध्वावाधर ऊपर की ओर फेंकी गई वस्तु पर गति के समीकरणों को लागू करते समय, त्वरण (a) को किस रूप में लिया जाना चाहिए?",
@@ -4984,7 +5180,8 @@
             "examName": "RRB Technician Grade III 06/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_332"
+            "id": "q_force_and_laws_of_motion_332",
+            "correct_option": 2
         },
         {
             "question": "गोली चलाने पर बंदूक पीछे की ओर धक्का देती है। बंदूक की पश्च गति का कारण क्या है?",
@@ -5029,7 +5226,8 @@
             "examName": "RRB Level 01 Stage I 26/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_335"
+            "id": "q_force_and_laws_of_motion_335",
+            "correct_option": 3
         },
         {
             "question": "जहाजों का निर्माण और आवागमन किस पर आधारित है?",
@@ -5059,7 +5257,8 @@
             "examName": "RPF SI 2018 : 11 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_337"
+            "id": "q_force_and_laws_of_motion_337",
+            "correct_option": 3
         },
         {
             "question": "विमीय विश्लेषण का उपयोग करके, निम्नलिखित में से किस भौतिक राशियों के युग्म की विमाएँ समान हैं?",
@@ -5074,7 +5273,8 @@
             "examName": "RPF Constable 2024 : 07 Mar, 2025 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_338"
+            "id": "q_force_and_laws_of_motion_338",
+            "correct_option": 2
         },
         {
             "question": "किसी पदार्थ के दिए गए क्रॉस-सेक्शन के साथ समतलीय रूप से कार्य करने वाले प्रतिबल के प्रकार को ________ के रूप में परिभाषित किया जाता है।",
@@ -5094,7 +5294,7 @@
         {
             "question": "तापमान बढ़ाने पर सभी शुद्ध धातुओं के प्रतिरोध -",
             "options": [
-                "कम हो जाता है।",
+                "बढ़ जाता है。",
                 "अप्रभावित रहता है।",
                 "बढ़ जाता है।",
                 "नगण्य हो जाता है।"
@@ -5119,7 +5319,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_341"
+            "id": "q_force_and_laws_of_motion_341",
+            "correct_option": 2
         },
         {
             "question": "यदि किसी वस्तु का द्रव्यमान 74.5 kg है, तो पृथ्वी पर उसका अनुमानित भार क्या है? (g = 9.8 m/s² लीजिए)?",
@@ -5139,7 +5340,7 @@
         {
             "question": "जब किसी वस्तु को त्वरित किया जाता है, तब -",
             "options": [
-                "उस पर हमेशा एक बल कार्य करता है।",
+                "उस पर हमेशा एक बल कार्य करता है。",
                 "यह हमेशा नीचे की ओर जाती है।",
                 "यह हमेशा ऊपर की ओर जाती है।",
                 "यह हमेशा पृथ्वी की ओर गिरती है।"
@@ -5164,7 +5365,8 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_344"
+            "id": "q_force_and_laws_of_motion_344",
+            "correct_option": 2
         },
         {
             "question": "किसी वस्तु के संवेग में 0.02 सेकंड में 10 kg ms–1 परिवर्तन होता है, तब वस्तु पर कार्यरत बल है:",
@@ -5179,12 +5381,13 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_345"
+            "id": "q_force_and_laws_of_motion_345",
+            "correct_option": 2
         },
         {
             "question": "एक पत्थर स्वतंत्र रूप से गिरता है और 20 m की दूरी (s) को 2.0 s समय (t) में तय करता है। गुरुत्वीय त्वरण (g) का मान कितना होगा?",
             "options": [
-                "20.0 m/s²",
+                "0 m/s²",
                 "8.0 m/s²",
                 "10.0 m/s²",
                 "12.0 m/s²"
@@ -5199,7 +5402,7 @@
         {
             "question": "सूर्य के प्रकाश का वर्णक्रम (स्पेक्ट्रम) प्राप्त करने के लिए कांच के प्रिज्म का उपयोग करने वाला पहला व्यक्ति कौन था?",
             "options": [
-                "फर्मी",
+                "आइज़ैैक न्यूटन",
                 "एडीसन",
                 "आइजैक न्यूटन",
                 "आइंस्टीन"
@@ -5239,7 +5442,8 @@
             "examName": "RPF Constable 2024 : 12 Mar, 2025 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_349"
+            "id": "q_force_and_laws_of_motion_349",
+            "correct_option": 1
         },
         {
             "question": "एक स्थिर बल द्वारा किया गया कार्य निम्नलिखित में से किस पर निर्भर करता है?",
@@ -5269,7 +5473,8 @@
             "examName": "RRB JE 26 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_351"
+            "id": "q_force_and_laws_of_motion_351",
+            "correct_option": 2
         },
         {
             "question": "जब चलती कार में ब्रेक लगाए जाते हैं, तो कार धीमी हो जाती है, लेकिन भीतर बैठे यात्री आगे बढ़ने लगते हैं। ऐसा इसलिए होता है, क्योंकि ________ ।",
@@ -5284,7 +5489,8 @@
             "examName": "RRB Level 01 Stage I 10/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_352"
+            "id": "q_force_and_laws_of_motion_352",
+            "correct_option": 2
         },
         {
             "question": "दो सतहों के बीच बनने वाली छोटी कोण वाली सतह को _____ कहा जाता है।",
@@ -5299,7 +5505,8 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_353"
+            "id": "q_force_and_laws_of_motion_353",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सी राशि, किसी पिंड के जड़त्व की माप है?",
@@ -5314,7 +5521,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_354"
+            "id": "q_force_and_laws_of_motion_354",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित दो कथनों पर विचार कीजिए और सर्वाधिक उपयुक्त विकल्प का चयन कीजिए:\n• A. किसी कण निकाय (System) का कुल रैखिक संवेग, शून्य होता है।\n• B. किसी कण निकाय की कुल गतिज ऊर्जा, शून्य होती है।",
@@ -5344,7 +5552,8 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_356"
+            "id": "q_force_and_laws_of_motion_356",
+            "correct_option": 3
         },
         {
             "question": "___________ प्रकृति में अकेले नहीं होता है।",
@@ -5359,7 +5568,8 @@
             "examName": "RRB Group D 22/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_357"
+            "id": "q_force_and_laws_of_motion_357",
+            "correct_option": 1
         },
         {
             "question": "यदि एक वस्तु को दोनों सिरों से पकड़कर खींचा जाता है, तो उस पर लागू बल को _______ कहा जाता है।",
@@ -5374,7 +5584,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_358"
+            "id": "q_force_and_laws_of_motion_358",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित आकृति (बलयुग्म) का ध्यानपूर्वक अध्ययन कीजिये और प्रश्न का उत्तर दीजिये। यदि धुरी (Pivot) को बाईं ओर 3 मीटर स्थानांतरित किया जाता है, तो नई स्थिति में बलयुग्म का आघूर्ण क्या होगा? (मान लीजिए प्रारंभिक आघूर्ण 8 न्यूटन-मीटर है)?",
@@ -5389,7 +5600,8 @@
             "examName": "RRB Group D 20 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_359"
+            "id": "q_force_and_laws_of_motion_359",
+            "correct_option": 3
         },
         {
             "question": "किसी पिंड पर कार्य किए जाने के लिए निम्नलिखित में से क्या आवश्यक नहीं है?",
@@ -5404,7 +5616,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_360"
+            "id": "q_force_and_laws_of_motion_360",
+            "correct_option": 2
         },
         {
             "question": "यदि किसी परिपथ में प्रतिरोध बढ़ा दिया जाए जबकि वोल्टेज स्थिर रहे, तो धारा -",
@@ -5419,7 +5632,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_361"
+            "id": "q_force_and_laws_of_motion_361",
+            "correct_option": 2
         },
         {
             "question": "मुक्त पतन के दौरान, जब किसी वस्तु को विरामावस्था से छोड़ा जाता है, तो पृथ्वी का गुरुत्वाकर्षण बल उसकी गति को कैसे प्रभावित करता है?",
@@ -5434,7 +5648,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_362"
+            "id": "q_force_and_laws_of_motion_362",
+            "correct_option": 3
         },
         {
             "question": "यदि दो वस्तुओं का द्रव्यमान दोगुना कर दिया जाए तो उनके बीच गुरुत्वाकर्षण बल पर क्या प्रभाव पड़ेगा?",
@@ -5464,7 +5679,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_364"
+            "id": "q_force_and_laws_of_motion_364",
+            "correct_option": 2
         },
         {
             "question": "चंद्रमा पर गुरुत्वाकर्षण के कारण त्वरण पृथ्वी पर गुरुत्वाकर्षण के कारण त्वरण का (1/6) है। इसलिए पृथ्वी पर 12 N वजन वाले वस्तु का चंद्रमा पर वजन ________ होगा।",
@@ -5479,7 +5695,8 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_365"
+            "id": "q_force_and_laws_of_motion_365",
+            "correct_option": 2
         },
         {
             "question": "720 km/hr की चाल से चल रही एक कार ब्रेक लगाने के 4 सेकंड बाद रेक जाती है। यदि कार और यात्रियों का कुल द्रव्यमान 80 kg है, तो ब्रेक द्वारा अनुप्रयुक्त बल कितना होगा?",
@@ -5494,7 +5711,8 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_366"
+            "id": "q_force_and_laws_of_motion_366",
+            "correct_option": 2
         },
         {
             "question": "यदि कोई वस्तु उत्तल लेंस के सामने अनंत पर है, तो प्रतिबिंब ___________ पर निर्मित होता है?",
@@ -5509,7 +5727,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_367"
+            "id": "q_force_and_laws_of_motion_367",
+            "correct_option": 3
         },
         {
             "question": "द्रव्यमान 2 kg की एक वस्तु 4 m/s के त्वरण के साथ गति कर रही है। इस पर कार्य करने वाला शुद्ध बल ________ है।",
@@ -5554,7 +5773,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_370"
+            "id": "q_force_and_laws_of_motion_370",
+            "correct_option": 3
         },
         {
             "question": "धारावाही वृत्तीय लूप के केंद्र पर चुंबकीय क्षेत्र की दिशा. के द्वारा निधारित की जा सकती है।",
@@ -5569,7 +5789,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_371"
+            "id": "q_force_and_laws_of_motion_371",
+            "correct_option": 3
         },
         {
             "question": "एक व्यक्ति बस में खड़ा है और अचानक बस रेक जाती है। वह व्यक्ति आगे की ओर गिरने लगता है। गति के निम्नलिखित नियमों में से कौन सा नियम इस घटना के लिए सीधे तौर पर ज़िम्मेदार है?",
@@ -5584,7 +5805,8 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_372"
+            "id": "q_force_and_laws_of_motion_372",
+            "correct_option": 1
         },
         {
             "question": "10 m/s की चाल से चलती हुई 1000 kg की एक कार को एक स्थिर ब्रेकिंग बल द्वारा 5 सेकंड में विरामावस्था में लाया जाता है। बल का परिमाण क्या है?",
@@ -5614,7 +5836,8 @@
             "examName": "RRB Level 01 Stage I 09/01/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_374"
+            "id": "q_force_and_laws_of_motion_374",
+            "correct_option": 1
         },
         {
             "question": "किसी निकार्य का द्रव्यमान 5 किग्रा है और उसका संवेग 10 किग्रा मी/से है। यदि उस पर 10 सकेंड के लिए 0.1 N का बल लगाया जाता है, तब इसकी गतिजन्य ऊर्जा में आने वाला परिवर्तन है:",
@@ -5659,7 +5882,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_377"
+            "id": "q_force_and_laws_of_motion_377",
+            "correct_option": 1
         },
         {
             "question": "_______ के कारण विद्युत आवेश एक-दूसरे को आकर्षित और प्रतिकर्षित करते हैं।",
@@ -5689,7 +5913,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_379"
+            "id": "q_force_and_laws_of_motion_379",
+            "correct_option": 1
         },
         {
             "question": "एक आवेशित कण, वृत्ताकार धारा लूप के अक्ष के लंबवत गति करता है। कण पर लगने वाला बल ________ ।",
@@ -5704,7 +5929,8 @@
             "examName": "RRB Technician Grade III 06/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_380"
+            "id": "q_force_and_laws_of_motion_380",
+            "correct_option": 1
         },
         {
             "question": "जब कोई प्रकाश किरण एक सघन माध्यम से एक विरल माध्यम में, कांच से हवा में, प्रवेश करती है, तो प्रकाश किरण किसकी ओर झुकती है?",
@@ -5719,7 +5945,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_381"
+            "id": "q_force_and_laws_of_motion_381",
+            "correct_option": 2
         },
         {
             "question": "यदि आप किसी स्थिर दीवार को 80 N से धक्का देते हैं, तो दीवार आपको ______ से पीछे धकेलती है।",
@@ -5734,12 +5961,13 @@
             "examName": "RRB Level 01 Stage I 19/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_382"
+            "id": "q_force_and_laws_of_motion_382",
+            "correct_option": 3
         },
         {
             "question": "न्यूटन के गति के तीसरे नियम के बारे में निम्नलिखित में से कौन-सा कथन गलत है?",
             "options": [
-                "ये बल एक साथ दो अलग-अलग वस्तुओं पर कार्य करते हैं।",
+                "क्रिया और प्रतिक्रिया बल एक ही वस्तु पर कार्य करते हैं。",
                 "बल परिमाण में बराबर लेकिन दिशा में विपरीत होते हैं।",
                 "क्रिया और प्रतिक्रिया बल एक ही वस्तु पर कार्य करते हैं।",
                 "जब एक वस्तु दूसरी वस्तु पर बल लगाती है, तो दूसरी वस्तु उस पर वापस बराबर एवं विपरीत बल लगाती है।"
@@ -5764,7 +5992,8 @@
             "examName": "RRB JE CE 29 Aug 2019 Shift 2 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_384"
+            "id": "q_force_and_laws_of_motion_384",
+            "correct_option": 3
         },
         {
             "question": "यांत्रिकी में कौन सा बल बिना भौतिक संपर्क के कार्य करता है और खगोलीय पिंडों की गति को नियंत्रित करता है?",
@@ -5779,7 +6008,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 21 Jun, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_385"
+            "id": "q_force_and_laws_of_motion_385",
+            "correct_option": 1
         },
         {
             "question": "किसी पिंड पर 10 Nm⁻² का दाब लगाया जाता है। यदि पिंड का क्षेत्रफल 2 m² है, तो पिंड पर लगने वाला प्रणोद होगा:",
@@ -5794,7 +6024,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_386"
+            "id": "q_force_and_laws_of_motion_386",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित विकल्पों में से सही युग्म का चयन करें।",
@@ -5809,7 +6040,8 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_387"
+            "id": "q_force_and_laws_of_motion_387",
+            "correct_option": 1
         },
         {
             "question": "'v' वेग से गतिमान 'm' द्रव्यमान के एक पिंड का संवेग क्या होगा?",
@@ -5839,7 +6071,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_389"
+            "id": "q_force_and_laws_of_motion_389",
+            "correct_option": 2
         },
         {
             "question": "लट्टू की गति किसका उदाहरण है?",
@@ -5869,7 +6102,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_391"
+            "id": "q_force_and_laws_of_motion_391",
+            "correct_option": 2
         },
         {
             "question": "2 kg द्रव्यमान के एक पिंड पर 4 s के लिए एक नियत बल कार्य करता है और इसका वेग 8 m/s से बदलकर 12 m/s हो जाता है। लगाए गए बल का परिमाण है:",
@@ -5914,7 +6148,8 @@
             "examName": "",
             "examYear": "",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_394"
+            "id": "q_force_and_laws_of_motion_394",
+            "correct_option": 2
         },
         {
             "question": "अपने सिर पर भारी लोड लेकर स्थिर खड़े रहने पर, आप ऊर्जा व्यय करते हैं और थक जाते हैं। भौतिकी के अनुसार लोड पर किया गया कार्य शून्य क्यों होता है?",
@@ -5929,12 +6164,13 @@
             "examName": "RRB Technician Grade III 09/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_395"
+            "id": "q_force_and_laws_of_motion_395",
+            "correct_option": 2
         },
         {
             "question": "एक वस्तु पर लगाया जाना वाला बल 200 N है और इसका द्रव्यमान 100 kg है। तो वस्तु का त्वरण ज्ञात कीजिए।",
             "options": [
-                "2 m/s",
+                "2 m·s⁻²",
                 "2 m/s²",
                 "2 m/s",
                 "2 m/s²"
@@ -5959,7 +6195,8 @@
             "examName": "RRB ALP Electrician : 22 Jan, 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_397"
+            "id": "q_force_and_laws_of_motion_397",
+            "correct_option": 1
         },
         {
             "question": "विद्युत चुंबकीय प्रेरण की खोज का श्रेय किस वैज्ञानिक को जाता है?",
@@ -5974,7 +6211,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_398"
+            "id": "q_force_and_laws_of_motion_398",
+            "correct_option": 2
         },
         {
             "question": "किसी v गति से चलने वाले m द्रव्यमान का एक कण किसी दूसरे m द्रव्यमान वाले स्थिर कण के साथ सामने से टकराता है। टकराव के बाद पहले कण का वेग क्या होगा?",
@@ -5989,7 +6227,8 @@
             "examName": "RRB Group D 12 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_399"
+            "id": "q_force_and_laws_of_motion_399",
+            "correct_option": 2
         },
         {
             "question": "आवेग को _________ के रूप में परिभाषित किया गया है।",
@@ -6004,12 +6243,13 @@
             "examName": "RRB NTPC UG CBT-I : 12 Aug, 2025 Shift 1",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_400"
+            "id": "q_force_and_laws_of_motion_400",
+            "correct_option": 3
         },
         {
             "question": "अधिकांश चालकों के प्रतिरोध पर उनके तापमान में वृद्धि का क्या प्रभाव होता है?",
             "options": [
-                "यह बढ़ जाता है।",
+                "यह बढ़ जाता है。",
                 "यह शून्य हो जाता है।",
                 "यह घट जाता है।",
                 "यह समान रहता है।"
@@ -6034,12 +6274,13 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_402"
+            "id": "q_force_and_laws_of_motion_402",
+            "correct_option": 3
         },
         {
             "question": "एक गिलास को कार्ड से ढक दिया जाता है तथा कार्ड पर एक सिक्का रखा जाता है। जब कार्ड को अंगुली से तीव्रता से झटका दिया जाता है, तो सिक्का गिलास में सीधा गिर जाता है। यह स्थिति क्या दर्शाती है?",
             "options": [
-                "सिक्का और कार्ड दोनों जड़त्व के कारण आगे खिसक जाते हैं।",
+                "जब काड आगे खिसक जाता है, तो जड़त्व के कारण सिक्का विराम में रहता है。",
                 "झटका प्रत्यक्ष रूप से सिक्के पर बल प्रयुक्त करता है।",
                 "सिक्का इसलिए खिसक जाता है क्योंकि कार्ड उसे धकेलता है।",
                 "जब कार्ड आगे खिसक जाता है, तो जड़त्व के कारण सिक्का विराम में रहता है।"
@@ -6064,7 +6305,8 @@
             "examName": "RRB Group D 30/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_404"
+            "id": "q_force_and_laws_of_motion_404",
+            "correct_option": 2
         },
         {
             "question": "वह संघट्ट (टक्कर) जिसके बाद दो कण एक साथ जुड़कर गति करते हैं, उसे _________ कहा जाता है।",
@@ -6079,7 +6321,8 @@
             "examName": "RPF SI 2018 : 11 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_405"
+            "id": "q_force_and_laws_of_motion_405",
+            "correct_option": 3
         },
         {
             "question": "यदि किसी चालक में धारा की दिशा उत्क्रमित कर दी जाए, तो उस पर लगने वाले बल की दिशा ___________ ।",
@@ -6094,7 +6337,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_406"
+            "id": "q_force_and_laws_of_motion_406",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस युग्म की इकाई समान है?",
@@ -6109,7 +6353,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_407"
+            "id": "q_force_and_laws_of_motion_407",
+            "correct_option": 2
         },
         {
             "question": "एक कार विरामावस्था से चलना प्रारंभ करती है और 20 सेकंड में 72 km/hr की चाल प्राप्त कर लेती है। कार का त्वरण कितना है?",
@@ -6124,7 +6369,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_408"
+            "id": "q_force_and_laws_of_motion_408",
+            "correct_option": 1
         },
         {
             "question": "1752 में, किस अमेरिकी वैज्ञानिक ने दर्शाया कि तड़ित और आपके कपड़ों से निकलने वाली चिंगारी अनिवाय रूप से समान परिघटना है?",
@@ -6139,7 +6385,8 @@
             "examName": "RRB NTPC CBT-I : 16 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_409"
+            "id": "q_force_and_laws_of_motion_409",
+            "correct_option": 1
         },
         {
             "question": "किसी वस्तु पर लगाया जाने वाला कोई बाहरी धक्का (Push) या खिंचाव (Pull) क्या कहलाता है?",
@@ -6154,7 +6401,8 @@
             "examName": "RRB Group D 10/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_410"
+            "id": "q_force_and_laws_of_motion_410",
+            "correct_option": 1
         },
         {
             "question": "किसी बाह्य बल की अनुपस्थिति में, गतिमान वस्तु _______ ।",
@@ -6169,7 +6417,8 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_411"
+            "id": "q_force_and_laws_of_motion_411",
+            "correct_option": 3
         },
         {
             "question": "पिंड A (2 kg) और पिंड B (3 kg) क्रमशः 4 m/s और 2 m/s के वेग से एक-दूसरे की ओर बढ़ रहे हैं। पूर्णतः प्रत्यास्थ टक्कर (Elastic collision) के बाद वे ______।",
@@ -6184,7 +6433,8 @@
             "examName": "RRB Group D 23/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_force_and_laws_of_motion_412"
+            "id": "q_force_and_laws_of_motion_412",
+            "correct_option": 1
         },
         {
             "question": "यदि किसी वस्तु का पृथ्वी की सतह पर मापा गया भार 60 N है, तो चंद्रमा की सतह पर उसका भार लगभग कितना होगा?",
@@ -6199,7 +6449,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_413"
+            "id": "q_force_and_laws_of_motion_413",
+            "correct_option": 1
         },
         {
             "question": "कौन-सा समीकरण दर्शाता है कि विद्युत, चुंबकत्व और प्रकाश सभी विद्युत चुंबकीय क्षेत्र की अभिव्यक्तियाँ हैं?",
@@ -6214,12 +6465,13 @@
             "examName": "RPF SI CBT-I 2024 : 09 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_force_and_laws_of_motion_414"
+            "id": "q_force_and_laws_of_motion_414",
+            "correct_option": 2
         },
         {
             "question": "द्रव्यमान M का एक ब्लॉक दो विपरीत बलों F₁ और F₂ (F₁ > F₂) के अधीन है। यदि F₁ के विपरीत कार्य करने वाला घर्षण बल (Ff) इस प्रकार है कि ब्लॉक का नेट त्वरण, घर्षण शून्य होने की स्थिति में लगने वाले त्वरण का आधा है, तो Ff का मान क्या होगा?",
             "options": [
-                "Ff =(F₁ - F₂)/2",
+                "Ff =( F₁ - F₂)/2",
                 "Ff =(F₁ - F₂)",
                 "Ff =(F₁ + F₂)/2",
                 "Ff = 2 (F₁ - F₂)"

@@ -7,7 +7,7 @@
             "question": "हृदय की पेशियां ______ होती हैं।",
             "options": [
                 "तर्कुरूपी (Spindle-shaped), अशाखित (Unbranched) बहु-केंद्रकीय (Multinucleated) और एक-केंद्रकीय (Uninucleated)",
-                "बेलनाकार, शाखित और एक-केंद्रकीय (Uninucleated)",
+                "बेलनाकार, शाखित और एक-केंद्रकीय",
                 "बेलनाकार, अशाखित (Unbranched) और एक-केंद्रकीय (Uninucleated)",
                 "तर्कुरूपी (Spindle-shaped), अशाखित (Unbranched) और एक-केंद्रकीय (Uninucleated)"
             ],
@@ -16,12 +16,13 @@
             "examName": "RRB Group D 5/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_1"
+            "id": "q_tissues_1",
+            "correct_option": 1
         },
         {
             "question": "बांस में पर्ण शिराविन्यास (Leaf Venation) और जड़ संरचना का एक विशिष्ट प्रकार पाया जाता है। इन विशेषताओं की क्या पहचान है?",
             "options": [
-                "जालिकारूपी शिराविन्यास और झकड़ा (Fibrous) (Fibrous) जड़",
+                "समांतर शिराविन्यास और झकड़ा (Fibrous) जड़",
                 "समांतर शिराविन्यास और झकड़ा (Fibrous) (Fibrous) जड़",
                 "समांतर शिराविन्यास और मूसला (Taproot) जड़",
                 "जालिकारूपी शिराविन्यास और मूसला (Taproot) जड़"
@@ -36,7 +37,7 @@
         {
             "question": "सरल स्थायी ऊतक के संबंध में निम्नलिखित में से कौन-सा कथन गलत है?",
             "options": [
-                "यह बाह्यत्वचा के नीचे कुछ परतें बनाता है।",
+                "दृढ़ोतक (Sclerenchyma) सबसे उभयनिष्ठ सरल स्थायी ऊतक है।",
                 "भोजन भंडारण सरल स्थायी ऊतक में होता है।",
                 "दृढ़ोतक (Sclerenchyma) (Sclerenchyma) सबसे उभयनिष्ठ सरल स्थायी ऊतक है।",
                 "सरल स्थायी ऊतक सामान्यत: जीवित कोशिकाओं से बना होता है।"
@@ -51,7 +52,7 @@
         {
             "question": "नारियल का जटा (भूसी) किस प्रकार के ऊतक बनाता है?",
             "options": [
-                "कोलेन्काइमा",
+                "दृढ़ोतक (Sclerenchyma) तंतु",
                 "पैरेन्काइमा",
                 "फ्लोएम पैरेन्काइमा",
                 "स्क्लेरेन्काईमेटस फाइबर"
@@ -76,7 +77,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_tissues_5"
+            "id": "q_tissues_5",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा मानव शरीर में एरिओलर (Areolar) संयोजी ऊतकों से संबंधित नहीं है?",
@@ -91,7 +93,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_tissues_6"
+            "id": "q_tissues_6",
+            "correct_option": 1
         },
         {
             "question": "मानव आंत्र में किस प्रकार का उपकला (Epithelial) ऊतक मुख्यतः अवशोषण के लिए विशिष्ट होता है?",
@@ -121,7 +124,8 @@
             "examName": "RPF SI 2018 : 13 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_8"
+            "id": "q_tissues_8",
+            "correct_option": 2
         },
         {
             "question": "दारु (जाइलम) एक जटिल स्थायी ऊतक है। इसके संघटन के संबंध में निम्नलिखित में से कौन-सा सही है?",
@@ -166,7 +170,8 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_11"
+            "id": "q_tissues_11",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा पादप ऊतक उन कोशिकाओं से बनता है जो परिपक्वता पर मृत हो जाती हैं?",
@@ -181,7 +186,8 @@
             "examName": "RRB Level 01 Stage I 22/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_12"
+            "id": "q_tissues_12",
+            "correct_option": 1
         },
         {
             "question": "बाह्य त्वचा किस प्रकार के उपकला (Epithelial) ऊतक से बनी होती है?",
@@ -211,7 +217,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_14"
+            "id": "q_tissues_14",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किसमें उपास्थि (Cartilage) नहीं होती है?",
@@ -241,7 +248,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_16"
+            "id": "q_tissues_16",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा प्राकृतिक विषमांगी पॉलीसकेराइड, मध्य लैमेलला में उपस्थित होता है, जो आसन्न पादप कोशिकाओं को मजबूत करता है और पादप ऊतकों को संसंजन प्रदान करता है?",
@@ -256,7 +264,8 @@
             "examName": "RPF SI CBT-I 2024 : 13 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_17"
+            "id": "q_tissues_17",
+            "correct_option": 2
         },
         {
             "question": "________ ऊतक हमारे मुख की आंतरिक आस्तर का निर्माण करता है।",
@@ -271,7 +280,8 @@
             "examName": "RRB Group D 26 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_18"
+            "id": "q_tissues_18",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन हृदय से शरीर के विभिन्न भागों तक जाता है?",
@@ -286,7 +296,8 @@
             "examName": "RPF Constable 2018 : 02 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_19"
+            "id": "q_tissues_19",
+            "correct_option": 3
         },
         {
             "question": "भोजन के संग्रहण के लिए जाइलम की कौन-सी कोशिकाएं उत्तरदायी हैं?",
@@ -316,7 +327,8 @@
             "examName": "RRB Group D 26 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_tissues_21"
+            "id": "q_tissues_21",
+            "correct_option": 3
         },
         {
             "question": "नीचे दी गई तालिका पौधों और जंतुओं की संरचना और कायिकी के बीच अंतर को दर्शाती है। कौनसा विकल्प गलत कथन दर्शाता है? क्र. स. पौधे जंतु a. गति नहीं करते हैं। भोजन, साथी और आश्रय की तलाश में घूमते हैं। b. अधिकांश ऊतक मृत होते हैं। अधिकांश ऊतक जीवित होते हैं। c. कम ऊर्जा की आवश्यकता होती है। अधिक ऊर्जा की आवश्यकता होती है। d. वृद्धि कुछ क्षेत्रों तक ही सीमित होती है। वृद्धि कुछ क्षेत्रों तक ही सीमित होती है।",
@@ -392,7 +404,8 @@
             "examName": "RPF Constable 2024 : 07 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_26"
+            "id": "q_tissues_26",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस ऊतक में धारीदार, छोटी और शाखित कोशिकाएँ होती हैं जो आपस में जुड़ी हुई डिस्क द्वारा एक साथ जुड़ती हैं?",
@@ -407,7 +420,8 @@
             "examName": "RRB Group D 27 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_27"
+            "id": "q_tissues_27",
+            "correct_option": 2
         },
         {
             "question": "प्राणी कोशिकाओं में, __________ उपकला (Epithelial) यांत्रिक सहायता प्रदान करने के लिए गुर्दे की आंतरिक परत बनाता है।",
@@ -437,7 +451,8 @@
             "examName": "RRB NTPC CBT-I : 27 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_tissues_29"
+            "id": "q_tissues_29",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन संयोजी ऊतक का उदाहरण नहीं है?",
@@ -497,7 +512,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_33"
+            "id": "q_tissues_33",
+            "correct_option": 1
         },
         {
             "question": "सबसे छोटी रक्त वाहिकाओं की कोशिका भित्ति की मोटाई कहलाती है",
@@ -542,7 +558,8 @@
             "examName": "RRB Level 01 Stage I 15/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_36"
+            "id": "q_tissues_36",
+            "correct_option": 1
         },
         {
             "question": "________ मांसपेशियों को हड्डियों से जोड़ता है।",
@@ -557,7 +574,8 @@
             "examName": "RRB Group D 3/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_37"
+            "id": "q_tissues_37",
+            "correct_option": 3
         },
         {
             "question": "स्क्लेरेन्काइमा कोशिकाओं की भित्ति ______ के कारण मोटी हो जाती हैं।",
@@ -572,7 +590,8 @@
             "examName": "RRB Group D 18 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_38"
+            "id": "q_tissues_38",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से क्या वृक्क नलिकाओं और लार ग्रंथियों के युगलों का अस्तर बनाता है?",
@@ -587,7 +606,8 @@
             "examName": "RRB Group D 19 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_tissues_39"
+            "id": "q_tissues_39",
+            "correct_option": 3
         },
         {
             "question": "हमारे शरीर में वसा संचय करने वाला ऊतक कौन सा है?",
@@ -602,7 +622,8 @@
             "examName": "RRB NTPC CBT-I : 4 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_tissues_40"
+            "id": "q_tissues_40",
+            "correct_option": 1
         },
         {
             "question": "द्विबीजपत्री जड़ में, जाइलम और फ्लोएम के बीच कौन सा/से ऊतक पाया/पाए जाते हैं?",
@@ -622,7 +643,7 @@
         {
             "question": "त्वचा किस प्रकार की कोशिकाओं से बनी होती है?",
             "options": [
-                "अधिचर्म कोशिका",
+                "अधिचम कोशिका",
                 "संयोजी ऊतक",
                 "स्थायी उत्तक",
                 "मृदूतक"
@@ -647,7 +668,8 @@
             "examName": "RPF Constable 2018 : 06 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_43"
+            "id": "q_tissues_43",
+            "correct_option": 2
         },
         {
             "question": "कौन सा ऊतक पौधे को कठोर और सख्त बनाता है?",
@@ -662,7 +684,8 @@
             "examName": "RRB Group D 17 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_44"
+            "id": "q_tissues_44",
+            "correct_option": 1
         },
         {
             "question": "पौधों में, कुछ अपशिष्ट उत्पादों को रेजिन और गोंद के रूप में विशेष रूप से किसमें संग्रहीत किया जाता है?",
@@ -677,7 +700,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_45"
+            "id": "q_tissues_45",
+            "correct_option": 2
         },
         {
             "question": "निम्न में से कौन संयोजी ऊतक का उदाहरण है?",
@@ -707,7 +731,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_47"
+            "id": "q_tissues_47",
+            "correct_option": 2
         },
         {
             "question": "चेहरे की त्वचा मुख्य रूप से किस उपकला (Epithelial) ऊतक से बनी होती है?",
@@ -737,7 +762,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_tissues_49"
+            "id": "q_tissues_49",
+            "correct_option": 1
         },
         {
             "question": "छलनी पट्टिकाएँ _______ में पाई जाती हैं।",
@@ -752,7 +778,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_tissues_50"
+            "id": "q_tissues_50",
+            "correct_option": 2
         },
         {
             "question": "कितने प्रकार के तत्व जाइलम ऊतक बनाते हैं?",
@@ -782,7 +809,8 @@
             "examName": "RRB ALP CBT-I 2024 : 27 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_52"
+            "id": "q_tissues_52",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सी विशेषता मृदूतक का सर्वोत्तम वर्णन करती है? विभाजन करने में सक्षम होती हैं",
@@ -797,7 +825,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_tissues_53"
+            "id": "q_tissues_53",
+            "correct_option": 1
         },
         {
             "question": "तनों और जड़ों के बढ़ते हुए सिरों पर कौन सा/से उपस्थित होता है/होते हैं और तने और जड़ की लंबाई में वृद्धि करता/करते हैं?",
@@ -812,7 +841,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_54"
+            "id": "q_tissues_54",
+            "correct_option": 2
         },
         {
             "question": "विभिन्न प्रकार के स्थाई उत्तकों के निर्माण के लिए _______ उत्तक की कोशिकाओं को अलग किया जाता है।",
@@ -827,7 +857,8 @@
             "examName": "RRB Group D 26/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_55"
+            "id": "q_tissues_55",
+            "correct_option": 3
         },
         {
             "question": "पौधों में लचीलापन किस स्थायी ऊतक के कारण होता है जो पौधे के विभिन्न भागों जैसे प्रतान और लताओं के तने को बिना टूटे झुकने के सक्षम बनाता है?",
@@ -842,7 +873,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_56"
+            "id": "q_tissues_56",
+            "correct_option": 1
         },
         {
             "question": "________ को मूल शिखाग्र की लगातार विभाजित होने वाली कोशिकाओं द्वारा दशाया जाता है।",
@@ -857,7 +889,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_tissues_57"
+            "id": "q_tissues_57",
+            "correct_option": 3
         },
         {
             "question": "एरिओलर ऊतक, _______ के बीच एक भराव ऊतक का काय करता है।",
@@ -887,7 +920,8 @@
             "examName": "RRB ALP CBT-I 2024 : 28 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_tissues_59"
+            "id": "q_tissues_59",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा एक जटिल स्थायी ऊतक है जो पादपों में जल के परिवहन के लिए उत्तरदायी है?",
@@ -902,7 +936,8 @@
             "examName": "RRB Technician Grade III 06/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_tissues_60"
+            "id": "q_tissues_60",
+            "correct_option": 1
         },
         {
             "question": "जाइलम एक _________ ऊतक है।",
@@ -962,12 +997,13 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 18 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_64"
+            "id": "q_tissues_64",
+            "correct_option": 2
         },
         {
             "question": "प्रमुख प्रकार के पादप ऊतकों में पाए जाने वाले पादप कोशिकाओं का प्रकार है/ हैं-",
             "options": [
-                "उपरोक्त में से कोई नहीं",
+                "सभी विकल्प",
                 "संवहनी",
                 "चम",
                 "भूमि"
@@ -1007,7 +1043,8 @@
             "examName": "RRB Level 01 Stage I 15/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_67"
+            "id": "q_tissues_67",
+            "correct_option": 3
         },
         {
             "question": "आमाशय की भित्ति में किस प्रकार का पेशीय ऊतक मौजूद होता है?",
@@ -1037,7 +1074,8 @@
             "examName": "RRB Group D 18/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_69"
+            "id": "q_tissues_69",
+            "correct_option": 2
         },
         {
             "question": "पौधों में लचीलापन ________ ऊतक के कारण होता है।",
@@ -1052,7 +1090,8 @@
             "examName": "RRB Group D 17/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_70"
+            "id": "q_tissues_70",
+            "correct_option": 3
         },
         {
             "question": "इनमें से किस प्रकार की कोशिकाएं पादपों में संवहनी ऊतक का भाग नहीं होती हैं?",
@@ -1127,7 +1166,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_75"
+            "id": "q_tissues_75",
+            "correct_option": 3
         },
         {
             "question": "माइटोकॉन्ड्रिया रिया, राइबोसोम, आदि जैसे विभिन्न कोशिका अंगक मिलकर जीवन की मूल इकाई का निर्माण करते हैं, जिसे _______ कहते हैं।",
@@ -1142,7 +1182,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_tissues_76"
+            "id": "q_tissues_76",
+            "correct_option": 3
         },
         {
             "question": "हमारे शरीर में गति के लिए कौन सा ऊतक उत्तरदायी है?",
@@ -1157,7 +1198,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_77"
+            "id": "q_tissues_77",
+            "correct_option": 2
         },
         {
             "question": "कुछ पौधों में, पत्तियों के आधार पर या नोड्स के पास एक विभज्योतक ऊतक पाया जाता है, जो परिपक्व ऊतक के क्षेत्रों को पृथक करता है। यह कौन-सा ऊतक है?",
@@ -1217,7 +1259,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_81"
+            "id": "q_tissues_81",
+            "correct_option": 3
         },
         {
             "question": "सादृश्य को पूरा करने के लिए एक शब्द चुनें। स्तंभकार उपकला (Epithelial) : अवशोषण :: घनाभाकार (Cuboidal) उपकला (Epithelial) : ____________",
@@ -1247,7 +1290,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_83"
+            "id": "q_tissues_83",
+            "correct_option": 1
         },
         {
             "question": "नारियल के छिलके में कौन-सा ऊतक उसे कठोर और कड़ा बनाता है?",
@@ -1262,7 +1306,8 @@
             "examName": "RRB Group D 23 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_tissues_84"
+            "id": "q_tissues_84",
+            "correct_option": 1
         },
         {
             "question": "रक्त ______ प्रकार के ऊतक का एक उदाहरण है।",
@@ -1307,7 +1352,8 @@
             "examName": "RRB Group D 6 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_87"
+            "id": "q_tissues_87",
+            "correct_option": 2
         },
         {
             "question": "प्रजनन की वह प्रक्रिया क्या है जिसके द्वारा उच्च विटामिन या प्रोटीन और उच्च वसा वाली फसलें उगाई जाती हैं?",
@@ -1322,7 +1368,8 @@
             "examName": "RPF SI 2018 : 06 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_88"
+            "id": "q_tissues_88",
+            "correct_option": 3
         },
         {
             "question": "_________ पत्तियों के आधार या टहनियों की गांठों पर उपस्थित विभज्योतक।",
@@ -1457,7 +1504,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_tissues_97"
+            "id": "q_tissues_97",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी संरचना, वृक्क में मूल निष्यंदन इकाई के रूप में काय करती है?",
@@ -1472,7 +1520,8 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_tissues_98"
+            "id": "q_tissues_98",
+            "correct_option": 2
         },
         {
             "question": "वृक्क नलिकाओं के अस्तर में, किस प्रकार का उपकला (Epithelial) ऊतक पाया जाता है?",
@@ -1547,7 +1596,8 @@
             "examName": "RRB Group D 30 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_tissues_103"
+            "id": "q_tissues_103",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा मुख्य ऊतक है जो पौधे में पानी को उसकी जड़ों से पत्तियों तक पहुँचाता है?",
@@ -1562,7 +1612,8 @@
             "examName": "RRB NTPC CBT-I : 5 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_tissues_104"
+            "id": "q_tissues_104",
+            "correct_option": 3
         },
         {
             "question": "स्नायु और कण्डरा ________ के बने होते हैं।",
@@ -1577,7 +1628,8 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_105"
+            "id": "q_tissues_105",
+            "correct_option": 3
         },
         {
             "question": "किस विभज्योतकी ऊतक में ऑक्सिन (Auxin) का स्तर सवाधिक होता है?",
@@ -1607,7 +1659,8 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_107"
+            "id": "q_tissues_107",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा एक संयोजी ऊतक नहीं है?",
@@ -1637,7 +1690,8 @@
             "examName": "RRB Group D 22 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_109"
+            "id": "q_tissues_109",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा ऊतक पौधों में पाया जाने वाला एक जटिल स्थायी ऊतक है?",
@@ -1652,7 +1706,8 @@
             "examName": "RPF Constable 2018 08 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_110"
+            "id": "q_tissues_110",
+            "correct_option": 2
         },
         {
             "question": "________ में पतली कोशिका भित्ति के साथ अपेक्षाकृत अनिर्दिष्ट कोशिका होती है।",
@@ -1667,7 +1722,8 @@
             "examName": "RRB Group D 22 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_111"
+            "id": "q_tissues_111",
+            "correct_option": 2
         },
         {
             "question": "पादपों में वृद्धि केवल विशिष्ट क्षेत्रों में ही क्यों होती है?",
@@ -1682,7 +1738,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_112"
+            "id": "q_tissues_112",
+            "correct_option": 3
         },
         {
             "question": "नीचे दिए गए दोनों चित्र A और B पादपों में स्क्लेरेन्काइमा ऊतक के हैं, फिर भी वे अलग दिखते हैं। ऐसा क्यों है?",
@@ -1697,7 +1754,8 @@
             "examName": "RRB Group D 13 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_tissues_113"
+            "id": "q_tissues_113",
+            "correct_option": 3
         },
         {
             "question": "रेखित पेशियों के बारे में निम्नलिखित में से कौन सा कथन सही है?",
@@ -1712,7 +1770,8 @@
             "examName": "RRB Group D 28 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_tissues_114"
+            "id": "q_tissues_114",
+            "correct_option": 1
         },
         {
             "question": "एरिओलर ऊतक अंग के ________ रिक्त स्थान को भरता है, _______ अंगों की सहायता करता है और ऊतकों की मरम्मत करता है।",
@@ -1727,7 +1786,8 @@
             "examName": "RRB Group D 4/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_115"
+            "id": "q_tissues_115",
+            "correct_option": 2
         },
         {
             "question": "जल से भरे एक जार और जड़ों के साथ एक प्याज़ को लंबवत ऊपर की ओर रखते हुए प्रयोगात्मक सेटअप का अध्ययन कीजिए। जड़ों के शीष भाग A में किस प्रकार का ऊतक उपस्थित है?",
@@ -1757,7 +1817,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_117"
+            "id": "q_tissues_117",
+            "correct_option": 1
         },
         {
             "question": "पौधे के विकासशील भागों को नम्य आधार (flexible support) _______ द्वारा प्रदान किया जाता है।",
@@ -1772,7 +1833,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_tissues_118"
+            "id": "q_tissues_118",
+            "correct_option": 1
         },
         {
             "question": "पौधों में गुरुत्वाकर्षण के विरुद्ध जल की ऊपर की ओर गति के लिए मुख्य रूप से कौन-सी संरचनात्मक विशेषता उत्तरदायी है?",
@@ -1787,7 +1849,8 @@
             "examName": "RRB JE 19/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_tissues_119"
+            "id": "q_tissues_119",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा पदार्थ एक इलास्टोमर के रूप में वर्गीकृत है?",
@@ -1802,7 +1865,8 @@
             "examName": "RRB NTPC UG CBT-I : 01 Sept, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_120"
+            "id": "q_tissues_120",
+            "correct_option": 3
         },
         {
             "question": "दो हड्डियों को एक दूसरे से जोड़ने वाले संयोजी ऊतक का नाम क्या है?",
@@ -1862,7 +1926,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_tissues_124"
+            "id": "q_tissues_124",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सी उपकला (Epithelial), श्वसन माग के अस्तर के साथ श्लेष्मा की गति में सहायक होती है?",
@@ -1907,7 +1972,8 @@
             "examName": "RRB Group D 31/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_127"
+            "id": "q_tissues_127",
+            "correct_option": 2
         },
         {
             "question": "किसी पदार्थ का वह गुणधर्म कौन सा है, जो इसके घटक में एक चुंबकीय फ्लक्स स्थापित करने की सुगमता का वर्णन करता है?",
@@ -1922,7 +1988,8 @@
             "examName": "RRB JE EE 19 Sept 2019 Shift 2 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_tissues_128"
+            "id": "q_tissues_128",
+            "correct_option": 2
         },
         {
             "question": "पेशियों / पेशीय ऊतक हमारे शरीर में _______ के लिए उत्तरदायी है।",
@@ -1937,7 +2004,8 @@
             "examName": "RRB Group D 15/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_129"
+            "id": "q_tissues_129",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा, मृदूतक का वह प्रकार है जो जलीय पादपों में मौजूद होता है, जिसमें उनके तैरने में सहायता करने के लिए बृहत वायु गयहाएं होती हैं?",
@@ -1952,7 +2020,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_130"
+            "id": "q_tissues_130",
+            "correct_option": 1
         },
         {
             "question": "नीचे दी गई तालिका पौधों और जानवरों की संरचना और कायिकी के बीच अंतर दर्शाती है। क्र. स. पौधे जंतु a. गति नहीं करते हैं। भोजन, साथी और आश्रय की तलाश में घूमते हैं। b. अधिकांश ऊतक मृत होते हैं। अधिकांश ऊतक जीवित होते हैं। c. कम ऊर्जा की आवश्यकता होती है। अधिक ऊर्जा की आवश्यकता होती है। d. वृद्धि कुछ क्षेत्रों तक ही सीमित होती है। वृद्धि कुछ क्षेत्रों तक ही सीमित होती है। कौन सा विकल्प गलत कथन दर्शाता है?",
@@ -1998,7 +2067,8 @@
             "examName": "RRB Group D 25 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_tissues_133"
+            "id": "q_tissues_133",
+            "correct_option": 2
         },
         {
             "question": "कई तंत्रिका तंतु किस ऊतक द्वारा एक साथ बंधे होते हैं और एक तंत्रिका बनाते हैं?",
@@ -2013,7 +2083,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_134"
+            "id": "q_tissues_134",
+            "correct_option": 2
         },
         {
             "question": "नारियल के हस्क (husk of a coconut) में अधिकांशतः कौन-सा पादप ऊतक पाया जाता है, और इसका मुख्य काय क्या है?",
@@ -2028,7 +2099,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_135"
+            "id": "q_tissues_135",
+            "correct_option": 1
         },
         {
             "question": "पादपों में, पत्तियों में बना भोजन ___________ नामक जटिल ऊतक द्वारा अन्य भागों में पहुँचाया जाता है।",
@@ -2058,7 +2130,8 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_137"
+            "id": "q_tissues_137",
+            "correct_option": 3
         },
         {
             "question": "स्क्लेरेन्काइमा ______ से बना होता है।",
@@ -2073,7 +2146,8 @@
             "examName": "RRB Group D 4/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_138"
+            "id": "q_tissues_138",
+            "correct_option": 2
         },
         {
             "question": "_____ ऊतक एकमात्र पादप उतक है जो कोशिका विभाजन द्वारा नई कोशिकाओं का उत्पादन करता है।",
@@ -2088,7 +2162,8 @@
             "examName": "RRB Group D 11 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_139"
+            "id": "q_tissues_139",
+            "correct_option": 3
         },
         {
             "question": "_______ ऊतक त्वचा के नीचे और आंतरिक अंगों के बीच बनता है।",
@@ -2103,7 +2178,8 @@
             "examName": "RRB Group D 27/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_140"
+            "id": "q_tissues_140",
+            "correct_option": 3
         },
         {
             "question": "पादप में लचीलापन प्रदान करने वाले स्थायी ऊतक को क्या कहते हैं?",
@@ -2118,14 +2194,15 @@
             "examName": "RRB Group D 24/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_141"
+            "id": "q_tissues_141",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस सरल स्थायी ऊतक में कोशिका भित्तियां, लिग्निफाइड (lignified) होती है?",
             "options": [
                 "श्लेषोतक (Collenchyma)",
                 "मृदूतक (Parenchyma)",
-                "दृढ़ोतक (Sclerenchyma) (Sclerenchyma) (Sclerenchyma)",
+                "दृढ़ोतक (Sclerenchyma)",
                 "फ्लोएम (Phloem)"
             ],
             "correctIndex": 2,
@@ -2133,7 +2210,8 @@
             "examName": "RRB Level 01 Stage I 15/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_142"
+            "id": "q_tissues_142",
+            "correct_option": 2
         },
         {
             "question": "________ ऊतक त्वचा के नीचे, गुर्दे के आसपास और आंतरिक अंगों के बीच पाया जाता है।",
@@ -2148,7 +2226,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_143"
+            "id": "q_tissues_143",
+            "correct_option": 3
         },
         {
             "question": "जाइलम वाहिकाओं को जलरोधी क्या बनाता है?",
@@ -2171,14 +2250,15 @@
                 "ऐच्छिक",
                 "अंगों में पेशियां, ऐच्छिक",
                 "पेशी ऊतक पेशी तंतुओं से बने होते हैं।",
-                "हृद्पेशियां, ऐच्छिक"
+                "हृद्पेशियां, ऐच्छि"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: हृद्पेशियां, ऐच्छि\n\n📝 व्याख्या:\nपेशी ऊतक (Muscular Tissue) मुख्य रूप से तीन प्रकार के होते हैं: कंकाल (Skeletal), चिकनी (Smooth), और हृद् (Cardiac)। हृद्पेशियां केवल हृदय की दीवारों में पाई जाती हैं और ये अनैच्छिक (Involuntary) होती हैं, अर्थात इनका संकुचन हमारे नियंत्रण में नहीं होता है। प्रश्न में 'हृद्पेशियां, ऐच्छि' का युग्म गलत है क्योंकि हृद्पेशियां कभी भी ऐच्छिक नहीं होतीं, जबकि अन्य विकल्प पेशी ऊतकों के सामान्य गुणों या वर्गीकरण को सही ढंग से दर्शाते हैं।\n\n🔬 वैज्ञानिक सिद्धांत व समीकरण:\nपेशी संकुचन का सिद्धांत 'स्लाइडिंग फिलामेंट थ्योरी' (Sliding Filament Theory) पर आधारित है। इसमें एक्टिन (Actin) और मायोसिन (Myosin) प्रोटीन तंतुओं के बीच परस्पर क्रिया होती है। रासायनिक रूप से, यह प्रक्रिया कैल्शियम आयनों (Ca²⁺) की उपस्थिति और ATP (Adenosine Triphosphate) के जल-अपघटन (Hydrolysis) द्वारा संचालित होती है:\nATP + H₂O → ADP + Pi + Energy (संकुचन के लिए ऊर्जा)\n\n❌ गलत विकल्प विश्लेषण:\n• ऐच्छि: यह विकल्प कंकाल पेशियों (Skeletal muscles) के संदर्भ में सही है, क्योंकि ये हमारी इच्छाशक्ति के अनुसार कार्य करती हैं, इसलिए यह पेशी ऊतक का एक मान्य अभिलक्षण है।\n• अंगों में पेशियां, ऐच्छि: यह विकल्प चिकनी पेशियों (Smooth muscles) की प्रकृति को दर्शाता है जो आंतरिक अंगों (जैसे आहार नली) में पाई जाती हैं और अनैच्छिक होती हैं, अतः यह पेशी ऊतक के वर्गीकरण का हिस्सा है।\n• पेशी ऊतक पेशी तंतुओं से बने होते हैं: यह एक वैज्ञानिक तथ्य है कि सभी पेशी ऊतक विशेष संकुचनशील तंतुओं (Muscle fibers) से निर्मित होते हैं, जो मायोफाइब्रिल्स (Myofibrils) के बने होते हैं।\n\n💡 परीक्षा Tip:\nRRB परीक्षाओं में अक्सर पूछा जाता है कि कौन सी पेशियां 'थकान' (Fatigue) का अनुभव नहीं करतीं? इसका उत्तर 'हृद्पेशियां' (Cardiac muscles) है, क्योंकि इनमें माइटोकॉन्ड्रिया की संख्या बहुत अधिक होती है, जो निरंतर ऊर्जा प्रदान करते रहते हैं। याद रखें: कंकाल पेशियां ऐच्छिक होती हैं, जबकि चिकनी और हृद्पेशियां अनैच्छिक होती हैं।",
             "examName": "RRB ALP CBT 1 13/02/2026 9:00 AM - 10:00 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_tissues_145"
+            "id": "q_tissues_145",
+            "correct_option": 3
         },
         {
             "question": "_____ ऊतक की कोशिकाएँ अलग-अलग प्रकार के स्थायी ऊतक के निर्माण के लिए पृथक होती हैं।",
@@ -2193,7 +2273,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_146"
+            "id": "q_tissues_146",
+            "correct_option": 2
         },
         {
             "question": "जब कोई क्रिया या गति करनी होती है, तो जानवरों में अंतिम काय कौन सा ऊतक करेगा?",
@@ -2208,7 +2289,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_147"
+            "id": "q_tissues_147",
+            "correct_option": 2
         },
         {
             "question": "पेशियों के संकुचन और शिथिलन के लिए कौन-से प्रोटीन आवश्यक हैं?",
@@ -2223,7 +2305,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_tissues_148"
+            "id": "q_tissues_148",
+            "correct_option": 3
         },
         {
             "question": "सरल स्थायी ऊतक जो पौधे के भागों जैसे तने और प्रतान को यांत्रिक आलंब (mechanical support) और लचीलापन प्रदान करता है, __________ है।",
@@ -2268,7 +2351,8 @@
             "examName": "RRB Level 01 Stage I 08/01/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_tissues_151"
+            "id": "q_tissues_151",
+            "correct_option": 1
         },
         {
             "question": "यदि रक्त :: संयोजी ऊतक, तो हड्डियाँ :: ________ ।",
@@ -2298,7 +2382,8 @@
             "examName": "RRB Group D 3/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_153"
+            "id": "q_tissues_153",
+            "correct_option": 3
         },
         {
             "question": "शरीर के निम्नलिखित अंगों में से किसमें उपास्थि (Cartilage) ऊतक अनुपस्थित होता है?",
@@ -2358,7 +2443,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_157"
+            "id": "q_tissues_157",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन एक संयोजी ऊतक नहीं है?",
@@ -2394,7 +2480,7 @@
             "question": "सादृश्यता को पूरा करने के लिए उचित विकल्प चुनें। कंकाल पेशी : ऐच्छिक :: हृद पेशी : _________",
             "options": [
                 "बहुकेंद्रकी (Multinucleate)",
-                "अनैच्छिक",
+                "अनैच्छि",
                 "रेखित (Striated)",
                 "अशाखित (Unbranched) (Unbranched)"
             ],
@@ -2403,7 +2489,8 @@
             "examName": "RRB Technician Grade III 06/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_tissues_160"
+            "id": "q_tissues_160",
+            "correct_option": 1
         },
         {
             "question": "जंतुओं के संयोजी ऊतकों में, वसा कोशिकाएं लोब्यूल्स में व्यवस्थित होती हैं, जो ________________ के विभाजन द्वारा पृथक होती हैं।",
@@ -2463,7 +2550,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_164"
+            "id": "q_tissues_164",
+            "correct_option": 3
         },
         {
             "question": "फुफ्फुस के अंदर, वायु और रुधिर के बीच गैसों का तीव्र आदान-प्रदान होता है। इस प्रक्रिया में किस प्रकार का उपकला (Epithelial) ऊतक सहायक होता है?",
@@ -2493,7 +2581,8 @@
             "examName": "RRB Group D 1 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_tissues_166"
+            "id": "q_tissues_166",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा ऊतक मुख्य रूप से मृत कोशिकाओं से बना है?",
@@ -2508,7 +2597,8 @@
             "examName": "RRB Group D 1/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_167"
+            "id": "q_tissues_167",
+            "correct_option": 3
         },
         {
             "question": "विभज्योतक ऊतक कोशिकाओं में ___________ की कमी होती है।",
@@ -2538,7 +2628,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_169"
+            "id": "q_tissues_169",
+            "correct_option": 2
         },
         {
             "question": "मेरिस्टेमैटिक ऊतकों के बारे में निम्नलिखित में से कौन-सा कथन गलत है? हैं।",
@@ -2553,7 +2644,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_170"
+            "id": "q_tissues_170",
+            "correct_option": 3
         },
         {
             "question": "हड्डी निम्नलिखित में से किस प्रकार के ऊतकों का उदाहरण है?",
@@ -2598,7 +2690,8 @@
             "examName": "RRB Level 01 Stage I 15/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_173"
+            "id": "q_tissues_173",
+            "correct_option": 2
         },
         {
             "question": "इनमें से कौन सा ऊतक कोशिका विभाजन में सक्षम है?",
@@ -2628,7 +2721,8 @@
             "examName": "RRB Group D 12 Nov 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_175"
+            "id": "q_tissues_175",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा उपकला (Epithelial) ऊतक की विशेषता नहीं है?",
@@ -2658,7 +2752,8 @@
             "examName": "RRB Group D 2 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_tissues_177"
+            "id": "q_tissues_177",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-से ऊतक, जंतु काय (animal body) में आच्छादी या रक्षी ऊतक होते हैं?",
@@ -2673,7 +2768,8 @@
             "examName": "RRB Level 01 Stage I 17/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_178"
+            "id": "q_tissues_178",
+            "correct_option": 1
         },
         {
             "question": "मानव शरीर में कौन सा ऊतक सबसे कठोर और अस्थि (Bone)ल ऊतक के रूप में पाया जाता है?",
@@ -2688,7 +2784,8 @@
             "examName": "RPF SI Previous Paper : 5 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_tissues_179"
+            "id": "q_tissues_179",
+            "correct_option": 2
         },
         {
             "question": "जब कोई व्यक्ति किसी गर्म वस्तु को छूता है, तो पेशियों की अनुक्रिया में देरी होती है। तंत्रिका ऊतक का कौन-सा भाग सीधे तौर पर तंत्रिका आवेग को पेशियों तक पहुँचाने और त्वरित गति उत्पन्न करने के लिए जिम्मेदार होता है?",
@@ -2703,7 +2800,8 @@
             "examName": "RRB Level 01 Stage I 10/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_tissues_180"
+            "id": "q_tissues_180",
+            "correct_option": 3
         },
         {
             "question": "कौन-सा संयोजी ऊतक, आंतरिक अंगों को सपोर्ट प्रदान करता है?",
@@ -2733,7 +2831,8 @@
             "examName": "RRB Group D 19/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_182"
+            "id": "q_tissues_182",
+            "correct_option": 1
         },
         {
             "question": "पौधों में जल का परिवहन _________ के माध्यम से होता है।",
@@ -2763,7 +2862,8 @@
             "examName": "RRB Group D 27 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_184"
+            "id": "q_tissues_184",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा ऊतक अंगों और शरीर की गति के लिए उत्तरदायी है?",
@@ -2778,7 +2878,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_tissues_185"
+            "id": "q_tissues_185",
+            "correct_option": 3
         },
         {
             "question": "ऐच्छिक पेशियों के संबंध में निम्न में से कौन सा कथन गलत है?",
@@ -2808,7 +2909,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_187"
+            "id": "q_tissues_187",
+            "correct_option": 1
         },
         {
             "question": "वह ऊतक जो पौधे को कठोर और कड़ा बनाता है और पौधे के भागों को मजबूती प्रदान करता है, वह है:",
@@ -2883,7 +2985,8 @@
             "examName": "RPF Constable 2018 19 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_192"
+            "id": "q_tissues_192",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा संयोजी ऊतक का उदाहरण नहीं है?",
@@ -2913,7 +3016,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_194"
+            "id": "q_tissues_194",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा सबसे सामान्य सरल स्थायी ऊतक है?",
@@ -2928,7 +3032,8 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_195"
+            "id": "q_tissues_195",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित तालिका जंतुओं में उपस्थित विभिन्न उपकला (Epithelial) ऊतकों और उनके शरीर के विभिन्न भागों में उनके स्थान (स्थिति) को दर्शाती है। इसके लिए सही विकल्प पहचान करें- उपकला (Epithelial) ऊतक स्थिति\n• A. i) श्वसन तंत्र\n• B. ii) त्वचा\n• C. iii) रक्त वाहिकाओं की परत\n• D. iv) लार ग्रंथियों की नलिकाएँ Solutions — Bio",
@@ -2958,7 +3063,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_197"
+            "id": "q_tissues_197",
+            "correct_option": 3
         },
         {
             "question": "जटिल स्थायी ऊतकों की परिभाषा के संबंध में निम्नलिखित में से कौन-सा कथन सही है? हैं। करते हैं।",
@@ -2973,7 +3079,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_198"
+            "id": "q_tissues_198",
+            "correct_option": 1
         },
         {
             "question": "दो अस्थि (Bone)यों को एक दूसरे से अन्य प्रकार के संयोजी ऊतक द्वारा जोड़ा जा सकता है जिसे ___________ कहा जाता है।",
@@ -3003,7 +3110,8 @@
             "examName": "RPF Constable 2018 18 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_200"
+            "id": "q_tissues_200",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किसके संकुचन और शिथिलन से अंग की गति होती है?",
@@ -3018,7 +3126,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_201"
+            "id": "q_tissues_201",
+            "correct_option": 2
         },
         {
             "question": "पौधों की वृद्धि केवल कुछ विशिष्ट क्षेत्रों में ही होती है क्योंकि: होता है",
@@ -3048,7 +3157,8 @@
             "examName": "RRB Group D 5/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_tissues_203"
+            "id": "q_tissues_203",
+            "correct_option": 2
         },
         {
             "question": "विभज्योतक ऊतक केवल विशिष्ट क्षेत्र में पाए जाते हैं। स्थिति के आधार पर, कौन-सा विभज्योतक ऊतक का प्रकार नहीं है?",
@@ -3078,7 +3188,8 @@
             "examName": "RRB ALP CBT-I 2024 : 28 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_tissues_205"
+            "id": "q_tissues_205",
+            "correct_option": 1
         }
     ]
 }

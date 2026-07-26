@@ -31,7 +31,8 @@
             "examName": "RRB Group D 5/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_2"
+            "id": "q_plant_kingdom_botany_2",
+            "correct_option": 1
         },
         {
             "question": "पौधे के बीज में भविष्य का पौधा ______ के रूप में होता है।",
@@ -76,7 +77,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_5"
+            "id": "q_plant_kingdom_botany_5",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस पौधे में विविध रंगों के पत्ते पाए जाते हैं?",
@@ -91,7 +93,8 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_6"
+            "id": "q_plant_kingdom_botany_6",
+            "correct_option": 2
         },
         {
             "question": "लिटमस विलयन ________ से प्राप्त होता है।",
@@ -106,7 +109,8 @@
             "examName": "RRB NTPC CBT-I : 8 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_7"
+            "id": "q_plant_kingdom_botany_7",
+            "correct_option": 3
         },
         {
             "question": "क्या होता है जब कीट, फसल पौधों की पत्तियों से रस चूस लेते हैं?",
@@ -121,7 +125,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_8"
+            "id": "q_plant_kingdom_botany_8",
+            "correct_option": 1
         },
         {
             "question": "जल में सूर्य के प्रकाश के अभाव में उगने वाले पौधों को क्या कहा जाता है?",
@@ -136,7 +141,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_9"
+            "id": "q_plant_kingdom_botany_9",
+            "correct_option": 3
         },
         {
             "question": "परागकण से निकलने वाली एक नलिका फूल के निम्नलिखित भागों में से किस भाग तक पहुंचने के लिए वर्तिका के माध्यमें से जाती है?",
@@ -181,7 +187,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_12"
+            "id": "q_plant_kingdom_botany_12",
+            "correct_option": 3
         },
         {
             "question": "एक किसान अपने मधुमक्खी पालन केंद्र पर उत्पादित शहद की मात्रा और स्वाद दोनों में सुधार करना चाहता है। उसे निम्नलिखित में से कौन-सी रणनीति अपनानी चाहिए?",
@@ -196,7 +203,8 @@
             "examName": "RRB JE 20/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_13"
+            "id": "q_plant_kingdom_botany_13",
+            "correct_option": 3
         },
         {
             "question": "दिए गए विकल्पों में से परजीवी पौधे का चयन कीजिए।",
@@ -211,7 +219,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_14"
+            "id": "q_plant_kingdom_botany_14",
+            "correct_option": 3
         },
         {
             "question": "मेंडल ने बगीचे के मटर के कई विपरीत दृश्यमान लक्षणों का उपयोग किया। निम्नलिखित में से अंतिम का मिलान करें। निम्नलिखित में से कौन सा विकल्प नीचे दिए गए रिक्त स्थान को उचित रूप से भरता है?\n• A. गोल / झुर्रीदार बीज\n• B. लंबे / छोटे पौधे\n• C. सफेद / ______ फूल",
@@ -226,7 +235,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_15"
+            "id": "q_plant_kingdom_botany_15",
+            "correct_option": 3
         },
         {
             "question": "घरेलू परिपथ में, लाइव तार (live wire) सामान्यत: किस रंग का होता है?",
@@ -241,7 +251,8 @@
             "examName": "RRB Level 01 Stage I 19/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_16"
+            "id": "q_plant_kingdom_botany_16",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से क्या पादप जगत से संबंधित नहीं है?",
@@ -271,7 +282,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_18"
+            "id": "q_plant_kingdom_botany_18",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौनसा पादप हार्मोन तने की वृद्धि में मदद करता है?",
@@ -286,7 +298,8 @@
             "examName": "RRB Group D 29/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_19"
+            "id": "q_plant_kingdom_botany_19",
+            "correct_option": 2
         },
         {
             "question": "पौधे में कौन सा ऊतक जल का परिवहन करता है?",
@@ -301,7 +314,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_20"
+            "id": "q_plant_kingdom_botany_20",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा पौधे का भाग वानस्पतिक प्रवर्धन के लिए उपयोग नहीं किया जाता है?",
@@ -331,7 +345,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_22"
+            "id": "q_plant_kingdom_botany_22",
+            "correct_option": 2
         },
         {
             "question": "नीचे दिए गए द्विबीजपत्री बीज के चित्र का अध्ययन कीजिए। A, B और C लेबल वाले भागों के कार्यों के संबंध में सही विकल्प का चयन कीजिए।",
@@ -346,7 +361,8 @@
             "examName": "RRB Group D 23 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_23"
+            "id": "q_plant_kingdom_botany_23",
+            "correct_option": 3
         },
         {
             "question": "कृषि भूमि से निम्नलिखित में से किस खरपतवार को हटाना किसानों के लिए लाभदायक होगा?",
@@ -376,7 +392,8 @@
             "examName": "RRB NTPC CBT-I : 5 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_25"
+            "id": "q_plant_kingdom_botany_25",
+            "correct_option": 3
         },
         {
             "question": "मेंडल ने अपने संकरण (crosses) में तद्रूप-प्रजनन वाले पौधों (true- breeding plants) का जनक के रूप में क्यों उपयोग किया?",
@@ -391,7 +408,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_26"
+            "id": "q_plant_kingdom_botany_26",
+            "correct_option": 3
         },
         {
             "question": "पौधे का भाग प्रकाश की ओर बढ़ता है, इसे _________ कहते हैं।",
@@ -421,7 +439,8 @@
             "examName": "RRB NTPC CBT-I : 12 Feb 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_28"
+            "id": "q_plant_kingdom_botany_28",
+            "correct_option": 2
         },
         {
             "question": "_______ समूह में पौधों को आमतौर पर शैवाल कहा जाता है।",
@@ -436,7 +455,8 @@
             "examName": "RRB Group D 23 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_29"
+            "id": "q_plant_kingdom_botany_29",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सहजीवी संबंध दर्शाता है?",
@@ -451,7 +471,8 @@
             "examName": "RRB NTPC CBT-I : 28 Dec 2020 Shift 1",
             "examYear": "2020",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_30"
+            "id": "q_plant_kingdom_botany_30",
+            "correct_option": 3
         },
         {
             "question": "शीषस्थ विभज्योतक तने और जड़ की ______ को बढ़ाता है।",
@@ -466,7 +487,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_31"
+            "id": "q_plant_kingdom_botany_31",
+            "correct_option": 3
         },
         {
             "question": "यदि अंकुरित बीज में छिपे भविष्य के प्ररोह को प्लूम्यूल कहा जाता है, तो अंकुरित बीज की भविष्य की जड़ _______ होगी।",
@@ -481,7 +503,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_32"
+            "id": "q_plant_kingdom_botany_32",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा समूह नग्न बीज पैदा करता है?",
@@ -496,7 +519,8 @@
             "examName": "RRB Group D 28/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_33"
+            "id": "q_plant_kingdom_botany_33",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन विटामिन- A से भरपूर होता है?",
@@ -511,7 +535,8 @@
             "examName": "RRB JE 25 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_34"
+            "id": "q_plant_kingdom_botany_34",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी फसल घास नहीं है?",
@@ -556,7 +581,8 @@
             "examName": "RRB Level 01 Stage I 19/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_37"
+            "id": "q_plant_kingdom_botany_37",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा उस एकल कोशिका का उदाहरण नहीं है जो एक पूर्ण जीव का निर्माण करती है?",
@@ -571,7 +597,8 @@
             "examName": "RRB ALP CBT 1 11/03/2026 9:00 AM - 10:00 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_38"
+            "id": "q_plant_kingdom_botany_38",
+            "correct_option": 2
         },
         {
             "question": "किस पौधे में पत्ती के किनारे के निशानों में उत्पन्न कलिकाएँ मिट्टी पर गिर जाती हैं और एक नए पौधे के रूप में विकसित होती हैं?",
@@ -601,7 +628,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_40"
+            "id": "q_plant_kingdom_botany_40",
+            "correct_option": 2
         },
         {
             "question": "पौधे के किस भाग से हमें कॉफी प्राप्त होती है?",
@@ -616,7 +644,8 @@
             "examName": "RRB JE 23 May 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_41"
+            "id": "q_plant_kingdom_botany_41",
+            "correct_option": 3
         },
         {
             "question": "भारत के राष्ट्रीय पक्षी, मोर का वैज्ञानिक नाम क्या है?",
@@ -631,7 +660,8 @@
             "examName": "RRB NTPC CBT-I : 23 July 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_42"
+            "id": "q_plant_kingdom_botany_42",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से क्या अंडप में उपस्थित होता है?",
@@ -646,7 +676,8 @@
             "examName": "RRB Group D 25 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_43"
+            "id": "q_plant_kingdom_botany_43",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किसके अलावा एकल कोशिका संपूर्ण जीव का निर्माण कर सकती है?",
@@ -661,7 +692,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_44"
+            "id": "q_plant_kingdom_botany_44",
+            "correct_option": 2
         },
         {
             "question": "गलत कथन को पहचानें। बढ़ना।",
@@ -676,7 +708,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_45"
+            "id": "q_plant_kingdom_botany_45",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस पौधे में शरीर जड़ों, तनों और पत्तियों में विभेदित नहीं होता है?",
@@ -706,7 +739,8 @@
             "examName": "RRB JE 23 May 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_47"
+            "id": "q_plant_kingdom_botany_47",
+            "correct_option": 2
         },
         {
             "question": "हिमालय के किस फूल में रोगाणुरोधक गुण होते हैं और इसलिए यह चोटों को ठीक करने में मदद कर सकता है?",
@@ -736,7 +770,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_49"
+            "id": "q_plant_kingdom_botany_49",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा पौधा मुख्य रूप से रेगिस्तान में पाया जाता है?",
@@ -781,7 +816,8 @@
             "examName": "RRB JE 27 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_52"
+            "id": "q_plant_kingdom_botany_52",
+            "correct_option": 2
         },
         {
             "question": "पौधे के निम्नलिखित में से किस भाग का उपयोग वानस्पतिक प्रवर्धन में किया जाता है?",
@@ -811,7 +847,8 @@
             "examName": "RRB NTPC CBT-I : 4 Feb 2021 Shift 2",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_54"
+            "id": "q_plant_kingdom_botany_54",
+            "correct_option": 3
         },
         {
             "question": "इनमें से किसका उपयोग भोजन में खट्टा स्वाद प्रदान करने के लिए किया जाता है?",
@@ -826,7 +863,8 @@
             "examName": "RRB JE 26 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_55"
+            "id": "q_plant_kingdom_botany_55",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा पादप, पण के कोरों पर मुकुलन द्वारा अलैंगिक रूप से पुनरुत्पादन करता है?",
@@ -841,7 +879,8 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_56"
+            "id": "q_plant_kingdom_botany_56",
+            "correct_option": 1
         },
         {
             "question": "फूल का कौन सा भाग बढ़ता है और पककर फल बनता है?",
@@ -886,7 +925,8 @@
             "examName": "RRB JE CBT-I : 28 June 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_59"
+            "id": "q_plant_kingdom_botany_59",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित पुष्पी (Phanerogams) पादपों में से कौन-सा एक लता है?",
@@ -901,7 +941,8 @@
             "examName": "RRB JE 26 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_60"
+            "id": "q_plant_kingdom_botany_60",
+            "correct_option": 2
         },
         {
             "question": "________ एक एकलिंगी फूल है।",
@@ -916,7 +957,8 @@
             "examName": "RRB Group D 22 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_61"
+            "id": "q_plant_kingdom_botany_61",
+            "correct_option": 3
         },
         {
             "question": "___________ एक द्विबीजपत्री पौधा है।",
@@ -931,7 +973,8 @@
             "examName": "RRB Group D 12 Nov 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_62"
+            "id": "q_plant_kingdom_botany_62",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा एककोशिकीय जीव नहीं है?",
@@ -946,7 +989,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_63"
+            "id": "q_plant_kingdom_botany_63",
+            "correct_option": 1
         },
         {
             "question": "श्वसन के दौरान पत्तियों के किस भाग में भारी मात्रा में गैसीय विनिमय होता है?",
@@ -961,7 +1005,8 @@
             "examName": "RRB Group D 22 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_64"
+            "id": "q_plant_kingdom_botany_64",
+            "correct_option": 3
         },
         {
             "question": "घास का वैज्ञानिक अध्ययन कहलाता है।",
@@ -976,7 +1021,8 @@
             "examName": "RPF Constable 2018 25 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_65"
+            "id": "q_plant_kingdom_botany_65",
+            "correct_option": 1
         },
         {
             "question": "__________ का उपयोग बीड़ी बनाने के लिए किया जाता है।",
@@ -1006,7 +1052,8 @@
             "examName": "RRB NTPC CBT-I : 7 April 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_67"
+            "id": "q_plant_kingdom_botany_67",
+            "correct_option": 3
         },
         {
             "question": "तना या मूल वृत्त _______ के कारण वृद्धि करता है।",
@@ -1036,7 +1083,8 @@
             "examName": "RRB Level 01 Stage I 22/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_69"
+            "id": "q_plant_kingdom_botany_69",
+            "correct_option": 3
         },
         {
             "question": "पयावरणीय उद्दीपन के प्रति पादपों की अनुक्रिया के संबंध में निम्नलिखित में से कौन-सा कथन सही है? हैं।",
@@ -1051,7 +1099,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_70"
+            "id": "q_plant_kingdom_botany_70",
+            "correct_option": 3
         },
         {
             "question": "ब्रायोफिलम में, वानस्पतिक प्रवर्धन किसके द्वारा होता है?",
@@ -1066,7 +1115,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_71"
+            "id": "q_plant_kingdom_botany_71",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस पौधे में' छिपे हुए प्रजनन अंग' होते हैं?",
@@ -1081,7 +1131,8 @@
             "examName": "RRB NTPC CBT-I : 12 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_72"
+            "id": "q_plant_kingdom_botany_72",
+            "correct_option": 1
         },
         {
             "question": "प्याज एक ________ है।",
@@ -1096,7 +1147,8 @@
             "examName": "RRB JE 29 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_73"
+            "id": "q_plant_kingdom_botany_73",
+            "correct_option": 1
         },
         {
             "question": "मिट्टी में फेंके जाने पर निम्नलिखित में से कौन-सा पदार्थ पयावरण में लम्बे समय तक बना रहेगा?",
@@ -1111,7 +1163,8 @@
             "examName": "RRB Level 01 Stage I 15/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_74"
+            "id": "q_plant_kingdom_botany_74",
+            "correct_option": 3
         },
         {
             "question": "आम के फल का वैज्ञानिक नाम क्या है?",
@@ -1126,7 +1179,8 @@
             "examName": "RRB NTPC CBT-I : 16 Feb 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_75"
+            "id": "q_plant_kingdom_botany_75",
+            "correct_option": 1
         },
         {
             "question": "पौधों पर आक्रमण करने के लिए कीट-पीड़कों द्वारा उपयोग नहीं किए जाने वाले तरीके की पहचान कीजिए।",
@@ -1141,7 +1195,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_76"
+            "id": "q_plant_kingdom_botany_76",
+            "correct_option": 3
         },
         {
             "question": "पौधों में पाया जाने वाला एक नीला, बैंगनी या लाल फ्लेवोनोइड वर्णक की उपस्थिति के कारण होता है",
@@ -1156,7 +1211,8 @@
             "examName": "RRB NTPC Tier I : 29 Apr 2016 Shift 2",
             "examYear": "2016",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_77"
+            "id": "q_plant_kingdom_botany_77",
+            "correct_option": 1
         },
         {
             "question": "इनमें से कौन-सा पौधा नग्न बीज धारण करता है?",
@@ -1171,7 +1227,8 @@
             "examName": "RRB Group D 24/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_78"
+            "id": "q_plant_kingdom_botany_78",
+            "correct_option": 1
         },
         {
             "question": "जीवों के उस समूह का चयन कीजिए जिसमें अलैंगिक जनन विखंडन द्वारा होता है।",
@@ -1186,7 +1243,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_79"
+            "id": "q_plant_kingdom_botany_79",
+            "correct_option": 3
         },
         {
             "question": "सबसे अधिक शोषित, पालतू और व्यावसायिक गैर-शहतूत रेशम कीट' एरी रेशम कीट' का वैज्ञानिक नाम क्या है?",
@@ -1246,7 +1304,8 @@
             "examName": "RPF SI 2018 : 12 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_83"
+            "id": "q_plant_kingdom_botany_83",
+            "correct_option": 1
         },
         {
             "question": "विटामिन C का प्राकृतिक स्रोत क्या है?",
@@ -1261,7 +1320,8 @@
             "examName": "RRB JE 25 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_84"
+            "id": "q_plant_kingdom_botany_84",
+            "correct_option": 3
         },
         {
             "question": "कुछ पौधे तने में एक चिपचिपा पदार्थ उत्पन्न करते हैं जिसका उपयोग गोंद चिपकने वाले पदार्थ तैयार करने में किया जाता है। इस गोंद का पौधे के लिए क्या उपयोग है?",
@@ -1276,7 +1336,8 @@
             "examName": "RRB Group D 27 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_85"
+            "id": "q_plant_kingdom_botany_85",
+            "correct_option": 1
         },
         {
             "question": "कौन सी पादप प्रजाति का वानस्पतिक प्रवर्धन द्वारा प्रजनन नहीं होता है?",
@@ -1291,7 +1352,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_86"
+            "id": "q_plant_kingdom_botany_86",
+            "correct_option": 2
         },
         {
             "question": "पुष्प के मादा जनन भाग को किस नाम से जाना जाता है?",
@@ -1306,7 +1368,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_87"
+            "id": "q_plant_kingdom_botany_87",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किसमें साइट्रिक अम्ल की मात्रा सबसे अधिक होती है?",
@@ -1336,7 +1399,8 @@
             "examName": "RRB NTPC CBT-I : 8 Mar 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_89"
+            "id": "q_plant_kingdom_botany_89",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा पादप हार्मोन पादपों की वृद्धि को रोकता है?",
@@ -1351,7 +1415,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_90"
+            "id": "q_plant_kingdom_botany_90",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से कौन सा अन्य तीनों से भिन्न है?",
@@ -1366,7 +1431,8 @@
             "examName": "RRB NTPC Tier I : 6 Apr 2016 Shift 2",
             "examYear": "2016",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_91"
+            "id": "q_plant_kingdom_botany_91",
+            "correct_option": 1
         },
         {
             "question": "पुष्प के भाग जिस आधार पर उपस्थित होते है उसे क्या कहते है?",
@@ -1381,7 +1447,8 @@
             "examName": "RRB Group D 11 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_92"
+            "id": "q_plant_kingdom_botany_92",
+            "correct_option": 3
         },
         {
             "question": "_______ एसिटिक अम्ल का एक प्राकृतिक स्रोत है।",
@@ -1396,7 +1463,8 @@
             "examName": "RPF SI CBT-I 2024 : 09 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_93"
+            "id": "q_plant_kingdom_botany_93",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा विटामिन ए का अच्छा स्रोत है?",
@@ -1411,7 +1479,8 @@
             "examName": "RRB NTPC Tier I : 16 Apr 2016 Shift 3",
             "examYear": "2016",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_94"
+            "id": "q_plant_kingdom_botany_94",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से कौन-सा कथन पादप-कार्य में विभज्योतक ऊतक के स्थान को सही तरीके से निरूपित करता है?",
@@ -1426,7 +1495,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_95"
+            "id": "q_plant_kingdom_botany_95",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस जीव को आमतौर पर ब्रेड मोल्ड के रूप में जाना जाता है?",
@@ -1441,7 +1511,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_96"
+            "id": "q_plant_kingdom_botany_96",
+            "correct_option": 1
         },
         {
             "question": "पौधों में विविधता उनके अस्तित्व और विकास के लिए क्यों महत्वपूर्ण है?",
@@ -1456,7 +1527,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_97"
+            "id": "q_plant_kingdom_botany_97",
+            "correct_option": 3
         },
         {
             "question": "________ में मृत ऊतक होते हैं।",
@@ -1501,7 +1573,8 @@
             "examName": "RRB JE ME 29 Aug 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_100"
+            "id": "q_plant_kingdom_botany_100",
+            "correct_option": 1
         },
         {
             "question": "राइजोपस में छड़ी जैसी संरचनाओं पर मौजूद छोटे-छोटे धब्बों को क्या कहा जाता है?",
@@ -1516,7 +1589,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_101"
+            "id": "q_plant_kingdom_botany_101",
+            "correct_option": 3
         },
         {
             "question": "आवृतबीजी पौधों के जनन अंग पुष्प में स्थित होते हैं, जहाँ मादा जनन अंग तीन भागों, वर्तिकाग्र, वर्तिका और अंडाशय से बना होता है और इसे किस रूप में जाना जाता है?",
@@ -1531,7 +1605,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_102"
+            "id": "q_plant_kingdom_botany_102",
+            "correct_option": 3
         },
         {
             "question": "किसी पौधे में प्लूम्यूल कहाँ पाया जाता है?",
@@ -1546,7 +1621,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_103"
+            "id": "q_plant_kingdom_botany_103",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा मूलाभ के बारे में गलत है?",
@@ -1561,7 +1637,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_104"
+            "id": "q_plant_kingdom_botany_104",
+            "correct_option": 2
         },
         {
             "question": "निषेचन के लिए पराग कण को पुष्प के किस उपयुक्त भाग पर पहुंचना चाहिए?",
@@ -1576,7 +1653,8 @@
             "examName": "RRB Level 01 Stage I 15/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_105"
+            "id": "q_plant_kingdom_botany_105",
+            "correct_option": 1
         },
         {
             "question": "वर्गीकरण विज्ञान का जनक किसे कहा जाता है?",
@@ -1591,7 +1669,8 @@
             "examName": "RRB NTPC CBT-I : 28 Dec 2020 Shift 2",
             "examYear": "2020",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_106"
+            "id": "q_plant_kingdom_botany_106",
+            "correct_option": 1
         },
         {
             "question": "______ पौधे के बीजों में खाद्य भंडार के रूप में कार्य करता है।",
@@ -1621,7 +1700,8 @@
             "examName": "RRB Group D 30/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_108"
+            "id": "q_plant_kingdom_botany_108",
+            "correct_option": 3
         },
         {
             "question": "द्वि-निषेचन किसकी विशेषता है?",
@@ -1636,7 +1716,8 @@
             "examName": "RRB JE CBT-I : 28 June 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_109"
+            "id": "q_plant_kingdom_botany_109",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस पादप समूह में फल के अंदर बीज मौजूद होते हैं?",
@@ -1651,7 +1732,8 @@
             "examName": "RRB NTPC CBT-I : 4 Feb 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_110"
+            "id": "q_plant_kingdom_botany_110",
+            "correct_option": 2
         },
         {
             "question": "इनमें से किस पौधे में पौधे के शरीर को जड़ों, तने और पत्तियों में विभेदित नहीं किया जाता है?",
@@ -1666,7 +1748,8 @@
             "examName": "RRB Group D 18/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_111"
+            "id": "q_plant_kingdom_botany_111",
+            "correct_option": 3
         },
         {
             "question": "जब ______ उनमें प्रवाहित होता है, जिससे रंध्री छिद्र खुल जाता है, तो रक्षक कोशिकाएं सूज जाती हैं।",
@@ -1681,7 +1764,8 @@
             "examName": "RRB Group D 26/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_112"
+            "id": "q_plant_kingdom_botany_112",
+            "correct_option": 3
         },
         {
             "question": "ब्रैसिका कैम्पसे्ट्रिस किस पौधे का वानस्पतिक नाम है?",
@@ -1696,7 +1780,8 @@
             "examName": "RRB NTPC CBT-I : 27 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_113"
+            "id": "q_plant_kingdom_botany_113",
+            "correct_option": 3
         },
         {
             "question": "मलेरिया के लिए एक सामान्य दवा, क्विनिन, ______ के पेड़ों की छाल से निकाला जाता है।",
@@ -1711,7 +1796,8 @@
             "examName": "RRB NTPC CBT-I : 16 Feb 2021 Shift 2",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_114"
+            "id": "q_plant_kingdom_botany_114",
+            "correct_option": 3
         },
         {
             "question": "जब प्रकाश प्रिज्में से गुजरता है, तो कौन सा रंग सबसे कम विपथित होता है?",
@@ -1726,7 +1812,8 @@
             "examName": "RRB NTPC CBT-I : 4 Feb 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_115"
+            "id": "q_plant_kingdom_botany_115",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा प्राकृतिक पारिस्थितिकी तंत्र का उदाहरण है?",
@@ -1741,7 +1828,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_116"
+            "id": "q_plant_kingdom_botany_116",
+            "correct_option": 3
         },
         {
             "question": "जब सूर्य का प्रकाश पृथ्वी के वायुमंडल में प्रवेश करता है, तो सबसे अधिक प्रकीर्णित रंग _______ होता है।",
@@ -1771,7 +1859,8 @@
             "examName": "RRB JE CBT-I : 22 May, 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_118"
+            "id": "q_plant_kingdom_botany_118",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सी एक फलीदार फसल है?",
@@ -1786,7 +1875,8 @@
             "examName": "RRB Group D 3/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_119"
+            "id": "q_plant_kingdom_botany_119",
+            "correct_option": 1
         },
         {
             "question": "श्वेत प्रकाश के सात रंगों में से कौन सा कांच के प्रिज़्म द्वारा प्रकाश के परिक्षेपण के बाद सवाधिक विचलित होता है?",
@@ -1801,7 +1891,8 @@
             "examName": "RRB JE CBT I - : 31 May 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_120"
+            "id": "q_plant_kingdom_botany_120",
+            "correct_option": 1
         },
         {
             "question": "फसल किस्म सुधार का मुख्य लक्ष्य क्या है?",
@@ -1891,7 +1982,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_126"
+            "id": "q_plant_kingdom_botany_126",
+            "correct_option": 3
         },
         {
             "question": "जब सिल्वर नाइट्रेट, सोडियम क्लोराइड के साथ अभिक्रिया करता है, तो निर्मित अवक्षेप का रंग क्या होता है?",
@@ -1906,7 +1998,8 @@
             "examName": "RRB Level 01 Stage I 05/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_127"
+            "id": "q_plant_kingdom_botany_127",
+            "correct_option": 1
         },
         {
             "question": "मशरूम निम्न में से क्या है?",
@@ -1936,7 +2029,8 @@
             "examName": "RRB Group D 5 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_129"
+            "id": "q_plant_kingdom_botany_129",
+            "correct_option": 2
         },
         {
             "question": "अलैंगिक प्रजनन में ______ का निर्माण शामिल नहीं होता है।",
@@ -1951,7 +2045,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_130"
+            "id": "q_plant_kingdom_botany_130",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित विकल्पों में से उभयलिंगी पुष्प का चयन कीजिए।",
@@ -1966,7 +2061,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_131"
+            "id": "q_plant_kingdom_botany_131",
+            "correct_option": 2
         },
         {
             "question": "गलत कथन की पहचान कीजिए।",
@@ -1981,7 +2077,8 @@
             "examName": "RRB Group D 30 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_132"
+            "id": "q_plant_kingdom_botany_132",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा ऊतक यह सुनिश्चित करता है कि पत्तियों में बना भोजन पौधे के सभी भागों तक पहुँचाया जाए?",
@@ -2011,7 +2108,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_134"
+            "id": "q_plant_kingdom_botany_134",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा पादप ऊतक प्रकाश संश्लेषण करता है?",
@@ -2041,7 +2139,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_136"
+            "id": "q_plant_kingdom_botany_136",
+            "correct_option": 1
         },
         {
             "question": "अंतर्वेशी विभज्योतक ________ पाए जाते हैं।",
@@ -2056,7 +2155,8 @@
             "examName": "RRB Group D 1/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_137"
+            "id": "q_plant_kingdom_botany_137",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किसमें पादप कार्य को जडों, तने और पत्तियों में विभेदित किया जाता है?",
@@ -2071,7 +2171,8 @@
             "examName": "RRB Group D 11 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_138"
+            "id": "q_plant_kingdom_botany_138",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा जीव परजीवी पोषण रणनीति दर्शाता है?",
@@ -2101,7 +2202,8 @@
             "examName": "RRB NTPC CBT-I : 24 July 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_140"
+            "id": "q_plant_kingdom_botany_140",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा राइजोपस का जनन अंग नहीं है?",
@@ -2116,7 +2218,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_141"
+            "id": "q_plant_kingdom_botany_141",
+            "correct_option": 2
         },
         {
             "question": "पौधों में ऑक्सिन के कार्य से संबंधित सही विकल्प का चयन कीजिए।",
@@ -2131,7 +2234,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_142"
+            "id": "q_plant_kingdom_botany_142",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित औषधीय पौधों में से कौन-सा पौधा रक्तदाब के उपचार के लिए सबसे अच्छा उपाय है?",
@@ -2161,7 +2265,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_144"
+            "id": "q_plant_kingdom_botany_144",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा पौधा ब्रायोफाइटा (Bryophyta) से संबंधित है?",
@@ -2176,7 +2281,8 @@
             "examName": "RRB NTPC CBT-I : 29 Dec 2020 Shift 2",
             "examYear": "2020",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_145"
+            "id": "q_plant_kingdom_botany_145",
+            "correct_option": 3
         },
         {
             "question": "_______ समूह के पौधे को आमतौर पर शैवाल कहा जाता है।",
@@ -2191,7 +2297,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_146"
+            "id": "q_plant_kingdom_botany_146",
+            "correct_option": 3
         },
         {
             "question": "अन्डप में शामिल है,",
@@ -2206,7 +2313,8 @@
             "examName": "RRB Group D 29/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_147"
+            "id": "q_plant_kingdom_botany_147",
+            "correct_option": 3
         },
         {
             "question": "आमतौर पर, किस पेड़ की टहनी का उपयोग दांतों को साफ करने के लिए किया जाता है?",
@@ -2236,7 +2344,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_149"
+            "id": "q_plant_kingdom_botany_149",
+            "correct_option": 1
         },
         {
             "question": "सामान्य गयहूं का वानस्पतिक नाम क्या है? रिस",
@@ -2281,7 +2390,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_152"
+            "id": "q_plant_kingdom_botany_152",
+            "correct_option": 3
         },
         {
             "question": "________ के प्रजनन भाग, फूल में स्थित होते है।",
@@ -2296,7 +2406,8 @@
             "examName": "RRB Group D 4 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_153"
+            "id": "q_plant_kingdom_botany_153",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन एककोशिकीय हरित शैवाल है?",
@@ -2311,7 +2422,8 @@
             "examName": "RRB Group D 25 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_154"
+            "id": "q_plant_kingdom_botany_154",
+            "correct_option": 3
         },
         {
             "question": "आवृतबीजी पौधों में, निम्नलिखित में से कौन सा अंग फूल के नर प्रजनन भाग का प्रतिनिधित्व करता है?",
@@ -2326,7 +2438,8 @@
             "examName": "RRB NTPC UG CBT-I : 22 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_155"
+            "id": "q_plant_kingdom_botany_155",
+            "correct_option": 2
         },
         {
             "question": "पौधों में, निषेचन के बाद अंडाशय किसमें विकसित होता है?",
@@ -2341,7 +2454,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_156"
+            "id": "q_plant_kingdom_botany_156",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन, ब्रायोफाइट्स को शैवाल से अलग करता है?",
@@ -2356,7 +2470,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 19/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_157"
+            "id": "q_plant_kingdom_botany_157",
+            "correct_option": 3
         },
         {
             "question": "क्लोरोफिल युक्त हरे प्लास्टिड को क्या कहते हैं?",
@@ -2386,7 +2501,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_159"
+            "id": "q_plant_kingdom_botany_159",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से क्या समूह से संबंधित नहीं है?",
@@ -2407,7 +2523,8 @@
                 "B) गाजर",
                 "C) तुरई",
                 "D) करेला"
-            ]
+            ],
+            "correct_option": 1
         },
         {
             "question": "बीज में ऐसा क्या है जो नये पौधे के विकास के लिए आवश्यक है?",
@@ -2422,7 +2539,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_161"
+            "id": "q_plant_kingdom_botany_161",
+            "correct_option": 1
         },
         {
             "question": "______ बीज के तीन भाग हैं।",
@@ -2437,7 +2555,8 @@
             "examName": "RRB Group D 15/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_162"
+            "id": "q_plant_kingdom_botany_162",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस पादप समूह में बीज अंडाशय के अंदर विकसित होते हैं जो बाद में फल बन जाते हैं?",
@@ -2452,7 +2571,8 @@
             "examName": "RRB NTPC CBT-I : 31 July 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_163"
+            "id": "q_plant_kingdom_botany_163",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन डेन्ड्राइट्स का वर्णन करता है?",
@@ -2467,7 +2587,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_164"
+            "id": "q_plant_kingdom_botany_164",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा एक संवहनी पादप है?",
@@ -2497,7 +2618,8 @@
             "examName": "RRB Group D 29/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_166"
+            "id": "q_plant_kingdom_botany_166",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा एक कुनैन का स्रोत है?",
@@ -2512,7 +2634,8 @@
             "examName": "RRB JE 25 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_167"
+            "id": "q_plant_kingdom_botany_167",
+            "correct_option": 1
         },
         {
             "question": "मान लीजिए कि एक माली मटर लगाना चाहता है जो बौनी किस्म का होना चाहिए। माली द्वारा मूल पौधे के बीज के चयन के लिए आप क्या सुझाव देंगे?",
@@ -2527,7 +2650,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_168"
+            "id": "q_plant_kingdom_botany_168",
+            "correct_option": 2
         },
         {
             "question": "क्षार, सावत्रिक सूचकों के रंग को _______ रंग में बदल देते हैं।",
@@ -2542,7 +2666,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_169"
+            "id": "q_plant_kingdom_botany_169",
+            "correct_option": 1
         },
         {
             "question": "ब्रायोफिलम का कौन-सा भाग कार्यकि प्रवर्धन के लिए नए पादपकों को विकसित करता है?",
@@ -2572,7 +2697,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_171"
+            "id": "q_plant_kingdom_botany_171",
+            "correct_option": 1
         },
         {
             "question": "प्रिज्म के अंतिम दो कोनों पर कौन से दो रंग बनते हैं?",
@@ -2587,7 +2713,8 @@
             "examName": "RRB NTPC CBT-I : 7 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_172"
+            "id": "q_plant_kingdom_botany_172",
+            "correct_option": 3
         },
         {
             "question": "तने या शाखाओं पर पत्तियों की व्यवस्था को ____________ के रूप में जाना जाता है।",
@@ -2602,7 +2729,8 @@
             "examName": "RPF SI Previous Paper : 5 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_173"
+            "id": "q_plant_kingdom_botany_173",
+            "correct_option": 3
         },
         {
             "question": "फैबसेी परिवार के किस पौधे के बीजों का उपयोग मसाले, स्वाद बढ़ाने वाले एजेंट और खाद्य पूरक के रूप में किया जाता है?",
@@ -2617,7 +2745,8 @@
             "examName": "RRB NTPC UG CBT-I : 03 Sept, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_174"
+            "id": "q_plant_kingdom_botany_174",
+            "correct_option": 1
         },
         {
             "question": "____________ को मूल शीष की लगातार विभाजित होने वाली कोशिकाओं द्वारा दशाया जाता है।",
@@ -2647,7 +2776,8 @@
             "examName": "RRB Group D 6 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_176"
+            "id": "q_plant_kingdom_botany_176",
+            "correct_option": 2
         },
         {
             "question": "पौधे _____ के माध्यमें से श्वसन करते हैं।",
@@ -2662,7 +2792,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_177"
+            "id": "q_plant_kingdom_botany_177",
+            "correct_option": 1
         },
         {
             "question": "पौधों में, रेजिन और गोंद विशेष रूप से ________ में संचित होते हैं।",
@@ -2677,7 +2808,8 @@
             "examName": "RRB Group D 11/10/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_178"
+            "id": "q_plant_kingdom_botany_178",
+            "correct_option": 1
         },
         {
             "question": "आप किस जगत में उन सभी जीवों को रखेंगे, जो कोशिका भित्ति के साथ बहुकोशिकीय सकेंद्रीक हैं?",
@@ -2692,7 +2824,8 @@
             "examName": "RRB Group D 24/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_179"
+            "id": "q_plant_kingdom_botany_179",
+            "correct_option": 1
         },
         {
             "question": "अनुरूपता (analogy) को पूरा करें। खरीफ : वषा ऋतु :: रबी : ____________",
@@ -2707,7 +2840,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_180"
+            "id": "q_plant_kingdom_botany_180",
+            "correct_option": 1
         },
         {
             "question": "कई प्रकार के पेड़ पुराने पत्ते क्यों गिरा देते हैं?",
@@ -2722,7 +2856,8 @@
             "examName": "RRB Group D 16 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_181"
+            "id": "q_plant_kingdom_botany_181",
+            "correct_option": 3
         },
         {
             "question": "पौधों को पांच समूहों में विभाजित किया गया है। निम्नलिखित में से कौन-सा एक पौधों का समूह नहीं है?",
@@ -2737,7 +2872,8 @@
             "examName": "RRB NTPC CBT-I : 10 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_182"
+            "id": "q_plant_kingdom_botany_182",
+            "correct_option": 3
         },
         {
             "question": "काँच के प्रिज्में से गुजरते समय निम्नलिखित में से किस रंग के प्रकाश का न्यूनतम कोण पर झुकाव होता है?",
@@ -2752,7 +2888,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_183"
+            "id": "q_plant_kingdom_botany_183",
+            "correct_option": 3
         },
         {
             "question": "एक साबुन के अणु में __________ होते है।",
@@ -2782,7 +2919,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_185"
+            "id": "q_plant_kingdom_botany_185",
+            "correct_option": 3
         },
         {
             "question": "हरी मटर का वैज्ञानिक नाम क्या है?",
@@ -2797,7 +2935,8 @@
             "examName": "RRB NTPC CBT-I : 3 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_186"
+            "id": "q_plant_kingdom_botany_186",
+            "correct_option": 2
         },
         {
             "question": "______ पादपवर्णक का एक प्रशांत रूप है।",
@@ -2812,7 +2951,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_187"
+            "id": "q_plant_kingdom_botany_187",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-से उभयलिंगी पुष्प हैं?",
@@ -2842,7 +2982,8 @@
             "examName": "RRB Level 01 Stage I 09/01/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_189"
+            "id": "q_plant_kingdom_botany_189",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा' गोल क्रांति' से संबंधित है?",
@@ -2857,7 +2998,8 @@
             "examName": "RPF Constable 2018 10 Feb 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_190"
+            "id": "q_plant_kingdom_botany_190",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन मृदूतक (Parenchyma) के बारे में गलत है? हैं। झुकने की अनुमति देता है। होती हैं।",
@@ -2872,7 +3014,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_191"
+            "id": "q_plant_kingdom_botany_191",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस पदार्थ में जैविक आवर्धन की परिघटना में योगदान देने की उच्च संभावना होती है?",
@@ -2887,7 +3030,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_192"
+            "id": "q_plant_kingdom_botany_192",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा एक जड़ नहीं है?",
@@ -2902,7 +3046,8 @@
             "examName": "RRB JE 25 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_193"
+            "id": "q_plant_kingdom_botany_193",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस समूह को 'क्रिप्टोगैम' कहा जाता है?",
@@ -2917,7 +3062,8 @@
             "examName": "RRB Group D 9/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_194"
+            "id": "q_plant_kingdom_botany_194",
+            "correct_option": 3
         },
         {
             "question": "सूर्य प्रकाश के उद्दीपन के कारण पौधों की दिशाहीन गति को __________ कहा जाता है।",
@@ -2932,7 +3078,8 @@
             "examName": "RRB Level 01 Stage I 08/01/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_195"
+            "id": "q_plant_kingdom_botany_195",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से पौधे का कौन सा भाग वानस्पतिक प्रवर्धन में भाग नहीं लेता है?",
@@ -2947,7 +3094,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_196"
+            "id": "q_plant_kingdom_botany_196",
+            "correct_option": 1
         },
         {
             "question": "ब्लू लिटमस जब एक अम्लीय विलयन में डाला जाता है तो वह हो जाता है-",
@@ -2977,7 +3125,8 @@
             "examName": "RRB NTPC UG CBT-I : 12 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_198"
+            "id": "q_plant_kingdom_botany_198",
+            "correct_option": 2
         },
         {
             "question": "मटर का पौधा अन्य पौधों या बाड़ों पर निम्नलिखित की सहायता से चढ़ता है:",
@@ -2992,7 +3141,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_199"
+            "id": "q_plant_kingdom_botany_199",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से पौधे का कौन सा भाग वानस्पतिक प्रवर्धन में भाग नहीं लेता है?",
@@ -3007,12 +3157,13 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_200"
+            "id": "q_plant_kingdom_botany_200",
+            "correct_option": 3
         },
         {
             "question": "नीचे दिए गए पत्ती के अनुप्रस्थ काट के आरेख का अध्ययन करें। कौन सा विकल्प सही लेबलिंग दर्शाता है? - क्लोरोप्लास्ट क्लोरोप्लास्ट",
             "options": [
-                "- ऊपरी अधिचर्म, b - निचला अधिचर्म, c - रक्षक कोशिका, d - वायु रिक्तिकाएँ, e",
+                "a - ऊपरी अधिचम, b - निचला अधिचम, c - रक्षक कोशिका, d - वायु रिक्तिकाएँ, e",
                 "- ऊपरी अधिचर्म, b - मोमी क्यूटिकल, c - रंध्र, d - वायु रिक्तिकाएँ, e -",
                 "- ऊपरी अधिचर्म, b - निचला अधिचर्म, c - रंध्र, d - वायु रिक्तिकाएँ, e - केंद्रक",
                 "- मोमी क्यूटिकल, b - ऊपरी अधिचर्म, c - रंध्र, d - वायु रिक्तिकाएँ, e - केंद्रक"
@@ -3037,7 +3188,8 @@
             "examName": "RRB Group D 8/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_202"
+            "id": "q_plant_kingdom_botany_202",
+            "correct_option": 2
         },
         {
             "question": "असत्य कथन की पहचान कीजिए।",
@@ -3052,7 +3204,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_203"
+            "id": "q_plant_kingdom_botany_203",
+            "correct_option": 3
         },
         {
             "question": "तने या जड़ का घेरा ______ के कारण बढ़ता है।",
@@ -3067,7 +3220,8 @@
             "examName": "RRB Group D 4/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_204"
+            "id": "q_plant_kingdom_botany_204",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा कंदमूल नहीं है?",
@@ -3082,7 +3236,8 @@
             "examName": "RRB JE 23 May 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_205"
+            "id": "q_plant_kingdom_botany_205",
+            "correct_option": 1
         },
         {
             "question": "इनमें से किस पौधे में बहु रंगीय पत्तियाँ होती हैं?",
@@ -3097,7 +3252,8 @@
             "examName": "RRB JE 26 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_206"
+            "id": "q_plant_kingdom_botany_206",
+            "correct_option": 3
         },
         {
             "question": "अवर्णीलवक (ल्यूकोप्लास्ट) निम्नलिखित में से किस रंग का होता है?",
@@ -3112,7 +3268,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_207"
+            "id": "q_plant_kingdom_botany_207",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस पादप की जड़ें, नए पादपों को जन्म दे सकती हैं?",
@@ -3142,7 +3299,8 @@
             "examName": "RRB Group D 7/10/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_209"
+            "id": "q_plant_kingdom_botany_209",
+            "correct_option": 2
         },
         {
             "question": "मटर का पौधा अन्य पौधों पर चढ़ने के लिए किस संरचना का उपयोग करता है?",
@@ -3172,7 +3330,8 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_211"
+            "id": "q_plant_kingdom_botany_211",
+            "correct_option": 3
         },
         {
             "question": "रिक्सिया निम्न में से किस श्रेणी के अंतर्गत आता है?",
@@ -3202,7 +3361,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_213"
+            "id": "q_plant_kingdom_botany_213",
+            "correct_option": 1
         },
         {
             "question": "सफल मधुमक्खी पालन के लिए निम्नलिखित में से कौन-सी प्रमुख शत है?",
@@ -3217,7 +3377,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_214"
+            "id": "q_plant_kingdom_botany_214",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस पादप समूह में नग्न बीज होते हैं?",
@@ -3232,7 +3393,8 @@
             "examName": "RRB NTPC CBT-I : 13 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_215"
+            "id": "q_plant_kingdom_botany_215",
+            "correct_option": 1
         },
         {
             "question": "पादपों के किस समूह के अंतर्गत सबसे साधारण केंद्रीय संरचना वाले पादप आते हैं?",
@@ -3247,7 +3409,8 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_216"
+            "id": "q_plant_kingdom_botany_216",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा परिवर्तन पौधों में प्रकाश या गुरुत्वाकर्षण जैसे पयावरणीय कारकों के कारण होता है?",
@@ -3262,7 +3425,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_217"
+            "id": "q_plant_kingdom_botany_217",
+            "correct_option": 1
         },
         {
             "question": "ब्रायोफिलम पौधे का कौन-सा भाग, कार्यिक प्रवर्धन के लिए कलिका (buds) उत्पन्न करता है?",
@@ -3277,7 +3441,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_218"
+            "id": "q_plant_kingdom_botany_218",
+            "correct_option": 3
         },
         {
             "question": "एक माली आलू के पौधे उगाना चाहता है। उसने कलियों (आँखों) वाला आलू मिट्टी में लगाया। उसे एक नया आलू का पौधा प्राप्त करने में सफलता मिली क्योंकि:",
@@ -3292,7 +3457,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_219"
+            "id": "q_plant_kingdom_botany_219",
+            "correct_option": 1
         },
         {
             "question": "मेन्डल के अनुसार, लंबे मटर के पौधों को छोटे मटर के पौधों के साथ संकरण करने पर F₁ पीढ़ी में कौन सा लक्षण दिखाई दिया?",
@@ -3307,7 +3473,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_220"
+            "id": "q_plant_kingdom_botany_220",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा एक पादप हार्मोन नहीं है?",
@@ -3322,7 +3489,8 @@
             "examName": "RRB Group D 25/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_221"
+            "id": "q_plant_kingdom_botany_221",
+            "correct_option": 3
         },
         {
             "question": "ब्रायोफाइटों की निम्न बाह्यत्वचीय (एपिडमल) कोशिकाओं से विस्तारित होने वाले प्रोट्यूबेरेंस को _____ कहा जाता है।",
@@ -3337,7 +3505,8 @@
             "examName": "RRB Group D 22/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_222"
+            "id": "q_plant_kingdom_botany_222",
+            "correct_option": 2
         },
         {
             "question": "गयहूं और सरसों की कृषि एक ही स्थान (भूमि-खंड) पर एक साथ करना, निम्नलिखित में से किसका उदाहरण है?",
@@ -3352,7 +3521,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_223"
+            "id": "q_plant_kingdom_botany_223",
+            "correct_option": 2
         },
         {
             "question": "कॉक जल और गैसों के लिए अभेद्य है क्योंकि इसकी कोशिकाओं के भीतर __________ पाया जाता है।",
@@ -3367,7 +3537,8 @@
             "examName": "RRB Group D 24 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_224"
+            "id": "q_plant_kingdom_botany_224",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा एक मांसाहारी पौधा है?",
@@ -3382,7 +3553,8 @@
             "examName": "RRB JE CBT I - : 30 May 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_225"
+            "id": "q_plant_kingdom_botany_225",
+            "correct_option": 1
         },
         {
             "question": "एक ______ झुका हुआ किनारा है जो जुड़ने वाली सतह के समकोण पर नहीं है।",
@@ -3412,7 +3584,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_227"
+            "id": "q_plant_kingdom_botany_227",
+            "correct_option": 2
         },
         {
             "question": "बरगद के पेड़ का वानस्पतिक नाम क्या है?",
@@ -3427,7 +3600,8 @@
             "examName": "RRB NTPC CBT-I : 30 Dec 2020 Shift 2",
             "examYear": "2020",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_228"
+            "id": "q_plant_kingdom_botany_228",
+            "correct_option": 2
         },
         {
             "question": "मटर (garden peas) के निम्नलिखित विपयासी दृश्य लक्षणों में से किसका उपयोग मेंडल द्वारा नहीं किया गया था?",
@@ -3457,7 +3631,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_230"
+            "id": "q_plant_kingdom_botany_230",
+            "correct_option": 1
         },
         {
             "question": "आवृतबीजी पौधों में निम्नलिखित में से कौन सा अंग फूल के मादा प्रजनन भाग का प्रतिनिधित्व करता है?",
@@ -3472,7 +3647,8 @@
             "examName": "RRB NTPC UG CBT-I : 08 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_231"
+            "id": "q_plant_kingdom_botany_231",
+            "correct_option": 2
         },
         {
             "question": "कीट पीड़क (insect pests), फसल की उपज पर किस प्रकार नकारात्मक प्रभाव डालते हैं?",
@@ -3487,7 +3663,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_232"
+            "id": "q_plant_kingdom_botany_232",
+            "correct_option": 2
         },
         {
             "question": "टेक्सोल किस पौधे से प्राप्त किया जाता है?",
@@ -3502,7 +3679,8 @@
             "examName": "RRB NTPC CBT-I : 4 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_233"
+            "id": "q_plant_kingdom_botany_233",
+            "correct_option": 1
         },
         {
             "question": "किस जीव के खाद्य रिक्तिका में, जटिल पदार्थों को सरल पदार्थों में तोड़ा जाता है जो तब कोशिका द्रव्य में विसरित हो जाते हैं?",
@@ -3532,7 +3710,8 @@
             "examName": "RRB Group D 10/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_235"
+            "id": "q_plant_kingdom_botany_235",
+            "correct_option": 3
         },
         {
             "question": "बीजों की निम्नलिखित में से कौन-सी विशेषता, पवन परिक्षेपण (wind dispersal) में सहायक होता है?",
@@ -3547,7 +3726,8 @@
             "examName": "RRB Level 01 Stage I 09/01/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_236"
+            "id": "q_plant_kingdom_botany_236",
+            "correct_option": 2
         },
         {
             "question": "थियोफ्रसे्टस को किसका जनक कहा जाता है?",
@@ -3577,7 +3757,8 @@
             "examName": "RPF Constable 2024 : 07 Mar, 2025 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_238"
+            "id": "q_plant_kingdom_botany_238",
+            "correct_option": 3
         },
         {
             "question": "निम्न में से किस रंगीन प्रकाश की आवृत्ति सबसे कम होती है?",
@@ -3592,7 +3773,8 @@
             "examName": "RRB NTPC Tier I : 2 Apr 2016 Shift 2",
             "examYear": "2016",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_239"
+            "id": "q_plant_kingdom_botany_239",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन भारत का सबसे पुराना परमाणु अनुसंधान रिएक्टर है?",
@@ -3607,7 +3789,8 @@
             "examName": "RRB NTPC CBT-I : 12 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_240"
+            "id": "q_plant_kingdom_botany_240",
+            "correct_option": 3
         },
         {
             "question": "' टच-मी-नॉट' (छुइमुई) पौधा किस परिवार से संबंधित है?",
@@ -3637,7 +3820,8 @@
             "examName": "RPF Constable 2018 11 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_242"
+            "id": "q_plant_kingdom_botany_242",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन स्वपोषी जीवों के उदाहरण हैं?",
@@ -3652,7 +3836,8 @@
             "examName": "RPF Constable 2018 19 Feb 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_243"
+            "id": "q_plant_kingdom_botany_243",
+            "correct_option": 1
         },
         {
             "question": "चावल के पौधों में' बकाने' (फूलिश सीडिंग) रोग का कारण कौन सा रोगाणु है?",
@@ -3667,7 +3852,8 @@
             "examName": "RRB NTPC CBT-I : 17 Feb 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_244"
+            "id": "q_plant_kingdom_botany_244",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा सही ढंग से सुमेलित नहीं है?",
@@ -3682,7 +3868,8 @@
             "examName": "RRB Group D 11/10/2022 Shift 3",
             "examYear": "2022",
             "type": "matchFollowing",
-            "id": "q_plant_kingdom_botany_245"
+            "id": "q_plant_kingdom_botany_245",
+            "correct_option": 1
         },
         {
             "question": "अंकुरण के दौरान बीज का कौन सा भाग जड़ बनाता है?",
@@ -3712,7 +3899,8 @@
             "examName": "RRB JE CBT-I : 22 May, 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_247"
+            "id": "q_plant_kingdom_botany_247",
+            "correct_option": 1
         },
         {
             "question": "' टच-मी-नॉट' पौधे का वैज्ञानिक नाम क्या है?",
@@ -3727,7 +3915,8 @@
             "examName": "RRB NTPC CBT-I : 9 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_248"
+            "id": "q_plant_kingdom_botany_248",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा एक फलीदार पादप है?",
@@ -3742,7 +3931,8 @@
             "examName": "RRB JE 25 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_249"
+            "id": "q_plant_kingdom_botany_249",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा पौधा रनर (धावक) के माध्यमें से प्रजनन करता है?",
@@ -3772,7 +3962,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_251"
+            "id": "q_plant_kingdom_botany_251",
+            "correct_option": 1
         },
         {
             "question": "इनमें से कौन सा ऑक्जेलिक अम्ल का प्राकृतिक स्रोत है?",
@@ -3787,7 +3978,8 @@
             "examName": "RPF SI Previous Paper : 5 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_252"
+            "id": "q_plant_kingdom_botany_252",
+            "correct_option": 1
         },
         {
             "question": "श्वेत प्रकाश के निम्नलिखित में से किस रंग में तरंग दैर्ध्य अधिकतम होती है?",
@@ -3802,7 +3994,8 @@
             "examName": "RRB JE 24 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_253"
+            "id": "q_plant_kingdom_botany_253",
+            "correct_option": 1
         },
         {
             "question": "मेंडल ने किस पौधे पर अपने प्रयोग किए?",
@@ -3817,7 +4010,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_254"
+            "id": "q_plant_kingdom_botany_254",
+            "correct_option": 1
         },
         {
             "question": "आम तौर पर, जानवरों की तुलना में पौधों को कम ऊर्जा की ज़रूरत होती है। इसका मुख्य कारण यह है:",
@@ -3862,7 +4056,8 @@
             "examName": "RPF SI CBT-I 2024 : 03 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_257"
+            "id": "q_plant_kingdom_botany_257",
+            "correct_option": 2
         },
         {
             "question": "रॉबट हुक ने कोशिका की खोज कैसे की?",
@@ -3877,7 +4072,8 @@
             "examName": "RRB NTPC CBT-I : 14 Mar 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_258"
+            "id": "q_plant_kingdom_botany_258",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा बहुकोशिकीय जीव, अलैंगिक जनन की एक सामान्य विधि के रूप में खंडन को दर्शाता है?",
@@ -3892,7 +4088,8 @@
             "examName": "RRB Level 01 Stage I 10/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_259"
+            "id": "q_plant_kingdom_botany_259",
+            "correct_option": 3
         },
         {
             "question": "________ समूह के पौधों को प्रायः शैवाल कहा जाता है। 2",
@@ -3907,7 +4104,8 @@
             "examName": "RRB Group D 4/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_260"
+            "id": "q_plant_kingdom_botany_260",
+            "correct_option": 3
         },
         {
             "question": "पौधों को ऊर्जा की आवश्यकता कम क्यों होती है?",
@@ -3922,7 +4120,8 @@
             "examName": "RRB Group D 24 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_261"
+            "id": "q_plant_kingdom_botany_261",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से क्या सामान्यतः स्पर्श के प्रति संवेदी होते हैं तथा पादपों को ऊपर चढ़ने में सहायता करते हैं?",
@@ -3937,7 +4136,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_262"
+            "id": "q_plant_kingdom_botany_262",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन दाद (रिंगवम) का कारण है?",
@@ -3952,7 +4152,8 @@
             "examName": "RRB JE 26 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_263"
+            "id": "q_plant_kingdom_botany_263",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा जीव पुनर्जनन विधि द्वारा प्रजनन करता है?",
@@ -3967,7 +4168,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_264"
+            "id": "q_plant_kingdom_botany_264",
+            "correct_option": 3
         },
         {
             "question": "ब्रेड फफूंदी में प्रजनन में शामिल ऊर्ध्वव तंतुओं पर सूक्ष्म गुच्छ (tiny blob-on- a-stick) संरचनाओं को _________ के नाम से जाना जाता है।",
@@ -3997,7 +4199,8 @@
             "examName": "RRB Group D 9/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_266"
+            "id": "q_plant_kingdom_botany_266",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन से बीज जानवरों द्वारा फैलाए जाते हैं, विशेष रूप से हुक वाले काँटेदार बीज, जो उनके शरीर से चिपक जाते हैं और दूर स्थानों तक ले जाए जाते हैं?",
@@ -4012,7 +4215,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_267"
+            "id": "q_plant_kingdom_botany_267",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सी द्विबीजपत्री पौधों की विशेषता नहीं है?",
@@ -4027,7 +4231,8 @@
             "examName": "RRB Group D 23/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_268"
+            "id": "q_plant_kingdom_botany_268",
+            "correct_option": 3
         },
         {
             "question": "खंडन द्वारा अलैंगिक प्रजनन होता है:",
@@ -4042,7 +4247,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_269"
+            "id": "q_plant_kingdom_botany_269",
+            "correct_option": 1
         },
         {
             "question": "कौन-सा पादप ऊतक, जड़ों से पत्तियों तक जल का परिवहन करने के लिए उत्तरादायी होता है?",
@@ -4057,7 +4263,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 18/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_270"
+            "id": "q_plant_kingdom_botany_270",
+            "correct_option": 2
         },
         {
             "question": "_________ संवहनी ऊतक वाले पहले स्थलीय पादप थे।",
@@ -4072,7 +4279,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_271"
+            "id": "q_plant_kingdom_botany_271",
+            "correct_option": 3
         },
         {
             "question": "मानव आँख में ________ अंडाकार धब्बा सबसे अच्छी दृष्टि का क्षेत्र होता है।",
@@ -4087,7 +4295,8 @@
             "examName": "RRB NTPC CBT-I : 16 Feb 2021 Shift 2",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_272"
+            "id": "q_plant_kingdom_botany_272",
+            "correct_option": 3
         },
         {
             "question": "निम्न में से कौन जिम्नोस्पर्म (Gymnosperm) है?",
@@ -4102,7 +4311,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_273"
+            "id": "q_plant_kingdom_botany_273",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सी कठोर लकड़ी है?",
@@ -4117,7 +4327,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_274"
+            "id": "q_plant_kingdom_botany_274",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-से लक्षण का अध्ययन मेंडल ने मटर के पौधों में नहीं किया?",
@@ -4132,7 +4343,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_275"
+            "id": "q_plant_kingdom_botany_275",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किसे वनस्पति जगत का उभयचर कहा जाता है?",
@@ -4162,7 +4374,8 @@
             "examName": "RRB Group D 11/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_277"
+            "id": "q_plant_kingdom_botany_277",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन -सा एक ब्रायोफाइट नहीं है?",
@@ -4177,7 +4390,8 @@
             "examName": "RRB Group D 25/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_278"
+            "id": "q_plant_kingdom_botany_278",
+            "correct_option": 2
         },
         {
             "question": "______ एक एकबीजपत्री पौधा है।",
@@ -4192,7 +4406,8 @@
             "examName": "RRB Group D 26/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_279"
+            "id": "q_plant_kingdom_botany_279",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किसकी उपस्थिति जटिल पादपों का एक विशिष्ट लक्षण है जिसने स्थलीय पयावरण में उनकी उत्तरजीविता को संभव बनाया है?",
@@ -4207,7 +4422,8 @@
             "examName": "RRB Group D 6 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_280"
+            "id": "q_plant_kingdom_botany_280",
+            "correct_option": 2
         },
         {
             "question": "निम्न में से कौन सा औषधीय पौधा रक्तचाप के इलाज के लिए सबसे अच्छा उपाय है?",
@@ -4222,7 +4438,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_281"
+            "id": "q_plant_kingdom_botany_281",
+            "correct_option": 3
         },
         {
             "question": "___________ खंडित तना (segmented stem) हैं जो भूमि के अंदर क्षैतिज दिशा में बढ़ते हैं।",
@@ -4237,7 +4454,8 @@
             "examName": "RRB JE CBT I - : 30 May 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_282"
+            "id": "q_plant_kingdom_botany_282",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा जीव, प्रजनन की बहुविखंडन मोड के माध्यमें से गुणन करता है?",
@@ -4252,7 +4470,8 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_283"
+            "id": "q_plant_kingdom_botany_283",
+            "correct_option": 3
         },
         {
             "question": "असंतृप्त कार्बन यौगिक बहुत सारे काले धुएं के साथ एक _______ लौ प्रदान करेगा।",
@@ -4282,7 +4501,8 @@
             "examName": "RRB JE 28 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_285"
+            "id": "q_plant_kingdom_botany_285",
+            "correct_option": 2
         },
         {
             "question": "एक किसान बेहतर बेकिंग गुणवत्ता (baking quality) और सूखा प्रतिरोधी क्षमता वाले गयहूँ की खेती करना चाहता है। फसल की किस्म में सुधार हेतु किन दो विशेषताओं को लक्षित किया जाना चाहिए?",
@@ -4297,7 +4517,8 @@
             "examName": "RRB JE 25/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_286"
+            "id": "q_plant_kingdom_botany_286",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस पदार्थ को पयावरण में प्राकृतिक रूप से विघटित होने में सबसे अधिक समय लगेगा?",
@@ -4312,7 +4533,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_287"
+            "id": "q_plant_kingdom_botany_287",
+            "correct_option": 1
         },
         {
             "question": "ऐकेशिया प्रजाति के पादप का वह रूपांतरित पणवृंत जो पण-फलक जैसा दिखता है, उसे __________________ कहा जाता है।",
@@ -4327,7 +4549,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 19/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_288"
+            "id": "q_plant_kingdom_botany_288",
+            "correct_option": 1
         },
         {
             "question": "_______ कोशिका विभाजन को बढ़ावा देता है।",
@@ -4342,7 +4565,8 @@
             "examName": "RRB Group D 24/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_289"
+            "id": "q_plant_kingdom_botany_289",
+            "correct_option": 2
         },
         {
             "question": "परागकण से अंडाशय तक पहुँचने के लिए जो नलिका उगती है, वह किसके माध्यमें से जाती है?",
@@ -4357,7 +4581,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_290"
+            "id": "q_plant_kingdom_botany_290",
+            "correct_option": 2
         },
         {
             "question": "पौधे के निम्नलिखित में से कौन सा भाग हमेशा नीचे की ओर बढ़ता है?",
@@ -4372,7 +4597,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_291"
+            "id": "q_plant_kingdom_botany_291",
+            "correct_option": 1
         },
         {
             "question": "सुक्रोज प्राकृतिक रूप से किसमें पाया जाता है?",
@@ -4387,7 +4613,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_292"
+            "id": "q_plant_kingdom_botany_292",
+            "correct_option": 3
         },
         {
             "question": "शैवाल निम्नलिखित में से किस समूह से संबंधित हैं?",
@@ -4402,7 +4629,8 @@
             "examName": "RRB Group D 24/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_293"
+            "id": "q_plant_kingdom_botany_293",
+            "correct_option": 1
         },
         {
             "question": "मकड़ी के अध्ययन को क्या कहा जाता है?",
@@ -4417,7 +4645,8 @@
             "examName": "RPF Constable 2018 19 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_294"
+            "id": "q_plant_kingdom_botany_294",
+            "correct_option": 3
         },
         {
             "question": "पौधों में साइटोकाइनिन, _________ होता है। - P Q₁₉₂₈. Solution: सही उत्तर है थैलोफाइटा (Thallophyta) Explanation: लाइकेन (Lichen) पादप जगत के थैलोफाइटा (Thallophyta) विभाग के अंतर्गत आता है। थैलोफाइटा (Thallophyta) वनस्पति विज्ञान की एक प्राचीन श्रेणी है, जिसमें वे पौधे शामिल हैं जिनका शरीर जड़, तना और पत्तियों में विभाजित नहीं होता, बल्कि एक थैलस (thallus) के रूप में होता है। लाइकेन (Lichen) एक सहजीवी (symbiotic) संरचना है, जिसमें एक कवक (fungus) और एक शैवाल (algae) या सायनोबैक्टीरिया परस्पर लाभप्रद संबंध में रहते हैं। यह वर्गीकरण पादप जगत के पांच मुख्य विभागों में से एक है, जिसमें शैवाल, कवक और लाइकेन (Lichen) शामिल हैं। ब्रायोफाइटा (Bryophyta), टेरिडोफाइटा (Pteridophyta) और एंजियोस्पर्म (Angiosperm) विभागों में पादप शरीर जड़, तना और पत्तियों में विभेदित होता है, जबकि लाइकेन (Lichen) में ऐसा नहीं होता। Important one-liners for upcoming exams: ☛ लाइकेन (Lichen) में कौन से दो घटक होते हैं? → कवक और शैवाल ☛ थैलोफाइटा (Thallophyta) के अंतर्गत कौन-कौन से पादप आते हैं? → शैवाल, कवक और लाइकेन (Lichen) ☛ कौन सा विभाग पादप जगत का सबसे सरल विभाग है? → थैलोफाइटा (Thallophyta) ☛ लाइकेन (Lichen) को किसमें शामिल किया जाता है? → थैलोफाइटा (Thallophyta) ☛ किस पादप में जड़, तना और पत्ती नहीं होते? → थैलोफाइटा (Thallophyta) Q₁₉₂₉. Solution: सही उत्तर है भ्रूण Explanation: बीज में भविष्य का पौधा भ्रूण के रूप में होता है। भ्रूण एक संरचना है जो निषेचन के बाद बीजांड से विकसित होती है। इसमें भ्रूणीय जड़ (रेडिकल), भ्रूणीय प्ररोह (प्लमें्यूल), और बीजपत्र (कोटिलीडॉन) होते हैं। भ्रूण अंकुरण के दौरान विकसित होकर एक नए पौधे का निर्माण करता है। बीजांड निषेचन से पहले का अंडा होता है, वर्तिकाग्र मादा प्रजनन अंग का भाग है, और अंडाशय में बीजांड होते हैं। इसलिए भ्रूण सही उत्तर है। Important one-liners for upcoming exams:",
@@ -4432,7 +4661,8 @@
             "examName": "RRB Group D 4 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_plant_kingdom_botany_295"
+            "id": "q_plant_kingdom_botany_295",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा/से जीव एककोशिकीय नहीं है/हैं?",
@@ -4447,7 +4677,8 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_296"
+            "id": "q_plant_kingdom_botany_296",
+            "correct_option": 1
         },
         {
             "question": "पौधों में लैंगिक प्रजनन का अंतिम उत्पाद क्या है?",
@@ -4462,7 +4693,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_297"
+            "id": "q_plant_kingdom_botany_297",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा सैप्रोफाइटिक कवक है?",
@@ -4477,7 +4709,8 @@
             "examName": "RRB NTPC CBT-I : 3 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_298"
+            "id": "q_plant_kingdom_botany_298",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किसके कंटकी (काँटेदार) बीज, जिनमें हुक जैसी संरचनाएँ होती हैं, जंतुओं के शरीर से चिपककर प्रकीर्णित होते हैं?",
@@ -4492,7 +4725,8 @@
             "examName": "RRB Level 01 Stage I 26/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_plant_kingdom_botany_299"
+            "id": "q_plant_kingdom_botany_299",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा पौधा, एकलिंगी है? Plant Kingdom (Botany) ☛ भ्रूण के तीन मुख्य भाग कौन से हैं? → रेडिकल, प्लमें्यूल, कोटिलीडॉन ☛ एकबीजपत्री पौधों में कितने बीजपत्र होते हैं? → एक ☛ द्विबीजपत्री पौधों में कितने बीजपत्र होते हैं? → दो ☛ बीज में भोजन का भंडारण किसमें होता है? → भ्रूणपोष ☛ अंकुरण के लिए आवश्यक शर्तें → जल, वायु, उपयुक्त तापमान Q₁₉₃₀. सही उत्तर: मेजोफिल (Mesophyll) व्याख्या: पौधों की पत्तियों में, ऊपरी एपीडर्मिस और निचले एपीडर्मिस के बीच स्थित ऊतक को मेजोफिल (Mesophyll) कहा जाता है। यह ऊतक मुख्य रूप से प्रकाश संश्लेषण के लिए जिम्मेदार होता है। मेजोफिल (Mesophyll) आमतौर पर दो परतों में विभाजित होता है: पैलिसेड मेजोफिल (Mesophyll) (ऊपरी परत जिसमें क्लोरोप्लास्ट से भरी सघन, स्तंभाकार कोशिकाएँ होती हैं जो अधिकतम प्रकाश अवशोषण करती हैं) और स्पंजी मेजोफिल (Mesophyll) (निचली परत जिसमें ढीली व्यवस्थित कोशिकाएँ और वायु रिक्त स्थान होते हैं जो गैस विनिमय को सुगर्म बनाते हैं)। विकल्प 1 सही है क्योंकि मेजोफिल (Mesophyll) विशेष रूप से इस प्रकाश संश्लेषक आधार ऊतक को संदर्भित करता है। विकल्प 2 (पिथ) गलत है क्योंकि यह तनों और जड़ों में केंद्रीय ऊतक होता है, पत्तियों में नहीं। विकल्प 3 (वस्कुलर बंडल) गलत है; ये संवहनी ऊतक (जाइलम और फ्लोएम) होते हैं जो आमतौर पर शिराओं में पाए जाते हैं, एपीडर्मिस के बीच पूरे ऊतक में नहीं। विकल्प 4 (स्टोमेटा (Stomata)) गलत है; ये एपीडर्मिस में गैस विनिमय के लिए छिद्र होते हैं, ऊतक परत नहीं। परीक्षा के लिए अतिरिक्त तथ्य: • मेजोफिल (Mesophyll) में क्लोरोफिल वर्णक युक्त क्लोरोप्लास्ट होते हैं जो प्रकाश संश्लेषण के लिए आवश्यक हैं। • स्टोमेटा (Stomata) के चारों ओर रक्षक कोशिकाएँ वाष्पोत्सजन और गैस विनिमय को नियंत्रित करने के लिए उनके खुलने और बंद होने को नियंत्रित करती हैं। • एपीडर्मिस पर क्यूटिकल , एक मोमी परत, पत्तियों से जल हानि को कम करने में मदद करती है। • घास जैसे कुछ पौधों में, मेजोफिल (Mesophyll) पैलिसेड और स्पंजी परतों में विभेदित नहीं होता है। •",

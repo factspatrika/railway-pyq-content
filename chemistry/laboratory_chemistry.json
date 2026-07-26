@@ -6,7 +6,7 @@
         {
             "question": "प्रयोगशाला में पदार्थों को गर्म करके वाष्पीकृत करने के लिए किस चीनीमिट्टी के बर्तन का उपयोग किया जाता है?",
             "options": [
-                "वाष्पीकरण (Evaporation)",
+                "N/A",
                 "आसवन (Distillation)",
                 "निस्यंदन (Filtration)",
                 "अनुमापन (Titration)"
@@ -33,7 +33,8 @@
             "examName": "RRB Group D 7/10/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_laboratory_chemistry_2"
+            "id": "q_laboratory_chemistry_2",
+            "correct_option": 1
         },
         {
             "question": "उदासीन लिटमस विलयन का रंग ______ है।",
@@ -48,7 +49,8 @@
             "examName": "RRB Group D 24/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_laboratory_chemistry_3"
+            "id": "q_laboratory_chemistry_3",
+            "correct_option": 3
         },
         {
             "question": "NO₂ के धुएं का रंग ________ होता है।",
@@ -63,7 +65,8 @@
             "examName": "RRB Group D 22/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_laboratory_chemistry_4"
+            "id": "q_laboratory_chemistry_4",
+            "correct_option": 1
         },
         {
             "question": "भ्रूण के विकास की निगरानी करने के लिए, _____ की नवीनतम तकनीक का उपयोग किया जाता है।",
@@ -78,7 +81,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_laboratory_chemistry_5"
+            "id": "q_laboratory_chemistry_5",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से कौन तृतीय श्रेणी के उत्तोलक का उदाहरण है?",
@@ -93,7 +97,8 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_laboratory_chemistry_6"
+            "id": "q_laboratory_chemistry_6",
+            "correct_option": 2
         },
         {
             "question": "एक्वा रेजिया ________ अनुपात में संकेन्द्रि त HNO और संकेन्द्रि त HCl का मिश्रण है। 3",
@@ -108,7 +113,8 @@
             "examName": "RRB Group D 25/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_laboratory_chemistry_7"
+            "id": "q_laboratory_chemistry_7",
+            "correct_option": 3
         },
         {
             "question": "विनिर्माण में टेट्राक्लोरोमेथेन का मुख्यतः किस लिए उपयोग किया जाता है?",
@@ -123,7 +129,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 09 Jun, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_laboratory_chemistry_8"
+            "id": "q_laboratory_chemistry_8",
+            "correct_option": 2
         },
         {
             "question": "CuCl₂ विलयन का रंग कैसा होता है?",
@@ -138,7 +145,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_laboratory_chemistry_9"
+            "id": "q_laboratory_chemistry_9",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा अल्ट्रासाउंड का अनुप्रयोग नहीं है?",
@@ -153,7 +161,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_laboratory_chemistry_10"
+            "id": "q_laboratory_chemistry_10",
+            "correct_option": 3
         },
         {
             "question": "सोडियम क्लोराइड से अमोनियम क्लोराइड को अलग करने के लिए आप निम्नलिखित मे से किस प्रक्रिया का उपयोग करेंगे?",
@@ -168,12 +177,13 @@
             "examName": "RRB Group D 11 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_laboratory_chemistry_11"
+            "id": "q_laboratory_chemistry_11",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा इलेक्ट्रोप्लेटिंग का व्युत्क्रम है?",
             "options": [
-                "लैपिंग",
+                "इलेक्ट्रॉनरोपॉलिशिंग",
                 "इलेक्ट्रोपॉलिशिंग",
                 "सुपरफिनिशिंग",
                 "होनिंग"
@@ -198,7 +208,8 @@
             "examName": "RRB NTPC UG CBT-I : 19 Aug, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_laboratory_chemistry_13"
+            "id": "q_laboratory_chemistry_13",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सी विधि लोहे को जंग लगने से रोकने के लिए उपयोग नहीं की जाती है?",
@@ -213,7 +224,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_laboratory_chemistry_14"
+            "id": "q_laboratory_chemistry_14",
+            "correct_option": 3
         },
         {
             "question": "कॉलॉइडी कणों के पृथक्करण के लिए कौन-सी तकनीक उपयोगी है?",
@@ -228,7 +240,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_laboratory_chemistry_15"
+            "id": "q_laboratory_chemistry_15",
+            "correct_option": 1
         },
         {
             "question": "दी गई रासायनिक अभिक्रिया में फेरस सल्फेट का रंग क्या है? 2FeSO₄ (s) → Fe₂O₃ (s) + SO₂ (g) + SO₃ (g)",
@@ -243,7 +256,8 @@
             "examName": "RRB Group D 27 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_laboratory_chemistry_16"
+            "id": "q_laboratory_chemistry_16",
+            "correct_option": 2
         },
         {
             "question": "अल्कोहल को नीले रंग का बनाने के लिए उसमें रंगों को मिलाया जाता है ताकि इसे आसानी से पहचाना जा सके। इस अल्कोहल को ________ अल्कोहल कहा जाता है।",
@@ -258,7 +272,8 @@
             "examName": "RRB Group D 24/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_laboratory_chemistry_17"
+            "id": "q_laboratory_chemistry_17",
+            "correct_option": 2
         },
         {
             "question": "लिटमस विलयन के बारे में निम्नलिखित में से कौन-सा कथन सही है?",
@@ -273,7 +288,8 @@
             "examName": "RRB Group D 30 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_laboratory_chemistry_18"
+            "id": "q_laboratory_chemistry_18",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किसमें CFC का उपयोग नहीं किया जाता है?",
@@ -288,7 +304,8 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_laboratory_chemistry_19"
+            "id": "q_laboratory_chemistry_19",
+            "correct_option": 1
         },
         {
             "question": "आजकल खाद्य पदार्थों में नाइट्रोजन और प्रोटीन की मात्रा निर्धारित करने के लिए निम्नलिखित में से किस विधि का सबसे अधिक उपयोग किया जाता है?",
@@ -318,7 +335,8 @@
             "examName": "RRB JE CE 19 Sept 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_laboratory_chemistry_21"
+            "id": "q_laboratory_chemistry_21",
+            "correct_option": 2
         },
         {
             "question": "विज्ञान प्रयोगशाला में एक गतिविधि करते समय एक छात्र के शट पर दाग लग गया। दाग हटाने के लिए उसे किस रसायन का उपयोग करना चाहिए? Q₆₇₅₈. Solution: सही उत्तर है Option 1 (पहली छवि) Explanation: चीनीमिट्टी के बतन (चाइना डिश) आमतौर पर सफेद, चिकने और चमकदार होते हैं, जिनमें नीले या रंगीन डिज़ाइन हो सकते हैं। Option 1 में दशाया गया बतन इन विशेषताओं से मेल खाता है। चीनीमिट्टी मिट्टी के बतनों की एक श्रेणी है जो काओलिन मिट्टी से बनाई जाती है और उच्च तापमान पर पकाई जाती है। यह अपनी मजबूती और पारदर्शिता के लिए जानी जाती है। अन्य विकल्पों में मिट्टी के बतन या अन्य प्रकार के सिरेमिक हो सकते हैं, लेकिन चीनीमिट्टी के बतन की पहचान उसके सफेद रंग और चमक से होती है। Important one-liners for upcoming exams: ☛ चीनीमिट्टी बनाने में प्रयुक्त मुख्य मिट्टी कौन सी है? → काओलिन ☛ चीनीमिट्टी के बतन किस तापमान पर पकाए जाते हैं? → 1200°C से 1400°C ☛ चीनीमिट्टी का सबसे प्रसिद्ध देश कौन सा है? → चीन ☛ चीनीमिट्टी को अंग्रेजी में क्या कहते हैं? → पोसलेन ☛ चीनीमिट्टी के बतनों की विशेषता क्या है? → पारदर्शी और मजबूत Q₆₇₅₉. Solution: सही उत्तर है पेस्ट नीले-काले रंग का हो जाता है Explanation:",
@@ -338,7 +356,7 @@
         {
             "question": "धातूकांतून अपखनिज काढून टाकण्यासाठी वापरल्या जाणाऱ्या प्रक्रियेला त्यांच्या रासायनिक किंवा भौतिक गुणधर्मांतील फरकाच्या आधारावर कायिकी केले जाते आणि त्याला धातुकचे ______ म्हणतात.",
             "options": [
-                "उजाळण (पॉलिशिंग)",
+                "समृद्धन (Enrichment)",
                 "रंजक (कलरींग)",
                 "समृद्धन (इन्चिर्मेन्ट)",
                 "तोलन (वेईंग)"
@@ -378,7 +396,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_laboratory_chemistry_25"
+            "id": "q_laboratory_chemistry_25",
+            "correct_option": 2
         },
         {
             "question": "लिटमस विलयन एक बैंगनी डाई है, जिसे ______ से निकाला जाता है।",
@@ -393,7 +412,8 @@
             "examName": "RRB Group D 12 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_laboratory_chemistry_26"
+            "id": "q_laboratory_chemistry_26",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किन पुर्जों को अल्ट्रासाउंड का उपयोग करके साफ किया जाता है?",
@@ -408,7 +428,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_laboratory_chemistry_27"
+            "id": "q_laboratory_chemistry_27",
+            "correct_option": 2
         },
         {
             "question": "यदि मौसम बहुत आर्द्र हो तो आपको उत्सर्जित गैस को _______ वाली शुष्क नली के माध्यमें से निकालना होगा। - Laboratory Chemistry चावल के आटे में स्टार्च पाया जाता है। आयोडीन विलयन, स्टार्च के साथ अभिक्रिया करके नीले- काले रंग का कॉम्प्लेक्स बनाता है। यह रासायनिक परीक्षण स्टार्च की उपस्थिति की पहचान के लिए किया जाता है। स्टार्च एक पॉलीसेकेराइड है जो ग्लूकोज की इकाइयों से बना होता है। आयोडीन स्टार्च के एमाइलोज और एमाइलोपेक्टिन अणुओं के बीच में प्रवेश कर प्रकाश के अवशोषण के कारण यह रंग बदलता है। अन्य विकल्प गलत हैं क्योंकि कोई धुआं, झाग या आसमानी रंग नहीं बनता। Important one-liners for upcoming exams: ☛ स्टार्च की पहचान के लिए किस विलयन का उपयोग किया जाता है? → आयोडीन विलयन ☛ स्टार्च और आयोडीन की अभिक्रिया से कौन सा रंग बनता है? → नीला-काला ☛ स्टार्च किसका पॉलिमर है? → ग्लूकोज ☛ स्टार्च में पाए जाने वाले दो घटक कौन से हैं? → एमाइलोज और एमाइलोपेक्टिन ☛ आयोडीन परीक्षण में सकारात्मक परिणाम क्या होता है? → नीले-काले रंग का बनना Q₆₇₆₀. Solution: सही उत्तर है बैंगनी Explanation: लिटमस एक प्राकृतिक संकेतक है जो लाइकेन से प्राप्त होता है। उदासीन विलयन में लिटमस का रंग बैंगनी होता है। अम्लीय विलयन में यह लाल हो जाता है और क्षारीय विलयन में नीला। लिटमस पेपर को दो रूपों में उपयोग किया जाता है: नीला लिटमस पेपर अम्ल में लाल हो जाता है, जबकि लाल",
@@ -423,7 +444,8 @@
             "examName": "RRB Group D 11/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_laboratory_chemistry_28"
+            "id": "q_laboratory_chemistry_28",
+            "correct_option": 3
         }
     ]
 }

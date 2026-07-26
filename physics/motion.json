@@ -16,7 +16,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_1"
+            "id": "q_motion_1",
+            "correct_option": 3
         },
         {
             "question": "कोई कण एक सरल रेखा में गतिमान है। कण 8 सेकंड में 40 m का विस्थापन तय करता है। इसका औसत वेग कितना है?",
@@ -31,7 +32,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_2"
+            "id": "q_motion_2",
+            "correct_option": 3
         },
         {
             "question": "जब कोई वस्तु एकसमान वेग से गतिमान होती है, तो उसका त्वरण कितना होता है?",
@@ -46,7 +48,8 @@
             "examName": "RRB Group D 1/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_3"
+            "id": "q_motion_3",
+            "correct_option": 3
         },
         {
             "question": "_______ को किसी वस्तु द्वारा तय की गई कुल पथ लंबाई और गति के कुल समयांतराल के अनुपात के रूप में परिभाषित किया जाता है।",
@@ -61,7 +64,8 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_motion_4"
+            "id": "q_motion_4",
+            "correct_option": 2
         },
         {
             "question": "एक ध्वनि तरंग की तरंगदैर्ध्य (Wavelength)0.5 m और आवृत्ति 680 Hz है। ध्वनि की चाल कितनी है?",
@@ -91,7 +95,8 @@
             "examName": "RPF Constable 2024 03 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_6"
+            "id": "q_motion_6",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प इधर-उधर दोलन करते हुए लोलक की गति को परिभाषित नहीं करता है?",
@@ -106,7 +111,8 @@
             "examName": "RRB JE 20/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_7"
+            "id": "q_motion_7",
+            "correct_option": 2
         },
         {
             "question": "एक दौड़ में, एक लड़का विरामावस्था से दौड़ना शुरू करता है और 5 मिनट में 60 m/s के वेग तक पहुंच जाता है। यदि त्वरण एकसमान है, तो इस अवधि के दौरान लड़के द्वारा तय की गई दूरी और त्वरण क्रमशः _______ और _____ हैं।",
@@ -136,7 +142,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_9"
+            "id": "q_motion_9",
+            "correct_option": 2
         },
         {
             "question": "0.5 kg द्रव्यमान की एक गेंद ऊर्ध्वावाधर ऊपर की ओर फेंकी जाती है और 20 m की ऊँचाई तक पहुँचती है। गेंद का प्रारंभिक वेग है:",
@@ -156,7 +163,7 @@
         {
             "question": "किसी कण का वेग-समय ग्राफ, ऋणात्मक प्रवणता वाली एक सरल रेखा है। यह कण की गति के बारे में क्या इंगित करती है?",
             "options": [
-                "कण, विराम में है।",
+                "यदि कण, धनात्मक दिशा में गति कर रहा है, तो उसकी गति धीमी हो रही है。",
                 "यदि कण, धनात्मक दिशा में गति कर रहा है, तो उसकी गति धीमी हो रही है।",
                 "कण, बढ़ते त्वरण के साथ गति कर रहा है।",
                 "कण, धनात्मक दिशा में शीघ्रता से बढ़ रहा है।"
@@ -181,7 +188,8 @@
             "examName": "RPF Constable 2024 : 17 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_12"
+            "id": "q_motion_12",
+            "correct_option": 1
         },
         {
             "question": "एक वस्तु को 14 ms की चाल से ऊपर की ओर फेंका गया और यह 10 m ऊपर गया। उच्चतम बिंदु तक पहुँचने के लिए वस्तु द्वारा लिए गए समय की गणना करें।",
@@ -196,7 +204,8 @@
             "examName": "RRB Group D 6 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_13"
+            "id": "q_motion_13",
+            "correct_option": 1
         },
         {
             "question": "औसत वेग का सूत्र क्या है?",
@@ -211,7 +220,8 @@
             "examName": "RRB Group D 28/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_14"
+            "id": "q_motion_14",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा वेग समय संबंध के लिए समीकरण है?",
@@ -226,7 +236,8 @@
             "examName": "RRB Group D 24/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_15"
+            "id": "q_motion_15",
+            "correct_option": 3
         },
         {
             "question": "धारावाही परिनालिका के अन्दर चुंबकीय क्षेत्र रेखाएँ किस प्रकार विन्यासित होती हैं?",
@@ -241,12 +252,13 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_16"
+            "id": "q_motion_16",
+            "correct_option": 1
         },
         {
             "question": "प्रक्षेप्य की अधिकतम ऊंचाई को इनमें से किस सूत्र द्वारा व्यक्त किया जाता है?",
             "options": [
-                "(u² sin² α)/2g",
+                "(u 2 sin 2 α)/2g",
                 "(u² cos² α)/2g",
                 "(u² sin 2α)/g",
                 "(u² cos 2α)/2g"
@@ -271,12 +283,13 @@
             "examName": "RPF SI Previous Paper : 5 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_motion_18"
+            "id": "q_motion_18",
+            "correct_option": 3
         },
         {
             "question": "एकसमान वृत्तीय गति में वेग की दिशा क्या होती है?",
             "options": [
-                "वृत्त की स्पर्श रेखा के अनुदिश",
+                "वृत्ताच्या स्पर्शिकासह",
                 "वृत्त की त्रिज्या के अनुदिश",
                 "वृत्त के केंद्र की ओर",
                 "वृत्त से दूर"
@@ -301,7 +314,8 @@
             "examName": "RPF Constable 2024 04 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_20"
+            "id": "q_motion_20",
+            "correct_option": 3
         },
         {
             "question": "मोटर द्वारा प्रति इकाई समय में किया गया कार्य ________ कहलाता है।",
@@ -331,7 +345,8 @@
             "examName": "RRB Group D 25/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_motion_22"
+            "id": "q_motion_22",
+            "correct_option": 2
         },
         {
             "question": "सीधी सड़क पर 123 km/hr की स्थिर चाल से गतिमान कार ________ का उदाहरण है।",
@@ -406,7 +421,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_27"
+            "id": "q_motion_27",
+            "correct_option": 1
         },
         {
             "question": "एकसमान गति के लिए निम्नलिखित में से कौन-सा कथन सही है?",
@@ -421,7 +437,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_28"
+            "id": "q_motion_28",
+            "correct_option": 1
         },
         {
             "question": "औसत चाल के बारे में निम्नलिखित में से कौन सा कथन सत्य नहीं है?",
@@ -451,7 +468,8 @@
             "examName": "RPF Constable 2024 05 Mar, 2025 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_30"
+            "id": "q_motion_30",
+            "correct_option": 2
         },
         {
             "question": "कोई वस्तु विरामावस्था से गति करना शुरू करती है। यह 2 sec में 5 m/s की चाल प्राप्त कर लेती है। इसका त्वरण _____ होगा।",
@@ -481,7 +499,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_motion_32"
+            "id": "q_motion_32",
+            "correct_option": 3
         },
         {
             "question": "आंतरायिक द्वारा विभाजित वेग में परिवर्तन होने पर क्या परिवर्तन प्राप्त होता है?",
@@ -496,7 +515,8 @@
             "examName": "RPF SI Previous Paper : 5 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_motion_33"
+            "id": "q_motion_33",
+            "correct_option": 1
         },
         {
             "question": "एक कार विरामावस्था से चलना प्रारंभ करती है और 5 सेकंड के लिए 2 m/sec 2 पर समान रूप से त्वरित होती है। 5 सेकंड के अंत में कार का वेग कितना होगा?",
@@ -511,7 +531,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_34"
+            "id": "q_motion_34",
+            "correct_option": 3
         },
         {
             "question": "दूरी-समय ग्राफ का ढलान निम्नलिखित में से क्या दर्शाता है?",
@@ -526,7 +547,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_35"
+            "id": "q_motion_35",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन, पदार्थ के कणों के निरंतर संचलन को सही ढंग से समझाता है?",
@@ -541,7 +563,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_36"
+            "id": "q_motion_36",
+            "correct_option": 1
         },
         {
             "question": "एक गेंद जिसे लंबवत ऊपर की ओर फेंका जाता है वह 12 सेकंड के बाद जमीन पर वापस आती है। वह वेग ज्ञात कीजिए जिससे इसे उपर फेंका गया था। (g = 10 m/s²)?",
@@ -556,12 +579,13 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_37"
+            "id": "q_motion_37",
+            "correct_option": 3
         },
         {
             "question": "एकसमान त्वरण के लिए v–t ग्राफ में, निम्नलिखित में से कौन-सा विकल्प सही नहीं है?",
             "options": [
-                "v–t ग्राफ सदैव वक्रित होता है।",
+                "v–t ग्राफ सदैव वक्रित होता है。",
                 "v–t ग्राफ के नीचे का क्षेत्रफल विस्थापन देता है।",
                 "v–t ग्राफ की प्रवणता नियत होती है।",
                 "धनात्मक प्रवणता त्वरण को इंगित करती है।"
@@ -586,7 +610,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_39"
+            "id": "q_motion_39",
+            "correct_option": 1
         },
         {
             "question": "गति का दूसरा समीकरण ________ और समय के बीच संबंध प्रदान करता है।",
@@ -601,7 +626,8 @@
             "examName": "RRB Group D 28/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_motion_40"
+            "id": "q_motion_40",
+            "correct_option": 1
         },
         {
             "question": "विरामावस्था से एक कार, एक सीधी सड़क पर 8 s तक 3.0 ms की एक नियत दर से त्वरित होती है। इस समयावधि में कार द्वारा तय की गई दूरी ज्ञात कीजिए।",
@@ -616,7 +642,8 @@
             "examName": "RRB Group D 17 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_41"
+            "id": "q_motion_41",
+            "correct_option": 2
         },
         {
             "question": "द्रव्यमान ’ m' kg के ड्रम को रैंप पर उतारा गया। रैंप के तल पर इसकी गतिज ऊर्जा 10 kJ थी और वेग 20 m/s था। यदि इसकी प्रारंभिक गतिज ऊर्जा 625 J थी तो किस वेग के साथ (m/s में) इसे रैंप से नीचे धकेला गया था?",
@@ -636,7 +663,7 @@
         {
             "question": "निम्नलिखित में से कौन-सा समीकरण एकसमान त्वरण से गतिमान वस्तु के लिए भौतिक राशियों के बीच संबंध को सही ढंग से नहीं दर्शाता है?",
             "options": [
-                "v=u+at",
+                "2as=v₂+u₂",
                 "2as=v² + u²",
                 "s=ut+1/2at²",
                 "v² - u²=2as"
@@ -661,7 +688,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_44"
+            "id": "q_motion_44",
+            "correct_option": 2
         },
         {
             "question": "किसी भी समय कार की ________ गति उसके स्पीडोमीटर द्वारा निधारित किया जा सकता है।",
@@ -676,7 +704,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_motion_45"
+            "id": "q_motion_45",
+            "correct_option": 1
         },
         {
             "question": "रेशमा 120 m लंबे पूल में तैरकर आगे जाती है और वापस आती है तथा 1 मिनट में कुल 240 m की दूरी तय करती है। उसका औसत वेग ज्ञात कीजिए। -2?",
@@ -736,7 +765,8 @@
             "examName": "RRB Level 01 Stage I 17/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_49"
+            "id": "q_motion_49",
+            "correct_option": 3
         },
         {
             "question": "10 km/hr का मान SI मात्रक में क्या होगा?",
@@ -751,12 +781,13 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_50"
+            "id": "q_motion_50",
+            "correct_option": 2
         },
         {
             "question": "एक साइकिल चालक, एक-समान वृत्तीय गति करते हुए अपनी गति की दिशा में एक सेब फेंकता है, सेब ____________ में गति करेगा।",
             "options": [
-                "उस बिंदु पर वृत्तीय पथ के स्पर्श-रेखीय पथ",
+                "उस बिंदु पर वृत्तीय पथ के स्पश-रेखीय पथ",
                 "साइकिल चालक के विपरीत वृत्तीय पथ",
                 "साइकिल चालक के विपरीत सरल रेखीय पथ",
                 "साइकिल चालक की तरह वृत्तीय पथ"
@@ -781,7 +812,8 @@
             "examName": "RPF Constable 2024 : 17 Mar, 2025 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_52"
+            "id": "q_motion_52",
+            "correct_option": 3
         },
         {
             "question": "जैसे-जैसे हाइड्रोनियम आयनों की सांद्रता बढ़ती है, pH मान _______ ।",
@@ -796,7 +828,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_motion_53"
+            "id": "q_motion_53",
+            "correct_option": 1
         },
         {
             "question": "ऊपर की ओर उर्ध्वावाधर रूप से फेंकी गयी एक गेंद वापस जमीन पर 12.5 सेकंड के बाद आती है। उसे फेंकने का वेग ज्ञात कीजिये।",
@@ -826,7 +859,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_55"
+            "id": "q_motion_55",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा, एकसमान वेग से गतिमान वस्तु के लिए वेग-समय ग्राफ की प्रमुख विशेषता का सबसे अच्छा वर्णन करता है?",
@@ -841,7 +875,8 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_56"
+            "id": "q_motion_56",
+            "correct_option": 3
         },
         {
             "question": "एक कार की चाल 5 m/s से 36 m/s हो जाती है। त्वरण क्या होगा?",
@@ -856,7 +891,8 @@
             "examName": "RRB Group D 11 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_57"
+            "id": "q_motion_57",
+            "correct_option": 1
         },
         {
             "question": "यदि कोई वस्तु बिंदु A से बिंदु B (50 m पूव) तक जाती है और 10 सेकंड में बिंदु A पर वापस आती है, तो इसका औसत वेग.है।",
@@ -871,7 +907,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_58"
+            "id": "q_motion_58",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस स्थिति में असंतुलित बल शामिल है?",
@@ -886,7 +923,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_59"
+            "id": "q_motion_59",
+            "correct_option": 1
         },
         {
             "question": "विरामवस्था में स्थित एक गेंद को 20 m ऊँची इमारत के शीष से गिराया जाता है। गणना करें कि यह धरती से किस चाल से टकराएगी। (g = 10 m/s²)?",
@@ -901,7 +939,8 @@
             "examName": "RRB JE 19/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_60"
+            "id": "q_motion_60",
+            "correct_option": 3
         },
         {
             "question": "मुक्त रूप से गिरते हुए पिंड की गति किसका उदाहरण है?",
@@ -931,12 +970,13 @@
             "examName": "RRB Group D 12/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_62"
+            "id": "q_motion_62",
+            "correct_option": 3
         },
         {
             "question": "प्रति इकाई मिश्रण में इकाई आयतन में प्रति इकाई आघातों की संख्या कितनी है?",
             "options": [
-                "असंतुलित विस्थापन",
+                "संघट्ट आवृत्ति",
                 "संयोजन वेग",
                 "संधि बल",
                 "संक्षिप्त आवृत्ति"
@@ -952,7 +992,7 @@
             "question": "एक कार 50 km h −1 की औसत चाल से 100 km की यात्रा करती है और तुरंत उसी माग से 1 घंटे में दूरी तय करके वापस आती है। पूरी यात्रा के लिए कार की औसत चाल m s −1 में कितनी है?",
             "options": [
                 "20.0 m s−1",
-                "18.52 m s−1",
+                "52 m s−1",
                 "13.9 m s−1",
                 "16.67 m s−1"
             ],
@@ -961,7 +1001,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_64"
+            "id": "q_motion_64",
+            "correct_option": 1
         },
         {
             "question": "किसी भी तरह से घुमाए गए या स्थिर किए गए दृढ़ पिंड की गति पर विचार करें। इस तरह की प्रणाली के लिए संभव गति को सबसे अच्छी तरह से किसके द्वारा वर्णित किया गया है?",
@@ -976,7 +1017,8 @@
             "examName": "RPF SI CBT-I 2024 : 13 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_65"
+            "id": "q_motion_65",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सी राशियाँ समान हैं?",
@@ -991,7 +1033,8 @@
             "examName": "RPF Constable 2018 19 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_66"
+            "id": "q_motion_66",
+            "correct_option": 2
         },
         {
             "question": "अवतल लेंस की फोकस दूरी के लिए चिह्न परिपाटी _________ ।",
@@ -1006,7 +1049,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_motion_67"
+            "id": "q_motion_67",
+            "correct_option": 1
         },
         {
             "question": "एक अवतल दर्पण के वक्रता केंद्र दर्पण के ______ स्थित होते हैं, जबकि उत्तल दर्पण के लिए यह ______ स्थित होते हैं।",
@@ -1021,7 +1065,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_motion_68"
+            "id": "q_motion_68",
+            "correct_option": 2
         },
         {
             "question": "किसी पिंड का संवेग 50 Kg.m·s⁻¹ है और वेग 5ms-1 है। उस पिंड का द्रव्यमान क्या है?",
@@ -1036,7 +1081,8 @@
             "examName": "RRB Group D 29/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_69"
+            "id": "q_motion_69",
+            "correct_option": 3
         },
         {
             "question": "नियत चाल से एक वृत्तीय पथ के अनुदिश दौड़ते हुए एक एथलीट की गति, त्वरित गति का एक उदाहरण है क्योंकि ___________ ।",
@@ -1051,7 +1097,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_motion_70"
+            "id": "q_motion_70",
+            "correct_option": 3
         },
         {
             "question": "यदि वेग-समय ग्राफ, वक्रित (अरैखिक) है, तो वस्तु _________ के साथ गतिमान है।",
@@ -1066,7 +1113,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_motion_71"
+            "id": "q_motion_71",
+            "correct_option": 3
         },
         {
             "question": "किसी पिंड को एकसमान गति में कहा जाता है, यदि _________ ।",
@@ -1081,7 +1129,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_motion_72"
+            "id": "q_motion_72",
+            "correct_option": 3
         },
         {
             "question": "एक वस्तु स्थिर पर x = 0 और t = 0 से शुरू होती है, यह x अक्ष के समानांतर 3 मी/से 2 के निरंतर त्वरण के साथ चलती है। 4 सेकंड से 8 सेकंड के बीच इसका औसत वेग क्या है?",
@@ -1096,7 +1145,8 @@
             "examName": "RRB ALP Electrician : 22 Jan, 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_motion_73"
+            "id": "q_motion_73",
+            "correct_option": 3
         },
         {
             "question": "वेग-समय ग्राफ में, ऋणात्मक प्रवणता को निरूपित करती है।",
@@ -1111,7 +1161,8 @@
             "examName": "RRB ALP CBT-II Electrician : 02 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_74"
+            "id": "q_motion_74",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी स्थिति, न्यूटन के गति के दूसरे नियम को प्रदर्शित करती है?",
@@ -1147,7 +1198,7 @@
         {
             "question": "एक वस्तु 3 s में 23 m और फिर अगले 2 s में 15 m की यात्रा करती है। वस्तु की औसत चाल कितनी है?",
             "options": [
-                "7.6 m·s⁻¹",
+                "6 m·s⁻¹",
                 "7.6 s-1",
                 "8.0 m·s⁻¹",
                 "7.6 m"
@@ -1187,7 +1238,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_79"
+            "id": "q_motion_79",
+            "correct_option": 1
         },
         {
             "question": "कोई पिंड 1 घंटे में पूर्व दिशा की ओर 6 km और अगले 1 घंटे में पश्चिम दिशा की ओर 8 km की दूरी तय करता है। संपूर्ण यात्रा के दौरान पिंड का औसत वेग _______ है।",
@@ -1202,7 +1254,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_motion_80"
+            "id": "q_motion_80",
+            "correct_option": 3
         },
         {
             "question": "यदि कोई वस्तु एक सीधी रेखा में गतिमान है और किसी संदभ बिंदु के सापेक्ष, इसका समय t₁ पर स्थिति x₁ है और समय t₂ पर x₂ हो जाती है। इस समय अंतराल के दौरान वस्तु का औसत वेग होगा:",
@@ -1217,7 +1270,8 @@
             "examName": "RPF Constable 2024 03 Mar, 2025 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_81"
+            "id": "q_motion_81",
+            "correct_option": 3
         },
         {
             "question": "तात्क्षणिक वेग और औसत वेग तब बराबर होते हैं, जब वस्तु -",
@@ -1232,7 +1286,8 @@
             "examName": "RRB Group D 2 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_82"
+            "id": "q_motion_82",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सी स्थिति, शून्य त्वरण दर्शाती है?",
@@ -1247,7 +1302,8 @@
             "examName": "RRB Technician Grade III 06/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_83"
+            "id": "q_motion_83",
+            "correct_option": 2
         },
         {
             "question": "जब \\'m\\' द्रव्यमान की कोई वस्तु'h' ऊँचाई से जमीन पर स्वतंत्र रूप से गिरती है, तो किस बिंदु पर वस्तु की गतिज ऊर्जा अधिकतम होती है?",
@@ -1262,7 +1318,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_84"
+            "id": "q_motion_84",
+            "correct_option": 3
         },
         {
             "question": "किसी वस्तु को ऊँचाई से गिराया जाता है। इसका प्रारंभिक वेग कितना होता है?",
@@ -1277,7 +1334,8 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_85"
+            "id": "q_motion_85",
+            "correct_option": 3
         },
         {
             "question": "एक गेंद को 80 m की ऊंचाई से गिराया जाता है। तो चौथे सेकंड में इसके द्वारा तय की गई दूरी ________ होगी। (g = 10 m/s² लीजिए)",
@@ -1292,12 +1350,13 @@
             "examName": "RRB Group D 18/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_motion_86"
+            "id": "q_motion_86",
+            "correct_option": 3
         },
         {
             "question": "एक कार एक समान दर से 10 सेकंड में 18 km/h से 72 km/h में त्वरित होती है। कार का त्वरण ज्ञात कीजिये।",
             "options": [
-                "5 m/s²",
+                "5 मीसे-2",
                 "15 m/s²",
                 "15 m/s",
                 "5 m/s"
@@ -1322,7 +1381,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_88"
+            "id": "q_motion_88",
+            "correct_option": 1
         },
         {
             "question": "दूरी-समय ग्राफ से, बिंदु A से बिंदु B तक गति करने वाली एक वस्तु (t₂ − t₁) समय में (s₂ − s₁) दूरी तय करती है। निम्नलिखित में से कौन-सा व्यंजक वस्तु की गति (v) का सही रूप निरूपित करता है?",
@@ -1342,7 +1402,7 @@
         {
             "question": "एक वस्तु को एक मीनार के ऊपर से ऊर्ध्वावाधर रूप से फेंका जाता है और यह 5 sec के बाद जमीन पर पहुँच जाती है। वस्तु का प्रारंभिक वेग 12 m/s है। मीनार की ऊँचाई कितनी है?",
             "options": [
-                "55 m",
+                "5 m",
                 "75 m",
                 "62.5 m",
                 "45 m"
@@ -1367,14 +1427,15 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_91"
+            "id": "q_motion_91",
+            "correct_option": 2
         },
         {
             "question": "विरामावस्था से प्रारम्भ करते हुए राजू अपनी साइकिल से एक मिनट में 24 मीटर/ सकेंड का वेग प्राप्त कर लेता है। साइकिल का त्वरण है:",
             "options": [
                 "0 मीटर/सेकंड 2",
                 "0.2 मीटर/सेकंड 2",
-                "0.4 मीटर/सेकंड 2",
+                "4 मीटर/सेकंड 2",
                 "0.6 मीटर/सेकंड 2"
             ],
             "correctIndex": 2,
@@ -1382,7 +1443,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_92"
+            "id": "q_motion_92",
+            "correct_option": 2
         },
         {
             "question": "संवेग = ________",
@@ -1397,7 +1459,8 @@
             "examName": "RRB Group D 29/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_motion_93"
+            "id": "q_motion_93",
+            "correct_option": 2
         },
         {
             "question": "25 m/s से गतिमान एक वस्तु 5 सेकंड में विरामावस्था में आ जाती है। अंतिम वेग _________ होगा।",
@@ -1412,7 +1475,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_motion_94"
+            "id": "q_motion_94",
+            "correct_option": 1
         },
         {
             "question": "यदि कोई कण प्रत्येक 3 सेकंड में 12 m की दूरी तय करता है, तो उसके दूरी- समय ग्राफ की प्रवणता क्या होगी?",
@@ -1427,7 +1491,8 @@
             "examName": "RRB Level 01 Stage I 06/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_95"
+            "id": "q_motion_95",
+            "correct_option": 2
         },
         {
             "question": "किसी वस्तु की सीधी रेखा के अनुदिश एकसमान गति के दौरान __________ ।",
@@ -1442,7 +1507,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_motion_96"
+            "id": "q_motion_96",
+            "correct_option": 1
         },
         {
             "question": "एकसमान चुंबकीय क्षेत्र में गतिमान आवेशित कण के प्रक्षेप पथ का आकार क्या हो सकता है?",
@@ -1462,7 +1528,7 @@
         {
             "question": "यह मानते हुए कि एक पत्थर को एक तार के माध्यम से क्षैतिज तल में एक समान गति से घुमाया जाता है, सही विकल्प का चयन करें।",
             "options": [
-                "संवेग की दिशा बदलती है लेकिन वेग नहीं।",
+                "संवेग का परिमाण निश्चित है。",
                 "पत्थर का वेग निश्चित है।",
                 "संवेग का परिमाण निश्चित है।",
                 "संवेग की दिशा निश्चित है।"
@@ -1487,7 +1553,8 @@
             "examName": "RRB Group D 22/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_99"
+            "id": "q_motion_99",
+            "correct_option": 2
         },
         {
             "question": "एक बस 5s में 36 km/h से 72 km/h तक समान रूप से गति करती है। बस के त्वरण की गणना कीजिए।",
@@ -1502,7 +1569,8 @@
             "examName": "RRB Group D 15/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_100"
+            "id": "q_motion_100",
+            "correct_option": 3
         },
         {
             "question": "यदि वेग-समय ग्राफ एक क्षैतिज सरल रेखा को दर्शाता है, तो वस्तु ________ के साथ गतिमान है।",
@@ -1517,7 +1585,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_motion_101"
+            "id": "q_motion_101",
+            "correct_option": 1
         },
         {
             "question": "एकसमान वेग के वेग-समय ग्राफ के लिए निम्नलिखित में से कौन-सा कथन सत्य है?",
@@ -1592,7 +1661,8 @@
             "examName": "RRB Group D 9/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_motion_106"
+            "id": "q_motion_106",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा, एकसमान वृत्तीय गति का सर्वोत्तम उदाहरण है?",
@@ -1607,7 +1677,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_107"
+            "id": "q_motion_107",
+            "correct_option": 2
         },
         {
             "question": "किसी वस्तु के स्थान का वर्णन सदैव निर्देश बिंदु को निर्दिष्ट करके किया जाता है जिसे __________ के रूप में जाना जाता है।",
@@ -1627,7 +1698,7 @@
         {
             "question": "ऋणात्मक त्वरण में एक निकाय का वेग ________",
             "options": [
-                "स्थिर रहता है।",
+                "कम हो जाता है。",
                 "शून्य होता है।",
                 "कम हो जाता है।",
                 "बढ़ जाता है।"
@@ -1652,7 +1723,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_110"
+            "id": "q_motion_110",
+            "correct_option": 2
         },
         {
             "question": "जैसे ही हम आवर्त सारणी के समूह को नीचे की ओर स्थानांतरित करते हैं, इलेक्ट्रॉन बंधुता-",
@@ -1667,12 +1739,13 @@
             "examName": "RRB JE 27 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_motion_111"
+            "id": "q_motion_111",
+            "correct_option": 2
         },
         {
             "question": "गति के समीकरणों के संबंध में, निम्नलिखित में से कौन सा गलत है?",
             "options": [
-                "2as = u² - v²",
+                "2as = u₂ – v₂",
                 "s = ut + ½at²",
                 "2as = v² - u²",
                 "v = u + at"
@@ -1697,12 +1770,13 @@
             "examName": "RRB Group D 27 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_113"
+            "id": "q_motion_113",
+            "correct_option": 2
         },
         {
             "question": "किसी वस्तु की सीधी रेखा के अनुदिश असमान गति के दौरान _______ ।",
             "options": [
-                "किसी भी समय अंतराल में वेग में परिवर्तन शून्य होता है।",
+                "किसी भी समय अंतराल में वेग में परिवर्तन शून्य नहीं होता है。",
                 "किसी भी समय अंतराल में वेग में परिवर्तन शून्य नहीं होता है।",
                 "वेग समय के साथ स्थिर रहता है।",
                 "पथ के विभिन्न बिंदुओं पर वेग का मान समान होता है।"
@@ -1727,7 +1801,8 @@
             "examName": "RRB Technician Grade III 06/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_motion_115"
+            "id": "q_motion_115",
+            "correct_option": 3
         },
         {
             "question": "एक व्यस्त सड़क पर एक बस की गति, ________ गति का एक उदाहरण है।",
@@ -1747,7 +1822,7 @@
         {
             "question": "एकसमान त्वरित गति के लिए, वेग-समय ग्राफ के बारे में निम्नलिखित में से कौन- सा कथन सत्य है?",
             "options": [
-                "ग्राफ सदैव वक्राकार होता है क्योंकि वेग अनियमित रूप से बदलता है।",
+                "ग्राफ एक ऋजु रेखा है क्योंकि वेग समान समयांतराल में समान परिमाण में बदलता है。",
                 "ग्राफ एक ऋजु रेखा है क्योंकि वेग समान समयांतराल में समान परिमाण में बदलता है।",
                 "ग्राफ क्षैतिज है क्योंकि वेग स्थिर रहता है।",
                 "गति के आधार पर ग्राफ का कोई भी आकार हो सकता है।"
@@ -1787,7 +1862,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_119"
+            "id": "q_motion_119",
+            "correct_option": 3
         },
         {
             "question": "मुक्त रूप से गिरती हुई किसी वस्तु की गति, _______ का उदाहरण है।",
@@ -1802,12 +1878,13 @@
             "examName": "RRB Group D 25 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_motion_120"
+            "id": "q_motion_120",
+            "correct_option": 2
         },
         {
             "question": "किसी वस्तु की स्थितिज ऊर्जा किस पर निर्भर करती है?",
             "options": [
-                "उसका तापमान",
+                "तिची स्थिती किंवा रचना",
                 "उसकी स्थिति या संरचना",
                 "गतिमान होने पर उसका वेग",
                 "उसका रंग और आकार"
@@ -1832,7 +1909,8 @@
             "examName": "RRB NTPC UG CBT-I : 08 Sept, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_122"
+            "id": "q_motion_122",
+            "correct_option": 3
         },
         {
             "question": "एक कार एक कगार से गिरती है और 0.7 s में भूमि पर गिरती है। (माना कि g = 10 ms) तो भूमि से इसके टकराने की गति क्या है? 2?",
@@ -1847,12 +1925,13 @@
             "examName": "RRB Group D 11/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_123"
+            "id": "q_motion_123",
+            "correct_option": 3
         },
         {
             "question": "एक उपग्रह पृथ्वी के परित: एक समान वृत्तीय कक्षा में घूम रहा है। इसकी गति के बारे में निम्नलिखित में से कौन-सा कथन सही है?",
             "options": [
-                "उपग्रह की चाल स्थिर है, लेकिन इसका वेग स्थिर नहीं है।",
+                "उपग्रह की चाल स्थिर है, लेकिन इसका वेग स्थिर नहीं है。",
                 "उपग्रह का वेग स्थिर है, लेकिन इसकी चाल स्थिर नहीं है।",
                 "उपग्रह का वेग एवं त्वरण स्थिर है।",
                 "उपग्रह की चाल स्थिर है तथा इसमें कोई त्वरण नहीं है।"
@@ -1867,7 +1946,7 @@
         {
             "question": "एक वस्तु विरामावस्था से x = 0 मीटर से शुरू होती है और x- अक्ष के साथ 3 m/s² के नियत त्वरण के साथ चलती है। इसकी यात्रा के दौरान x = 13.5 m से x = 54 m तक, इसका औसत वेग है:",
             "options": [
-                "13.5 m/s",
+                "5 m/s",
                 "12.0 m/s",
                 "8.5 m/s",
                 "10.0 m/s"
@@ -1892,7 +1971,8 @@
             "examName": "RRB Group D 31/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_motion_126"
+            "id": "q_motion_126",
+            "correct_option": 1
         },
         {
             "question": "एक वस्तु विराम अवस्था x = 0 मीटर और t = 0 s से शुरू होती है। यह x- अक्ष के साथ 2m/s² के निरंतर त्वरण के साथ चलता है। 1 s और 5 s के बीच इसका औसत वेग क्या है?",
@@ -1907,7 +1987,8 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_motion_127"
+            "id": "q_motion_127",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा एकसमान गति का उदाहरण है?",
@@ -1922,12 +2003,13 @@
             "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_128"
+            "id": "q_motion_128",
+            "correct_option": 1
         },
         {
             "question": "पृथ्वी की परिक्रमा एक वृत्तीय पथ पर नियत गति से करने वाले उपग्रह की गति एकसमान वृत्तीय गति का एक उत्कृष्ट उदाहरण है। इस गति का कौन-सा गुण इसके त्वरण को शून्य होने से रोकता है?",
             "options": [
-                "कक्षीय गतिकी के कारण वस्तु का द्रव्यमान निरंतर बदलता रहता है।",
+                "गति की दिशा प्रत्येक बिंदु पर निरंतर बदलती रहती है, अर्थात वेग परिवर्तित हो रहा है。",
                 "गति की दिशा प्रत्येक बिंदु पर निरंतर बदलती रहती है, अर्थात वेग परिवर्तित हो रहा है।",
                 "गुरुत्वाकर्षण बल के लिए गति इतनी अधिक है कि वह स्थिर वेग बनाए नहीं रख सकता।",
                 "कुल यांत्रिक ऊर्जा संरक्षित रहती है, जिससे त्वरण आवश्यक हो जाता है।"
@@ -1952,12 +2034,13 @@
             "examName": "RRB ALP CBT 1 16/02/2026 9:00 AM - 10:00 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_130"
+            "id": "q_motion_130",
+            "correct_option": 3
         },
         {
             "question": "यदि हवा का तापमान बढ़ता है, तो ध्वनि की गति और प्रतिध्वनि सुनने की न्यूनतम दूरी पर क्या प्रभाव पड़ता है?",
             "options": [
-                "गति घटती है, न्यूनतम दूरी बढ़ती है।",
+                "गति बढ़ती है, न्यूनतम दूरी बढ़ती है。",
                 "गति बढ़ती है, न्यूनतम दूरी घटती है।",
                 "गति बढ़ती है, न्यूनतम दूरी बढ़ती है।",
                 "गति घटती है, न्यूनतम दूरी घटती है।"
@@ -1982,7 +2065,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_132"
+            "id": "q_motion_132",
+            "correct_option": 2
         },
         {
             "question": "एक कार विरामावस्था से चलना शुरू करती है और 5 सेकंड तक समान रूप से 2 m/s² पर त्वरित होती है। कार का अंतिम वेग क्या है?",
@@ -2012,7 +2096,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 17/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_134"
+            "id": "q_motion_134",
+            "correct_option": 2
         },
         {
             "question": "' प्रकाश वर्ष' एक इकाई है जिसका उपयोग _______ मापने के लिए किया जाता है।",
@@ -2057,7 +2142,8 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_137"
+            "id": "q_motion_137",
+            "correct_option": 3
         },
         {
             "question": "किसी वस्तु के वेग के परिवर्तन की दर स्थिर होती है। इसका औसत वेग है:",
@@ -2072,12 +2158,13 @@
             "examName": "RRB ALP Electrician : 22 Jan, 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_motion_138"
+            "id": "q_motion_138",
+            "correct_option": 2
         },
         {
             "question": "औसत वेग के संबंध में निम्नलिखित में से कौन-सा कथन सही नहीं है?",
             "options": [
-                "यह गति की दिशा पर निर्भर करता है।",
+                "यह सदैव औसत चाल के समान होता है。",
                 "इसे m/s में मापा जाता है।",
                 "यह कुल विस्थापन को कुल समय से विभाजित करने पर प्राप्त मान होता है।",
                 "यह सदैव औसत चाल के समान होता है।"
@@ -2092,7 +2179,7 @@
         {
             "question": "स्थितिज ऊर्जा के संबंध में निम्नलिखित में से कौन-सा कथन सत्य है?",
             "options": [
-                "यह वस्तु की गति पर निर्भर करती है।",
+                "यह स्थिति या अवस्था के कारण संचित ऊर्जा है。",
                 "इसे ऊर्जा के अन्य रूपों में परिवर्तित नहीं किया जा सकता है।",
                 "यह स्थिति या अवस्था के कारण संचित ऊर्जा है।",
                 "यह केवल तभी विद्यमान होती है जब कोई वस्तु गतिमान हो।"
@@ -2117,12 +2204,13 @@
             "examName": "RRB NTPC UG CBT-I : 09 Sept, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_141"
+            "id": "q_motion_141",
+            "correct_option": 1
         },
         {
             "question": "गैसें पात्र की दीवारों पर दाब क्यों डालती हैं?",
             "options": [
-                "गैस के कण पात्र की दीवारों को प्रबलता से आकर्षित करते हैं।",
+                "गैस के कण यादृच्छिक रूप से गति करते हैं और दीवारों से टकराते हैं。",
                 "गैस के कण यादृच्छिक रूप से गति करते हैं और दीवारों से टकराते हैं।",
                 "गैस के कण पात्र के अंदर स्थिर रहते हैं।",
                 "गैस के कणों में बहुत कम गतिज ऊर्जा होती है।"
@@ -2147,12 +2235,13 @@
             "examName": "RRB Level 01 Stage I 15/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_143"
+            "id": "q_motion_143",
+            "correct_option": 1
         },
         {
             "question": "जब किसी वस्तु पर संतुलित बल कार्य करते हैं, तो उसकी गति का क्या होता है?",
             "options": [
-                "उसकी गति की अवस्था अपरिवर्तित रहती है।",
+                "उसकी गति की अवस्था अपरिवर्तित रहती है。",
                 "वह अपनी गति की दिशा बदलती है।",
                 "वह गतिमान होती है।",
                 "वह धीमी हो जाती है।"
@@ -2167,7 +2256,7 @@
         {
             "question": "संवेग के बारे में निम्नलिखित में से कौन-सा कथन सत्य है?",
             "options": [
-                "संवेग में परिमाण और दिशा दोनों होते हैं।",
+                "संवेग में परिमाण और दिशा दोनों होते हैं。",
                 "संवेग की SI इकाई किलोग्राम प्रति सेकंड है।",
                 "संवेग द्रव्यमान और वेग का योग है।",
                 "संवेग में केवल परिमाण होता है, दिशा नहीं होती।"
@@ -2207,7 +2296,8 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_147"
+            "id": "q_motion_147",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस स्थिति में किसी वस्तु के विस्थापन का मान शून्य होता है?",
@@ -2237,7 +2327,8 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_149"
+            "id": "q_motion_149",
+            "correct_option": 3
         },
         {
             "question": "एक वस्तु अपनी विराम स्थिति से 5 m/s² के त्वरण से आगे बढ़ रही है। 5s बाद इस वस्तु का वेग क्या है?",
@@ -2252,7 +2343,8 @@
             "examName": "RRB ALP Electronics Mechanic 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_motion_150"
+            "id": "q_motion_150",
+            "correct_option": 3
         },
         {
             "question": "किसी वस्तु की प्रारंभिक से अंतिम स्थिति तक मापी गई सबसे छोटी दूरी को ______ के रूप में जाना जाता है।",
@@ -2267,7 +2359,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_motion_151"
+            "id": "q_motion_151",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा कंपन करने वाले पिंड द्वारा ध्वनि उत्पन्न करने का उदाहरण है?",
@@ -2282,7 +2375,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_152"
+            "id": "q_motion_152",
+            "correct_option": 2
         },
         {
             "question": "किसी वस्तु का जड़त्व वस्तु को _______ करने के लिए प्रेरित करता है।",
@@ -2297,14 +2391,15 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_motion_153"
+            "id": "q_motion_153",
+            "correct_option": 1
         },
         {
             "question": "एक ट्रेन विरामावस्था से चलना शुरू करती है तथा 10 मिनट में 216 km/h की चाल तक पहुँच जाती है। यदि इसका त्वरण एकसमान है, तो त्वरण का मान ज्ञात कीजिए।",
             "options": [
                 "0 m/s²",
                 "0.6 m/s²",
-                "0.1 m/s²",
+                "1 m/s²",
                 "0.4 m/s²"
             ],
             "correctIndex": 2,
@@ -2312,7 +2407,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_154"
+            "id": "q_motion_154",
+            "correct_option": 2
         },
         {
             "question": "झूले पर बैठे लड़के की गति ________ होती है।",
@@ -2327,7 +2423,8 @@
             "examName": "RRB Group D 31/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_motion_155"
+            "id": "q_motion_155",
+            "correct_option": 3
         },
         {
             "question": "प्रारंभिक स्थिति से अंतिम स्थिति तक विस्थापन का परिमाण एक ________ है।",
@@ -2342,7 +2439,8 @@
             "examName": "RRB Group D 6 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_motion_156"
+            "id": "q_motion_156",
+            "correct_option": 1
         },
         {
             "question": "एक पिंड को ऊँचाई से गिराया जाता है। यदि यह 3.0 s तक गिरता है और g = 10 m/s² है, तो इसका अंतिम वेग (v) कितना होगा?",
@@ -2387,7 +2485,8 @@
             "examName": "RRB Technician Grade III 06/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_159"
+            "id": "q_motion_159",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन असमान गति का उदाहरण नहीं है?",
@@ -2402,7 +2501,8 @@
             "examName": "RRB Group D 17 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_160"
+            "id": "q_motion_160",
+            "correct_option": 3
         },
         {
             "question": "एक सीधी रेखा के अनुदिश किसी वस्तु की एकसमान गति के दौरान इसका _______ समय के साथ स्थिर रहता है।",
@@ -2417,7 +2517,8 @@
             "examName": "RRB Group D 15/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_motion_161"
+            "id": "q_motion_161",
+            "correct_option": 3
         },
         {
             "question": "5 kg द्रव्यमान का एक पिंड आरंभ में विरामावस्था में है। इस पर 4 s तक 20 N का एक नियत बल कार्य करता है। पिंड का अंतिम वेग क्या है?",
@@ -2432,7 +2533,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_162"
+            "id": "q_motion_162",
+            "correct_option": 1
         },
         {
             "question": "समय t₁ और t₂ के बीच वेग-समय वक्र के अंतर्गत क्षेत्र समय के उस अंतराल के दौरान वस्तु के ______ के बराबर है।",
@@ -2462,7 +2564,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_164"
+            "id": "q_motion_164",
+            "correct_option": 3
         },
         {
             "question": "एक सीधी राह पर चलती हुई कार धीमी होकर रेक जाती है। कार किस प्रकार की गति में है?",
@@ -2477,7 +2580,8 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_165"
+            "id": "q_motion_165",
+            "correct_option": 1
         },
         {
             "question": "यदि एक आदमी 5 किमी/घंटा की गति से एक निश्चित दूरी तय करने में 36 मिनट लेता है, तो उसके द्वारा तय की गई दूरी है:",
@@ -2507,12 +2611,13 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_167"
+            "id": "q_motion_167",
+            "correct_option": 1
         },
         {
             "question": "एक गेंद को विरामावस्था से गिराया जाता है। 20 m गिरने के बाद गेंद का वेग कितना होगा? (g = 10 m/s² मानिए)?",
             "options": [
-                "40.0 m/s",
+                "0 m/s",
                 "50.0 m/s",
                 "10.0 m/s",
                 "20.0 m/s"
@@ -2567,7 +2672,8 @@
             "examName": "RRB Level 01 Stage I 19/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_motion_171"
+            "id": "q_motion_171",
+            "correct_option": 1
         },
         {
             "question": "रदरफोड के परमाणु के नाभिकीय मॉडल के अनुसार परमाणु अस्थिर होते हैं क्योंकि नाभिक के चारों ओर घूमने वाले त्वरित इलेक्ट्रॉन नाभिक में ______ होने चाहिए।",
@@ -2597,12 +2703,13 @@
             "examName": "RRB ALP CBT 1 18/02/2026 12:30 PM - 1:30 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_173"
+            "id": "q_motion_173",
+            "correct_option": 3
         },
         {
             "question": "एक धागे से बंधे और वृत्तीय पथ पर घूमते हुए पत्थर पर क्या प्रभाव पड़ता है जब धागे को अचानक छोड़ दिया जाता है?",
             "options": [
-                "यह तुरंत रेक जाता है",
+                "यह उसी दिशा में आगे बढ़ना जारी रखता है जिस दिशा में यह छोड़े जाने के समय जा रहा था",
                 "यह उसी दिशा में आगे बढ़ना जा रहा थारी रखता है जिस दिशा में यह छोड़े जा रहा थाने के समय जा रहा था",
                 "यह दिशा बदलता है और टेढ़े-मेढ़े रास्ते पर चलता है",
                 "यह अपने प्रारंभिक बिंदु पर लौटता है"
@@ -2627,12 +2734,13 @@
             "examName": "RRB Technician Grade III 09/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_175"
+            "id": "q_motion_175",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा प्रतीक रिओस्टेट को निरूपित करता है?",
             "options": [
-                "एक टेढ़ी-मेढ़ी रेखा जिस पर एक तीर खींचा गया है।",
+                "एक टेढ़ी-मेढ़ी रेखा जिस पर एक तीर खींचा गया है。",
                 "एक वृत्त जिसके अन्दर एक \\'V\\' अक्षर है।",
                 "एक वृत्त के अंदर एक \\'A\\'",
                 "एक टेढ़ी-मेढ़ी रेखा।"
@@ -2672,7 +2780,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_178"
+            "id": "q_motion_178",
+            "correct_option": 1
         },
         {
             "question": "जब कोई ठोस पिघलकर द्रव में परिवर्तित होता है तो अंतर-कणीय स्थान पर क्या प्रभाव पड़ता है?",
@@ -2702,12 +2811,13 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_180"
+            "id": "q_motion_180",
+            "correct_option": 3
         },
         {
             "question": "एक विद्यार्थी एक वृत्ताकार मार्ग पर स्थिर गति से घूमने वाली वस्तु का निरीक्षण कर रहा है। निम्नलिखित में से कौन-सा विकल्प एक पूर्ण घूर्णन के लिए उस वस्तु की गति और समय के बीच के संबंध को ग्राफ के रूप में सर्वोत्तम ढंग से दर्शाता है?",
             "options": [
-                "समय अक्ष के समानांतर एक क्षैतिज सीधी रेखा",
+                "काल अक्षाला समांतर असलेली आडवी सरळ रेषा",
                 "समय के साथ बढ़ने वाली एक वक्र रेखा",
                 "समय के साथ ऊपर की ओर जाने वाली प्रवण रेखा",
                 "समय अक्ष के ऊपर एक वक्र"
@@ -2747,7 +2857,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_183"
+            "id": "q_motion_183",
+            "correct_option": 1
         },
         {
             "question": "यदि किसी वस्तु का वेग एक निश्चित समयावधि में समान रूप से बदलता है, तो उस समयावधि के दौरान औसत वेग की गणना कैसे की जा सकती है?",
@@ -2762,12 +2873,13 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_184"
+            "id": "q_motion_184",
+            "correct_option": 2
         },
         {
             "question": "द्रव्यमान \\'m\\' और वेग \\'v\\' वाले गतिशील पिंड की गतिज ऊर्जा _______ है।",
             "options": [
-                "इसके वेग के समानुपातिकता लेकिन इसके द्रव्यमान के व्युत्क्रमानुपाती",
+                "इसके द्रव्यमान और वेग के वग के सीधे आनुपातिक",
                 "इसके द्रव्यमान के समानुपातिकता लेकिन इसके वेग के व्युत्क्रमानुपाती",
                 "इसके द्रव्यमान और वेग के वर्ग के व्युत्क्रमानुपाती",
                 "इसके द्रव्यमान और वेग के वर्ग के सीधे आनुपातिक"
@@ -2792,7 +2904,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_186"
+            "id": "q_motion_186",
+            "correct_option": 1
         },
         {
             "question": "जल की दी गई मात्रा का आयतन 0°C से 4°C के बीच __________ ।",
@@ -2807,7 +2920,8 @@
             "examName": "RRB ALP Fitter 23 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_motion_187"
+            "id": "q_motion_187",
+            "correct_option": 1
         },
         {
             "question": "त्वरण ज्ञात करने का सूत्र है:",
@@ -2822,7 +2936,8 @@
             "examName": "RPF SI 2018 : 10 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_188"
+            "id": "q_motion_188",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा गति का समीकरण नहीं है?",
@@ -2853,7 +2968,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_motion_190"
+            "id": "q_motion_190",
+            "correct_option": 1
         },
         {
             "question": "यदि किसी वस्तु को 50 मीटर की ऊँचाई से गिराया जाता है, तो उसकी प्रारंभिक चाल क्या होगी?",
@@ -2868,7 +2984,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_191"
+            "id": "q_motion_191",
+            "correct_option": 1
         },
         {
             "question": "किसी वृत्ताकार ट्रेक पर नियत चाल से साइकिल चला रहा साइकिल चालक किस प्रकार की गति का उदाहरण है?",
@@ -2883,7 +3000,8 @@
             "examName": "RRB Technician Grade III 06/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_192"
+            "id": "q_motion_192",
+            "correct_option": 2
         },
         {
             "question": "एक ग्रह की परिधि 36,000 km है। यदि ग्रह कोई अन्य गति नहीं करता है और एक पूर्ण घूणन के लिए 20 घंटे का समय लेता है तो उसके भूमध्य रेखा पर स्थित एक बिंदु की गति क्या होगी?",
@@ -2898,12 +3016,13 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_motion_193"
+            "id": "q_motion_193",
+            "correct_option": 1
         },
         {
             "question": "यदि दो प्रतिरोधक श्रेणीक्रम में जुड़े हुए हैं, तो परिपथ के समतुल्य प्रतिरोध के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
             "options": [
-                "यह समान रहेगा।",
+                "यह बढ़ेगा。",
                 "यह पहले बढ़ेगा और फिर घटेगा।",
                 "यह घटेगा।",
                 "यह बढ़ेगा।"
@@ -2943,12 +3062,13 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_196"
+            "id": "q_motion_196",
+            "correct_option": 3
         },
         {
             "question": "असमान त्वरण से गतिमान किसी वस्तु के वेग-समय ग्राफ के आकार के बारे में क्या कहा जा सकता है?",
             "options": [
-                "यह एक वक्र रेखा होती है।",
+                "यह एक वक्र रेखा होती है。",
                 "यह सदैव नीचे की ओर झुकी हुई रेखा होती है।",
                 "यह सदैव एक सीधी रेखा होती है।",
                 "यह सदैव एक क्षैतिज रेखा होती है।"
@@ -2973,12 +3093,13 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_198"
+            "id": "q_motion_198",
+            "correct_option": 2
         },
         {
             "question": "14 मीटर प्रति सेकंड की गति _____ के समान है।",
             "options": [
-                "50.4 किमी/घंटा",
+                "4 किमी/घंटा",
                 "70 किमी/घंटा",
                 "28 किमी/घंटा",
                 "46.6 किमी/घंटा"
@@ -2993,7 +3114,7 @@
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प, औसत चाल की प्रकृति का वर्णन करता है?",
             "options": [
-                "यह एक सदिश राशि (परिमाण और दिशा) है।",
+                "यह एक अदिश राशि (केवल परिमाण) है。",
                 "यह ऋणात्मक हो सकती है।",
                 "यह सदैव औसत वेग के बराबर या उससे कम होती है।",
                 "यह एक अदिश राशि (केवल परिमाण) है।"
@@ -3063,7 +3184,8 @@
             "examName": "RRB JE 23 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_motion_204"
+            "id": "q_motion_204",
+            "correct_option": 2
         },
         {
             "question": "60 मीटर लंबे पूल में उमा तैरती है। वह एक मिनट में एक छोर से दूसरे छोर तक और उसी सीधे रास्ते से वापस तैरकर 120 मीटर की दूरी तय करती है। उमा का औसत वेग है:",
@@ -3083,7 +3205,7 @@
         {
             "question": "जब कोई वस्तु उसी गति से वृत्ताकार पथ में चलती है तो उसकी गति कहलाती है -",
             "options": [
-                "एकसमान वृत्तीय गति",
+                "समान परिपत्र गति",
                 "समान रेखीय गति",
                 "समान त्वरण",
                 "अर्धवृत्ताकार गति"
@@ -3108,7 +3230,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_motion_207"
+            "id": "q_motion_207",
+            "correct_option": 1
         },
         {
             "question": "रॉकेट की उड़ान के दौरान किसी समय जमीन के ऊपर रॉकेट की ऊँचाई निधारित करने का सूत्र इस प्रकार दिया जाता है: h = 119 t - 7t² जहाँ, t = समय (सेकंड में), जो रॉकेट लॉन्च होने में लिया गया समय है और h = ऊँचाई (मीटर में), समय t में जमीन से ऊपर रॉकेट द्वारा तय की गई दूरी है। जब रॉकेट ज़मीन से टकराया तो h का मान 0 था। रॉकेट लॉन्च होने के कितने सेकंड बाद यह जमीन पर गिरा?",
@@ -3138,7 +3261,8 @@
             "examName": "RRB Group D 18/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_209"
+            "id": "q_motion_209",
+            "correct_option": 2
         },
         {
             "question": "एक ध्वनि तरंग की आवृत्ति 50 Hz है और इसकी तरंग दैर्ध्य 4 मीटर है। ध्वनि तरंग की गति कितनी है?",
@@ -3153,7 +3277,8 @@
             "examName": "RRB JE 23 May 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_motion_210"
+            "id": "q_motion_210",
+            "correct_option": 3
         },
         {
             "question": "किसी विशिष्ट दिशा में गतिमान वस्तु की चाल के लिए वैज्ञानिक पद क्या है?",
@@ -3168,7 +3293,8 @@
             "examName": "RRB Group D 11/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_211"
+            "id": "q_motion_211",
+            "correct_option": 2
         },
         {
             "question": "किसी गेंद को किसी ऊंचाई से गिराया जाता है और वह 2 सेकंड तक मुक्त रूप से गिरती है। इस काल के दौरान उसकी औसत चाल कितनी होगी? (मान लीजिए: गुरुत्वीय त्वरण = 10 m/s²)?",
@@ -3183,7 +3309,8 @@
             "examName": "RRB ALP CBT 1 16/02/2026 9:00 AM - 10:00 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_212"
+            "id": "q_motion_212",
+            "correct_option": 1
         },
         {
             "question": "एक पत्थर को 5 m/s के प्रारंभिक वेग से नीचे की ओर फेंका जाता है। 2 सेकंड बाद, इसका अंतिम वेग v ज्ञात कीजिए। (g = 10 m/s² लीजिए)?",
@@ -3213,7 +3340,8 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_214"
+            "id": "q_motion_214",
+            "correct_option": 3
         },
         {
             "question": "क्या किसी वस्तु का विस्थापन तय की गई दूरी से अधिक हो सकता है?",
@@ -3228,7 +3356,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_215"
+            "id": "q_motion_215",
+            "correct_option": 3
         },
         {
             "question": "यदि संपर्क का क्षेत्रफल स्थिर प्रणोद को बनाए रखते हुए बढ़ता है, तो दाब __________ होगा।",
@@ -3243,7 +3372,8 @@
             "examName": "RRB JE CBT 2 Electronics Engineering ReExam : 04 Jun, 2025",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_motion_216"
+            "id": "q_motion_216",
+            "correct_option": 3
         },
         {
             "question": "यदि पृथ्वी और चंद्रमा के बीच की दूरी (d) धीरे-धीरे कम होती जाती है, तो उनके बीच गुरुत्वाकर्षण बल (F) पर क्या प्रभाव पड़ता है?",
@@ -3273,12 +3403,13 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_218"
+            "id": "q_motion_218",
+            "correct_option": 1
         },
         {
             "question": "औसत गति के बारे में निम्नलिखित में से कौन-सा कथन गलत है?",
             "options": [
-                "इसे m/s में मापा जाता है।",
+                "यह दूरी में परिवर्तन को वेग में परिवर्तन से विभाजित करने पर प्राप्त परिणाम है。",
                 "यह गति की दिशा पर निर्भर नहीं करती है।",
                 "यह दूरी में परिवर्तन को वेग में परिवर्तन से विभाजित करने पर प्राप्त परिणाम है।",
                 "यह कुल दूरी को कुल समय से विभाजित करने पर प्राप्त होती है।"
@@ -3318,7 +3449,8 @@
             "examName": "RPF Constable 2024 : 18 Mar, 2025 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_221"
+            "id": "q_motion_221",
+            "correct_option": 3
         },
         {
             "question": "एक लड़का 10 m त्रिज्या वाले वृत्तीय पथ पर दौड़ रहा है। वह 1 मिनट में एक चक्कर पूरा करता है। उसकी औसत चाल कितनी है?",
@@ -3333,7 +3465,8 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_222"
+            "id": "q_motion_222",
+            "correct_option": 2
         },
         {
             "question": "किसी वस्तु की उस गति को क्या कहा जाता है, जो समान समय अंतरालों में समान दूरी तय करती है, भले ही समय अंतराल अत्यधिक कम हों?",
@@ -3353,7 +3486,7 @@
         {
             "question": "यांत्रिकी में आवेग को निम्नलिखित में से कौन सबसे अच्छी तरह से परिभाषित करता है?",
             "options": [
-                "द्रव्यमान और वेग का गुणनफल।",
+                "बल और वह समय जिसके लिए वह कार्य करता है, का गुणनफल。",
                 "बल और वह समय जिसके लिए वह कार्य करता है, का गुणनफल।",
                 "दूरी से गुणा किए गए संवेग के परिवर्तन की दर",
                 "समय के साथ विस्थापन में परिवर्तन।"
@@ -3378,12 +3511,13 @@
             "examName": "RRB Group D 12 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_motion_225"
+            "id": "q_motion_225",
+            "correct_option": 3
         },
         {
             "question": "किसी पदार्थ को गर्म करने पर उसके कणों पर क्या प्रभाव पड़ता है?",
             "options": [
-                "वेगति करना बंद कर देते हैं।",
+                "वे तेज गति करते हैं。",
                 "वे नष्ट हो जाते हैं।",
                 "वे धीमी गति करते हैं।",
                 "वे तेज गति करते हैं।"
@@ -3423,7 +3557,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_228"
+            "id": "q_motion_228",
+            "correct_option": 2
         },
         {
             "question": "एक कार की गति में 5 s में 18 kmh-1 से 72 kmh-1 तक एकसमान रूप से त्वरित होती है। कार का त्वरण क्या है?",
@@ -3438,7 +3573,8 @@
             "examName": "RRB Group D 27/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_229"
+            "id": "q_motion_229",
+            "correct_option": 3
         },
         {
             "question": "एकसमान वेग से गतिमान वस्तु के लिए वेग-समय ग्राफ कैसा दिखता है?",
@@ -3453,12 +3589,13 @@
             "examName": "RRB Level 01 Stage I 09/01/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_230"
+            "id": "q_motion_230",
+            "correct_option": 2
         },
         {
             "question": "पदार्थ के कणों के बारे में कौन-सा कथन असत्य है?",
             "options": [
-                "पदार्थ के कण एक-दूसरे को आकर्षित करते हैं।",
+                "पदार्थ के कणों की गति किसी भी बाहरी बल से अप्रभावित रहती है。",
                 "पदार्थ के कण लगातार गतिमान रहते हैं।",
                 "पदार्थ के कणों के बीच स्थान होता है।",
                 "पदार्थ के कणों की गति किसी भी बाहरी बल से अप्रभावित रहती है।"
@@ -3483,7 +3620,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_motion_232"
+            "id": "q_motion_232",
+            "correct_option": 3
         },
         {
             "question": "एक लेंस द्वारा उत्पन्न आवर्धन, वस्तु-दूरी u और प्रतिबिम्ब-दूरी v से संबंधित है। यह संबंध किस प्रकार दिया जाता है?",
@@ -3528,7 +3666,8 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_motion_235"
+            "id": "q_motion_235",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से कौन सा गति-समय संबंध का समीकरण हैं? at2?",
@@ -3543,7 +3682,8 @@
             "examName": "RRB Group D 29/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_236"
+            "id": "q_motion_236",
+            "correct_option": 3
         },
         {
             "question": "किसी वस्तु पर दाब बढ़ाने पर वस्तु का आयतन ______ है और फिर उसका घनत्व ______ है।",
@@ -3558,7 +3698,8 @@
             "examName": "RRB ALP Electronics Mechanic 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_motion_237"
+            "id": "q_motion_237",
+            "correct_option": 2
         },
         {
             "question": "एक कार की चाल 5 सेकंड में 40 m/s से घटकर 20 m/s हो जाती है। कार का त्वरण ज्ञात कीजिए।",
@@ -3573,7 +3714,8 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_238"
+            "id": "q_motion_238",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा एकसमान वृत्तीय गति का उदाहरण है?",
@@ -3588,7 +3730,8 @@
             "examName": "RRB Level 01 Stage I 19/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_239"
+            "id": "q_motion_239",
+            "correct_option": 2
         },
         {
             "question": "किसी निर्दिष्ट दिशा में किसी वस्तु की गति को क्या कहा जाता है?",
@@ -3603,7 +3746,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_240"
+            "id": "q_motion_240",
+            "correct_option": 2
         },
         {
             "question": "एक कण की गतिज ऊर्जा शून्य है। कण की गति के बारे में क्या निष्कष निकाला जा सकता है?",
@@ -3618,7 +3762,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_241"
+            "id": "q_motion_241",
+            "correct_option": 1
         },
         {
             "question": "उपकला ऊतक का प्राथमिक कार्य क्या है?",
@@ -3648,7 +3793,8 @@
             "examName": "RRB Level 01 Stage I 27/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_243"
+            "id": "q_motion_243",
+            "correct_option": 3
         },
         {
             "question": "कंपन किसी वस्तु की किस प्रकार की गति को इंगित करता है?",
@@ -3663,7 +3809,8 @@
             "examName": "RRB Group D 4/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_244"
+            "id": "q_motion_244",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित विकल्पों में से सही जोड़ी का चयन करें।",
@@ -3678,7 +3825,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_245"
+            "id": "q_motion_245",
+            "correct_option": 1
         },
         {
             "question": "20 मीटर ऊंचे टॉवर के शीष पर खड़ा एक लड़का एक पत्थर गिराता है। माना g = 10 मीटर/सेकंडहै, वह वेग कितना है जिसके साथ पत्थर जमीन पर गिरता है:",
@@ -3693,7 +3841,8 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_246"
+            "id": "q_motion_246",
+            "correct_option": 1
         },
         {
             "question": "एक वस्तु को ऊर्ध्वावाधर रूप से ऊपर की ओर फेंका जाता है और वह 20 m की ऊंचाई तक जाती है। वस्तु को किस वेग से फेंका गया था? (g = 10 m/s² लीजिए)।",
@@ -3708,7 +3857,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_247"
+            "id": "q_motion_247",
+            "correct_option": 2
         },
         {
             "question": "रेखा 40 मीटर लंबे पूल में तैरती है। वह एक ऋजु पथ पर एक मिनट में एक छोर से दूसरे छोर तक जाने और वापस आने में 80 मीटर की दूरी तय करती है। उसका औसत वेग कितना है?",
@@ -3723,7 +3873,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_248"
+            "id": "q_motion_248",
+            "correct_option": 3
         },
         {
             "question": "वेग-समय ग्राफ के अंतर्गत क्षेत्र क्या दर्शाता है?",
@@ -3738,7 +3889,8 @@
             "examName": "RRB Level 01 Stage I 08/01/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_249"
+            "id": "q_motion_249",
+            "correct_option": 2
         },
         {
             "question": "किसी ऊँचाई पर स्थित वस्तु की गुरुत्वीय स्थितिज ऊर्जा, उसे भूमि से उस ऊँचाई तक उठाने में _____________ किए गए कार्य के बराबर होती है।",
@@ -3753,12 +3905,13 @@
             "examName": "RRB Technician Grade III 06/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_motion_250"
+            "id": "q_motion_250",
+            "correct_option": 2
         },
         {
             "question": "गतिज ऊर्जा के संबंध में निम्नलिखित में से कौन-सा कथन सत्य नहीं है?",
             "options": [
-                "यह एक अदिश राशि है।",
+                "यह गति की दिशा पर निभर करती है。",
                 "यह गति की दिशा पर निर्भर करती है।",
                 "यह गति पर निर्भर करती है।",
                 "यह कभी भी ऋणात्मक नहीं हो सकती।"
@@ -3828,7 +3981,8 @@
             "examName": "RRB Level 01 Stage I 17/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_255"
+            "id": "q_motion_255",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी एक विमाहीन राशि है?",
@@ -3843,12 +3997,13 @@
             "examName": "RRB NTPC UG CBT-I : 13 Aug, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_256"
+            "id": "q_motion_256",
+            "correct_option": 2
         },
         {
             "question": "एक एथलीट एकसमान चाल से एक वृत्ताकार पथ पर चलता है और निश्चित समय में एक चक्कर पूरा करता है। निम्नलिखित में से कौन-सा कथन सही है? लगे समय से विभाजित करने के बराबर होती है।",
             "options": [
-                "एथलीट निरंतर चाल से चलता है, जो एक चक्कर में तय की गई दूरी को उस चक्कर में लगे समय से विभाजित करने के बराबर होती है।",
+                "एथलीट निरंतर चाल से चलता है, जो एक चक्कर में तय की गई दूरी को उस चक्कर में लगे समय से विभाजित करने के बराबर होती है。",
                 "जैसे-जैसे एथलीट पथ पर आगे बढ़ता है उसकी चाल लगातार कम होती जाती है।",
                 "एथलीट का वेग परिमाण और दिशा दोनों में स्थिर रहता है।",
                 "यह गति असमान वृत्तीय गति है।"
@@ -3878,7 +4033,7 @@
         {
             "question": "यात्रा की शुरुआत में कार का ओडोमीटर 2,000 km और यात्रा की समाप्ति पर 2,400 km बताता है। यदि इस यात्रा में 8 घंटे का समय लगता है, तो कार की औसत चाल (m·s⁻¹ में) ज्ञात कीजिए।",
             "options": [
-                "14.9 m·s⁻¹",
+                "9 m·s⁻¹",
                 "13.9 m·s⁻¹",
                 "15.9 m·s⁻¹",
                 "12.9 ms"
@@ -3893,7 +4048,7 @@
         {
             "question": "रेखीय वेग के बारे में निम्नलिखित में से कौन-सा कथन सही नहीं है?",
             "options": [
-                "रेखीय वेग विस्थापन और समय पर निर्भर करता है।",
+                "रेखीय वेग की SI इकाई m/s² है。",
                 "यह विस्थापन में परिवर्तन की दर है।",
                 "एकसमान गति के लिए रेखीय वेग स्थिर रहता है।",
                 "रेखीय वेग की SI इकाई m/s² है।"
@@ -3918,7 +4073,8 @@
             "examName": "RPF Constable 2024 : 09 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_261"
+            "id": "q_motion_261",
+            "correct_option": 2
         },
         {
             "question": "एक साइकिल सवार एक सीधी सड़क पर 3 सेकंड में अपनी चाल 6 m/s से बढ़ाकर 12 m/s कर लेती है। इस समयांतराल में उसका त्वरण ज्ञात कीजिए।",
@@ -3963,7 +4119,8 @@
             "examName": "RRB JE 24 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_motion_264"
+            "id": "q_motion_264",
+            "correct_option": 1
         },
         {
             "question": "जब कोई वस्तु एक वृत्तीय पथ पर नियत चाल से गमन करती है, तो उसकी गति को क्या कहते हैं?",
@@ -3978,7 +4135,8 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_265"
+            "id": "q_motion_265",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी भौतिक राशि वेग परिवर्तन की दर को दर्शाती है?",
@@ -3993,7 +4151,8 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_266"
+            "id": "q_motion_266",
+            "correct_option": 2
         },
         {
             "question": "जब कोई पिंड गति में हो तब भी कौन-सी भौतिक राशि शून्य हो सकती है?",
@@ -4008,7 +4167,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 18/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_267"
+            "id": "q_motion_267",
+            "correct_option": 2
         },
         {
             "question": "एक कार विरामावस्था से गति करना शुरू करती है और 4 सेकंड में 20 m/s का वेग प्राप्त कर लेती है। कार का त्वरण कितना है?",
@@ -4043,7 +4203,7 @@
         {
             "question": "ध्वनि उत्पन्न करने वाले कंपन को एक प्रकार की ______________ के रूप में परिभाषित किया जाता है।",
             "options": [
-                "तीव्र एकल दिशात्मक विस्थापन",
+                "किसी पिंड की तीव्र गम आगम गति",
                 "तीव्र रैखिक अग्र गति",
                 "किसी पिंड की तीव्र आगे-पीछे गति",
                 "धीमी पार्श्वीय गति"
@@ -4058,7 +4218,7 @@
         {
             "question": "द्रव्यमान वाली एक वस्तु प्रारंभ में के वेग से गतिमान है। के लिए इसकी गति की विपरीत दिशा में का एक नियत बल अनुप्रयुक्त किया जाता है। वस्तु का अंतिम वेग कितना है?",
             "options": [
-                "v = u + at",
+                "N/A",
                 "v = u - at",
                 "v² = u² + 2as",
                 "s = ut + ½at²"
@@ -4090,7 +4250,7 @@
         {
             "question": "नियत बल द्वारा किए गए कार्य के संबंध में निम्नलिखित में से कौन-सा कथन सत्य है?",
             "options": [
-                "यह विस्थापन पर निर्भर नहीं करता है।",
+                "यह केवल प्रारंभिक और अंतिम स्थितियों पर निभर करता है。",
                 "यह गति के पथ पर निर्भर करता है।",
                 "यह केवल प्रारंभिक और अंतिम स्थितियों पर निर्भर करता है।",
                 "यह सदैव धनात्मक होता है।"
@@ -4115,14 +4275,15 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_274"
+            "id": "q_motion_274",
+            "correct_option": 3
         },
         {
             "question": "एक कार 2.5 घंटे तक 62 km/hr की चाल से और फिर 1.5 घंटे तक 48 km/hr की चाल से चलती है। इसकी औसत चाल लगभग _______ है।",
             "options": [
                 "55 km/hr",
                 "27.5 km/hr",
-                "56.8 km/hr",
+                "8 km/hr",
                 "58 km/hr"
             ],
             "correctIndex": 2,
@@ -4130,7 +4291,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_motion_275"
+            "id": "q_motion_275",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा, एकसमान वृत्तीय गति का एक उदाहरण प्रस्तुत करता है?",
@@ -4150,7 +4312,7 @@
         {
             "question": "दो पिंड A और B एकसमान गति से गतिमान हैं, पिंड A के दूरी-समय ग्राफ की प्रवणता पिंड B के दूरी-समय ग्राफ की प्रवणता से अधिक है। निम्नलिखित में से कौन-सा कथन सही है?",
             "options": [
-                "पिंड A की चाल पिंड B की चाल के बराबर है।",
+                "पिंड A की चाल पिंड B की चाल से अधिक है。",
                 "पिंड A की चाल पिंड B की चाल से अधिक है।",
                 "पिंड A की चाल पिंड B की चाल से कम है।",
                 "पिंड A का त्वरण पिंड B के त्वरण से अधिक है।"
@@ -4175,7 +4337,8 @@
             "examName": "RRB JE 20/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_278"
+            "id": "q_motion_278",
+            "correct_option": 3
         },
         {
             "question": "5 m/s² के एक मंदन से गतिमान वस्तु 20 s के बाद विरामावस्था पर आती है। इसका प्रारंभिक वेग कितना है?",
@@ -4190,7 +4353,8 @@
             "examName": "RRB Group D 6 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_279"
+            "id": "q_motion_279",
+            "correct_option": 1
         },
         {
             "question": "एक ध्वनि तरंग की आवृत्ति 50 हर्ट्ज़ है और इसकी तरंग दैर्ध्य 4 मीटर है। 3 सेकंड में ध्वनि तरंग द्वारा कितनी दूरी तय की जाती है?",
@@ -4205,7 +4369,8 @@
             "examName": "RRB JE ME 29 Aug 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_motion_280"
+            "id": "q_motion_280",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किसकी इकाई m/s समान है?",
@@ -4220,7 +4385,8 @@
             "examName": "RRB JE EE 1 Sept 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_motion_281"
+            "id": "q_motion_281",
+            "correct_option": 3
         },
         {
             "question": "यदि किसी वस्तु का वेग-समय ग्राफ वक्राकार है, तो यह ____________ को इंगित करता है।",
@@ -4240,7 +4406,7 @@
         {
             "question": "ठोस और गैस के कणों में प्राथमिक अंतर क्या है?",
             "options": [
-                "ठोस कण गैस कणों की तुलना में अधिक स्वतंत्र रूप से गति करते हैं।",
+                "ठोस कण गैस कणों की तुलना में अधिक निकटता से पैक होते हैं。",
                 "ठोस कण गैस कणों की तुलना में अधिक निकटता से पैक होते हैं।",
                 "ठोस कणों में गैस कणों की तुलना में अधिक ऊर्जा होती है।",
                 "ठोस कण गैस कणों की तुलना में विभिन्न तत्वों से बने होते हैं।"
@@ -4265,7 +4431,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 17 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_284"
+            "id": "q_motion_284",
+            "correct_option": 2
         },
         {
             "question": "15 किलोग्राम द्रव्यमान वाली बिल्ली को 120 जूल की गतिज ऊर्जा प्राप्त करने के लिए कितनी तेजी से दौड़ना चाहिए?",
@@ -4280,7 +4447,8 @@
             "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_285"
+            "id": "q_motion_285",
+            "correct_option": 1
         },
         {
             "question": "एकसमान त्वरण से गतिमान एक पिंड के लिए, औसत वेग ______ के बराबर होता है।",
@@ -4295,7 +4463,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_motion_286"
+            "id": "q_motion_286",
+            "correct_option": 1
         },
         {
             "question": "कौन-सा अभिलक्षण असमान गति को परिभाषित करता है?",
@@ -4345,7 +4514,7 @@
         {
             "question": "दो अलग-अलग द्रव्यमान वाले पिंडों को निवात में समान ऊँचाई से गिराया जाता है। कौन-सा पिंड पहले पहुँचेगा?",
             "options": [
-                "दोनों पिंड एक ही समय पर जमीन पर पहुंचते हैं।",
+                "दोनों पिंड एक ही समय पर जमीन पर पहुंचते हैं。",
                 "दोनों आकार और आमाप के आधार पर अलग-अलग समय पर पहुंचते हैं।",
                 "भारी पिंड पहले पहुंचता है।",
                 "हल्का पिंड पहले पहुँचता है।"
@@ -4360,7 +4529,7 @@
         {
             "question": "धनात्मक त्वरण का अर्थ _________ है।",
             "options": [
-                "वस्तु का वेग कम होता है।",
+                "वस्तु का वेग बढ़ जाता है。",
                 "वस्तु का वेग स्थिर होता है।",
                 "वस्तु का वेग शून्य है।",
                 "वस्तु का वेग बढ़ जाता है।"
@@ -4385,12 +4554,13 @@
             "examName": "RRB Group D 9/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_292"
+            "id": "q_motion_292",
+            "correct_option": 2
         },
         {
             "question": "यदि u, g और h क्रमशः गुरुत्वाकर्षण बल के अधीन गिरने वाली वस्तु का प्रारंभिक वेग, गुरुत्वाकर्षण त्वरण और ऊँचाई है, तो इसका अंतिम वेग v किससे प्राप्त किया जा सकता है?",
             "options": [
-                "v² - u² = 2gh",
+                "v 2 - u 2 = 2gh",
                 "v²u² = 2gh",
                 "v² + u² = 2gh",
                 "v²/u² = 2gh"
@@ -4445,7 +4615,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_motion_296"
+            "id": "q_motion_296",
+            "correct_option": 2
         },
         {
             "question": "एकसमान गति के बारे में निम्नलिखित में से कौन-सा कथन गलत है?",
@@ -4460,12 +4631,13 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_297"
+            "id": "q_motion_297",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा गति समीकरण, कण के अंतिम वेग से स्वतंत्र है?",
             "options": [
-                "v = u + at",
+                "s = ut + 1/2 at2",
                 "s = ut + 1/2 at²",
                 "v² - u² = 2as",
                 "v = ut + a"
@@ -4490,7 +4662,8 @@
             "examName": "RRB Level 01 Stage I 10/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_299"
+            "id": "q_motion_299",
+            "correct_option": 3
         },
         {
             "question": "वेग में परिवर्तन / लिया गया समय क्या है =?",
@@ -4505,7 +4678,8 @@
             "examName": "RRB Group D 15/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_300"
+            "id": "q_motion_300",
+            "correct_option": 3
         },
         {
             "question": "किसी तरल पदार्थ में, डूबी हुई या तैरती हुई वस्तु पर लगने वाला उत्प्लावन बल सदैव _________ कार्य करता है।",
@@ -4520,7 +4694,8 @@
             "examName": "RRB Level 01 Stage I 05/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_motion_301"
+            "id": "q_motion_301",
+            "correct_option": 3
         },
         {
             "question": "एक ध्वनि तरंग की आवृत्ति 200 Hz है और इसकी तरंगदैर्ध्य 2 m है। ध्वनि तरंग की चाल कितनी है?",
@@ -4550,7 +4725,8 @@
             "examName": "RPF Constable 2024 : 17 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_303"
+            "id": "q_motion_303",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस घटना को सावत्रिक गुरुत्वाकर्षण के नियमें से नहीं समझाया जा सकता है?",
@@ -4565,13 +4741,14 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_304"
+            "id": "q_motion_304",
+            "correct_option": 3
         },
         {
             "question": "यदि किसी वस्तु का वेग समय (t) में प्रारंभिक मान u से अंतिम मान v तक परिवर्तित हो जाता है, तो त्वरण (a) क्या होगा?",
             "options": [
                 "= v/(u - t)",
-                "= (v - u)/t",
+                "a = (v - u)/t",
                 "= t/(v - u)",
                 "= (v - u)×t"
             ],
@@ -4580,7 +4757,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_305"
+            "id": "q_motion_305",
+            "correct_option": 1
         },
         {
             "question": "धारावाही वृत्तीय तार का प्रत्येक खंड लूप के केंद्र पर ________ में चुंबकीय क्षेत्र में योगदान देता है।",
@@ -4603,14 +4781,15 @@
                 "4 m/s",
                 "400 m/s",
                 "6.67 m/s",
-                "11.11 m/s"
+                "11 m/s"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: 11.11 m/s\n\n📝 व्याख्या:\nरेलगाड़ी का अंतिम वेग 40 km/h दिया गया है, और हमें इसे m/s में बदलना है।\n\nkm/h को m/s में बदलने के लिए 5/18 से गुणा करते हैं:\nv = 40 × (5 / 18)\nv = 200 / 18\nv = 100 / 9 = **11.111. m/s**",
             "examName": "RRB Technician Grade III 10/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_307"
+            "id": "q_motion_307",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प, ओम के नियम के आलेखी निरूपण का सही वर्णन करता है?",
@@ -4625,7 +4804,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_308"
+            "id": "q_motion_308",
+            "correct_option": 3
         },
         {
             "question": "अधिकांश वाणिज्यिक पवन टबाइनों के कुशल संचालन के लिए आवश्यक पवन चाल की विशिष्ट परास (m/s में) क्या है?",
@@ -4640,7 +4820,8 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_309"
+            "id": "q_motion_309",
+            "correct_option": 2
         },
         {
             "question": "एक वस्तु को सीधे ऊर्ध्ववमुखी प्रक्षेपित किया जाता है तथा वह 1000 cm की अधिकतम ऊँचाई तक पहुँचती है। वस्तु का प्रारंभिक वेग कितना था? (g = 9.8 m/s लीजिए)?",
@@ -4655,7 +4836,8 @@
             "examName": "RRB Technician Grade III 06/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_310"
+            "id": "q_motion_310",
+            "correct_option": 2
         },
         {
             "question": "प्रक्षेपित किये जाने पर किसी वस्तु द्वारा अपनी प्रारंभिक स्थिति से तय की गई दूरी क्या होती है?",
@@ -4670,7 +4852,8 @@
             "examName": "RPF SI 2018 : 16 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_311"
+            "id": "q_motion_311",
+            "correct_option": 3
         },
         {
             "question": "विराम अवस्था से शुरू होकर, एक कार 20 सेकंड में 10 m/s का वेग प्राप्त कर लेती है। ब्रेक लगाने पर अगले 5 सेकंड में वेग घटकर 5 m/s हो जाता है। दोनों स्थितियों में त्वरण क्या होगा?",
@@ -4678,14 +4861,15 @@
                 "0.5 m/s² ; 1 m/s²",
                 "-1 m/s² ; 0.5 m/s²",
                 "1 m/s² ; 0.5 m/s²",
-                "0.5 m/s² ; -1 m/s²"
+                "5 m/s² ; -1 m/s²"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: 0.5 m/s² ; -1 m/s²\n\n📝 व्याख्या:\n1. **पहली स्थिति (त्वरण):** u = 0, v = 10 m/s, t = 20 s\n a₁ = (v - u) / t = (10 - 0) / 20 = **0.5 m/s²**\n\n2. **दूसरी स्थिति (मंदन):** u = 10 m/s (ब्रेक लगने के समय), v = 5 m/s, t = 5 s\n a₂ = (v - u) / t = (5 - 10) / 5 = -5 / 5 = **-1 m/s²**",
             "examName": "RRB Level 01 Stage I 04/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_312"
+            "id": "q_motion_312",
+            "correct_option": 3
         },
         {
             "question": "4 kg द्रव्यमान की किसी वस्तु पर 2 s की अवधि के लिए एक नियत बल कार्य करता है, जिससे उसका वेग 2 m/s से बढ़कर 8 m/s हो जाता है। यदि यही बल 4 s की अवधि के लिए प्रयुक्त किया जाए, तो वस्तु का अंतिम वेग कितना होगा?",
@@ -4715,7 +4899,8 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_314"
+            "id": "q_motion_314",
+            "correct_option": 3
         },
         {
             "question": "चुंबकीय क्षेत्र रेखाएँ चुंबकीय क्षेत्र का निरूपण करती हैं। वे उस पथ का प्रतिनिधित्व करती हैं जिसके अनुदिश:",
@@ -4730,7 +4915,8 @@
             "examName": "RPF SI CBT-I 2024 : 09 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_315"
+            "id": "q_motion_315",
+            "correct_option": 1
         },
         {
             "question": "2 kg द्रव्यमान के एक बॉक्स पर 4 N का एक नियत बल 2 s की अवधि के लिए कार्य करता है। यदि इसका प्रारंभिक वेग 2 m/s है, तो इस बॉक्स का अंतिम वेग होगा:",
@@ -4745,7 +4931,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_316"
+            "id": "q_motion_316",
+            "correct_option": 2
         },
         {
             "question": "प्रत्येक इकाई समय में किसी वस्तु के वेग में परिवर्तन को ________ कहा जाता है।",
@@ -4760,7 +4947,8 @@
             "examName": "RPF Constable 2018 22 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_motion_317"
+            "id": "q_motion_317",
+            "correct_option": 1
         },
         {
             "question": "हवा में ध्वनि तरंगें अनुदैर्ध्य होती हैं क्योंकि...",
@@ -4790,7 +4978,8 @@
             "examName": "RRB ALP CBT-II Electronic Mechanic : 02 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_motion_319"
+            "id": "q_motion_319",
+            "correct_option": 1
         },
         {
             "question": "सीधी रेखा के सापेक्ष वस्तुओं की गति क्या है?",
@@ -4805,7 +4994,8 @@
             "examName": "RPF SI Previous Paper : 5 Jan 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_motion_320"
+            "id": "q_motion_320",
+            "correct_option": 3
         },
         {
             "question": "घर्षण के बिना निम्नलिखित में से कौन सा कठिन है?",
@@ -4835,7 +5025,8 @@
             "examName": "RRB Group D 17/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_motion_322"
+            "id": "q_motion_322",
+            "correct_option": 2
         },
         {
             "question": "प्रारंभ में विराम अवस्था में रखी 3 kg द्रव्यमान की किसी वस्तु पर 2 सेकंड के लिए 9 N का एक स्थिर बल लगाया जाता है। वस्तु का अंतिम वेग क्या होगा?",
@@ -4850,7 +5041,8 @@
             "examName": "RRB JE 19/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_323"
+            "id": "q_motion_323",
+            "correct_option": 3
         },
         {
             "question": "किसी पिंड की वृत्ताकार पथ में नियत चाल से गति कहलाती है:",
@@ -4865,7 +5057,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_motion_324"
+            "id": "q_motion_324",
+            "correct_option": 3
         },
         {
             "question": "किसी वस्तु द्वारा तय की गई दूरी का वर्णन करने के लिए क्या आवश्यक है?",
@@ -4910,7 +5103,8 @@
             "examName": "RRB Level 01 Stage I 26/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_motion_327"
+            "id": "q_motion_327",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा स्थितिज ऊर्जा का एक स्पष्ट उदाहरण है?",
@@ -4925,7 +5119,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 22/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_328"
+            "id": "q_motion_328",
+            "correct_option": 3
         },
         {
             "question": "यदि किसी वस्तु की चाल समय के साथ बदलती है, तो दूरी-समय ग्राफ ____________ होगी।",
@@ -4940,12 +5135,13 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_motion_329"
+            "id": "q_motion_329",
+            "correct_option": 2
         },
         {
             "question": "जब प्रकाश की एक किरण वायु से एक आयताकार काँच के स्लैब में तिरछी प्रवेश करती है, तो प्रथम अंतरपृष्ठ पर इसकी दिशा में क्या परिवर्तन होता है?",
             "options": [
-                "यह अभिलंब से परे झुक जाती है।",
+                "यह अभिलंब की ओर झुक जाती है。",
                 "यह सीधी यात्रा करती है।",
                 "यह अभिलंब की ओर झुक जाती है।",
                 "यह वापस परवर्तित हो जाती है।"
@@ -4970,12 +5166,13 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_motion_331"
+            "id": "q_motion_331",
+            "correct_option": 1
         },
         {
             "question": "त्वरण के बारे में निम्नलिखित में से कौन-सा कथन सही है?",
             "options": [
-                "त्वरण तब ऋणात्मक होता है जब यह वेग की दिशा के विपरीत कार्य करता है।",
+                "त्वरण तब ऋणात्मक होता है जब यह वेग की दिशा के विपरीत कार्य करता है。",
                 "त्वरण की SI इकाई m/s है।",
                 "दिशा चाहे जो भी हो, त्वरण सदैव धनात्मक होता है।",
                 "त्वरण तब धनात्मक होता है जब वह वेग की दिशा के विपरीत होता है।"
@@ -5005,7 +5202,7 @@
         {
             "question": "एक वस्तु 16 m की दूरी 4 s में तय करती है और फिर अगली 16 m की दूरी 2 s में तय करती है। वस्तु की औसत चाल ज्ञात कीजिए।",
             "options": [
-                "5.33 m/s",
+                "33 m/s",
                 "67 m/s",
                 "8 m/s",
                 "4 m/s"
@@ -5030,7 +5227,8 @@
             "examName": "RRB ALP CBT 1 17/02/2026 4:00 PM - 5:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_motion_335"
+            "id": "q_motion_335",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सी भौतिक राशि गतिमान पिंड द्वारा तय किए गए कुल पथ की लंबाई के समतुल्य है?",
@@ -5045,7 +5243,8 @@
             "examName": "RRB ALP CBT-I 2024 : 27 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_336"
+            "id": "q_motion_336",
+            "correct_option": 1
         },
         {
             "question": "2 kg द्रव्यमान की एक वस्तु 10 m/s के वेग से गति कर रही है। उस पर 5 s के लिए 4 N का बल लगाया जाता है, तो अंतिम वेग कितना होगा?",
@@ -5060,7 +5259,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_337"
+            "id": "q_motion_337",
+            "correct_option": 3
         },
         {
             "question": "2 kg द्रव्यमान के एक पिंड पर 10 N का बल कार्य करता है। उत्पन्न त्वरण.है।",
@@ -5075,7 +5275,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_338"
+            "id": "q_motion_338",
+            "correct_option": 1
         },
         {
             "question": "यदि एक सीधी सड़क पर चल रही कार समान समय अंतराल में असमान मात्रा में अपनी गति बढ़ाती है, तो कार किस गति से चल रही होती है?",
@@ -5095,7 +5296,7 @@
         {
             "question": "यदि कोई वस्तु गति आरंभ करती है और यदि बिल्कुल भी घर्षण नहीं होता है, तो क्या होता है?",
             "options": [
-                "वस्तु कभी रेक नहीं सकती है।",
+                "वस्तु कभी रेक नहीं सकती है。",
                 "वस्तु तुरंत रेक जाती है।",
                 "वस्तु कुछ समय बाद रेक जाती है।",
                 "वस्तु उड़ने लगति है।"
@@ -5120,7 +5321,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_motion_341"
+            "id": "q_motion_341",
+            "correct_option": 3
         },
         {
             "question": "कुल समय में तय की गई कुल दूरी कहलाती है:",
@@ -5150,7 +5352,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_343"
+            "id": "q_motion_343",
+            "correct_option": 3
         },
         {
             "question": "एक गेंद को प्रारंभिक वेग (u) से ऊर्ध्वावाधर ऊपर की ओर उछाला जाता है। समय (t) के बाद, इसका वेग (v) __________ हो जाता है।",
@@ -5170,7 +5373,7 @@
         {
             "question": "एक गेंद 12.5 सेकंड के बाद जमीन पर लंब रूप से वापिस आती है। वह वेग ज्ञात कीजिए जिसके साथ इसे फेंका गया था? (g = 10 m/s²)?",
             "options": [
-                "62.5 m/s",
+                "5 मीसेक-1",
                 "65 m/s",
                 "12.5 m/s",
                 "10 m/s"
@@ -5195,7 +5398,8 @@
             "examName": "RRB Level 01 Stage I 10/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_motion_346"
+            "id": "q_motion_346",
+            "correct_option": 2
         },
         {
             "question": "एक कार 5 सेकंड में 18 km/h से 36 km/h तक की गति प्राप्त करती है। कार के त्वरण की गणना कीजिये।",
@@ -5225,7 +5429,8 @@
             "examName": "RRB Group D 23/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_motion_348"
+            "id": "q_motion_348",
+            "correct_option": 1
         },
         {
             "question": "जब किसी वस्तु को ऊपर की ओर फेंका जाता है, तो गुरुत्वाकर्षण बल _____ होता है?",
@@ -5240,12 +5445,13 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_motion_349"
+            "id": "q_motion_349",
+            "correct_option": 2
         },
         {
             "question": "एक वस्तु सरल रेखा में ऐसे वेग से गति कर रही है जो प्रारंभ में धनात्मक (+ u) और शून्येतर है, लेकिन त्वरण असमान और ऋणात्मक है, जिससे वेग अंततः ऋणात्मक (− v) हो जाता है। ऋणात्मक अंतिम वेग क्या दर्शाता है?",
             "options": [
-                "वस्तु का त्वरण स्थिर परंतु ऋणात्मक है।",
+                "वस्तु अपनी प्रारंभिक दिशा के सापेक्ष पीछे की ओर गति कर रही है。",
                 "वस्तु स्थिर अवस्था में है।",
                 "वस्तु अपनी प्रारंभिक दिशा के सापेक्ष पीछे की ओर गति कर रही है।",
                 "किसी बिंदु पर त्वरण धनात्मक हो गया।"
@@ -5270,7 +5476,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_motion_351"
+            "id": "q_motion_351",
+            "correct_option": 1
         },
         {
             "question": "एक गेंद को 12 m/s के प्रारंभिक वेग से ऊपर की ओर फेंका जाता है। 1 सेकंड बाद इसका वेग कितना होगा? (g = 9.8 m/s² लीजिए)?",
@@ -5285,7 +5492,8 @@
             "examName": "RRB Level 01 Stage I 15/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_352"
+            "id": "q_motion_352",
+            "correct_option": 3
         },
         {
             "question": "जब 1 लीटर जल को 4°C से 0°C तक ठंडा किया जाता है, तो इसका आयतन _____ ।",
@@ -5300,12 +5508,13 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_motion_353"
+            "id": "q_motion_353",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा समीकरण स्थिति - समय संबंध के लिए है?",
             "options": [
-                "s = ut + 1/2 at²",
+                "s = ut + 1/2 at2",
                 "v = u + at",
                 "u = v + at",
                 "2as = v² - u²"
@@ -5330,7 +5539,8 @@
             "examName": "",
             "examYear": "",
             "type": "fillInBlanks",
-            "id": "q_motion_355"
+            "id": "q_motion_355",
+            "correct_option": 3
         },
         {
             "question": "विस्थापन के परिवर्तन की दर को ________ के रूप में जाना जाता है।",
@@ -5345,12 +5555,13 @@
             "examName": "RRB Group D 3/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_motion_356"
+            "id": "q_motion_356",
+            "correct_option": 1
         },
         {
             "question": "यह मानते हुए कि वस्तु का द्रव्यमान स्थिर रहता है, यदि प्रयुक्त बल को चार गुना कर दिया जाए, तो वस्तु के त्वरण में क्या परिवर्तन होगा?",
             "options": [
-                "त्वरण 4 के गुणक में घट जाएगा।",
+                "त्वरण 4 के गुणक में बढ़ जाएगा。",
                 "त्वरण समान रहेगा, लेकिन परिवर्तन की अवधि घट जाएगी।",
                 "त्वरण 2 के गुणक में बढ़ जाएगा।",
                 "त्वरण 4 के गुणक में बढ़ जाएगा।"
@@ -5375,7 +5586,8 @@
             "examName": "RRB ALP CBT 1 18/02/2026 4:00 PM - 5:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_motion_358"
+            "id": "q_motion_358",
+            "correct_option": 3
         },
         {
             "question": "एक पिंड एक सरल रेखा में परिवर्तनशील चाल से गतिमान है। 10 s में इसका विस्थापन 50 m है। औसत वेग कितना होगा?",
@@ -5405,7 +5617,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_360"
+            "id": "q_motion_360",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा, एकसमान वृत्तीय गति का उदाहरण है?",
@@ -5420,7 +5633,8 @@
             "examName": "RRB Level 01 Stage I 22/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_motion_361"
+            "id": "q_motion_361",
+            "correct_option": 2
         },
         {
             "question": "नियत वेग-समय वक्र के अंतर्गत क्षेत्रफल किसी दिए गए समय अंतराल में वस्तु के __________ के बराबर होता है।",
@@ -5440,7 +5654,7 @@
         {
             "question": "जब किसी वस्तु का दूरी-समय ग्राफ एक वक्र रेखा है, तो यह क्या दर्शाता है?",
             "options": [
-                "वस्तु नियत चाल से चल रही है।",
+                "वस्तु की चाल समय के साथ परिवर्तित हो रही है。",
                 "गति में कोई त्वरण नहीं है।",
                 "वस्तु की चाल समय के साथ परिवर्तित हो रही है।",
                 "वस्तु स्थिर अवस्था में है।"
@@ -5470,7 +5684,7 @@
         {
             "question": "गति के निम्नलिखित समीकरण में से कौन सा किसी पिंड द्वारा सीधे तय की गई दूरी या विस्थापन को निधारित करने के लिए उपयोग किया जा सकता है?",
             "options": [
-                "v² - u² = 2as",
+                "दोनों v 2 - u 2 = 2as और s = ut + 1 / 2 at 2",
                 "s = ut + 1/2 at²",
                 "v = u + at",
                 "दोनों v² - u² = 2as और s = ut + 1/2 at²"
@@ -5485,7 +5699,7 @@
         {
             "question": "रात्रि में आकाश में तारे टिमटिमाते हुए प्रतीत होते हैं क्योंकि ______ ।",
             "options": [
-                "तारे आकाश में तेज़ी से गति करते हैं",
+                "तारों से आने वाला प्रकाश वायमेंडलीय अपवर्तन से गुजरता है",
                 "तारों से आने वाला प्रकाश वायुमंडलीय अपवर्तन से गुजरता है",
                 "वे अपनी चमक लगातार बदलते रहते हैं",
                 "तारों और पृथ्वी के बीच की दूरी बदलती रहती है"
@@ -5500,7 +5714,7 @@
         {
             "question": "दूरी-समय ग्राफ़ एक सीधी रेखा न होकर एक वक्र है। यह क्या दर्शाता है?",
             "options": [
-                "पिंड एकसमान त्वरण से गतिमान है।",
+                "पिंड असमान गति से गतिमान है。",
                 "पिंड विरामावस्था में है।",
                 "पिंड एकसमान गति से गतिमान है।",
                 "पिंड असमान गति से गतिमान है।"
@@ -5515,7 +5729,7 @@
         {
             "question": "एकसमान वेग के बारे में निम्नलिखित में से कौन-सा कथन सही नहीं है?",
             "options": [
-                "v-t ग्राफ के अधीन क्षेत्रफल त्वरण देता है।",
+                "v-t ग्राफ के अधीन क्षेत्रफल त्वरण देता है。",
                 "v-t ग्राफ एक क्षैतिज रेखा है।",
                 "v-t ग्राफ में रेखा का ढलान शून्य है।",
                 "वेग स्थिर है और त्वरण शून्य है।"
@@ -5540,7 +5754,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_motion_369"
+            "id": "q_motion_369",
+            "correct_option": 3
         },
         {
             "question": "बोर (Bohr's) के परमाणु मॉडल के अनुसार, इलेक्ट्रॉन नाभिक के चारों ओर ___________ परिक्रमण करते हैं।",
@@ -5560,7 +5775,7 @@
         {
             "question": "ठोस पदार्थों के ताप को बढ़ाने पर कणों की गतिज ऊर्जा ________ ।",
             "options": [
-                "पहले बढ़ती है और फिर घटती है।",
+                "बढ़ती है。",
                 "स्थिर रहती है।",
                 "बढ़ती है।",
                 "घटती है।"
@@ -5575,7 +5790,7 @@
         {
             "question": "सिमरन एक मिनट में 60 मीटर की दूरी तय करती है और फिर उसी सीधे रास्ते पर वापस लौटती है। उसकी सवारी का औसत वेग _____ है।",
             "options": [
-                "0 m/s",
+                "0 मीटर/सेकंड",
                 "2 m/s",
                 "1 m/s",
                 "60 m/s"

@@ -31,7 +31,8 @@
             "examName": "RRB NTPC CBT-I : 11 Feb 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_waves_2"
+            "id": "q_waves_2",
+            "correct_option": 3
         },
         {
             "question": "यदि किसी ध्वनि तरंग का आवर्तकाल 0.04 सेकंड है, तो उसकी आवृत्ति ज्ञात कीजिए।",
@@ -61,7 +62,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_waves_4"
+            "id": "q_waves_4",
+            "correct_option": 2
         },
         {
             "question": "मनुष्यों के लिए श्रव्य आवृत्ति परास कितनी है?",
@@ -76,7 +78,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_waves_5"
+            "id": "q_waves_5",
+            "correct_option": 3
         },
         {
             "question": "किसी मेज पर मंद आघात करने पर उत्पन्न ध्वनि के मृदु होने का क्या कारण है?",
@@ -121,7 +124,8 @@
             "examName": "RRB JE 23 May 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_waves_8"
+            "id": "q_waves_8",
+            "correct_option": 2
         },
         {
             "question": "अनुदैर्ध्य (Longitudinal) तरंग में क्या होता है?",
@@ -136,7 +140,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_9"
+            "id": "q_waves_9",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा अनुदैर्ध्य (Longitudinal) तरंग का एक उदाहरण है?",
@@ -151,7 +156,8 @@
             "examName": "RRB Group D 12 Nov 2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_waves_10"
+            "id": "q_waves_10",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन ध्वनि की प्रबलता या मृदुता निधारित करता है?",
@@ -166,7 +172,8 @@
             "examName": "RRB JE 24 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_waves_11"
+            "id": "q_waves_11",
+            "correct_option": 2
         },
         {
             "question": "एक इन्फ्रासाउंड माइक्रोफोन विमान के वेक वोर्टेक्स, स्पष्ट वायु अशांति, बवंडर और भूकंपीय घटनाओं का दूरस्थ पता लगाने में सक्षम बनाता है, जो निम्नलिखित आवृत्तियों से नीचे होता है:",
@@ -181,7 +188,8 @@
             "examName": "RRB NTPC UG CBT-I : 14 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_12"
+            "id": "q_waves_12",
+            "correct_option": 3
         },
         {
             "question": "बार-बार परावर्तन के कारण होने वाले कई प्रतिध्वनियों की घटना को ___________ कहा जाता है।",
@@ -196,7 +204,8 @@
             "examName": "RRB JE CE 22 Apr 2025 Shift 2 CBT 2",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_waves_13"
+            "id": "q_waves_13",
+            "correct_option": 1
         },
         {
             "question": "ध्वनि तरंगों को यांत्रिक तरंगों के रूप में क्यों वर्गीकृत किया जाता है?",
@@ -211,7 +220,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_14"
+            "id": "q_waves_14",
+            "correct_option": 2
         },
         {
             "question": "जब किसी तनी हुई डोरी को झटका दिया जाता है या विक्षुब्ध किया जाता है, तो मुख्य रूप से किस प्रकार की तरंग बनती है?",
@@ -226,7 +236,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 17 Jun, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_15"
+            "id": "q_waves_15",
+            "correct_option": 2
         },
         {
             "question": "ध्वनि एक माध्यम में ________ के रूप में यात्रा करती है।",
@@ -241,7 +252,8 @@
             "examName": "RRB JE 26 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_waves_16"
+            "id": "q_waves_16",
+            "correct_option": 1
         },
         {
             "question": "2GHz सिग्नल किस आवृत्ति बैंड में होता है?",
@@ -256,7 +268,8 @@
             "examName": "RRB ALP Electronics Mechanic 21 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_waves_17"
+            "id": "q_waves_17",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से आवृत्ति और आवर्तकाल का कौन-सा युग्म ठीक प्रकार से संबंधित है?",
@@ -271,7 +284,8 @@
             "examName": "RRB Level 01 Stage I 22/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_18"
+            "id": "q_waves_18",
+            "correct_option": 2
         },
         {
             "question": "दो क्रमागत संकुचन या दो संतत दुलभताओं की सफलता के बीच की दूरी क्या है?",
@@ -286,7 +300,8 @@
             "examName": "RPF Constable 2018 04 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_waves_19"
+            "id": "q_waves_19",
+            "correct_option": 2
         },
         {
             "question": "दो सतहें जो एक दूसरे के संपर्क में होती हैं, के बीच _____ की उपस्थिति घर्षण का कारण बनती है।",
@@ -301,12 +316,13 @@
             "examName": "RRB JE 23 May 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_waves_20"
+            "id": "q_waves_20",
+            "correct_option": 3
         },
         {
             "question": "ध्वनि की प्रबलता के संबंध में निम्नलिखित में से कौन-सा कथन सत्य है?",
             "options": [
-                "प्रबलता तरंगदैर्ध्य (Wavelength) पर निर्भर करती है।",
+                "प्रबलता आयाम पर निभर करती है।",
                 "प्रबलता आवृत्ति पर निर्भर करती है।",
                 "प्रबलता आयाम पर निर्भर करती है।",
                 "प्रबलता तरंग की गति पर निर्भर करती है।"
@@ -331,12 +347,13 @@
             "examName": "RPF SI 2018 : 13 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_waves_22"
+            "id": "q_waves_22",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से सही कथन का चयन कीजिए।",
             "options": [
-                "उपरोक्त में से कोई नहीं",
+                "उपरोक्त सभी",
                 "तरंग की आवृत्ति हटज़ (Hz) में मापी जाती है।",
                 "आवृत्ति, एक सेकंड में एक निश्चित बिंदु से गुजरने वाली तरंग श्रृंगों की संख्या होती है।",
                 "तरंग का आयाम, मध्य बिंदु से इसके श्रृंग की ऊंचाई होती है।"
@@ -361,7 +378,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_waves_24"
+            "id": "q_waves_24",
+            "correct_option": 3
         },
         {
             "question": "हवा में ध्वनि की गति क्या होती है?",
@@ -376,7 +394,8 @@
             "examName": "RRB NTPC CBT-I : 27 Feb 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_waves_25"
+            "id": "q_waves_25",
+            "correct_option": 1
         },
         {
             "question": "उस सिद्धांत का नाम क्या है जो बताता है कि एक तरंगग्र के प्रत्येक बिंदु माध्यमिक तरंगिकाओं के स्रोत के रूप में कार्य करते हैं जो सभी दिशाओं में फैलते हैं और एक नया तरंगग्र बनाते हैं?",
@@ -391,7 +410,8 @@
             "examName": "RRB NTPC UG CBT-I : 18 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_26"
+            "id": "q_waves_26",
+            "correct_option": 1
         },
         {
             "question": "आवर्तकाल सूत्र क्या है?",
@@ -406,7 +426,8 @@
             "examName": "RPF SI Previous Paper : 5 Jan 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_waves_27"
+            "id": "q_waves_27",
+            "correct_option": 3
         },
         {
             "question": "ध्वनि की तीव्रता उसके ______ द्वारा निधारित होती है।",
@@ -421,7 +442,8 @@
             "examName": "RPF Constable 2018 15 Feb 2019",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_waves_28"
+            "id": "q_waves_28",
+            "correct_option": 3
         },
         {
             "question": "ध्वनि की इनमें से कौन-सी विशेषता, हमें समान पिच और तीव्रता वाली ध्वनियों को अलग करने में सक्षम बनाती है?",
@@ -436,7 +458,8 @@
             "examName": "RRB JE 28 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_waves_29"
+            "id": "q_waves_29",
+            "correct_option": 1
         },
         {
             "question": "एकसमान चाल से गतिमान किसी वस्तु के लिए दूरी-समय ग्राफ कैसा होगा?",
@@ -451,7 +474,8 @@
             "examName": "RRB Level 01 Stage I 06/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_waves_30"
+            "id": "q_waves_30",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से कौन माध्यम के घनत्व में एक ध्वनि तरंग के पूर्ण दोलन के लिए लिया गया समय है?",
@@ -466,13 +490,14 @@
             "examName": "RRB JE 24 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_waves_31"
+            "id": "q_waves_31",
+            "correct_option": 3
         },
         {
             "question": "जब दोलक पर प्रेरित प्रेरक बल दोलक की वास्तविक आवृत्ति के बराबर हो जाता है, तो दोलक के आयाम में वृद्धि को कहते हैं -",
             "options": [
                 "प्रेरित आवृत्ति",
-                "गूंज",
+                "अनुनाद (गूंज)",
                 "निःःशुल्क आयाम",
                 "प्रेरित आयाम"
             ],
@@ -481,7 +506,8 @@
             "examName": "RPF SI 2018 : 16 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_waves_32"
+            "id": "q_waves_32",
+            "correct_option": 1
         },
         {
             "question": "उच्च-पिचऔर निम्न-पिच ध्वनि में क्रमशः ___________ होता है।",
@@ -496,7 +522,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_waves_33"
+            "id": "q_waves_33",
+            "correct_option": 3
         },
         {
             "question": "तरंग की कौन सी विशेषता हर्ट्ज़ (Hz) में मापी जाती है?",
@@ -511,12 +538,13 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_waves_34"
+            "id": "q_waves_34",
+            "correct_option": 3
         },
         {
             "question": "जब एक ध्वनि तरंग वायु से जल में प्रवेश करती है, तो सीमा पार करते समय उसकी आवृत्ति, चाल और तरंगदैर्ध्य (Wavelength) में क्या परिवर्तन होता है?",
             "options": [
-                "इसकी आवृत्ति बढ़ती है, चाल समान रहती है और तरंगदैर्ध्य (Wavelength) कम हो जाती है।",
+                "इसकी आवृत्ति स्थिर रहती है, चाल और तरंगदैर्ध्य बढ़ती है।",
                 "इसकी आवृत्ति कम होती है, चाल कम होती है और तरंगदैर्ध्य (Wavelength) बढ़ जाती है।",
                 "इसकी आवृत्ति स्थिर रहती है, चाल कम होती है और तरंग दैर्ध्य कम हो जाती है।",
                 "इसकी आवृत्ति स्थिर रहती है, चाल और तरंगदैर्ध्य (Wavelength) बढ़ती है।"
@@ -541,7 +569,8 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_36"
+            "id": "q_waves_36",
+            "correct_option": 1
         },
         {
             "question": "ध्वनि की गुणवत्ता उसके _____________ द्वारा निधारित होती है।",
@@ -556,7 +585,8 @@
             "examName": "RPF Constable 2018 17 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_waves_37"
+            "id": "q_waves_37",
+            "correct_option": 2
         },
         {
             "question": "ध्वनि तरंग में, माध्यम के कण ___________ ।",
@@ -571,7 +601,8 @@
             "examName": "RRB Level 01 Stage I 27/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_waves_38"
+            "id": "q_waves_38",
+            "correct_option": 3
         },
         {
             "question": "यदि किसी तरंग की चाल 300 m/s है और इसकी तरंगदैर्ध्य 0.75 m है, तो तरंग की आवृत्ति _________ है।",
@@ -586,7 +617,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_waves_39"
+            "id": "q_waves_39",
+            "correct_option": 3
         },
         {
             "question": "एक मृदु ध्वनि की तुलना में, समान आवृत्ति की एक तेज ध्वनि तरंग की क्या विशेषता होती है?",
@@ -616,7 +648,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_41"
+            "id": "q_waves_41",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प, वायु में ध्वनि की चाल के सबसे निकट है?",
@@ -631,7 +664,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 18/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_waves_42"
+            "id": "q_waves_42",
+            "correct_option": 2
         },
         {
             "question": "एक सभागार में ध्वनि की निरंतरता ध्वनि के बार-बार परावर्तन का परिणाम है और इसे _________ कहा जाता है।",
@@ -646,7 +680,8 @@
             "examName": "RRB NTPC CBT-I : 16 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_waves_43"
+            "id": "q_waves_43",
+            "correct_option": 3
         },
         {
             "question": "तरंग का आयाम बढ़ने पर निम्नलिखित में से किसमें वृद्धि होती है?",
@@ -661,7 +696,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_44"
+            "id": "q_waves_44",
+            "correct_option": 2
         },
         {
             "question": "वायु में ध्वनि तरंग किस प्रकार की तरंग है?",
@@ -706,7 +742,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_waves_47"
+            "id": "q_waves_47",
+            "correct_option": 2
         },
         {
             "question": "यदि प्रकाश की तरंगदैर्ध्य (Wavelength)₆₀₀ nm है और उसकी चाल 3 × 10⁸ m/s है, तो आवृत्ति लगभग ________ होगी।",
@@ -721,7 +758,8 @@
             "examName": "RRB Level 01 Stage I 10/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_waves_48"
+            "id": "q_waves_48",
+            "correct_option": 2
         },
         {
             "question": "बोर मॉडल के अनुसार, विद्युत-चमें्बकीय विकिरणों में द्वैत प्रकाश-लक्षण (dual character) होते हैं, जिस कारण _________ दोनों की तरह व्यवहार करते हैं।",
@@ -751,7 +789,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_waves_50"
+            "id": "q_waves_50",
+            "correct_option": 1
         },
         {
             "question": "माध्य मान के दोनों ओर माध्यम में अधिकतम विक्षोभ के परिमाण को क्या कहते हैं?",
@@ -766,7 +805,8 @@
             "examName": "RRB JE ME 31 Aug 2019 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_waves_51"
+            "id": "q_waves_51",
+            "correct_option": 1
         },
         {
             "question": "मस्तिष्क उत्सर्जित ध्वनि की आवृत्ति की व्याख्या करता है जिसे _______ कहा जाता है।",
@@ -781,7 +821,8 @@
             "examName": "RRB JE EE 19 Sept 2019 Shift 2 CBT 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_waves_52"
+            "id": "q_waves_52",
+            "correct_option": 1
         },
         {
             "question": "व्यतिकरण पैटन के केंद्र में सबसे चमकीला और सबसे बड़ा फ्रिंज किस रूप में जाना जाता है?",
@@ -796,7 +837,8 @@
             "examName": "RPF Constable 2024 05 Mar, 2025 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_waves_53"
+            "id": "q_waves_53",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सी ध्वनि आवृत्ति मनुष्य के लिए अश्रव्य है?",
@@ -811,7 +853,8 @@
             "examName": "RRB Level 01 Stage I 05/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_waves_54"
+            "id": "q_waves_54",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन अनुदैर्ध्य (Longitudinal) तरंग का एक उदाहरण है?",
@@ -826,7 +869,8 @@
             "examName": "RRB NTPC UG CBT-I : 11 Aug, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_55"
+            "id": "q_waves_55",
+            "correct_option": 2
         },
         {
             "question": "एक कंपायमान वस्तु की समयावधि 0.04 s है, तो तरंग की आवृत्ति ________है।",
@@ -856,7 +900,8 @@
             "examName": "RRB NTPC UG CBT-I : 08 Aug, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_57"
+            "id": "q_waves_57",
+            "correct_option": 2
         },
         {
             "question": "यह आंकड़ा स्लिंकी (वसंत के आकार का खिलौना) में संपीड़न और विरलता प्रदर्शित करता है। डाक बैंड किसे कहा जाता है?",
@@ -871,12 +916,13 @@
             "examName": "RRB Group D 12 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_waves_58"
+            "id": "q_waves_58",
+            "correct_option": 3
         },
         {
             "question": "यदि दो क्रमिक पवतों की चोटियों के बीच की दूरी L है, तो तरंग दैर्ध्य ______ द्वारा दिया जाता है।",
             "options": [
-                "L",
+                "N/A",
                 "2L",
                 "L/2",
                 "L²"
@@ -903,7 +949,8 @@
             "examName": "RPF Constable 2024 : 10 Mar, 2025 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_waves_60"
+            "id": "q_waves_60",
+            "correct_option": 3
         },
         {
             "question": "यदि एक तरंग 2.5 s में 20 कंपन पूरा करती है, तो इसकी आवृत्ति ________ है।",
@@ -918,7 +965,8 @@
             "examName": "RRB Group D 27 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_waves_61"
+            "id": "q_waves_61",
+            "correct_option": 3
         },
         {
             "question": "दोलायमान गति में, प्रति सेकंड दोलनों की संख्या को ________ कहा जाता है।",
@@ -933,12 +981,13 @@
             "examName": "RPF Constable 2018 22 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_waves_62"
+            "id": "q_waves_62",
+            "correct_option": 2
         },
         {
             "question": "500 m·s⁻¹ की गति से यात्रा करने वाली तरंग का तरंग दैर्ध्य 20 m है। समयांतराल _____ होगा।",
             "options": [
-                "4 s",
+                "04 s",
                 "25 s",
                 "0.05 s",
                 "0.04 s"
@@ -963,7 +1012,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 19 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_64"
+            "id": "q_waves_64",
+            "correct_option": 2
         },
         {
             "question": "ध्वनि तरंग की उत्पत्ति के लिए क्या आवश्यक है?",
@@ -978,7 +1028,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 24 Jun, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_65"
+            "id": "q_waves_65",
+            "correct_option": 2
         },
         {
             "question": "चूँकि ध्वनि तरंग एक विक्षोभ है, जो माध्यम में पड़ोसी कणों को गतिमान करके चलती है, तो उन्हें किस तरंग श्रेणी में वर्गीकृत किया जाता है?",
@@ -993,7 +1044,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_waves_66"
+            "id": "q_waves_66",
+            "correct_option": 2
         },
         {
             "question": "जब कोई कंपायमान वस्तु पश्चगामी गति करती है, तो बनने वाले निम्न-दाब क्षेत्र को हम क्या कहते हैं?",
@@ -1023,7 +1075,8 @@
             "examName": "RRB Group D 2 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_waves_68"
+            "id": "q_waves_68",
+            "correct_option": 1
         },
         {
             "question": "अवश्रव्य ध्वनि के बारे में निम्नलिखित में से कौन-सा कथन सत्य है?",
@@ -1053,7 +1106,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 24 Jun, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_70"
+            "id": "q_waves_70",
+            "correct_option": 2
         },
         {
             "question": "विपरीत दिशाओं में गतिमान दो समान तरंगों के व्यतिकरण (interference) से कौन-सी तरंगें उत्पन्न होती हैं?",
@@ -1068,7 +1122,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 22/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_waves_71"
+            "id": "q_waves_71",
+            "correct_option": 1
         },
         {
             "question": "ध्वनि की आवृत्ति f, तरंगदैर्ध्य (Wavelength) λ तथा चाल v के बीच क्या संबंध है?",
@@ -1098,7 +1153,8 @@
             "examName": "RRB Group D 6 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_waves_73"
+            "id": "q_waves_73",
+            "correct_option": 1
         },
         {
             "question": "ध्वनि की चाल (v), इसकी तरंगदैर्ध्य (Wavelength) (λ) और आवर्तकाल (T) के बीच क्या संबंध है?",
@@ -1113,7 +1169,8 @@
             "examName": "RRB NTPC UG CBT-I : 29 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_74"
+            "id": "q_waves_74",
+            "correct_option": 1
         },
         {
             "question": "ध्वनि की चाल (v) की गणना किन दो तरंग गुणधर्मों का गुणा करके की जाती है?",
@@ -1143,7 +1200,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_waves_76"
+            "id": "q_waves_76",
+            "correct_option": 3
         },
         {
             "question": "अलग-अलग पिच की ध्वनि तरंगें उत्पन्न करने के लिए, अलग-अलग आकार और स्थितियों की वस्तुओं को अलग-अलग ________ पर कंपन कराया जाता है।",
@@ -1158,7 +1216,8 @@
             "examName": "RRB JE EE 1 Sept 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_waves_77"
+            "id": "q_waves_77",
+            "correct_option": 3
         },
         {
             "question": "बार-बार परावर्तन के कारण होने वाले कई प्रतिध्वनियों की घटना को ___________ कहा जाता है।",
@@ -1173,7 +1232,8 @@
             "examName": "RRB JE ECE 22 Apr 2025 Shift 1 CBT 2",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_waves_78"
+            "id": "q_waves_78",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस प्रकार की तरंग में, माध्यम के कण तरंग संचरण की दिशा के समानांतर गति करते हैं?",
@@ -1233,7 +1293,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 17/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_waves_82"
+            "id": "q_waves_82",
+            "correct_option": 2
         },
         {
             "question": "यदि किसी तरंग की आवृत्ति दोगुनी हो जाती है तो उसकी तरंग दैर्ध्य _______ होगी।",
@@ -1255,7 +1316,7 @@
             "options": [
                 "चाल ()",
                 "एम्प्लीट्यूड ()",
-                "आवृत्ति ()",
+                "A. आवृत्ति ()",
                 "तरंगदैर्ध्य ()"
             ],
             "correctIndex": 2,
@@ -1263,7 +1324,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_84"
+            "id": "q_waves_84",
+            "correct_option": 2
         },
         {
             "question": "यदि किसी ध्वनि तरंग की समयावधि 0.02 s है तो उसकी आवृत्ति कितनी है?",
@@ -1293,7 +1355,8 @@
             "examName": "RRB JE CBT 2 Electronics Engineering ReExam : 04 Jun, 2025",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_86"
+            "id": "q_waves_86",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा एक पूर्ण चक्र के दौरान ज्यावक्रीय तरंग सिग्नल के आकार का सबसे अच्छा वर्णन करता है?",
@@ -1308,7 +1371,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 13 Jun, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_87"
+            "id": "q_waves_87",
+            "correct_option": 3
         },
         {
             "question": "एक ध्वनि तरंग की आवृत्ति (f) और आवर्तकाल (T) के बीच क्या संबंध है?",
@@ -1323,7 +1387,8 @@
             "examName": "RRB NTPC UG CBT-I : 19 Aug, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_waves_88"
+            "id": "q_waves_88",
+            "correct_option": 1
         },
         {
             "question": "एक ट्यूनिंग फोक (tuning fork) को अधिक जोर से मारा जाता है। इसके परिणामस्वरूप निम्नलिखित में से क्या बढ़ता है?",
@@ -1338,12 +1403,13 @@
             "examName": "RRB ALP CBT 1 13/02/2026 9:00 AM - 10:00 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_waves_89"
+            "id": "q_waves_89",
+            "correct_option": 3
         },
         {
             "question": "यदि इकाई में एक या एक से अधिक गतिमान पुर्जे हैं, तब गतिमान पुर्जों की चरम स्थितियों को किसमें दर्शाया जाता है?",
             "options": [
-                "संतत तरंगीय रेखा",
+                "लंबी डैशित दो-बिंदु वाली संकीर्ण रेखा",
                 "लंबी डैशित दो-बिंदु वाली संकीण रेखा",
                 "संतत मोटी रेखा",
                 "संतत पतली रेखा"
@@ -1368,7 +1434,8 @@
             "examName": "RPF Constable 2018 19 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_waves_91"
+            "id": "q_waves_91",
+            "correct_option": 3
         },
         {
             "question": "यदि किसी तरंग की आवृत्ति दोगुनी हो जाती है तो उसकी तरंग दैर्ध्य _______ होगी।",

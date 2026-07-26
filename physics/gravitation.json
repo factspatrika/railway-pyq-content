@@ -16,12 +16,13 @@
             "examName": "RRB Technician Grade III 10/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_gravitation_1"
+            "id": "q_gravitation_1",
+            "correct_option": 2
         },
         {
             "question": "एक सिक्का, एक पंख और एक ईंट को निर्वात में एक साथ गिराया जाता है। निम्नलिखित में से कौन-सा कथन इस स्थिति में सत्य है?",
             "options": [
-                "सिक्के से पहले पंख और ईंट नीचे पहुँच जाएंगे।",
+                "पंख, सिक्का और ईंट सभी एकसाथ नीचे पहुँचेंगे。",
                 "ईंट और पंख से पहले सिक्का नीचे पहुँच जाएगा।",
                 "पंख, सिक्का और ईंट सभी एकसाथ नीचे पहुँचेंगे।",
                 "पंख और सिक्के से पहले ईंट नीचे पहुँच जाएगी।"
@@ -46,7 +47,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_gravitation_3"
+            "id": "q_gravitation_3",
+            "correct_option": 3
         },
         {
             "question": "गुरुत्वीय त्वरण ____ पर सबसे अधिक होता है।",
@@ -76,7 +78,8 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_gravitation_5"
+            "id": "q_gravitation_5",
+            "correct_option": 3
         },
         {
             "question": "लालटेन की बत्ती में मिट्टी के तेल (केरोसीन) के ऊपर उठने का कारण क्या है?",
@@ -91,7 +94,8 @@
             "examName": "RRB NTPC CBT-I : 11 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_gravitation_6"
+            "id": "q_gravitation_6",
+            "correct_option": 2
         },
         {
             "question": "पृथ्वी की सतह पर मापे जाने पर एक वस्तु का वजन 60 न्यूटन होता है। चंद्रमा की सतह पर इसका वजन क्या होगा?",
@@ -121,7 +125,8 @@
             "examName": "RRB Group D 15/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_8"
+            "id": "q_gravitation_8",
+            "correct_option": 3
         },
         {
             "question": "बल (F) दूरी 'd' के वर्ग के व्युत्क्रमानुपाती है। यदि 'd' को 4 गुना बढ़ा दिया जाता है, तो F ____ गुना छोटा हो जाएगा।",
@@ -136,7 +141,8 @@
             "examName": "RRB Group D 5/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_gravitation_9"
+            "id": "q_gravitation_9",
+            "correct_option": 2
         },
         {
             "question": "गुरुत्वाकर्षण स्थिरांक का चिह्न _______ है।",
@@ -181,12 +187,13 @@
             "examName": "RRB Group D 17 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_12"
+            "id": "q_gravitation_12",
+            "correct_option": 1
         },
         {
             "question": "दो वस्तुओं के बीच आकर्षण बल को _______ कहा जाता है।",
             "options": [
-                "अभिकेंद्री बल",
+                "गुरुत्वाकर्षण (Gravitation) बल",
                 "विद्युत-चुंबकीय बल",
                 "गुरुत्वाकर्षण बल",
                 "अपकेंद्री बल"
@@ -226,7 +233,8 @@
             "examName": "RRB Group D 30/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_gravitation_15"
+            "id": "q_gravitation_15",
+            "correct_option": 2
         },
         {
             "question": "किसी वस्तु पर कार्य करने वाले गुरुत्वाकर्षण बल को ________ के रूप में भी जाना जाता है।",
@@ -241,7 +249,8 @@
             "examName": "RRB Group D 17/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_gravitation_16"
+            "id": "q_gravitation_16",
+            "correct_option": 3
         },
         {
             "question": "पृथ्वी का द्रव्यमान ________ है।",
@@ -256,12 +265,13 @@
             "examName": "RRB Group D 17/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_gravitation_17"
+            "id": "q_gravitation_17",
+            "correct_option": 3
         },
         {
             "question": "पृथ्वी के गुरुत्वीय बल के संदभ में निम्नलिखित में से कौन-सा कथन सत्य है?",
             "options": [
-                "यह वस्तु के द्रव्यमान पर निर्भर करता है।",
+                "यह वस्तु के द्रव्यमान पर निभर करता है。",
                 "यह पृथ्वी के केन्द्र से दूरी पर निर्भर नहीं करता है।",
                 "यह एक अकेन्द्रीय बल होता है।",
                 "यह पृथ्वी के केन्द्र से दूर कार्य करता है।"
@@ -286,7 +296,8 @@
             "examName": "RRB Technician Grade III 06/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_gravitation_19"
+            "id": "q_gravitation_19",
+            "correct_option": 1
         },
         {
             "question": "यदि 10 kg की वस्तु पर शुद्ध बल शून्य है, तो उसका त्वरण. होगा।",
@@ -301,7 +312,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_gravitation_20"
+            "id": "q_gravitation_20",
+            "correct_option": 1
         },
         {
             "question": "एक अमेरिकी अंतरिक्ष यान\" पाथफाइंडर\", 1997 में _______ ग्रह पर उतरा।",
@@ -316,7 +328,8 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_gravitation_21"
+            "id": "q_gravitation_21",
+            "correct_option": 2
         },
         {
             "question": "एक दूसरे से d दूरी पर स्थित, M और m, द्रव्यमान वाले दो पिंडों के बीच लगने वाले आकर्षण बल (F) का सूत्र क्या है, जहाँ G आनुपातिकता का स्थिरांक है, जिसे सार्वत्रिक गुरुत्वाकर्षण नियतांक कहा जाता है?",
@@ -331,12 +344,13 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_gravitation_22"
+            "id": "q_gravitation_22",
+            "correct_option": 1
         },
         {
             "question": "दो वस्तुओं के बीच गुरुत्वाकर्षण बल:",
             "options": [
-                "वस्तुओं के द्रव्यमान और उनके बीच की दूरी पर निर्भर करता है",
+                "वस्तुओं के द्रव्यमान और उनके बीच की दूरी पर निभर करता है",
                 "केवल वस्तुओं के बीच की दूरी पर निर्भर करता है",
                 "न तो वस्तुओं के द्रव्यमान पर और न ही उनके बीच की दूरी पर निर्भर करता है",
                 "केवल वस्तुओं के द्रव्यमान पर निर्भर करता है"
@@ -361,7 +375,8 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_24"
+            "id": "q_gravitation_24",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा बल प्रकृति में विद्युत-चुंबकीय (Electromagnetic) नहीं है?",
@@ -376,12 +391,13 @@
             "examName": "RRB Group D 12/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_25"
+            "id": "q_gravitation_25",
+            "correct_option": 3
         },
         {
             "question": "एक तारे की आभासी स्थिति थोड़ी-थोड़ी बदलती रहती है क्योंकि:",
             "options": [
-                "तारे पृथ्वी की सतह के बहुत करीब हैं",
+                "वायमेंडल की विभिन्न परतों का घनत्व अलग-अलग है",
                 "वायुमंडल की विभिन्न परतों का घनत्व समान है",
                 "वायुमंडल की विभिन्न परतों का घनत्व अलग-अलग है",
                 "तारे का अपना प्रकाश नहीं होता है"
@@ -406,7 +422,8 @@
             "examName": "RRB Group D 18 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_27"
+            "id": "q_gravitation_27",
+            "correct_option": 3
         },
         {
             "question": "एक कण को √0.8 ve की गति के साथ लंबवत रूप से ऊपर की ओर छोड़ा जाता है, जहाँ V पलायन वेग है। यदि पृथ्वी की त्रिज्या R है, तो कण द्वारा प्राप्त अधिकतम ऊंचाई _________ होगी।",
@@ -421,7 +438,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_gravitation_28"
+            "id": "q_gravitation_28",
+            "correct_option": 2
         },
         {
             "question": "पौधों में धनात्मक गुरुत्वानुवर्तन (Positive Geotropism) के लिए निम्नलिखित में से क्या उत्तरदायी है?",
@@ -451,7 +469,8 @@
             "examName": "RRB Group D 11/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_30"
+            "id": "q_gravitation_30",
+            "correct_option": 1
         },
         {
             "question": "एक दंड चुंबक के अंदर, चुंबकीय क्षेत्र रेखाओं की दिशा किस ओर से होती है?",
@@ -466,13 +485,14 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_gravitation_31"
+            "id": "q_gravitation_31",
+            "correct_option": 2
         },
         {
             "question": "ऊर्ध्वाधर ऊपर की ओर फेंके गए पिंड के उच्चतम बिंदु पर त्वरण ___________ होता है।",
             "options": [
                 "0 m/s² ऊपर की ओर",
-                "9.81 m/s² नीचे की ओर",
+                "81 m/s² नीचे की ओर",
                 "0 m/s² नीचे की ओर",
                 "9.81 m/s² ऊपर की ओर"
             ],
@@ -481,7 +501,8 @@
             "examName": "RPF Constable 2024 06 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_gravitation_32"
+            "id": "q_gravitation_32",
+            "correct_option": 1
         },
         {
             "question": "किसी तरल में वस्तु पर ऊपर की ओर कार्य करने वाले बल को ____________ कहा जाता है।",
@@ -496,7 +517,8 @@
             "examName": "RPF Constable 2018 08 Feb 2019",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_gravitation_33"
+            "id": "q_gravitation_33",
+            "correct_option": 2
         },
         {
             "question": "किसी वस्तु के द्रव्यमान के संबंध में निम्नलिखित में से कौन-सा कथन सत्य है?",
@@ -511,7 +533,8 @@
             "examName": "RRB Level 01 Stage I 17/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_gravitation_34"
+            "id": "q_gravitation_34",
+            "correct_option": 3
         },
         {
             "question": "गलत कथन/कथनों का चयन करें।\n• A. 'g' का मान आसपास के कुछ अन्य पिंडों पर निर्भर करता है।\n• B. M₁ तथा M² दो द्रव्यमान हैं जिन्हें पृथ्वी और चन्द्रमा पर एक दूरी R पर रखा जाता है, इनके मध्य गुरुत्वाकर्षण बल का अनुपात 1 : 6 होगा।\n• C. G की SI इकाई N·m²/kg² है।",
@@ -556,12 +579,13 @@
             "examName": "RRB Group D 18/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_37"
+            "id": "q_gravitation_37",
+            "correct_option": 1
         },
         {
             "question": "वह बल जिसके कारण ब्रह्मांड में प्रत्येक पिंड, प्रत्येकदूसरे पिंड को आकर्षित करता है:",
             "options": [
-                "विद्युत चुंबकीय बल",
+                "गुरुत्वाकर्षण (Gravitation) बल",
                 "नाभिकीय बल",
                 "प्रतिकर्षण बल",
                 "गुरुत्वाकर्षण बल"
@@ -586,7 +610,8 @@
             "examName": "RRB Group D 8/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_39"
+            "id": "q_gravitation_39",
+            "correct_option": 3
         },
         {
             "question": "पौधे की ऊपर और नीचे की ओर वृद्धि निम्नलिखित में से किस अनुवर्तन के कारण होती है?",
@@ -606,7 +631,7 @@
         {
             "question": "चंद्रमा पृथ्वी के चारों ओर सीधी रेखा के बजाय वक्रित पथ पर घूमती है क्योंकि.।",
             "options": [
-                "चंद्रमा में कोई जड़त्व नहीं है",
+                "पृथ्वी का गुरुत्वाकर्षण (Gravitation) बल अभिकेन्द्रीय बल प्रदान करता है",
                 "पृथ्वी का गुरुत्वाकर्षण बल अभिकेन्द्रीय बल प्रदान करता है",
                 "सूर्य का प्रकाश चंद्रमा को धकेलता है",
                 "चंद्रमा का द्रव्यमान बहुत बड़ा है"
@@ -661,7 +686,8 @@
             "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_gravitation_44"
+            "id": "q_gravitation_44",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन, द्रव्यमान और भार के बीच अंतर का सही वर्णन करता है?",
@@ -676,7 +702,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_gravitation_45"
+            "id": "q_gravitation_45",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा, गुरुत्वाकर्षण के नियम द्वारा स्पष्ट नहीं किया गया है?",
@@ -691,7 +718,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_gravitation_46"
+            "id": "q_gravitation_46",
+            "correct_option": 1
         },
         {
             "question": "दो द्रव्यमानों के बीच गुरुत्वाकर्षण बल कब बढ़ता है?",
@@ -721,7 +749,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_gravitation_48"
+            "id": "q_gravitation_48",
+            "correct_option": 2
         },
         {
             "question": "किसने यह तर्क दिया था कि सभी ग्रह सूर्य की परिक्रमा करते हैं, न कि पृथ्वी की, जो उस समय की मान्यता के विपरीत था?",
@@ -736,7 +765,8 @@
             "examName": "RRB Group D 14 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_49"
+            "id": "q_gravitation_49",
+            "correct_option": 2
         },
         {
             "question": "सोनार एक उपकरण है जो वस्तुओं की दूरी, दिशा और गति को मापने के लिए अल्ट्रासोनिक तरंगों का उपयोग _____ करता है।",
@@ -751,12 +781,13 @@
             "examName": "RRB NTPC CBT-I : 8 Mar 2021 Shift 1",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_gravitation_50"
+            "id": "q_gravitation_50",
+            "correct_option": 1
         },
         {
             "question": "दो वस्तुओं के बीच के आकर्षण बल को ______ कहा जाता है।",
             "options": [
-                "विद्युत्चुंबकीय बल",
+                "गुरुत्वाकर्षण (Gravitation) बल",
                 "अपकेन्द्रीय बल",
                 "गुरुत्वाकर्षण बल",
                 "अभिकेन्द्रीय बल"
@@ -781,7 +812,8 @@
             "examName": "RRB Group D 2 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_52"
+            "id": "q_gravitation_52",
+            "correct_option": 3
         },
         {
             "question": "जब एक रॉकेट को ऊपर की ओर प्रक्षेपित किया जाता है, तो उस पर लगने वाले बल ____________ होते हैं।",
@@ -796,13 +828,14 @@
             "examName": "RRB Level 01 Stage I 19/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_gravitation_53"
+            "id": "q_gravitation_53",
+            "correct_option": 3
         },
         {
             "question": "किसी व्यक्ति का वास्तविक वजन उसके _____ द्वारा निधारित किया जाता है।",
             "options": [
                 "द्रव्यमान और चौड़ाई",
-                "द्रव्यमान",
+                "गुरुत्वाकर्षण (Gravitation) के कारण द्रव्यमान और त्वरण",
                 "द्रव्यमान और ऊंचाई",
                 "गुरुत्वाकर्षण के कारण द्रव्यमान और त्वरण"
             ],
@@ -811,7 +844,8 @@
             "examName": "RRB ALP Electrician : 22 Jan, 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_gravitation_54"
+            "id": "q_gravitation_54",
+            "correct_option": 1
         },
         {
             "question": "किसी पिंड की स्थितिज ऊर्जा निम्नलिखित में से किस पर निर्भर करती है?",
@@ -826,7 +860,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_gravitation_55"
+            "id": "q_gravitation_55",
+            "correct_option": 3
         },
         {
             "question": "जब आप किसी वृक्ष को हिलाते हैं, तो फल ________ के कारण गिरते हैं।",
@@ -841,12 +876,13 @@
             "examName": "RRB Level 01 Stage I 27/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_gravitation_56"
+            "id": "q_gravitation_56",
+            "correct_option": 3
         },
         {
             "question": "ऐसा क्यों प्रतीत होता है कि सूर्य वास्तविकता से पहले उदय होता है और देर से अस्त होता है?",
             "options": [
-                "क्योंकि सूर्य क्षितिज के पास तेजी से गति करता है",
+                "वायमेंडलीय अपवर्तन के कारण",
                 "सूर्य के प्रकाश पर चंद्रमा के गुरुत्वाकर्षण प्रभाव के कारण",
                 "वायुमंडलीय अपवर्तन के कारण",
                 "सूर्योदय और सूर्यास्त के दौरान पृथ्वी का घूर्णन धीमा हो जाने के कारण"
@@ -876,7 +912,7 @@
         {
             "question": "सही अर्थों में किसी वस्तु का मुक्त पतन केवल ______ होता है।",
             "options": [
-                "समुद्र में",
+                "निर्वात (Vacuum) में",
                 "वातावरण में",
                 "हवा में",
                 "निर्वात में"
@@ -901,7 +937,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_gravitation_60"
+            "id": "q_gravitation_60",
+            "correct_option": 1
         },
         {
             "question": "गुरुत्वीय त्वरण (g) की गणना करने का सूत्र क्या है, जहाँ G सार्वत्रिक गुरुत्वीय (Gravitational) स्थिरांक है, M पृथ्वी का द्रव्यमान है, और R पृथ्वी की त्रिज्या है?",
@@ -916,7 +953,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_gravitation_61"
+            "id": "q_gravitation_61",
+            "correct_option": 3
         },
         {
             "question": "ट्रॉपिज्में से संबंधित गलत कथन का चयन कीजिए।",
@@ -931,7 +969,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_gravitation_62"
+            "id": "q_gravitation_62",
+            "correct_option": 2
         },
         {
             "question": "एक उपग्रह और पृथ्वी के बीच आकर्षण का गुरुत्वाकर्षण बल ______ को जन्म देता है।",
@@ -946,7 +985,8 @@
             "examName": "RRB Group D 18 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_gravitation_63"
+            "id": "q_gravitation_63",
+            "correct_option": 2
         },
         {
             "question": "यदि दो कणों के बीच की दूरी बढ़ जाती है तो उनके बीच गुरुत्वाकर्षण बल का प्रभाव ______।",
@@ -961,7 +1001,8 @@
             "examName": "RRB Group D 12 Nov 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_gravitation_64"
+            "id": "q_gravitation_64",
+            "correct_option": 1
         },
         {
             "question": "एक ट्रक एक चट्टान से गिर जाता है और 0.8 s में जमीन पर पहुँचता है। वह चट्टान जमीन से कितनी ऊँची है? (g = 10 m/s))।",
@@ -976,7 +1017,8 @@
             "examName": "RRB Group D 22/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_65"
+            "id": "q_gravitation_65",
+            "correct_option": 2
         },
         {
             "question": "एक वस्तु का भार, पृथ्वी पर 6000 N है। चाँद की सतह पर उसका भार क्या होगा?",
@@ -991,14 +1033,15 @@
             "examName": "RRB Group D 24/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_66"
+            "id": "q_gravitation_66",
+            "correct_option": 3
         },
         {
             "question": "450 N के वजन वाली किसी लड़की का द्रव्यमान कितना होगा?",
             "options": [
                 "450 किलो",
                 "5 किलो",
-                "459 किलो",
+                "9 किलो",
                 "45.9 किलो"
             ],
             "correctIndex": 3,
@@ -1006,12 +1049,13 @@
             "examName": "RRB Group D 20 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_67"
+            "id": "q_gravitation_67",
+            "correct_option": 2
         },
         {
             "question": "चंद्रमा पर किसी वस्तु का भार पृथ्वी पर उसके भार की तुलना में कैसा होता है?",
             "options": [
-                "यह पृथ्वी पर इसके भार का छठा भाग होता है।",
+                "यह पृथ्वी पर इसके भार का छठा भाग होता है。",
                 "यह पृथ्वी पर इसके भार का छह गुना होता है।",
                 "यह पृथ्वी पर इसके भार का एक तिहाई होता है।",
                 "यह पृथ्वी पर भी वैसा ही होता है।"
@@ -1026,7 +1070,7 @@
         {
             "question": "निम्नलिखित में से कौन-सा गुरुत्वाकर्षण का उदाहरण नहीं है?",
             "options": [
-                "ग्रहों के परिमंडलों को उनसे अलग होने से रोकने में सहायक है।",
+                "यह कृष्ण विवर (ब्लॉक होल) के घूणन में सहायक है。",
                 "यह कृष्ण विवर (ब्लॉक होल) के घूर्णन में सहायक है।",
                 "तारों को आपस में जोड़े रखता है।",
                 "चाँद का उसकी कक्षा में स्थित होना।"
@@ -1041,7 +1085,7 @@
         {
             "question": "आकाश में फेंका गया एक पत्थर वापस पृथ्वी पर क्यों गिरता है?",
             "options": [
-                "वस्तु द्वारा किया गया कार्य उसे पृथ्वी की ओर खींचता है।",
+                "इसमें एक बल मौजूद होता है जो इसे पृथ्वी की ओर खींचता है。",
                 "इसमें एक अभिकेंद्र बल मौजूद होता है जो इसे पृथ्वी की ओर खींचता है।",
                 "नीचे की ओर एक दाब होता है जो इसे पृथ्वी की ओर खींचता है।",
                 "इसमें एक बल मौजूद होता है जो इसे पृथ्वी की ओर खींचता है।"
@@ -1066,7 +1110,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_gravitation_71"
+            "id": "q_gravitation_71",
+            "correct_option": 2
         },
         {
             "question": "गुरुत्वाकर्षण का सावभौमिक नियम _________ पर लागू होता है।",
@@ -1081,7 +1126,8 @@
             "examName": "RRB Group D 9/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_gravitation_72"
+            "id": "q_gravitation_72",
+            "correct_option": 3
         },
         {
             "question": "पृथ्वी की सतह पर गुरुत्वीय त्वरण (g) का सूत्र ____________ है।",
@@ -1096,7 +1142,8 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_gravitation_73"
+            "id": "q_gravitation_73",
+            "correct_option": 1
         },
         {
             "question": "8 kg भार वाली लोहे की गेंद और 3 kg भार वाली एल्यूमीनियम की गेंद 20 m की ऊँचाई से गिराई जाती है। भूमि से 10 m की ऊँचाई पर उनमें निम्नलिखित में से कौन सी राशि समान होगी?",
@@ -1111,12 +1158,13 @@
             "examName": "RRB Group D 31/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_74"
+            "id": "q_gravitation_74",
+            "correct_option": 1
         },
         {
             "question": "जब कोई वस्तु, पृथ्वी की ओर गिरती है, तो उसमें त्वरण किस कारण से होता है?",
             "options": [
-                "पृथ्वी का गुरुत्वाकर्षण बल",
+                "पृथ्वी का गुरुत्वाकर्षण (Gravitation) बल",
                 "वायु प्रतिरोध",
                 "घर्षण",
                 "चुंबकीय बल"
@@ -1146,7 +1194,7 @@
         {
             "question": "निम्नलिखित में से कौन सा कथन दो वस्तुओं के बीच के गुरुत्वाकर्षण बल पर लागू होता है?",
             "options": [
-                "दो वस्तुओं के बीच गुरुत्वाकर्षण बल उदासीन होता है।",
+                "दो वस्तुओं के बीच गुरुत्वाकर्षण (Gravitation) बल हमेशा आकषक होता है",
                 "दो वस्तुओं के बीच का गुरुत्वाकर्षण बल विकर्षक या आकर्षक हो सकता है",
                 "दो वस्तुओं के बीच गुरुत्वाकर्षण बल हमेशा आकर्षक होता है",
                 "दो वस्तुओं के बीच गुरुत्वाकर्षण बल हमेशा विकर्षक होता है"
@@ -1171,13 +1219,14 @@
             "examName": "RRB Group D 22/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_78"
+            "id": "q_gravitation_78",
+            "correct_option": 3
         },
         {
             "question": "वास्तविक अर्थ में, मुक्त पतन केवल इसमें होता है:",
             "options": [
                 "समुद्र",
-                "निर्वात",
+                "निर्वात (Vacuum)",
                 "वायु",
                 "वायुमंडल"
             ],
@@ -1186,7 +1235,8 @@
             "examName": "RRB Group D 26 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_79"
+            "id": "q_gravitation_79",
+            "correct_option": 1
         },
         {
             "question": "चूंकि चंद्रमा का द्रव्यमान पृथ्वी के द्रव्यमान से कम है, तो पृथ्वी पर किसी वस्तु के भार की तुलना में चंद्रमा पर उस वस्तु के भार के संबंध में क्या कहा जा सकता है?",
@@ -1201,7 +1251,8 @@
             "examName": "RRB ALP CBT 1 18/02/2026 12:30 PM - 1:30 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_gravitation_80"
+            "id": "q_gravitation_80",
+            "correct_option": 2
         },
         {
             "question": "पृथ्वी पर किसी वस्तु का भार 60 N है। चंद्रमा पर इसका भार क्या होगा?",
@@ -1231,12 +1282,13 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_82"
+            "id": "q_gravitation_82",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन सत्य है?",
             "options": [
-                "किसी वस्तु का भार वह शक्ति है जिसके साथ वह पृथ्वी की ओर आकर्षित होती है।",
+                "किसी वस्तु का द्रव्यमान स्थिर होता है और स्थान-स्थान पर नहीं बदलता。",
                 "किसी वस्तु का भार स्थिर होता है और स्थान-स्थान पर नहीं बदलता।",
                 "किसी वस्तु का द्रव्यमान स्थिर होता है और स्थान-स्थान पर नहीं बदलता।",
                 "भार, वेग और गुरुत्वीय त्वरण के गुणनफल के बराबर होता है।"
@@ -1261,7 +1313,8 @@
             "examName": "RRB Group D 14 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_84"
+            "id": "q_gravitation_84",
+            "correct_option": 3
         },
         {
             "question": "उस वस्तु का द्रव्यमान क्या है जिसका पृथ्वी पर भार 196 N है? (g = 9.8 m/s²)?",
@@ -1276,7 +1329,8 @@
             "examName": "RRB Group D 10/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_85"
+            "id": "q_gravitation_85",
+            "correct_option": 2
         },
         {
             "question": "पृथ्वी पर किसी वस्तु का द्रव्यमान 10 किलो है। पृथ्वी पर इसका वजन कितना है?",
@@ -1291,7 +1345,8 @@
             "examName": "RRB Group D 25/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_86"
+            "id": "q_gravitation_86",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस प्राकृतिक घटना को गुरुत्वाकर्षण के सावभौमिक नियम द्वारा स्पष्ट नहीं किया जा सकता है?",
@@ -1306,12 +1361,13 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_gravitation_87"
+            "id": "q_gravitation_87",
+            "correct_option": 3
         },
         {
             "question": "जमीन के ऊपर किसी बिंदु पर किसी वस्तु की गुरुत्वाकर्षण क्षमता को ________ में किए गए कार्य के रूप में परिभाषित किया जाता है।",
             "options": [
-                "इसे केंद्र में रख रहे हैं",
+                "गुरुत्वाकर्षण (Gravitation) के विपरीत इसे जमीन से उस बिंदु तक उठाना",
                 "उस पर गुरुत्वाकर्षण बल लगाना",
                 "गुरुत्वाकर्षण के विपरीत इसे जमीन से उस बिंदु तक उठाना",
                 "यह गुरुत्वाकर्षण के विपरीत जमीन पर खड़े होने की अनुमति देता है"
@@ -1336,7 +1392,8 @@
             "examName": "RRB Group D 19 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_89"
+            "id": "q_gravitation_89",
+            "correct_option": 1
         },
         {
             "question": "कौन-सी परिघटना गुरुत्वाकर्षण के सावभौमिक नियम द्वारा सफलतापूर्वक समझाई गई है, जो चंद्रमा और सूर्य दोनों द्वारा पृथ्वी पर प्रयुक्त संयुक्त और विभेदक गुरुत्वाकर्षण आकर्षण पर निर्भर करती है?",
@@ -1351,7 +1408,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_gravitation_90"
+            "id": "q_gravitation_90",
+            "correct_option": 1
         },
         {
             "question": "पृथ्वी और चंद्रमा के बीच गुरुत्वाकर्षण बल के बारे में निम्नलिखित में से कौन-सा कथन सही है?",
@@ -1366,7 +1424,8 @@
             "examName": "RRB ALP CBT-I 2024 : 27 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_gravitation_91"
+            "id": "q_gravitation_91",
+            "correct_option": 2
         },
         {
             "question": "गुरुत्वाकर्षण के नियम ने क्या सिद्ध करने में सहायता की?",
@@ -1396,12 +1455,13 @@
             "examName": "RPF Constable 2018 18 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_gravitation_93"
+            "id": "q_gravitation_93",
+            "correct_option": 1
         },
         {
             "question": "अमावस्या के बाद, अगले चौदह दिनों में जब चंद्रमा मोटा और मोटा होता जाता है और पूर्ण, निकट-पूर्ण गोल चंद्रमा के रूप में दिखाई देता है, चंद्रमा का कौन सा चरण कहलाता है?",
             "options": [
-                "चंद्रमा का वर्धमान चरण",
+                "चंद्रमा का वधमान चरण",
                 "चंद्रमा का क्षयमान चरण",
                 "चंद्रमा का घटता चरण",
                 "चंद्रमा का लुप्त चरण"
@@ -1416,7 +1476,7 @@
         {
             "question": "किसी ग्रह की सतह और उसके 20 m ऊपर एक बिंदु के बीच गुरुत्वाकर्षण का विभव अंतर 16 J/kg है। क्षैतिज से 60° ढलान पर 2 kg द्रव्यमान को 8 m तक ले जाने में कितना कार्य होता है?",
             "options": [
-                "11.1 J",
+                "1 J",
                 "55.5 J",
                 "16 J",
                 "27.1 J"
@@ -1431,7 +1491,7 @@
         {
             "question": "यदि पृथ्वी की त्रिज्या 1% कम हो जाए तो पृथ्वी की सतह पर गुरुत्वीय त्वरण (द्रव्यमान नियत रहने पर) क्या होगा?",
             "options": [
-                "1% बढ़ जाएगा।",
+                "2% बढ़ जाएगा。",
                 "1% घट जाएगा।",
                 "2% बढ़ जाएगा।",
                 "2% घट जाएगा।"
@@ -1456,7 +1516,8 @@
             "examName": "RRB ALP CBT 2 Electrician Previous Paper : 22 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_gravitation_97"
+            "id": "q_gravitation_97",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन गलत है/हैं?\n• A. चंद्रमा पर G का मान पृथ्वी पर उसके मान के समान है।\n• B. 1 मीटर की दूरी पर रखे गए 2 kg के दो द्रव्यमानों के केंद्रों के बीच गुरुत्वाकर्षण बल 26.68 × 10 N है।\n• C. गुरुत्वाकर्षण बल दो वस्तुओं के बीच की दूरी के वर्ग के व्युत्क्रमानुपाती होता है।\n• D. दो वस्तुओं के बीच गुरुत्वाकर्षण बल दोगुना हो जाता है जब उनके बीच की दूरी आधी कर दी जाती है।",
@@ -1471,7 +1532,8 @@
             "examName": "RRB Group D 31/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_98"
+            "id": "q_gravitation_98",
+            "correct_option": 2
         },
         {
             "question": "गुरुत्वीय त्वरण (g) का सही सूत्र क्या है?",
@@ -1486,7 +1548,8 @@
             "examName": "RRB Group D 31/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_99"
+            "id": "q_gravitation_99",
+            "correct_option": 3
         },
         {
             "question": "ब्रह्मांड में दो निकार्यों के बीच गुरुत्वाकर्षण का बल किस पर निर्भर नहीं करता है?",
@@ -1501,12 +1564,13 @@
             "examName": "RRB Group D 11/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_100"
+            "id": "q_gravitation_100",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा विकल्प केप्लर के ग्रहों की गति के नियमों में से एक को नहीं दर्शाता है?",
             "options": [
-                "सूर्य के चारों ओर सभी ग्रहों की कक्षाएँ समतलीय (Coplanar) हैं।",
+                "सूर्य के चारों ओर सभी ग्रहों की कक्षाएँ समतलीय (Coplanar) हैं。",
                 "सूर्य के चारों ओर प्रत्येक ग्रह की कक्षा एक दीर्घवृत्त है जिसके एक नाभि पर सूर्य स्थित है।",
                 "किसी ग्रह के कक्षीय आवर्तकाल का वर्ग उसकी कक्षा के अर्ध-प्रमुख अक्ष के घन के समानुपाती होता है।",
                 "एक ग्रह और सूर्य को मिलाने वाला रेखाखंड समान समय अंतराल में समान क्षेत्रफल तय करता है।"
@@ -1531,12 +1595,13 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_102"
+            "id": "q_gravitation_102",
+            "correct_option": 1
         },
         {
             "question": "एक वस्तु का द्रव्यमान दोगुना होने पर दो वस्तुओं के बीच गुरुत्वाकर्षण बल का क्या होगा?",
             "options": [
-                "गुरुत्वाकर्षण का बल चार गुना हो जायेगा",
+                "गुरुत्वाकर्षण (Gravitation) बल दोगुना हो जायेगा",
                 "गुरुत्वाकर्षण बल दोगुना हो जायेगा",
                 "गुरुत्वाकर्षण बल तीन गुना हो जायेगा",
                 "गुरुत्वाकर्षण बल आधा हो जायेगा"
@@ -1551,7 +1616,7 @@
         {
             "question": "निम्नलिखित में से कौन-सा चंद्रमा पर ध्वनि न सुन पाने का सही कारण है?",
             "options": [
-                "चंद्रमा बहुत ठंडा है।",
+                "चंद्रमा पर कोई वायमेंडल नहीं है。",
                 "चंद्रमा पृथ्वी से बहुत दूर है।",
                 "चंद्रमा पर कोई वायुमंडल नहीं है।",
                 "चंद्रमा पर गड्ढे हैं।"
@@ -1576,7 +1641,8 @@
             "examName": "RRB Group D 24/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_105"
+            "id": "q_gravitation_105",
+            "correct_option": 3
         },
         {
             "question": "किसी पदार्थ में, द्रव्यमान _______________ होता है।",
@@ -1606,7 +1672,8 @@
             "examName": "RRB Group D 8/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_gravitation_107"
+            "id": "q_gravitation_107",
+            "correct_option": 3
         },
         {
             "question": "किसी वस्तु का द्रव्यमान 10 किलोग्राम है। पृथ्वी पर उस वस्तु का वजन कितना होगा? [g = 9.8 ms ]?",
@@ -1621,7 +1688,8 @@
             "examName": "RRB Group D 26/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_108"
+            "id": "q_gravitation_108",
+            "correct_option": 3
         },
         {
             "question": "गुरुत्वीय त्वरण 'g' ________ पर निर्भर नहीं करता है।",
@@ -1636,7 +1704,8 @@
             "examName": "RRB Group D 10/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_gravitation_109"
+            "id": "q_gravitation_109",
+            "correct_option": 1
         },
         {
             "question": "गुरुत्वीय बल ________ वस्तु के बीच उपस्थित होता है, परन्तु इसे तब तक महसूस नहीं किया जा सकता, जब तक कि वस्तुओं का द्रव्यमान बहुत अधिक, जैसे कि ग्रहों में नहीं होता है।",
@@ -1651,7 +1720,8 @@
             "examName": "RRB Group D 24/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_gravitation_110"
+            "id": "q_gravitation_110",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से कौन सा कथन सत्य है?\n• A. माउंट एवरसे्ट पर 'g' का मान >g है।\n• B. माउंट एवरसे्ट पर 'g' का मान <g है।\n• C. एक गेंद को लंबवत फेंकने पर 15 सेकंड के बाद जमीन पर वापस आती है। इसका वेग 75 m/s है।\n• D. एक गेंद की लंबवत फेंकने पर 15 सेकंड के बाद जमीन पर वापस आती है। इसका वेग 150 m/s है।",
@@ -1666,7 +1736,8 @@
             "examName": "RRB Group D 31/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_111"
+            "id": "q_gravitation_111",
+            "correct_option": 2
         },
         {
             "question": "वह बिंदु जहाँ किसी वस्तु का संपूर्ण भार कार्य करता है, उसे ________ के रूप में जाना जाता है।",
@@ -1681,12 +1752,13 @@
             "examName": "RRB Group D 18/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_gravitation_112"
+            "id": "q_gravitation_112",
+            "correct_option": 2
         },
         {
             "question": "सावभौमिक गुरुत्वाकर्षण स्थिरांक G के बारे में निम्नलिखित में से कौन-सा कथन सत्य है?",
             "options": [
-                "यह गुरुत्वीय त्वरण के बराबर होता है।",
+                "यह एक सावभौमिक स्थिरांक है, जो हर जगह समान है。",
                 "यह दो द्रव्यमानों के बीच के माध्यम पर निर्भर करता है।",
                 "यह एक सावभौमिक स्थिरांक है, जो हर जगह समान है।",
                 "यह पृथ्वी पर एक स्थान से दूसरे स्थान पर भिन्न होता है।"
@@ -1703,7 +1775,7 @@
             "options": [
                 "6.673 × 10⁻¹¹ Nm-2kg2",
                 "6.673 × 10⁻¹¹ Nm₂kg2",
-                "6.673 × 10⁻¹¹ N·m²/kg²-2",
+                "673 × 10⁻¹¹ N·m²/kg²-2",
                 "6.673 × 10⁻¹¹ Nm-2 kg-2"
             ],
             "correctIndex": 2,
@@ -1711,7 +1783,8 @@
             "examName": "RRB Group D 31/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_gravitation_114"
+            "id": "q_gravitation_114",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प किसी परिनलिका के बाहर चुंबकीय क्षेत्र की दिशा का सही वर्णन करता है?",
@@ -1726,12 +1799,13 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_gravitation_115"
+            "id": "q_gravitation_115",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन सही नहीं है?",
             "options": [
-                "गुरुत्वाकर्षण बल छोटे पिंडों में सवाधिक प्रबल होता है",
+                "गुरुत्वाकर्षण (Gravitation) बल छोटे पिंडों में सवाधिक प्रबल होता है",
                 "गुरुत्वाकर्षण बल सदैव आकर्षी होता है",
                 "G का मान हर जगह स्थिर होता है",
                 "ब्रह्मांड में प्रत्येक वस्तु प्रत्येक अन्य वस्तु को आकर्षित करती है"
@@ -1756,7 +1830,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_117"
+            "id": "q_gravitation_117",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन सत्य है?",
@@ -1771,7 +1846,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_118"
+            "id": "q_gravitation_118",
+            "correct_option": 1
         },
         {
             "question": "किसी वस्तु का भार पृथ्वी की अपेक्षा चन्द्रमा पर कम होता है, क्योंकि ___________ ।",
@@ -1786,7 +1862,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_gravitation_119"
+            "id": "q_gravitation_119",
+            "correct_option": 3
         },
         {
             "question": "निम्न में से किस स्थान पर गुरुत्वीय त्वरण शून्य होता है?",
@@ -1801,7 +1878,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_120"
+            "id": "q_gravitation_120",
+            "correct_option": 3
         },
         {
             "question": "गुरुत्वाकर्षण के कारण त्वरण \\'g\\' का मान _______ है",
@@ -1816,7 +1894,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_gravitation_121"
+            "id": "q_gravitation_121",
+            "correct_option": 3
         },
         {
             "question": "जब दो वस्तुएँ A और B जिनके द्रव्यमान क्रमशः M और m हैं, d दूरी पर स्थित हैं, उनके बीच आकर्षण बल F है और G सार्वत्रिक गुरुत्वाकर्षण स्थिरांक है, तो निम्नलिखित में से कौन-सा समीकरण सही है?",
@@ -1831,12 +1910,13 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_gravitation_122"
+            "id": "q_gravitation_122",
+            "correct_option": 1
         },
         {
             "question": "जब कोई वस्तु पृथ्वी की ओर गिरती है, तो त्वरण शामिल होता है। निम्नलिखित में से कौन-सा बल इस त्वरण को प्रदान करता है?",
             "options": [
-                "पृथ्वी का प्रतिकर्षण बल",
+                "पृथ्वी का गुरुत्वाकर्षण (Gravitation) बल",
                 "पृथ्वी का गुरुत्वाकर्षण बल",
                 "नाभिकीय बल",
                 "विद्युत चुंबकीय बल"
@@ -1861,7 +1941,8 @@
             "examName": "RRB Group D 10 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_gravitation_124"
+            "id": "q_gravitation_124",
+            "correct_option": 1
         },
         {
             "question": "पृथ्वी का द्रव्यमान ______ है।",
@@ -1876,7 +1957,8 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_gravitation_125"
+            "id": "q_gravitation_125",
+            "correct_option": 1
         },
         {
             "question": "दो पिंडों के बीच आकर्षण बल 1/9 F हो जाता है, तो इन दो पिंडों के बीच दूरी कितनी होगी?",
@@ -1921,7 +2003,8 @@
             "examName": "RRB NTPC CBT-I : 23 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_gravitation_128"
+            "id": "q_gravitation_128",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित कथनों में से कौन-सा सही है?",
@@ -1936,12 +2019,13 @@
             "examName": "RRB Level 01 Stage I 19/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_gravitation_129"
+            "id": "q_gravitation_129",
+            "correct_option": 3
         },
         {
             "question": "भार और द्रव्यमान के संबंध में निम्नलिखित में से कौन-सा कथन सत्य है?",
             "options": [
-                "चंद्रमा पर केवल द्रव्यमान में परिवर्तन होता है।",
+                "चंद्रमा पर केवल भार में परिवर्तन होता है。",
                 "चंद्रमा पर केवल भार में परिवर्तन होता है।",
                 "चंद्रमा पर न तो द्रव्यमान और न ही भार में परिवर्तन होता है।",
                 "चंद्रमा पर द्रव्यमान और भार दोनों में परिवर्तन होता है।"

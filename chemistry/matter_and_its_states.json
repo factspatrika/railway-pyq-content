@@ -24,19 +24,20 @@
                 "नाइट्रोजन",
                 "ऑक्सीजन",
                 "हाइड्रोजन",
-                "कार्बन डाइऑक्साइड"
+                "कार्बन डाइऑक्साइड (CO₂)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: कार्बन डाइऑक्साइड (CO₂)\n\n📝 व्याख्या:\nजब तनु हाइड्रोक्लोरिक अम्ल (HCl) सोडियम हाइड्रोजनकार्बोनेट (NaHCO₃ - मीठा सोडा) के साथ अभिक्रिया करता है, तो सोडियम क्लोराइड (लवण), जल और कार्बन डाइऑक्साइड (CO₂) गैस उत्पन्न होती है।\n\n🔑 रासायनिक समीकरण:\nNaHCO₃(s) + HCl (aq) → NaCl (aq) + H₂O (l) + CO₂↑\n• निकलने वाली CO₂ गैस को चूने के पानी में प्रवाहित करने पर चूने का पानी दूधिया (milky) हो जाता है।",
             "examName": "RRB Level 01 Stage I 04/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_2"
+            "id": "q_matter_and_its_states_2",
+            "correct_option": 3
         },
         {
             "question": "जब वसा और तेल का ऑक्सीकरण होता है, तो उनमें एक गंध और स्वाद विकसित होता है, जो. होता है।",
             "options": [
-                "विकृत गंधी",
+                "विकृत गंधी (Rancid)",
                 "सुखद",
                 "मसालेदार",
                 "फल जैसा"
@@ -91,7 +92,8 @@
             "examName": "RRB JE CE 19 Sept 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_6"
+            "id": "q_matter_and_its_states_6",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा उपकला ऊतक अवशोषण के लिए विशिष्ट है और आंत्र की आंतरिक पृष्ठ को आस्तरित करता है?",
@@ -196,7 +198,8 @@
             "examName": "RRB JE CBT-I : 28 June 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_13"
+            "id": "q_matter_and_its_states_13",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सी पदार्थ के कणों की विशेषता नहीं है?",
@@ -241,7 +244,8 @@
             "examName": "RRB Level 01 Stage I 08/01/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_16"
+            "id": "q_matter_and_its_states_16",
+            "correct_option": 1
         },
         {
             "question": "वायुमंडल के उच्च स्तर पर, निम्नलिखित में से कौन पृथ्वी की सतह को पराबैंगनी विकिरण से परिरक्षित करता है?",
@@ -256,7 +260,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_17"
+            "id": "q_matter_and_its_states_17",
+            "correct_option": 2
         },
         {
             "question": "ऊर्ध्वपातन क्या है?",
@@ -271,7 +276,8 @@
             "examName": "RRB Group D 23 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_18"
+            "id": "q_matter_and_its_states_18",
+            "correct_option": 2
         },
         {
             "question": "जेली के मामले में, निम्नलिखित में से कौन-सी परिक्षिप्त प्रावस्था है?",
@@ -286,7 +292,8 @@
             "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_19"
+            "id": "q_matter_and_its_states_19",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा अजैवनिम्नीकरणीय पदार्थ निष्क्रिय हो सकता है और लंबे समय तक पयावरण में बना रह सकता है या पारिस्थितिकी तंत्र के विभिन्न सदस्यों को हानि पहुंचा सकता है?",
@@ -301,7 +308,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_20"
+            "id": "q_matter_and_its_states_20",
+            "correct_option": 3
         },
         {
             "question": "पदार्थ की किस अवस्था में कणों की गतिज ऊर्जा सबसे अधिक होती है?",
@@ -316,7 +324,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_21"
+            "id": "q_matter_and_its_states_21",
+            "correct_option": 3
         },
         {
             "question": "जब चीनी को जल में विलीन किया जाता है तो चीनी के कण, ________________ ।",
@@ -346,7 +355,8 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_23"
+            "id": "q_matter_and_its_states_23",
+            "correct_option": 1
         },
         {
             "question": "डेनियल सेल में प्रावस्था परिवर्तन अभिक्रिया किसका उदाहरण है?",
@@ -361,7 +371,8 @@
             "examName": "RPF Constable 2024 04 Mar, 2025 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_24"
+            "id": "q_matter_and_its_states_24",
+            "correct_option": 2
         },
         {
             "question": "इनमें से कौन सी गैस चूने के जल को दूधिया करती है?",
@@ -391,7 +402,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_26"
+            "id": "q_matter_and_its_states_26",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन पृथक्करण के संबंध में मिश्रण और यौगिकों के बीच महत्वपूर्ण अंतर का सटीक वर्णन करता है?",
@@ -406,7 +418,8 @@
             "examName": "RRB Level 01 Stage I 26/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_27"
+            "id": "q_matter_and_its_states_27",
+            "correct_option": 1
         },
         {
             "question": "बोस-आइंस्टीन संघनक (संघनन) गैस को बहुत कम अंतिम तापमान पर लगभग एक हजार घनत्व तक ठंडा करके बनाया जाता है।",
@@ -571,7 +584,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_38"
+            "id": "q_matter_and_its_states_38",
+            "correct_option": 2
         },
         {
             "question": "सभी द्रव और गैसें हैं:",
@@ -632,7 +646,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_42"
+            "id": "q_matter_and_its_states_42",
+            "correct_option": 3
         },
         {
             "question": "_____________ में अणुओं के बीच अधिकतम आकर्षण बल होता है।",
@@ -647,7 +662,8 @@
             "examName": "RRB JE 24 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_43"
+            "id": "q_matter_and_its_states_43",
+            "correct_option": 1
         },
         {
             "question": "नेप्ट्यूनियम और प्लूटोनियम जैसे तत्व कहाँ पाए जाते हैं?",
@@ -669,7 +685,7 @@
             "options": [
                 "पदार्थ के कणों के बीच आकर्षण बल की प्रबलता एक प्रकार के पदार्थ से दूसरे प्रकार के पदार्थ में भिन्न होती है।",
                 "पदार्थ के कणों के बीच कार्य करने वाला बल उन्हें एक साथ रखता है।",
-                "पदार्थ के कणों के बीच आकर्षण बल की प्रबलता स्थिर रहती है, चाहे पदार्थ किसी भी प्रकार का हो।",
+                "पदार्थ के कणों के बीच आकर्षण बल की प्रबलता स्थिर रहती है, चाहे पदार्थ किसी भी",
                 "पदार्थ के कणों के बीच बल कार्य करता है।"
             ],
             "correctIndex": 2,
@@ -677,7 +693,8 @@
             "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_45"
+            "id": "q_matter_and_its_states_45",
+            "correct_option": 2
         },
         {
             "question": "प्लाज्मा अवस्था में ______ अधिक ऊर्जावान और अधिक उत्तेजित कण होते हैं।",
@@ -737,7 +754,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_49"
+            "id": "q_matter_and_its_states_49",
+            "correct_option": 3
         },
         {
             "question": "एक गैसीय कंडक्टर का उदाहरण ____________ है।",
@@ -767,7 +785,8 @@
             "examName": "RRB NTPC CBT-I : 30 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_matter_and_its_states_51"
+            "id": "q_matter_and_its_states_51",
+            "correct_option": 3
         },
         {
             "question": "ठोस CO 2 दाब को ________ तक कम करने पर सीधे गैसीय अवस्था में परिवर्तित हो जाता है।",
@@ -797,7 +816,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_53"
+            "id": "q_matter_and_its_states_53",
+            "correct_option": 3
         },
         {
             "question": "ठोसों का कौन-सा गुण उन्हें द्रवों और गैसों की तुलना में सबसे कम संपीडित होने की अनुमति देता है?",
@@ -827,7 +847,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_55"
+            "id": "q_matter_and_its_states_55",
+            "correct_option": 3
         },
         {
             "question": "जब परमाणु आपस में रासायनिक बंध बनाते हैं तो ___________ का निर्माण होता है।",
@@ -872,7 +893,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_58"
+            "id": "q_matter_and_its_states_58",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा पदार्थ मूत्र के नलिकाओं में बहने पर चयनात्मक रूप से पुनअवशोषित नहीं होता है?",
@@ -887,7 +909,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_59"
+            "id": "q_matter_and_its_states_59",
+            "correct_option": 3
         },
         {
             "question": "न्यूट्रॉन सभी परमाणुओं के नाभिक में मौजूद होते हैं, सिवाय-",
@@ -932,12 +955,13 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_62"
+            "id": "q_matter_and_its_states_62",
+            "correct_option": 3
         },
         {
             "question": "यदि अस्थि कोशिकाओं के मैट्रिक्स में कैल्शियम और फास्फोरस यौगिक होते हैं, तो उपास्थि के मैट्रिक्स में हमें क्या मिलता है?",
             "options": [
-                "प्रोटीन और शर्करा",
+                "प्रोटीन और शकरा",
                 "फास्फोरस और शर्करा",
                 "प्रोटीन और वसा",
                 "कैल्शियम और शर्करा"
@@ -992,7 +1016,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_66"
+            "id": "q_matter_and_its_states_66",
+            "correct_option": 1
         },
         {
             "question": "एक कणपुंज (micelle) के जलविरागी छोर कहाँ निर्देशित होते हैं?",
@@ -1007,7 +1032,8 @@
             "examName": "RRB JE 20/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_matter_and_its_states_67"
+            "id": "q_matter_and_its_states_67",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा ठोस, द्रव और गैसीय रूप में मौजूद हो सकता है?",
@@ -1067,12 +1093,13 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_71"
+            "id": "q_matter_and_its_states_71",
+            "correct_option": 2
         },
         {
             "question": "He में 54g में कितने मोल मौजूद हैं?",
             "options": [
-                "13.5 मोल",
+                "5 मोल",
                 "10 मोल",
                 "12 मोल",
                 "25 मोल"
@@ -1097,7 +1124,8 @@
             "examName": "RRB JE ECE 22 Apr 2025 Shift 2 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_73"
+            "id": "q_matter_and_its_states_73",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा पदार्थ पादप कोशिकाओं की रसधानी में संचित नहीं होता है?",
@@ -1112,7 +1140,8 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_74"
+            "id": "q_matter_and_its_states_74",
+            "correct_option": 3
         },
         {
             "question": "विषमांगी मिश्रणों के बारे में निम्नलिखित में से कौन-सा कथन सत्य है?",
@@ -1127,7 +1156,8 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_75"
+            "id": "q_matter_and_its_states_75",
+            "correct_option": 2
         },
         {
             "question": "एक __________ दो या दो से अधिक पदार्थों का समांगी मिश्रण है।",
@@ -1142,7 +1172,8 @@
             "examName": "RRB NTPC CBT-I : 10 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_76"
+            "id": "q_matter_and_its_states_76",
+            "correct_option": 1
         },
         {
             "question": "द्रव्य (matter) की किस अवस्था में कणों के बीच का स्थान अधिकतम होता है?",
@@ -1187,7 +1218,8 @@
             "examName": "RRB JE 25/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_matter_and_its_states_79"
+            "id": "q_matter_and_its_states_79",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा एक कोलाइड (एरोसोल) प्रकार है?",
@@ -1202,7 +1234,8 @@
             "examName": "RPF Constable 2018 20 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_80"
+            "id": "q_matter_and_its_states_80",
+            "correct_option": 2
         },
         {
             "question": "कमरे के तापमान और वायुमंडलीय दाब पर निम्नलिखित में से किसकी विशिष्ट ऊष्मा धारिता सबसे अधिक होती है?",
@@ -1292,7 +1325,8 @@
             "examName": "RRB NTPC CBT-I : 19 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_matter_and_its_states_86"
+            "id": "q_matter_and_its_states_86",
+            "correct_option": 2
         },
         {
             "question": "बायोगैस एक उत्कृष्ट ईंधन है क्योंकि इसमें 75% तक ________ होता है।",
@@ -1322,7 +1356,8 @@
             "examName": "RRB JE 27 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_88"
+            "id": "q_matter_and_its_states_88",
+            "correct_option": 2
         },
         {
             "question": "CuO + H₂ → Cu + H₂O अभिक्रिया में, निम्न में से कौन-सा पदार्थ ऑक्सीकृत होता है?",
@@ -1337,7 +1372,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_matter_and_its_states_89"
+            "id": "q_matter_and_its_states_89",
+            "correct_option": 2
         },
         {
             "question": "किसी द्रव का उसके क्वथनांक से नीचे किसी भी तापमान पर वाष्प में परिवर्तित होने की घटना क्या कहलाती है?",
@@ -1367,7 +1403,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_matter_and_its_states_91"
+            "id": "q_matter_and_its_states_91",
+            "correct_option": 3
         },
         {
             "question": "निक्षेपण प्रक्रिया के दौरान, किस प्रकार का अवस्था परिवर्तन होगा?",
@@ -1382,7 +1419,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_92"
+            "id": "q_matter_and_its_states_92",
+            "correct_option": 2
         },
         {
             "question": "______ एक यौगिक नहीं है।",
@@ -1397,7 +1435,8 @@
             "examName": "RRB Group D 8/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_93"
+            "id": "q_matter_and_its_states_93",
+            "correct_option": 3
         },
         {
             "question": "जब लेड नाइट्रेट को गर्म किया जाता है, तो यह लेड मोनोऑक्साइड (PbO), नाइट्रोजन डाइऑक्साइड (NO 2), और ऑक्सीजन (O₂) बनाने के लिए विघटित होता है। अभिक्रिया के दौरान दिखाई देने वाली भूरी गैस है:",
@@ -1442,7 +1481,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_96"
+            "id": "q_matter_and_its_states_96",
+            "correct_option": 2
         },
         {
             "question": "किसी पदार्थ को द्रव अवस्था में लाए बिना उसे ठोस अवस्था से सीधे गैस अवस्था में स्थानांतरित करने की प्रक्रिया क्या कहलाती है?",
@@ -1502,7 +1542,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 11 Jun, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_100"
+            "id": "q_matter_and_its_states_100",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से क्या क्षार के साथ अभिक्रिया करके लवण और जल बनाता है?",
@@ -1517,7 +1558,8 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_matter_and_its_states_101"
+            "id": "q_matter_and_its_states_101",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प, एक रासायनिक गुणधर्म को संदर्भित करता है?",
@@ -1547,7 +1589,8 @@
             "examName": "",
             "examYear": "",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_103"
+            "id": "q_matter_and_its_states_103",
+            "correct_option": 2
         },
         {
             "question": "निम्न में से किसका घनत्व सबसे कम होता है?",
@@ -1562,7 +1605,8 @@
             "examName": "RRB Group D 30/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_104"
+            "id": "q_matter_and_its_states_104",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित विकल्पों में से कौन-सा, कार्बन का एक अपरूप है?",
@@ -1598,7 +1642,7 @@
             "question": "निम्नलिखित में से कौन-सा विकल्प विषमांगी मिश्रण को सर्वोत्तम रूप से परिभाषित करता है? अलग-अलग देखा जा सकता है। सकते।",
             "options": [
                 "एक शुद्ध पदार्थ जिसे रासायनिक तरीकों से और अधिक तोड़ा नहीं जा सकता।",
-                "ऐसा मिश्रण जिसमें घटक समान रूप से वितरित नहीं होते हैं तथा उन्हें आसानी से अलग-अलग देखा जा सकता है।",
+                "ऐसा मिश्रण जिसमें घटक समान रूप से वितरित नहीं होते हैं तथा उन्हें आसानी से",
                 "दो या अधिक तत्वों के रासायनिक संयोजन से बना यौगिक।",
                 "ऐसा मिश्रण जिसमें घटक समान रूप से वितरित होते हैं और एक दूसरे से अलग नहीं हो सकते।"
             ],
@@ -1607,7 +1651,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_107"
+            "id": "q_matter_and_its_states_107",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन सत्य है?\n• A. दृढ़ता: पदार्थ के प्रकार के अनुसार किसी पदार्थ का आकार उनके कणों की स्थिति के आधार पर निर्भर होता है। उदाहरण के लिए, ठोस पदार्थों का आकार निश्चित होता है जबकि तरल पदार्थ अपने पात्र का आकार प्राप्त करते हैं तथा गैसों का कोई आकार नहीं होता।\n• B. आकार : यह किसी पदार्थ का वह गुण है जिसमें उच्च दाब पर उनका आयतन कम हो जाता है। गैसों में यह गुण पाया जाता है।",
@@ -1667,7 +1712,8 @@
             "examName": "RPF Constable 2018 19 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_111"
+            "id": "q_matter_and_its_states_111",
+            "correct_option": 3
         },
         {
             "question": "निम्न में से उच्च प्रतिरोधकता वाले कुचालक की पहचान कीजिये।",
@@ -1682,7 +1728,8 @@
             "examName": "RRB ALP Electronics Mechanic 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_112"
+            "id": "q_matter_and_its_states_112",
+            "correct_option": 2
         },
         {
             "question": "जब मैग्नीशियम हवा में जलता है तो लौ का रंग क्या होता है?",
@@ -1712,7 +1759,8 @@
             "examName": "RRB Group D 4/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_114"
+            "id": "q_matter_and_its_states_114",
+            "correct_option": 3
         },
         {
             "question": "पदार्थ की एक अवस्था को दूसरी अवस्था में कैसे बदला जा सकता है?",
@@ -1757,7 +1805,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_117"
+            "id": "q_matter_and_its_states_117",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा शुद्ध पदार्थ केवल एक प्रकार के परमाणु से बना है?",
@@ -1772,7 +1821,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_118"
+            "id": "q_matter_and_its_states_118",
+            "correct_option": 2
         },
         {
             "question": "पानी ठोस अवस्था में ______ के रूप में पाया जाता है।",
@@ -1817,7 +1867,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_121"
+            "id": "q_matter_and_its_states_121",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस परिवर्तन में ऊष्मा अवशोषण और ठोस अवस्था से द्रव अवस्था में परिवर्तन दोनों शामिल हैं?",
@@ -1847,7 +1898,8 @@
             "examName": "RRB JE CBT I - : 31 May 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_123"
+            "id": "q_matter_and_its_states_123",
+            "correct_option": 1
         },
         {
             "question": "कैल्शियम हाइड्रॉक्साइड से कैल्शियम कार्बोनेट और जल बनाने के लिए कौन-सी गैस प्रवाहित की जाती है?",
@@ -1892,7 +1944,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_126"
+            "id": "q_matter_and_its_states_126",
+            "correct_option": 1
         },
         {
             "question": "ठोस से गैस अवस्था में परिवर्तन पर कणों के बीच का स्थान किस प्रकार बदलता है?",
@@ -1922,7 +1975,8 @@
             "examName": "RRB ALP CBT 1 16/02/2026 12:30 PM - 1:30 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_128"
+            "id": "q_matter_and_its_states_128",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सबसे कमजोर चालक है?",
@@ -1967,7 +2021,8 @@
             "examName": "RRB JE 25 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_131"
+            "id": "q_matter_and_its_states_131",
+            "correct_option": 1
         },
         {
             "question": "दो अलग-अलग प्रकार के पदार्थों के कणों का परस्पर मिलना ________ कहलाता है।",
@@ -1982,7 +2037,8 @@
             "examName": "RRB JE CE 28 Aug 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_132"
+            "id": "q_matter_and_its_states_132",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन सही है/हैं?\n• A. ठोस CO₂ को शुष्क बर्फ के रूप में जाना जाता है।\n• B. द्रव के कण वाष्पीकरण के दौरान खोई हुई ऊर्जा को पुनः प्राप्त करने के लिए आसपास से ऊर्जा को अवशोषित करते हैं।\n• C. ठोस CO सीधे गैसीय अवस्था में परिवर्तित हो जाती है।",
@@ -2012,7 +2068,8 @@
             "examName": "RRB NTPC Tier I : 27 Apr 2016 Shift 3",
             "examYear": "2016",
             "type": "standard",
-            "id": "q_matter_and_its_states_134"
+            "id": "q_matter_and_its_states_134",
+            "correct_option": 2
         },
         {
             "question": "प्लास्टर ऑफ पेरिस का रासायनिक सूत्र क्या है?",
@@ -2042,7 +2099,8 @@
             "examName": "RRB JE CE 22 Apr 2025 Shift 2 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_136"
+            "id": "q_matter_and_its_states_136",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन इस समूह से संबंधित नहीं है? a. पारा b. पैराफिन c. नारियल का तेल d. तलछट?",
@@ -2057,7 +2115,8 @@
             "examName": "RRB Group D 25/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_137"
+            "id": "q_matter_and_its_states_137",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प द्रवों के गुण का प्रतिनिधित्व नहीं करता है?",
@@ -2087,7 +2146,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_139"
+            "id": "q_matter_and_its_states_139",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा प्रदूषक, अम्ल वर्षा के निर्माण से सबसे निकटता से जुड़ा हुआ है?",
@@ -2102,7 +2162,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 24/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_matter_and_its_states_140"
+            "id": "q_matter_and_its_states_140",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस लवण में क्रिस्टलीकरण जल नहीं होता है?",
@@ -2147,7 +2208,8 @@
             "examName": "RRB JE 27 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_143"
+            "id": "q_matter_and_its_states_143",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सी गैस बेकिंग सोडा की सिरके के साथ प्रतिक्रिया करने पर निकलती है?",
@@ -2207,7 +2269,8 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_147"
+            "id": "q_matter_and_its_states_147",
+            "correct_option": 2
         },
         {
             "question": "पदार्थ के संदर्भ में निम्न में से कौन सा कथन सही नहीं है?",
@@ -2222,7 +2285,8 @@
             "examName": "RRB Group D 6 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_148"
+            "id": "q_matter_and_its_states_148",
+            "correct_option": 2
         },
         {
             "question": "ओजोन का रासायनिक सूत्र क्या है?",
@@ -2252,7 +2316,8 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_150"
+            "id": "q_matter_and_its_states_150",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से कौन-सा/से कथन सत्य है?\n• A. कठोरता: यह पदार्थ का ऐसा गुणधर्म है जो उसे उच्च दबाव में भी मात्रा में कमी की अनुमति देता है और गैस यह गुणधर्म प्रदर्शित करते हैं।\n• B. आकार: यह किसी पदार्थ का गुणधर्म है जो आसानी से प्रवाहित होता है और बाहरी बल देने पर यह अपना आकार में परिवर्तन होने देता है तथा यह गुणधर्म तरल पदार्थों और गैसों, दोनों द्वारा प्रदर्शित किया जाता है।",
@@ -2312,7 +2377,8 @@
             "examName": "RRB NTPC Tier I : 16 Apr 2016 Shift 1",
             "examYear": "2016",
             "type": "standard",
-            "id": "q_matter_and_its_states_154"
+            "id": "q_matter_and_its_states_154",
+            "correct_option": 1
         },
         {
             "question": "समजातीय श्रेणी में यौगिकों के भौतिक गुणों के बारे में निम्नलिखित में से कौन- सा कथन सत्य है?",
@@ -2342,7 +2408,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_156"
+            "id": "q_matter_and_its_states_156",
+            "correct_option": 1
         },
         {
             "question": "कौन-सा गुणधर्म सबसे अच्छी तरह से यह बताता है कि ठोस पदार्थों का एक निश्चित आकार और आयतन क्यों होता है? क रूप से विन्यासित होते हैं।",
@@ -2387,7 +2454,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_159"
+            "id": "q_matter_and_its_states_159",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस पदार्थ में कण अधिकतम बल से एक साथ बंधे होते हैं?",
@@ -2462,7 +2530,8 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_164"
+            "id": "q_matter_and_its_states_164",
+            "correct_option": 1
         },
         {
             "question": "लवण (Salt) जल में घुल जाता है, क्योंकि ________ ।",
@@ -2492,7 +2561,8 @@
             "examName": "RRB Group D 29/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_166"
+            "id": "q_matter_and_its_states_166",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन गलत है? जाता है।",
@@ -2507,7 +2577,8 @@
             "examName": "RRB ALP CBT-I 2024 : 27 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_167"
+            "id": "q_matter_and_its_states_167",
+            "correct_option": 1
         },
         {
             "question": "_________ गैस उस समय अपनी मुक्त अवस्था में मौजूद नहीं थी जब पृथ्वी पर जीवन उत्पन्न हुआ था।",
@@ -2537,7 +2608,8 @@
             "examName": "RRB NTPC Tier I : 2 Apr 2016 Shift 2",
             "examYear": "2016",
             "type": "standard",
-            "id": "q_matter_and_its_states_169"
+            "id": "q_matter_and_its_states_169",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन द्रव के गुणधर्मों का सर्वोत्तम रूप से वर्णन करता है?",
@@ -2582,7 +2654,8 @@
             "examName": "RRB NTPC CBT-I : 20 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_matter_and_its_states_172"
+            "id": "q_matter_and_its_states_172",
+            "correct_option": 2
         },
         {
             "question": "दिए गए विकल्पों में से निम्नलिखित कथनों के लिए सही विकल्प का प्रयोग करके रिक्त स्थान की पूर्ति कीजिए। ________ पदार्थों में वांडर वाल्स आकर्षण बल निहित होता है।",
@@ -2687,7 +2760,8 @@
             "examName": "RPF Constable 2018 14 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_179"
+            "id": "q_matter_and_its_states_179",
+            "correct_option": 1
         },
         {
             "question": "जिप्सम को 373 K पर गर्म करने पर यह जल के अणुओं को खो देता है और कैल्शियम सल्फेट हेमीहाइड्रेट बन जाता है। इस पदार्थ का उपयोग खिलौने, सजावट के लिए सामग्री और चिकनी सतहों को बनाने के लिए किया जाता है। इस पदार्थ को सामान्यतः किस नाम से जाना जाता है?",
@@ -2717,7 +2791,8 @@
             "examName": "RPF SI 2018 :11 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_181"
+            "id": "q_matter_and_its_states_181",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से क्या वाष्पीकरण के बारे में सत्य है?",
@@ -2777,7 +2852,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_matter_and_its_states_185"
+            "id": "q_matter_and_its_states_185",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सी घटना गर्मियों में सूती कपड़े पहनने के पीछे का कारण है?",
@@ -2792,7 +2868,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_186"
+            "id": "q_matter_and_its_states_186",
+            "correct_option": 3
         },
         {
             "question": "आयनिक यौगिकों के संबंध में निम्नलिखित में से कौन सा कथन गलत है?",
@@ -2807,7 +2884,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_187"
+            "id": "q_matter_and_its_states_187",
+            "correct_option": 2
         },
         {
             "question": "बेकिंग सोडा को गर्म करने पर कौन-सी गैस मुक्त होती है?",
@@ -2837,7 +2915,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_189"
+            "id": "q_matter_and_its_states_189",
+            "correct_option": 2
         },
         {
             "question": "जब सल्फ्यूरिक एसिड को जिंक पर डाला जाता है, तो निम्नलिखित में से कौन सी गैस बनती है?",
@@ -2867,7 +2946,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 16/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_matter_and_its_states_191"
+            "id": "q_matter_and_its_states_191",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा पायस (इमल्शन) का उदाहरण है?",
@@ -2882,7 +2962,8 @@
             "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_192"
+            "id": "q_matter_and_its_states_192",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस अवस्था में अति ऊर्जावान और अति उत्तेजित कण मौजूद होते हैं?",
@@ -2897,7 +2978,8 @@
             "examName": "RRB JE 29 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_193"
+            "id": "q_matter_and_its_states_193",
+            "correct_option": 2
         },
         {
             "question": "एथेनॉल सोडियम के साथ अभिक्रिया करता है जिसके परिणामस्वरूप सोडियम एथॉक्साइड बनता है और.निर्मित होती है।",
@@ -2912,7 +2994,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_194"
+            "id": "q_matter_and_its_states_194",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किसका प्रकाशिक घनत्व उच्च परन्तु द्रव्यमान घनत्व कम हो सकता है?",
@@ -3002,7 +3085,8 @@
             "examName": "RRB NTPC CBT-I : 5 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_matter_and_its_states_200"
+            "id": "q_matter_and_its_states_200",
+            "correct_option": 3
         },
         {
             "question": "' गैसीय अवस्था के गुण' के संबंध में निम्नलिखित में से कौन-सा कथन सही है? अत्यधिक होता है। अत्यधिक निम्न होता है।",
@@ -3032,7 +3116,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_202"
+            "id": "q_matter_and_its_states_202",
+            "correct_option": 1
         },
         {
             "question": "जब मैग्नीशियम रिबन को हवा में जलाया जाता है, तो जो राख बनती है वह है-",
@@ -3047,7 +3132,8 @@
             "examName": "RRB JE CBT-II Electronics : 31 Aug, 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_203"
+            "id": "q_matter_and_its_states_203",
+            "correct_option": 2
         },
         {
             "question": "जब धातुएँ तनु अम्लों के साथ अभिक्रिया करती हैं तो निम्नलिखित में से कौन सी गैस प्राप्त होती है?",
@@ -3097,7 +3183,7 @@
         {
             "question": "ऊष्मा हस्तांतरण की चालकत्व और संवहन प्रणाली _________ द्वारा विभाजित निकायों के बीच संचालित नहीं होती है।",
             "options": [
-                "जल",
+                "निवात",
                 "एल्यूमिनीयम",
                 "निर्वात",
                 "बर्फ"
@@ -3122,7 +3208,8 @@
             "examName": "RRB Level 01 Stage I 08/01/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_matter_and_its_states_208"
+            "id": "q_matter_and_its_states_208",
+            "correct_option": 2
         },
         {
             "question": "लैसेन परीक्षण में, आयरन (II) सल्फेट विलयन की उपस्थिति में विलयन के भाग को ऊष्मा देने पर प्रशियन नील के अवक्षेप के निर्माण से कौन-सा तत्व प्रकट होता है?",
@@ -3137,7 +3224,8 @@
             "examName": "RRB NTPC UG CBT-I : 20 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_209"
+            "id": "q_matter_and_its_states_209",
+            "correct_option": 3
         },
         {
             "question": "एक विद्यार्थी एक बंद पात्र में 10 g कैल्शियम कार्बोनेट को गर्म करता है। यह अपघटित होकर 5.6 g कैल्शियम ऑक्साइड और कार्बन डाइऑक्साइड गैस बनाता है। उत्पादित कार्बन डाइऑक्साइड का द्रव्यमान कितना होगा?",
@@ -3167,7 +3255,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_211"
+            "id": "q_matter_and_its_states_211",
+            "correct_option": 1
         },
         {
             "question": "एक _____ पदार्थ गैस की प्रकृति के आधार पर एक विशेष रंग के साथ चमकती है।",
@@ -3197,7 +3286,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_213"
+            "id": "q_matter_and_its_states_213",
+            "correct_option": 2
         },
         {
             "question": "हाइड्रोक्लोरिक अम्ल की कैल्सियम कार्बोनेट के साथ अभिक्रिया करवाने पर कौन-सी गैस मोचित होती है?",
@@ -3332,7 +3422,8 @@
             "examName": "RPF ConstableAncillary 2018 30 Mar 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_222"
+            "id": "q_matter_and_its_states_222",
+            "correct_option": 2
         },
         {
             "question": "ग्रीनहाउस प्रभाव के लिए मुख्यतः कौन-सी गैस उत्तरदायी है और जीवाश्म ईंधनों के दहन पर उत्पन्न होती है?",
@@ -3377,7 +3468,8 @@
             "examName": "RRB JE CE 28 Aug 2019 Shift 2 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_225"
+            "id": "q_matter_and_its_states_225",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा मिश्रण का उदाहरण है?",
@@ -3392,7 +3484,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_226"
+            "id": "q_matter_and_its_states_226",
+            "correct_option": 1
         },
         {
             "question": "1 मोल (6.022 x 1010²³ पानी के अणु) से कितने ग्राम जल बनता है?",
@@ -3407,7 +3500,8 @@
             "examName": "RPF Constable 2018 20 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_227"
+            "id": "q_matter_and_its_states_227",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा अणु, एक ही तत्व के दो परमाणुओं से मिलकर बना है?",
@@ -3437,7 +3531,8 @@
             "examName": "RRB NTPC UG CBT-I : 08 Sept, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_229"
+            "id": "q_matter_and_its_states_229",
+            "correct_option": 2
         },
         {
             "question": "निम्न मे से कौन बहुपरमाणुक है?",
@@ -3452,7 +3547,8 @@
             "examName": "RRB Group D 4 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_230"
+            "id": "q_matter_and_its_states_230",
+            "correct_option": 2
         },
         {
             "question": "एक ही तत्व या अलग-अलग तत्वों के परमाणु एक साथ मिलकर _____ बना सकते हैं।",
@@ -3467,7 +3563,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_231"
+            "id": "q_matter_and_its_states_231",
+            "correct_option": 1
         },
         {
             "question": "द्रवों में विसरण की दर ठोसों की तुलना में अधिक होती है क्योंकि:",
@@ -3497,7 +3594,8 @@
             "examName": "RRB JE ME 30 Aug 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_233"
+            "id": "q_matter_and_its_states_233",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा, सबसे तेजी से विसरण दशाएगा?",
@@ -3542,7 +3640,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_matter_and_its_states_236"
+            "id": "q_matter_and_its_states_236",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा उत्पाद सोडियम क्लोराइड के जलीय विलयन में विद्युत प्रवाहित करने पर नहीं बनता है?",
@@ -3557,7 +3656,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_237"
+            "id": "q_matter_and_its_states_237",
+            "correct_option": 3
         },
         {
             "question": "_______ में कणों की गतिज ऊर्जा अधिकतम होती है।",
@@ -3572,7 +3672,8 @@
             "examName": "RRB Group D 12 Nov 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_238"
+            "id": "q_matter_and_its_states_238",
+            "correct_option": 3
         },
         {
             "question": "एक पदार्थ X लाल लिटमस को नीला कर देता है, और यह नारंगी मिथाइल को _____ रंग में बदल देगा।",
@@ -3602,7 +3703,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_240"
+            "id": "q_matter_and_its_states_240",
+            "correct_option": 3
         },
         {
             "question": "पृथ्वी से निकाले गए अयस्क मिट्टी, रेत आदि अशुद्धि यों से दूषित होते हैं। उन्हें क्या कहा जाता है?",
@@ -3617,7 +3719,8 @@
             "examName": "RPF Constable 2018 08 Feb 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_241"
+            "id": "q_matter_and_its_states_241",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित सहसंयोजक यौगिकों में से किसमें साझा इलेक्ट्रॉन युग्मों की संख्या सबसे कम होगी?",
@@ -3662,7 +3765,8 @@
             "examName": "RRB JE CBT I - : 30 May 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_244"
+            "id": "q_matter_and_its_states_244",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा आयनिक यौगिकों का एक सामान्य गुण है?",
@@ -3677,7 +3781,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_245"
+            "id": "q_matter_and_its_states_245",
+            "correct_option": 2
         },
         {
             "question": "कणों का विसरण ________ में अधिक तीव्र होता है।",
@@ -3707,7 +3812,8 @@
             "examName": "RRB NTPC CBT-I : 12 Mar 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_matter_and_its_states_247"
+            "id": "q_matter_and_its_states_247",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सी गैस ग्रीनहाउस गैस नहीं है?",
@@ -3752,7 +3858,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_250"
+            "id": "q_matter_and_its_states_250",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा पदार्थ जैव निम्नीकरणीय नहीं है?",
@@ -3767,7 +3874,8 @@
             "examName": "RPF Constable 2018 25 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_251"
+            "id": "q_matter_and_its_states_251",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस पर स्थिर अनुपात का नियम लागू नहीं होता है?",
@@ -3782,7 +3890,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_252"
+            "id": "q_matter_and_its_states_252",
+            "correct_option": 1
         },
         {
             "question": "373 K पर जिप्सम को गर्म करने पर निम्नलिखित में से कौन-सा यौगिक प्राप्त होता है?",
@@ -3797,7 +3906,8 @@
             "examName": "RRB ALP CBT-I 2024 : 27 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_253"
+            "id": "q_matter_and_its_states_253",
+            "correct_option": 1
         },
         {
             "question": "जब बेकिंग सोडा एसिटिक अम्ल के साथ प्रतिक्रिया करता है तो निम्नलिखित में से कौन सी गैस निकलती है?",
@@ -3817,7 +3927,7 @@
         {
             "question": "पेरिस प्लास्टर कब तैयार होता है? है। देता है।",
             "options": [
-                "जब ब्राइन को 373 K पर गर्म किया जाता है और यह जल के अणुओं को खो देता है।",
+                "जब जिप्सम को 373 K पर गम किया जाता है और यह जल के अणुओं को खो देता है।",
                 "जब अमोनिया को 373 K पर गर्म किया जाता है और यह जल के अणुओं को खो देता है।",
                 "जब सोडा लाइम को 373 K पर गर्म किया जाता है और यह जल के अणुओं को खो देता है।",
                 "जब जिप्सम को 373 K पर गर्म किया जाता है और यह जल के अणुओं को खो देता है।"
@@ -3887,7 +3997,8 @@
             "examName": "RRB Level 01 Stage I 22/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_259"
+            "id": "q_matter_and_its_states_259",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प इस अवधारणा का सबसे अच्छे से समथन करता है कि पदार्थ कणों से मिलकर बना होता है?",
@@ -3917,7 +4028,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_261"
+            "id": "q_matter_and_its_states_261",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा पदार्थ जैवनिम्नीकरणीय है?",
@@ -3932,7 +4044,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_262"
+            "id": "q_matter_and_its_states_262",
+            "correct_option": 1
         },
         {
             "question": "गैसों और द्रव का सामान्य नाम क्या है?",
@@ -3992,7 +4105,8 @@
             "examName": "RPF Constable 2018 17 Feb 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_266"
+            "id": "q_matter_and_its_states_266",
+            "correct_option": 2
         },
         {
             "question": "यदि किसी वस्तु को तारों के रूप में ढाला जा सकता है, तो उसे क्या कहा जाएगा?",
@@ -4052,7 +4166,8 @@
             "examName": "RPF Constable 2024 : 12 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_270"
+            "id": "q_matter_and_its_states_270",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी, आयनी यौगिकों (ionic compound) की भौतिक विशेषता नहीं है?",
@@ -4112,7 +4227,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_274"
+            "id": "q_matter_and_its_states_274",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सी प्रक्रिया रासायनिक अभिक्रियाओं से संबंधित है?",
@@ -4132,7 +4248,7 @@
         {
             "question": "निम्नलिखित में से कौन सा एक प्राकृतिक पादप हार्मोन है जो फलों को पकाने में मदद करता है?",
             "options": [
-                "इथिलीन",
+                "एथिलीन",
                 "मीथेन",
                 "एथेन",
                 "एसिटिलीन"
@@ -4172,7 +4288,8 @@
             "examName": "RRB Group D 8/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_278"
+            "id": "q_matter_and_its_states_278",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस तत्व का परमाणु क्रमांक 8 है?",
@@ -4187,7 +4304,8 @@
             "examName": "RRB JE ECE 22 Apr 2025 Shift 2 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_279"
+            "id": "q_matter_and_its_states_279",
+            "correct_option": 3
         },
         {
             "question": "इनमें से कौन सी गैस सल्फर डाइऑक्साइड और कार्बन मोनोऑक्साइड के साथ अम्ल वषा का कारण होती है?",
@@ -4247,7 +4365,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_283"
+            "id": "q_matter_and_its_states_283",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी गैस की विशेषता नहीं है?",
@@ -4307,7 +4426,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_287"
+            "id": "q_matter_and_its_states_287",
+            "correct_option": 2
         },
         {
             "question": "सात रंगों वाले प्रकाश में से कौन-सा रंग प्रिज्म पर पड़ने के बाद सबसे अधिक विचलित होता है?",
@@ -4322,7 +4442,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_288"
+            "id": "q_matter_and_its_states_288",
+            "correct_option": 3
         },
         {
             "question": "कौन-सा प्रक्रम सर्वोत्तम रूप से इसकी व्याख्या करता है कि गर्म दिन के दौरान ठंडे गिलास के बाह्य पृष्ठ पर पानी की बूंदें कैसे बनती हैं?",
@@ -4337,7 +4458,8 @@
             "examName": "RRB Level 01 Stage I 10/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_matter_and_its_states_289"
+            "id": "q_matter_and_its_states_289",
+            "correct_option": 1
         },
         {
             "question": "पदार्थ की चौथी अवस्था' प्लाज़््मा' है।",
@@ -4352,7 +4474,8 @@
             "examName": "RPF SI CBT-I 2024 : 12 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_290"
+            "id": "q_matter_and_its_states_290",
+            "correct_option": 1
         },
         {
             "question": "उच्चतम विशिष्ट ऊष्मा धारिता वाला पदार्थ कौन सा है?",
@@ -4367,12 +4490,13 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_291"
+            "id": "q_matter_and_its_states_291",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस माध्यमें से ध्वनि यात्रा नहीं कर सकती है?",
             "options": [
-                "निर्वात",
+                "निवात",
                 "दूध",
                 "वायु",
                 "इस्पात"
@@ -4397,7 +4521,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 25/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_matter_and_its_states_293"
+            "id": "q_matter_and_its_states_293",
+            "correct_option": 2
         },
         {
             "question": "आवर्त सारणी में पहला तत्व कौन सा है?",
@@ -4412,7 +4537,8 @@
             "examName": "RRB NTPC CBT-I : 27 Feb 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_matter_and_its_states_294"
+            "id": "q_matter_and_its_states_294",
+            "correct_option": 1
         },
         {
             "question": "कैल्शियम कार्बोनेट का दूसरा रूप क्या है?",
@@ -4427,7 +4553,8 @@
             "examName": "RPF Constable 2018 18 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_295"
+            "id": "q_matter_and_its_states_295",
+            "correct_option": 3
         },
         {
             "question": "किसी भी समजातीय श्रेणी में आणविक द्रव्यमान में वृद्धि निम्नलिखित में से क्या इंगित करती है?",
@@ -4457,7 +4584,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_297"
+            "id": "q_matter_and_its_states_297",
+            "correct_option": 1
         },
         {
             "question": "सेल्सियस और केल्विन तापमान के बीच क्या संबंध है?",
@@ -4472,7 +4600,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_298"
+            "id": "q_matter_and_its_states_298",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी द्रव्य की अवस्थाएँ अत्यधिक संपीड्य हैं?",
@@ -4517,7 +4646,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_301"
+            "id": "q_matter_and_its_states_301",
+            "correct_option": 1
         },
         {
             "question": "शुद्ध ठोस पदार्थों को उनके विलयनों से अलग करने के समाधान को क्रिस्टल- कहा जाता है।",
@@ -4577,7 +4707,8 @@
             "examName": "RRB JE 29 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_305"
+            "id": "q_matter_and_its_states_305",
+            "correct_option": 2
         },
         {
             "question": "कौन-सा अवलोकन जल के लिए स्थिर अनुपात के नियम का समथन करता है?",
@@ -4592,7 +4723,8 @@
             "examName": "RRB JE 25/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_matter_and_its_states_306"
+            "id": "q_matter_and_its_states_306",
+            "correct_option": 2
         },
         {
             "question": "प्लास्टर ऑफ पेरिस का रासायनिक नाम क्या है?",
@@ -4622,7 +4754,8 @@
             "examName": "RRB ALP CBT-I 2024 : 28 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_308"
+            "id": "q_matter_and_its_states_308",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी मक्खन की परिक्षेपित प्रावस्था है?",
@@ -4637,7 +4770,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_309"
+            "id": "q_matter_and_its_states_309",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन सही है/हैं?\n• A. अगर हम तापमान कम करते हैं और दबाव बढ़ाते हैं, तो हम वायुमंडलीय गैसों को दव्र बना सकते हैं।\n• B. एक गर्म शुष्क दिन का अथ है कि वायुमंडल का तापमान अधिक है और हवा की नमी कम है, ये दोनों कारक वाष्पीकरण की दर को बढ़ाते हैं और इस प्रकार भारी शीतलन उत्पन्न होता है।",
@@ -4667,7 +4801,8 @@
             "examName": "RRB JE 23 May 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_311"
+            "id": "q_matter_and_its_states_311",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा एक मानव निर्मित पदार्थ है और जो बैक्टीरिया की क्रिया द्वारा विघटित नहीं होगा?",
@@ -4682,7 +4817,8 @@
             "examName": "RRB Level 01 Stage I 15/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_312"
+            "id": "q_matter_and_its_states_312",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा एक यौगिक नहीं है?",
@@ -4697,7 +4833,8 @@
             "examName": "RRB Group D 20 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_313"
+            "id": "q_matter_and_its_states_313",
+            "correct_option": 3
         },
         {
             "question": "हाइड्रोकार्बन कार्बनिक यौगिकों में ___________________ तत्व होते हैं।",
@@ -4712,7 +4849,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_314"
+            "id": "q_matter_and_its_states_314",
+            "correct_option": 1
         },
         {
             "question": "जब 112 g सोडियम हाइड्रॉक्साइड 44 g कार्बन डाइऑक्साइड के साथ अभिक्रिया करता है, जिसके परिणामस्वरूप 18 g जल प्राप्त होता है, तो कितने ग्राम (g) सोडियम कार्बोनेट उत्पन्न होता है?",
@@ -4757,7 +4895,8 @@
             "examName": "RPF SI 2018 : 11 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_317"
+            "id": "q_matter_and_its_states_317",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन ठीक प्रकार से वर्णन करता है कि ठोसों और द्रवों की तुलना में गैसों को आसानी से संपीडित किया जा सकता है?",
@@ -4787,12 +4926,13 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_319"
+            "id": "q_matter_and_its_states_319",
+            "correct_option": 2
         },
         {
             "question": "चूने (सफ़ेद पुताई) के घोल के सूखने की क्रिया का कारण है-",
             "options": [
-                "हवा में नाइट्रोजन",
+                "हवा में CO₂",
                 "हवा में ऑक्सीजन",
                 "हवा में हाइड्रोजन",
                 "हवा में CO 2"
@@ -4817,7 +4957,8 @@
             "examName": "RRB JE 27 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_321"
+            "id": "q_matter_and_its_states_321",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किसका घर्षण बल सबसे कम होता है?",
@@ -4832,7 +4973,8 @@
             "examName": "RRB NTPC CBT-I : 7 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_matter_and_its_states_322"
+            "id": "q_matter_and_its_states_322",
+            "correct_option": 1
         },
         {
             "question": "पदार्थ के अणुओं के बीच आकर्षण बल _________ में अधिकतम होता है।",
@@ -4847,7 +4989,8 @@
             "examName": "RRB Group D 24/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_323"
+            "id": "q_matter_and_its_states_323",
+            "correct_option": 2
         },
         {
             "question": "जब एक जस्ता धातु का टुकड़ा हाइड्रोक्लोरिक अम्ल में रखा जाता है, तो __________ गैस विकसित होती है।",
@@ -4907,7 +5050,8 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_matter_and_its_states_327"
+            "id": "q_matter_and_its_states_327",
+            "correct_option": 3
         },
         {
             "question": "स्कूल कैम्पस की सफाई करते समय, विद्यार्थियों को जैव-निम्नीकरणीय अपशिष्ट को पृथक करने के लिए कहा जाता है। निम्नलिखित में से किसे जैव-निम्नीकरणीय बिन में डाला जाना चाहिए?",
@@ -4967,7 +5111,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_331"
+            "id": "q_matter_and_its_states_331",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा/कौन-से कथन सत्य है/हैं?\n• A. दृढता: यह पदार्थ का अपनी आकृति को बनाए रखने का गुण है भले ही यदि इस पर बाहरी बल कार्यत हो और ठोस इस गुण को दशाते हैं।\n• B. तरलता: यह किसी बाहरी बल के तहत अपनी आकृति को आसानी से प्रवाहित होने और परिवर्तित होने की अनुमति देने के लिए एक पदार्थ का गुण होता है और यह गुण द्रव्य और गैस दोनों द्वारा प्रदर्शित किया जाता है।",
@@ -4997,7 +5142,8 @@
             "examName": "RRB ALP Fitter 23 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_333"
+            "id": "q_matter_and_its_states_333",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा द्रव का अभिलक्षण है?",
@@ -5027,7 +5173,8 @@
             "examName": "RRB NTPC CBT-I : 30 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_matter_and_its_states_335"
+            "id": "q_matter_and_its_states_335",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किसमें फॉर्मेल्डिहाइड का उपयोग किया जाता है?",
@@ -5057,7 +5204,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_337"
+            "id": "q_matter_and_its_states_337",
+            "correct_option": 3
         },
         {
             "question": "______ एक शुद्ध पदार्थ है।",
@@ -5072,7 +5220,8 @@
             "examName": "RRB Group D 24/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_338"
+            "id": "q_matter_and_its_states_338",
+            "correct_option": 2
         },
         {
             "question": "तापमान बढ़ाने पर किस पदार्थ की अवस्था में सबसे अधिक प्रसार होता है?",
@@ -5087,7 +5236,8 @@
             "examName": "RRB JE ECE 22 Apr 2025 Shift 1 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_339"
+            "id": "q_matter_and_its_states_339",
+            "correct_option": 1
         },
         {
             "question": "द्रवों का ________ ।",
@@ -5147,12 +5297,13 @@
             "examName": "RRB ALP CBT 1 13/02/2026 9:00 AM - 10:00 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_matter_and_its_states_343"
+            "id": "q_matter_and_its_states_343",
+            "correct_option": 1
         },
         {
             "question": "जब अम्ल धातु कार्बोनेट के साथ अभिक्रिया करता है तो सामान्यतः कौन सी गैस बनती है?",
             "options": [
-                "हाइड्रोजन गैस",
+                "कार्बन डायऑक्साइड वायू",
                 "ऑक्सीजन गैस",
                 "कार्बन डाइऑक्साइड गैस",
                 "नाइट्रोजन गैस"
@@ -5177,7 +5328,8 @@
             "examName": "RRB NTPC CBT-I : 31 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_matter_and_its_states_345"
+            "id": "q_matter_and_its_states_345",
+            "correct_option": 2
         },
         {
             "question": "उस घटना को क्या कहते हैं जब एक तार बर्फ के एक टुकड़े से बिना उसे तोड़े गुजरता है और तार के गुजरने के बाद पानी फिर से जम जाता है?",
@@ -5192,7 +5344,8 @@
             "examName": "RRB NTPC UG CBT-I : 11 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_346"
+            "id": "q_matter_and_its_states_346",
+            "correct_option": 2
         },
         {
             "question": "वह तापमान जिस पर कोई द्रव वायुमंडलीय दाब पर उबलना शुरू करता है, उसे क्या कहते हैं?",
@@ -5222,7 +5375,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_348"
+            "id": "q_matter_and_its_states_348",
+            "correct_option": 3
         },
         {
             "question": "सात्विक आहार में विशेष रूप से किस प्रकार के अन्न को शामिल किया जाता है?",
@@ -5237,7 +5391,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 17/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_matter_and_its_states_349"
+            "id": "q_matter_and_its_states_349",
+            "correct_option": 3
         },
         {
             "question": "आयोडीन ठोस के ऊर्ध्वपातन पर बनने वाले वाष्प का रंग क्या है?",
@@ -5267,7 +5422,8 @@
             "examName": "RRB NTPC UG CBT-I : 13 Aug, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_351"
+            "id": "q_matter_and_its_states_351",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस माध्यम में ध्वनि की चाल अधिकतम होती है?",
@@ -5312,7 +5468,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_354"
+            "id": "q_matter_and_its_states_354",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा, यौगिक का अणु है?",
@@ -5327,7 +5484,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_355"
+            "id": "q_matter_and_its_states_355",
+            "correct_option": 1
         },
         {
             "question": "जब जिप्सम को 373 K पर गर्म किया जाता है, तो यह क्रिस्टलन जल का त्याग कर देता है और _________ बनाता है।",
@@ -5342,7 +5500,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_356"
+            "id": "q_matter_and_its_states_356",
+            "correct_option": 1
         },
         {
             "question": "अधात्विक तत्व ब्रोमीन की भौतिक अवस्था क्या है?",
@@ -5372,7 +5531,8 @@
             "examName": "RPF Constable 2018 19 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_358"
+            "id": "q_matter_and_its_states_358",
+            "correct_option": 2
         },
         {
             "question": "जब एथेनोइक अम्ल सोडियम कार्बोनेट के साथ अभिक्रिया करता है, तो सामान्यतः कौन सी गैस निकलती है?",
@@ -5432,7 +5592,8 @@
             "examName": "RRB JE 24 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_362"
+            "id": "q_matter_and_its_states_362",
+            "correct_option": 1
         },
         {
             "question": "कोक के जलने पर मुख्य रूप से कौन सी गैस उत्पन्न होती है?",
@@ -5522,7 +5683,8 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_368"
+            "id": "q_matter_and_its_states_368",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से क्या रासायनिक अभिक्रिया द्वारा बनता है?",
@@ -5552,7 +5714,8 @@
             "examName": "RPF Constable 2018 12 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_370"
+            "id": "q_matter_and_its_states_370",
+            "correct_option": 2
         },
         {
             "question": "विद्युत बल्ब में सामान्यतः गैस भरी रहती है।",
@@ -5597,7 +5760,8 @@
             "examName": "RRB NTPC CBT-I : 22 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_matter_and_its_states_373"
+            "id": "q_matter_and_its_states_373",
+            "correct_option": 1
         },
         {
             "question": "प्रशीतक निम्नलिखित में से किस सिद्धांत पर काम करता है?",
@@ -5612,12 +5776,13 @@
             "examName": "RRB NTPC Tier I : 28 Apr 2016 Shift 2",
             "examYear": "2016",
             "type": "standard",
-            "id": "q_matter_and_its_states_374"
+            "id": "q_matter_and_its_states_374",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस विधि का उपयोग निलंबन से कणों को अलग करने के लिए किया जाता है?",
             "options": [
-                "वाष्पीकरण",
+                "निष्यंदन",
                 "निस्यंदन",
                 "क्रिस्टलीकरण",
                 "आसवन"
@@ -5672,7 +5837,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_378"
+            "id": "q_matter_and_its_states_378",
+            "correct_option": 2
         },
         {
             "question": "रासायनिक अभिक्रियाओं द्वारा सरल पदार्थों में विघटित नहीं होने वाला पदार्थ क्या कहलाता है?",
@@ -5702,7 +5868,8 @@
             "examName": "RRB ALP Fitter 23 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_380"
+            "id": "q_matter_and_its_states_380",
+            "correct_option": 1
         },
         {
             "question": "अम्लीय विलयन में फिनोलथेलीन का रंग है-",
@@ -5717,7 +5884,8 @@
             "examName": "RRB JE 23 May 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_381"
+            "id": "q_matter_and_its_states_381",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किसका विसरण वायु में सबसे धीरे होगा?",
@@ -5822,7 +5990,8 @@
             "examName": "RRB JE ECE 22 Apr 2025 Shift 2 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_388"
+            "id": "q_matter_and_its_states_388",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किसे एक तत्व के रूप में वर्गीकृत किया गया है?",
@@ -5852,7 +6021,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_matter_and_its_states_390"
+            "id": "q_matter_and_its_states_390",
+            "correct_option": 2
         },
         {
             "question": "ध्वनि किस माध्यम में अधिकतम चाल से गर्मन करती है?",
@@ -5867,7 +6037,8 @@
             "examName": "RRB JE 26 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_391"
+            "id": "q_matter_and_its_states_391",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा/से कथन सत्य है/हैं?\n• A. आकार: पदार्थ के प्रकार के अनुसार, कणों के स्थान के आधार पर आकार बदलता है। उदाहरण के लिए, ठोस पदार्थों का निश्चित आकार होता है, जबकि द्रव पदार्थ उनके पात्र का आकार प्राप्त करते हैं और देखा जाए तो, गैसों का कोई आकार नहीं होता है।\n• B. पानी का पात्र भरना: यह ऊँचे दाब में आयतन की घटत करने वाला, द्रव्य का एक गुणधर्म है और गैस यह गुणधर्म दर्शाती है।",
@@ -5875,20 +6046,21 @@
                 "A और B दोनों सत्य है।",
                 "केवल B ही सत्य है।",
                 "A और B दोनों असत्य है।",
-                "केवल A ही सत्य है।"
+                "द्रव्य की अवस्थाओं (States of Matter) एवं भौतिक रसायन के नियमों के अनुसार सही उत्तर **केवल A ही सत्य है। ** है।"
             ],
             "correctIndex": 3,
             "explanation": "द्रव्य की अवस्थाओं (States of Matter) एवं भौतिक रसायन के नियमों के अनुसार सही उत्तर **केवल A ही सत्य है। ** है।\n\n1. **अवस्थाएं:** पदार्थ की मुख्य रूप से तीन अवस्थाएं (ठोस, द्रव, गैस) तथा दो अन्य अवस्थाएं (प्लाज्मा एवं बोस-आइंस्टीन संघनन) होती हैं।\n2. **कणों की गतिज ऊर्जा:** तापमान बढ़ाने पर कणों की गतिज ऊर्जा बढ़ती है जिससे अंतर-आण्विक बल कमजोर होते हैं और अवस्था परिवर्तन होता है।\n3. **व्याख्या:** निम्नलिखित में से कौन सा/से कथन सत्य है/हैं?\n• A. आकार: पदार्थ के प्रकार के अनुसार, कणों के स्थान के आधार पर आकार बदलता है। उदाहरण के लिए, ठोस पदार्थों का निश्चित आकार होता है, जबकि द्रव पदार्थ उनके पात्र का आकार प्राप्त करते हैं और देखा जाए तो, गैसों का कोई आकार नहीं होता है। B. पानी का पात्र भरना: यह ऊँचे दाब में आयतन की घटत करने वाला, द्रव्य का एक गुणधर्म है और गैस यह गुणधर्म दर्शाती है। Q₅₃₃₆. सही उत्तर: विकल्प 1 — किसी द्रव का क्वथनांक वायमेंडलीय दाब में वृद्धि के साथ बढ़ता है और वायमेंडलीय दाब में कमी के साथ घटता है। व्याख्या: यह घटना क्वथनांक और वायमेंडलीय दाब के बीच संबंध द्वारा समझाई जाती है। किसी द्रव का क्वथनांक वह तापमान है जिस पर उसका वाष्प दाब बाहरी वायमेंडलीय दाब के बराबर हो जाता है। उच्च ऊँचाइयों पर, वायमेंडलीय दाब समुद्र तल की तुलना में कम होता है, इसलिए पानी 100°C से नीचे तापमान पर उबलता है क्योंकि उसका वाष्प दाब कम बाहरी दाब के बराबर कम तापमान पर हो जाता है। प्रेशर कुकर में, बंद वातावरण वायमेंडलीय दाब से अधिक दाब उत्पन्न करता है, जिसके कारण पानी को इस बढ़े हुए दाब से मेल खाने के लिए 100°C से ऊपर तापमान तक पहुँचना पड़ता है। विकल्प 2 गलत है क्योंकि यह संबंध को उलट देता है। विकल्प 3 गलत है क्योंकि क्वथनांक सीधे बाहरी दाब पर निभर करता है। विकल्प 4 गलत है क्योंकि गतिज ऊर्जा तापमान से संबंधित है, सीधे क्वथनांक पर ऊँचाई के प्रभाव से नहीं। परीक्षा के लिए अतिरिक्त तथ्य: • माउंट एवरसे्ट बसे कैंप (~5,364 मीटर) पर, कम वायमेंडलीय दाब के कारण पानी लगभग 85°C पर उबलता है। • प्रेशर कुकर आमतौर पर वायमेंडलीय दाब से 15 psi (पाउंड प्रति वग इंच) अधिक दाब पर काम करते हैं, जिससे पानी का क्वथनांक लगभग 121°C तक बढ़ जाता है। • क्लॉजियस-क्लैपेरॉन समीकरण वाष्प दाब और तापमान के बीच संबंध का गणितीय वर्णन करता है। • एथेनॉल का 1 atm पर सामान्य क्वथनांक 78.37°C होता है, जो पानी से कम है क्योंकि इसमें अंतराआण्विक बल कमजोर होते हैं। • क्रांतिक तापमान वह अधिकतम तापमान है जिस पर कोई पदार्थ दाब की परवाह किए बिना द्रव के रूप में रह सकता है। आगामी परीक्षाओं के लिए महत्वपूर्ण एक-पंक्ति प्रश्न: ☛ पहाड़ों पर पानी कम तापमान पर क्यों उबलता है? → उच्च ऊँचाइयों पर वायमेंडलीय दाब कम होने के कारण। ☛ पानी का सामान्य क्वथनांक क्या है? → 1 वायमेंडलीय दाब पर 100°C । ☛ प्रेशर कुकर कैसे काम करता है? → दाब बढ़ाकर पानी का क्वथनांक बढ़ाता है। ☛ द्रव कब उबलता है? → जब उसका वाष्प दाब बाहरी दाब के बराबर हो जाता है। ☛ दाब बढ़ने से क्वथनांक पर क्या प्रभाव पड़ता है? → क्वथनांक बढ़ जाता है। Q₅₃₃₇. सही उत्तर: विकल्प 4 — कार्बन डाइऑक्साइड व्याख्या: जब तनु हाइड्रोक्लोरिक अम्ल (HCl) सोडियम हाइड्रोजनकार्बोनेट (NaHCO₃) के साथ अभिक्रिया करता है, तो एक उदासीनीकरण अभिक्रिया होती है जिसमें अम्ल कार्बोनेट लवण से क्रिया करता है। संतुलित रासायनिक समीकरण है: NaHCO₃(s) + HCl (aq) → NaCl (aq) + H₂O (l) + CO₂(g) । यह अभिक्रिया सोडियम क्लोराइड (NaCl) , जल और कार्बन डाइऑक्साइड गैस (CO₂) उत्पन्न करती है। देखी जाने वाली झागदारता CO₂ गैस के निकलने के कारण होती है। विकल्प 1 (नाइट्रोजन) गलत है क्योंकि अम्ल-कार्बोनेट अभिक्रियाओं में नाइट्रोजन गैस उत्पन्न नहीं होती। विकल्प 2 (ऑक्सीजन) गलत है क्योंकि ऑक्सीजन आमतौर पर अपघटन अभिक्रियाओं या विद्युत-अपघटन में मुक्त होती है, यहाँ नहीं। विकल्प 3 (हाइड्रोजन) गलत है क्योंकि हाइड्रोजन गैस तब निकलती है जब अम्ल धातुओं से अभिक्रिया करते हैं, कार्बोनेट या का सीधा संबंध **केवल A ही सत्य है। ** के भौतिक गुणों से है।\n\nअतः सही उत्तर विकल्प (4) यानी **केवल A ही सत्य है। ** है।",
             "examName": "RRB Group D 10/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_matter_and_its_states_392"
+            "id": "q_matter_and_its_states_392",
+            "correct_option": 3
         },
         {
             "question": "किसी रासायनिक समीकरण में संकेताक्षर (g) का उपयोग किस अवस्था में मौजूद किसी विशेष तत्व या यौगिक को प्रदर्शित करने के लिए किया जाता है?",
             "options": [
                 "जलीय अवस्था",
-                "गैस अवस्था",
+                "द्रव्य की अवस्थाओं (States of Matter) एवं भौतिक रसायन के नियमों के अनुसार सही उत्तर **गैस अवस्था** है।",
                 "द्रव अवस्था",
                 "ठोस अवस्था"
             ],
@@ -5897,7 +6069,8 @@
             "examName": "RRB JE CBT I - : 30 May 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_393"
+            "id": "q_matter_and_its_states_393",
+            "correct_option": 1
         }
     ]
 }

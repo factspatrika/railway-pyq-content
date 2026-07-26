@@ -31,7 +31,8 @@
             "examName": "RRB Level 01 Stage I 26/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_digestive_system_2"
+            "id": "q_digestive_system_2",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा तंत्र निमेटोड में नहीं पाया जाता है?",
@@ -46,7 +47,8 @@
             "examName": "RRB NTPC CBT-I : 29 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_digestive_system_3"
+            "id": "q_digestive_system_3",
+            "correct_option": 3
         },
         {
             "question": "पाचन तंत्र में भोजन के संचरण का सही क्रम कौन सा है?",
@@ -61,7 +63,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_digestive_system_4"
+            "id": "q_digestive_system_4",
+            "correct_option": 2
         },
         {
             "question": "शाकाहारी को _______ को पचाने के लिए छोटी आंत के बड़े होने की आवश्यकता होती है।",
@@ -76,7 +79,8 @@
             "examName": "RRB Group D 20 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_digestive_system_5"
+            "id": "q_digestive_system_5",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन आहार नली में अम्लीय भोजन को क्षारीय में परिवर्तित करता है?",
@@ -91,7 +95,8 @@
             "examName": "RRB Group D 29 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_digestive_system_6"
+            "id": "q_digestive_system_6",
+            "correct_option": 1
         },
         {
             "question": "आहार में वसा छोटी आंत में बड़े गोलक क्यों बनाती हैं?",
@@ -121,7 +126,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_digestive_system_8"
+            "id": "q_digestive_system_8",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा, हमारे शरीर के केंद्रीय तंत्रिका तंत्र का भाग है?",
@@ -151,7 +157,8 @@
             "examName": "RRB ALP CBT 1 11/03/2026 9:00 AM - 10:00 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_digestive_system_10"
+            "id": "q_digestive_system_10",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा एंजाइम पाचन प्रक्रिया के दौरान आमाशय में स्रावित होता है?",
@@ -166,7 +173,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_digestive_system_11"
+            "id": "q_digestive_system_11",
+            "correct_option": 1
         },
         {
             "question": "जीभ मुख्य रूप से _________ पाचन में सहायता करती है।",
@@ -196,7 +204,8 @@
             "examName": "RPF Constable 2018 19 Feb 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_digestive_system_13"
+            "id": "q_digestive_system_13",
+            "correct_option": 2
         },
         {
             "question": "एककोशिकीय जीवों के लिए अंतःकोशिकीय पाचन क्यों उपयुक्त है?",
@@ -211,7 +220,8 @@
             "examName": "RRB JE 20/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_digestive_system_14"
+            "id": "q_digestive_system_14",
+            "correct_option": 1
         },
         {
             "question": "जब हम कुछ पसंद का खाना खाते हैं, तो हमारे मुँह में लार नामक द्रव निकलता है। इस स्थिति में, कौन से एंजाइम स्टार्च को साधारण शर्करा (Sugar) में तोड़ते हैं?",
@@ -241,7 +251,8 @@
             "examName": "RRB Group D 29 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_digestive_system_16"
+            "id": "q_digestive_system_16",
+            "correct_option": 2
         },
         {
             "question": "दी गई चार अंगों में से, तीन किसी तरह से एक जैसे हैं और एक भिन्न है। विषम का चयन कीजिए।",
@@ -256,7 +267,8 @@
             "examName": "RRB NTPC CBT-I : 27 Feb 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_digestive_system_17"
+            "id": "q_digestive_system_17",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा वसा के पायसीकरण में शामिल होता है?",
@@ -286,7 +298,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_digestive_system_19"
+            "id": "q_digestive_system_19",
+            "correct_option": 1
         },
         {
             "question": "मानव शरीर में कौन सा अंग रक्त में शर्करा (Sugar) की मात्रा को नियंत्रित करता है?",
@@ -301,7 +314,8 @@
             "examName": "RRB JE 25 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_digestive_system_20"
+            "id": "q_digestive_system_20",
+            "correct_option": 3
         },
         {
             "question": "कौन-सी आकृति मानव शरीर में यकृत (गुलाबी आकृति के रूप में दशाई गई है) के सही स्थान को दर्शाती है (दिया गया है व्यक्ति आपके अर्थात्पाठक के सम्मुख है)?",
@@ -316,7 +330,8 @@
             "examName": "RRB Group D 6/10/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_digestive_system_21"
+            "id": "q_digestive_system_21",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा आहार नली का सबसे लंबा भाग है?",
@@ -331,7 +346,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_digestive_system_22"
+            "id": "q_digestive_system_22",
+            "correct_option": 3
         },
         {
             "question": "लार में निम्नलिखित में से कौन सा एंजाइम स्टार्च को तोड़ता है जो एक जटिल अणु है, तथा सरल शर्करा (Sugar) देता है?",
@@ -346,7 +362,8 @@
             "examName": "RRB Group D 17 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_digestive_system_23"
+            "id": "q_digestive_system_23",
+            "correct_option": 2
         },
         {
             "question": "मानव शरीर का कौन सा अंग रक्त को पंप करता है?",
@@ -361,7 +378,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_digestive_system_24"
+            "id": "q_digestive_system_24",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से आहार नाल का कौन-सा भाग कार्बोहाइड्रेट, प्रोटीन और वसा का पूर्ण पाचन करता है?",
@@ -376,7 +394,8 @@
             "examName": "RRB Group D 9 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_digestive_system_25"
+            "id": "q_digestive_system_25",
+            "correct_option": 3
         },
         {
             "question": "मनुष्य के पाचन तंत्र में होने वाली कौन-सी क्रिया गंदगी पर साबुन की पायसीकरण क्रिया के समान है?",
@@ -406,7 +425,8 @@
             "examName": "RRB NTPC CBT-I : 29 Dec 2020 Shift 1",
             "examYear": "2020",
             "type": "fillInBlanks",
-            "id": "q_digestive_system_27"
+            "id": "q_digestive_system_27",
+            "correct_option": 3
         },
         {
             "question": "विटामिन K की कमी से क्या होता है?",
@@ -421,13 +441,14 @@
             "examName": "RRB JE 28 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_digestive_system_28"
+            "id": "q_digestive_system_28",
+            "correct_option": 2
         },
         {
             "question": "मानव आहार नाल का आरेख नीचे दिया गया है। उस विकल्प का चयन कीजिए जो स्तंभ। का स्तंभ II से सही मिलान दर्शाता है। स्तंभ। स्तंभ II a i) रोम भोजन से जल अवशोषित करते हैं। b ii) जीव द्वारा खाए जाने वाले भोजन पर लंबाई निर्भर करती है। c iii) वसा के पायसीकरण में मदद करता है। d iv) कोई पाचन नहीं।",
             "options": [
                 "- ii, b - iii, c - iv, d - i",
-                "- iv, b - i, c - ii, d - iii",
+                "a - iv, b - i, c - ii, d - iii",
                 "- i, b - ii, c - iii, d - iv",
                 "- iii, b - ii, c - i, d - iv"
             ],
@@ -436,7 +457,8 @@
             "examName": "RRB Group D 30 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_digestive_system_29"
+            "id": "q_digestive_system_29",
+            "correct_option": 1
         },
         {
             "question": "लार में कौन सा पाचक एंजाइम मौजूद होता है?",
@@ -451,7 +473,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_digestive_system_30"
+            "id": "q_digestive_system_30",
+            "correct_option": 1
         },
         {
             "question": "________बड़े वसा ग्लोब्यूल्स के आकार को कम करता है, जिससे एंजाइम अधिक प्रभावी ढंग से काम कर पाते हैं।",
@@ -466,7 +489,8 @@
             "examName": "RRB Group D 25 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_digestive_system_31"
+            "id": "q_digestive_system_31",
+            "correct_option": 2
         },
         {
             "question": "पाचन तंत्र के निम्नलिखित में से किस अंग का आकार अंग्रेजी वर्णमाला \" J\" के समान होता है?",
@@ -481,7 +505,8 @@
             "examName": "RRB NTPC CBT-I : 13 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_digestive_system_32"
+            "id": "q_digestive_system_32",
+            "correct_option": 2
         },
         {
             "question": "लार एमाइलेज _______ के पाचन में मदद करता है।",
@@ -496,7 +521,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_digestive_system_33"
+            "id": "q_digestive_system_33",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से क्या एक औसत वयस्क मानव में लगभग 23 फीट लंबा है?",
@@ -511,7 +537,8 @@
             "examName": "RRB JE 26 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_digestive_system_34"
+            "id": "q_digestive_system_34",
+            "correct_option": 3
         },
         {
             "question": "मानव शरीर के पाचन तंत्र का कौन सा भाग नहीं है?",
@@ -526,7 +553,8 @@
             "examName": "RRB NTPC CBT-I : 27 Feb 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_digestive_system_35"
+            "id": "q_digestive_system_35",
+            "correct_option": 3
         },
         {
             "question": "निम्न में से कौन सा आमाशय में बनने वाला एक प्रोटीन पाचक एंजाइम है?",
@@ -541,7 +569,8 @@
             "examName": "RRB Group D 26 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_digestive_system_36"
+            "id": "q_digestive_system_36",
+            "correct_option": 2
         },
         {
             "question": "अग्नाशयी रस में उपस्थित एंजाइम _____, प्रोटीन को अमीनो अम्ल में परिवर्तित करता है।",
@@ -556,7 +585,8 @@
             "examName": "RRB Group D 22 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_digestive_system_37"
+            "id": "q_digestive_system_37",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस जीव की छोटी आंत लंबी होती है?",
@@ -571,7 +601,8 @@
             "examName": "RRB Group D 23 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_digestive_system_38"
+            "id": "q_digestive_system_38",
+            "correct_option": 1
         },
         {
             "question": "मानव शरीर क्रिया विज्ञान की प्रमुख प्रणालियों में से, रक्त किस अंग तंत्र से संबंधित है?",
@@ -586,7 +617,8 @@
             "examName": "RPF Constable 2024 : 12 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_digestive_system_39"
+            "id": "q_digestive_system_39",
+            "correct_option": 3
         },
         {
             "question": "टायलिन एंजाइम कहाँ पाया जाता है?",
@@ -601,7 +633,8 @@
             "examName": "RRB JE 28 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_digestive_system_40"
+            "id": "q_digestive_system_40",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा अंग आयनों को नियंत्रित करके रक्त प्लाज्मा को अत्यधिक अम्ल या क्षार से बचाता है?",
@@ -616,7 +649,8 @@
             "examName": "RPF SI 2018 :11 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_digestive_system_41"
+            "id": "q_digestive_system_41",
+            "correct_option": 1
         },
         {
             "question": "आहार नली का नाम क्या है?",
@@ -631,7 +665,8 @@
             "examName": "RPF Constable 2018 14 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_digestive_system_42"
+            "id": "q_digestive_system_42",
+            "correct_option": 2
         },
         {
             "question": "छोटी आंत के मध्य का वह भाग, जो पोषक तत्वों के अवशोषण का मुख्य स्थल है, कहाँ स्थित है?",
@@ -646,7 +681,8 @@
             "examName": "RPF Constable 2018 09 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_digestive_system_43"
+            "id": "q_digestive_system_43",
+            "correct_option": 3
         },
         {
             "question": "पाचक ग्रंथियों और उनके एंजाइमों के संबंध में गलत जोड़ी का चयन करें।",
@@ -661,7 +697,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_digestive_system_44"
+            "id": "q_digestive_system_44",
+            "correct_option": 2
         },
         {
             "question": "पाचन के दौरान जठर ग्रंथियाँ ________ एंजाइम का उत्पादन करती हैं, जो प्रोटीन को पचाता है।",
@@ -676,7 +713,8 @@
             "examName": "RRB NTPC CBT-I : 11 Feb 2021 Shift 2",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_digestive_system_45"
+            "id": "q_digestive_system_45",
+            "correct_option": 3
         },
         {
             "question": "लार में मौजूद कौन-सा एंजाइम, स्टार्च को तोड़ने में सहायक होता है?",
@@ -706,7 +744,8 @@
             "examName": "RRB Group D 22/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_digestive_system_47"
+            "id": "q_digestive_system_47",
+            "correct_option": 3
         },
         {
             "question": "मानव शरीर में भोजन का पाचन _______ में शुरू होता है और _______ में पूरा होता है।",
@@ -721,7 +760,8 @@
             "examName": "RRB NTPC CBT-I : 13 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_digestive_system_48"
+            "id": "q_digestive_system_48",
+            "correct_option": 3
         },
         {
             "question": "लार ग्रंथि _______ एंजाइम स्रावित करती है।",
@@ -751,7 +791,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_digestive_system_50"
+            "id": "q_digestive_system_50",
+            "correct_option": 3
         },
         {
             "question": "मनुष्य में आहार नाल का निम्नलिखित में से कौन सा भाग अपशिष्ट पदार्थ को उत्सर्जित करता है?",
@@ -766,7 +807,8 @@
             "examName": "RRB Group D 6 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_digestive_system_51"
+            "id": "q_digestive_system_51",
+            "correct_option": 3
         },
         {
             "question": "घोड़े, खरगोश आदि जानवरों में भोजन के सेलूलोज़ का पाचन किस स्थान पर कुछ बैक्टीरिया की क्रिया द्वारा होता है?",
@@ -781,7 +823,8 @@
             "examName": "RRB Group D 22 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_digestive_system_52"
+            "id": "q_digestive_system_52",
+            "correct_option": 3
         },
         {
             "question": "नीचे दिए गए कथनों पर विचार कीजिए और सही उत्तर की पहचान कीजिए।\n\n• कथन।: अपच के दौरान, पेट बहुत अधिक अम्ल का उत्पादन करता है, और इससे दद और जलन होती है। कथन-II: इस दद से छुटकारा पाने के लिए, लोग मैग्नीशियम हाइड्रॉक्साइड जैसे एंटासिड नामक क्षारों का उपयोग करते हैं।",
@@ -811,7 +854,8 @@
             "examName": "RRB Level 01 Stage I 10/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_digestive_system_54"
+            "id": "q_digestive_system_54",
+            "correct_option": 1
         },
         {
             "question": "सामान्य स्थितियों में, अम्ल की क्रिया से आमाशय के आंतरिक भाग की रक्षा कौन करता है?",
@@ -826,7 +870,8 @@
             "examName": "RRB NTPC CBT-I : 5 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_digestive_system_55"
+            "id": "q_digestive_system_55",
+            "correct_option": 2
         },
         {
             "question": "कौन-सी प्राथमिक विशेषता माइटोकॉन्ड्रिया रिया को' कोशिका का पावरहाउस' कहलाने की अनुमति देती है?",
@@ -841,7 +886,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_digestive_system_56"
+            "id": "q_digestive_system_56",
+            "correct_option": 3
         },
         {
             "question": "अमोनिया यूरिया में कहाँ परिवर्तित होता है?",
@@ -856,12 +902,13 @@
             "examName": "RRB JE 27 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_digestive_system_57"
+            "id": "q_digestive_system_57",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा पाचन तंत्र में चरणों का सही क्रम है?",
             "options": [
-                "अवशोषण, बहिःक्षेपण, पाचन, अंतर्ग्रहण",
+                "अंतर्ग्रहण, पाचन, अवशोषण, बहिःःक्षेपण",
                 "बहिःक्षेपण, अंतर्ग्रहण, अवशोषण, पाचन",
                 "अंतर्ग्रहण, पाचन, अवशोषण, बहिःक्षेपण",
                 "अंतर्ग्रहण, अवशोषण, बहिःक्षेपण, पाचन"
@@ -886,7 +933,8 @@
             "examName": "RRB Group D 24/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_digestive_system_59"
+            "id": "q_digestive_system_59",
+            "correct_option": 3
         },
         {
             "question": "______ वसा ग्लोब्यूल्स को छोटे ग्लोब्यूल्स में तोड़ते हैं।",
@@ -916,7 +964,8 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_digestive_system_61"
+            "id": "q_digestive_system_61",
+            "correct_option": 3
         },
         {
             "question": "मानव शरीर में वे दो मुख्य अंग कौन से हैं जहाँ उत्पन्न चुंबकीय क्षेत्र महत्वपूर्ण है?",
@@ -931,7 +980,8 @@
             "examName": "RRB NTPC CBT-I : 31 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_digestive_system_62"
+            "id": "q_digestive_system_62",
+            "correct_option": 3
         },
         {
             "question": "जठर रस में मौजूद एंजाइम ________ है।",
@@ -946,7 +996,8 @@
             "examName": "RRB JE 26 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_digestive_system_63"
+            "id": "q_digestive_system_63",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस प्रक्रिया में पोषणनाल से अवशोषित पदार्थों का विभिन्न अंगों तक परिवहन होता है जहां उनका उपयोग जटिल पदार्थ के निर्माण हेतु किया जाता है?",
@@ -961,7 +1012,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_digestive_system_64"
+            "id": "q_digestive_system_64",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा रासायनिक स्राव हमारे शरीर को नियंत्रण और समन्वय में मदद करता है? रिक म्यूकोसा",
@@ -976,7 +1028,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_digestive_system_65"
+            "id": "q_digestive_system_65",
+            "correct_option": 1
         },
         {
             "question": "मिलान कीजिए। समूह-I समूह-II I. मुँह\n• A. भोजन चबाना II. दाँत\n• B. भोजन घुमाना III. जीभ\n• C. संपूर्ण भोजन का सेवन IV. लार\n• D. भोजन निगलना",
@@ -991,7 +1044,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_digestive_system_66"
+            "id": "q_digestive_system_66",
+            "correct_option": 1
         },
         {
             "question": "मुख गयहा मानव ________ तंत्र का एक भाग है।",
@@ -1036,7 +1090,8 @@
             "examName": "RRB Group D 1 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_digestive_system_69"
+            "id": "q_digestive_system_69",
+            "correct_option": 1
         },
         {
             "question": "नीचे दिया गया चित्र मानव पाचन तंत्र के एक भाग को दर्शाता है। कौन-सी प्रक्रिया हो रही है और कैसे?",
@@ -1066,7 +1121,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_digestive_system_71"
+            "id": "q_digestive_system_71",
+            "correct_option": 2
         },
         {
             "question": "मानव शरीर के निम्नलिखित में से किस भाग (अंग) में उपकला कोशिकाओं में सिलिया होती है?",
@@ -1081,7 +1137,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_digestive_system_72"
+            "id": "q_digestive_system_72",
+            "correct_option": 1
         },
         {
             "question": "पेप्सिन ___________ में स्रावित होने वाला एक एंजाइम है।",
@@ -1096,7 +1153,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_digestive_system_73"
+            "id": "q_digestive_system_73",
+            "correct_option": 3
         },
         {
             "question": "अति अम्लता के उपचार में दवाओं के डिजाइन में किस प्रमुख खोज ने सहायता की? य करने के लिए एंटीबायोटिक दवाओं का उपयोग",
@@ -1111,7 +1169,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 11 Jun, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_digestive_system_74"
+            "id": "q_digestive_system_74",
+            "correct_option": 3
         },
         {
             "question": "मानव पाचन तंत्र में _______ पित्त स्रावित करता है।",
@@ -1126,7 +1185,8 @@
             "examName": "RRB Group D 24/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_digestive_system_75"
+            "id": "q_digestive_system_75",
+            "correct_option": 2
         },
         {
             "question": "मनुष्यों में छोटी आंत के दीर्घरोम की कुछ विशेषताएं नीचे दी गई हैं:",
@@ -1147,7 +1207,8 @@
                 "(ii) वे एक बड़ा सतह क्षेत्र प्रदान करते हैं।",
                 "(iii) उनमें भोजन के पारित होने के लिए छोटे छिद्र होते हैं।",
                 "(iv) उनकी रक्त केशिकाओं द्वारा प्रचुर मात्रा में आपूर्ति की जाती है। कौन सा/से विकल्प उन विशेषताओं को दर्शाता है/दशाते हैं जो दीर्घरोम को भोजन अवशोषित करने में सक्षम बनाती हैं?"
-            ]
+            ],
+            "correct_option": 1
         },
         {
             "question": "कौन-सा एंजाइम मानव मुख में कार्बोहाइड्रेट के पाचन की शुरुआत करता है?",
@@ -1177,7 +1238,8 @@
             "examName": "RPF Constable 2024 : 09 Mar, 2025 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_digestive_system_78"
+            "id": "q_digestive_system_78",
+            "correct_option": 1
         },
         {
             "question": "प्रोटीन पाचक एंजाइम पेप्सिन का स्राव कहाँ होता है?",
@@ -1192,7 +1254,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_digestive_system_79"
+            "id": "q_digestive_system_79",
+            "correct_option": 1
         },
         {
             "question": "________ वसा के पायसीकरण में सहायता करता है।",
@@ -1237,7 +1300,8 @@
             "examName": "RRB NTPC CBT-I : 4 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_digestive_system_82"
+            "id": "q_digestive_system_82",
+            "correct_option": 2
         },
         {
             "question": "पाचन के दौरान, भोजन को सरल पदार्थों में तोड़ा जाता है। उदाहरण के लिए, चावल, आलू और ब्रेड में _________ होते हैं। ये _________ बनाने के लिए टूट जाते हैं।",
@@ -1252,7 +1316,8 @@
             "examName": "RRB Group D 30 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_digestive_system_83"
+            "id": "q_digestive_system_83",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा एंजाइम स्टार्च को सरल शर्करा (Sugar) में विघटित करता है?",
@@ -1267,7 +1332,8 @@
             "examName": "RRB Group D 6 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_digestive_system_84"
+            "id": "q_digestive_system_84",
+            "correct_option": 2
         },
         {
             "question": "पाचन तंत्र में, निम्नलिखित में से कौन हाइड्रोक्लोरिक अम्ल, पेप्सिन नामक प्रोटीन पाचक एंजाइम और श्लेष्मा का स्राव करता है?",
@@ -1282,7 +1348,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_digestive_system_85"
+            "id": "q_digestive_system_85",
+            "correct_option": 2
         },
         {
             "question": "मानव शरीर में इंसुलिन का उत्पादन कहाँ होता है?",
@@ -1297,7 +1364,8 @@
             "examName": "RRB JE CBT I - : 31 May 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_digestive_system_86"
+            "id": "q_digestive_system_86",
+            "correct_option": 3
         },
         {
             "question": "मानव पाचन में पित्त का मुख्य कार्य क्या है?",
@@ -1312,7 +1380,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_digestive_system_87"
+            "id": "q_digestive_system_87",
+            "correct_option": 2
         },
         {
             "question": "किस मानव अंग में' लैंगरहैंस के द्वीप' होते हैं?",
@@ -1327,7 +1396,8 @@
             "examName": "RRB JE 24 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_digestive_system_88"
+            "id": "q_digestive_system_88",
+            "correct_option": 1
         },
         {
             "question": "एक संतुलित मानव आहार में रेक्षांश शामिल करने का प्राथमिक कारण क्या है?",
@@ -1357,7 +1427,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_digestive_system_90"
+            "id": "q_digestive_system_90",
+            "correct_option": 1
         },
         {
             "question": "एक वयस्क मनुष्य के मुंह में केवल ________ कृन्तक होते हैं।",
@@ -1372,7 +1443,8 @@
             "examName": "RRB Group D 6/10/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_digestive_system_91"
+            "id": "q_digestive_system_91",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन पाचन तंत्र का हिस्सा नहीं है?",
@@ -1387,7 +1459,8 @@
             "examName": "RRB JE CBT I - : 31 May 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_digestive_system_92"
+            "id": "q_digestive_system_92",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा एंजाइम, लार (saliva) में होता है?",
@@ -1417,7 +1490,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_digestive_system_94"
+            "id": "q_digestive_system_94",
+            "correct_option": 2
         },
         {
             "question": "अमाशय की मुख्य कोशिकाओं द्वारा स्रावित कौन सा एंजाइम प्रोटीन के पाचन को आरंभ करने के लिए महत्वपूर्ण है?",
@@ -1432,7 +1506,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 17 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_digestive_system_95"
+            "id": "q_digestive_system_95",
+            "correct_option": 2
         },
         {
             "question": "मानव के आमाशय द्वारा कौन-सा अम्ल उत्पादित होता है?",
@@ -1447,7 +1522,8 @@
             "examName": "RRB Group D 17 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_digestive_system_96"
+            "id": "q_digestive_system_96",
+            "correct_option": 3
         }
     ]
 }

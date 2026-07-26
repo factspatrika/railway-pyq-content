@@ -46,7 +46,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_respiration_3"
+            "id": "q_respiration_3",
+            "correct_option": 3
         },
         {
             "question": "पादपों में कार्बन डाईऑक्साइड और ऑक्सीजन का विनिमय ______ द्वारा होता है।",
@@ -61,7 +62,8 @@
             "examName": "RRB Group D 13 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_respiration_4"
+            "id": "q_respiration_4",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस जीवन प्रक्रिया में DNA की प्रतिलिपि का निर्माण एक मूल घटना है?",
@@ -76,7 +78,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_respiration_5"
+            "id": "q_respiration_5",
+            "correct_option": 1
         },
         {
             "question": "श्वसन की निम्नलिखित में से किस अभिक्रिया में ऑक्सीजन की आवश्यकता होती है?",
@@ -91,7 +94,8 @@
             "examName": "RRB Group D 17 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_6"
+            "id": "q_respiration_6",
+            "correct_option": 2
         },
         {
             "question": "वह रासायनिक अभिक्रिया जिसमें कोई पदार्थ ऑक्सीजन के साथ अभिक्रिया करके ऊष्मा उत्पन्न करता है:",
@@ -136,7 +140,8 @@
             "examName": "RRB Group D 30 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_9"
+            "id": "q_respiration_9",
+            "correct_option": 2
         },
         {
             "question": "एक वयस्क मनुष्य विश्राम की अवस्था में प्रति मिनट कितनी बार सांस लेता है?",
@@ -151,7 +156,8 @@
             "examName": "RRB Group D 12 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_10"
+            "id": "q_respiration_10",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन से कथन सत्य हैं? फैलती है। फैलती है। फैलती है। फैलती है।",
@@ -166,7 +172,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_respiration_11"
+            "id": "q_respiration_11",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से क्या पौधों में श्वसन के अंतिम उत्पाद हैं?",
@@ -181,7 +188,8 @@
             "examName": "RRB Group D 9 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_12"
+            "id": "q_respiration_12",
+            "correct_option": 2
         },
         {
             "question": "जीवन प्रक्रियाओं के लिए, जीव के शरीर के बाहर से ऊर्जा के स्रोत के स्थानांतरण को _____ कहा जाता है।",
@@ -196,7 +204,8 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_respiration_13"
+            "id": "q_respiration_13",
+            "correct_option": 1
         },
         {
             "question": "पेशियों में ऐंठन किसके कारण होती है?",
@@ -211,7 +220,8 @@
             "examName": "RRB Group D 17 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_14"
+            "id": "q_respiration_14",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प मानव में श्वसन के दौरान वायु के पथ को सटीक रूप से दर्शाता है?",
@@ -241,7 +251,8 @@
             "examName": "RRB Group D 30/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_respiration_16"
+            "id": "q_respiration_16",
+            "correct_option": 1
         },
         {
             "question": "एंजाइम की क्रिया द्वारा एक कार्बनिक यौगिक में उत्पन्न होने वाला धीमा रासायनिक परिवर्तन जिससे छोटे अणु मिलते हैं उसे क्या कहा जाता है?",
@@ -256,7 +267,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_respiration_17"
+            "id": "q_respiration_17",
+            "correct_option": 1
         },
         {
             "question": "पौधों की जड़ें ऑक्सीजन कहाँ से ग्रहण करती हैं?",
@@ -271,7 +283,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_18"
+            "id": "q_respiration_18",
+            "correct_option": 2
         },
         {
             "question": "मनुष्यों में साँस लेने के संबंध में नीचे दिए गए एक को छोड़कर सभी कथन सही हैं। कौन सा सही नहीं है?",
@@ -308,7 +321,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_20"
+            "id": "q_respiration_20",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किसकी उपस्थिति मनुष्यों के श्वसन तंत्र में वायु माग को पिचकने से रोकती है, जब उसमें वायु कम होती है?",
@@ -323,7 +337,8 @@
             "examName": "RRB Group D 6 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_21"
+            "id": "q_respiration_21",
+            "correct_option": 2
         },
         {
             "question": "जंतु कोशिकाओं में वायवीय (Aerobic) श्वसन के दौरान कौन-सा प्रक्रम नहीं होता है?",
@@ -353,7 +368,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_respiration_23"
+            "id": "q_respiration_23",
+            "correct_option": 1
         },
         {
             "question": "माइटोकॉन्ड्रिया में ऑक्सीजन का उपयोग करके पाइरूवेट के विघटन के दौरान कार्बन डाइऑक्साइड के कितने अणु बनते हैं?",
@@ -368,7 +384,8 @@
             "examName": "RRB Group D 14 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_24"
+            "id": "q_respiration_24",
+            "correct_option": 1
         },
         {
             "question": "त्वचीय श्वसन किसमें होता है?",
@@ -398,7 +415,8 @@
             "examName": "RRB Group D 6/10/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_respiration_26"
+            "id": "q_respiration_26",
+            "correct_option": 2
         },
         {
             "question": "मानव शरीर में अस्थमा ______ का विकार है।",
@@ -428,7 +446,8 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_respiration_28"
+            "id": "q_respiration_28",
+            "correct_option": 1
         },
         {
             "question": "C₆H₁₂O₆ (aq) + 6O₂(aq) → 6 CO₂ (aq) + 6H₂O (l) + ऊर्जा दी गई अभिक्रिया का विशेष नाम क्या है?",
@@ -443,7 +462,8 @@
             "examName": "RRB Group D 1 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_29"
+            "id": "q_respiration_29",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन गलत है?",
@@ -458,7 +478,8 @@
             "examName": "RRB Group D 14 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_30"
+            "id": "q_respiration_30",
+            "correct_option": 3
         },
         {
             "question": "फेफड़ों में श्वसन गैसों का आदान-प्रदान _______ में होता है।",
@@ -473,7 +494,8 @@
             "examName": "RRB JE 28 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_respiration_31"
+            "id": "q_respiration_31",
+            "correct_option": 1
         },
         {
             "question": "मनुष्य के शरीर में वायु किस अंग के माध्यम से जाती है?",
@@ -488,7 +510,8 @@
             "examName": "RRB Group D 16 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_32"
+            "id": "q_respiration_32",
+            "correct_option": 3
         },
         {
             "question": "मानव शरीर में पाइरूवेट का वायवीय (Aerobic) विघटन कहाँ होता है?",
@@ -503,7 +526,8 @@
             "examName": "RRB Group D 26 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_33"
+            "id": "q_respiration_33",
+            "correct_option": 1
         },
         {
             "question": "श्वसन तंत्र का कौन सा भाग वायमेंाग को ढहने से रोकता है?",
@@ -518,12 +542,13 @@
             "examName": "RRB Group D 17 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_34"
+            "id": "q_respiration_34",
+            "correct_option": 1
         },
         {
             "question": "जब पानी का उपयोग ATP के टर्मिनल लिंक को तोड़ने के लिए किया जाता है तो कितनी ऊर्जा मुक्त होती है?",
             "options": [
-                "31.5 kJ/mol",
+                "5 kJ/mol",
                 "35.6 kJ/mol",
                 "37.2 kJ/mol",
                 "30.5 kJ/mol"
@@ -548,7 +573,8 @@
             "examName": "RRB NTPC UG CBT-I : 20 Aug, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_respiration_36"
+            "id": "q_respiration_36",
+            "correct_option": 2
         },
         {
             "question": "एल्वियोली की कुछ विशेषताएं नीचे बताई गई हैं। गलत विकल्प चुनें।",
@@ -563,7 +589,8 @@
             "examName": "RRB Group D 22 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_37"
+            "id": "q_respiration_37",
+            "correct_option": 3
         },
         {
             "question": "कीटों में गैसों के आदान-प्रदान के लिए वायु नलिकाओं का एक जाल होता है। इन्हें __________ कहा जाता है।",
@@ -578,7 +605,8 @@
             "examName": "RRB Group D 6/10/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_respiration_38"
+            "id": "q_respiration_38",
+            "correct_option": 1
         },
         {
             "question": "हम बैठे या सोते समय भी श्वास क्यों लेते रहते हैं?",
@@ -608,7 +636,8 @@
             "examName": "RRB Group D 28 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_respiration_40"
+            "id": "q_respiration_40",
+            "correct_option": 2
         },
         {
             "question": "जैसे-जैसे वक्ष गयहा बड़ी होती जाती है, हवा फेफड़ों में _______ है और विस्तारित _______ को भरती है।",
@@ -653,7 +682,8 @@
             "examName": "RRB ALP CBT 1 17/02/2026 12:30 PM - 1:30 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_respiration_43"
+            "id": "q_respiration_43",
+            "correct_option": 3
         },
         {
             "question": "निम्न कथनों में से कौन-से गलत हैं? रिया में, एसिटिक एसिड को ऑक्सीजन का उपयोग करके तोड़ा जाता है।",
@@ -668,7 +698,8 @@
             "examName": "RRB Group D 17 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_44"
+            "id": "q_respiration_44",
+            "correct_option": 2
         },
         {
             "question": "प्रत्येक श्वसन चक्र के दौरान, जब वायु अंदर ली जाती है, और बाहर निकाली जाती है, तो फेफड़ों में हमेशा कुछ मात्रा में वायु होती ही है, ताकि ऑक्सीजन को अवशोषित करने और कार्बन डाइऑक्साइड को छोड़ने के लिए पयाप्त समय मिल सके। वायु की इस मात्रा को क्या कहा जाता है?",
@@ -698,7 +729,8 @@
             "examName": "RRB JE 27 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_respiration_46"
+            "id": "q_respiration_46",
+            "correct_option": 2
         },
         {
             "question": "पाइरूवेट कोशिका के __________ में ग्लूकोज से बनता है। रिया",
@@ -713,7 +745,8 @@
             "examName": "RRB Group D 24 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_respiration_47"
+            "id": "q_respiration_47",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस प्रक्रिया में पाइरुवेट (Pyruvate) का इथेनॉल और कार्बन डाइऑक्साइड में रूपांतरण होता है?",
@@ -728,7 +761,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_48"
+            "id": "q_respiration_48",
+            "correct_option": 2
         },
         {
             "question": "आरंभ में पहले चरण में वायवीय (Aerobic) और अवायवीय (Aerobic) (Anaerobic) श्वसन के दौरान उत्पन्न होने वाला सामान्य उत्पाद निम्नलिखित में से कौन-सा है?",
@@ -743,7 +777,8 @@
             "examName": "RRB Group D 23 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_49"
+            "id": "q_respiration_49",
+            "correct_option": 1
         },
         {
             "question": "मानव कोशिकाओं में ऊर्जा प्रदान करने के लिए ग्लूकोज के टूटने के लिए निम्नलिखित में से क्या आवश्यक है?",
@@ -758,7 +793,8 @@
             "examName": "RRB Group D 16 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_50"
+            "id": "q_respiration_50",
+            "correct_option": 3
         },
         {
             "question": "फेफड़ों में उपस्थित गुब्बारे जैसी संरचना, जहाँ गैस विनिमय होता है, क्या कहलाता हैं?",
@@ -773,7 +809,8 @@
             "examName": "RRB Group D 5 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_51"
+            "id": "q_respiration_51",
+            "correct_option": 1
         },
         {
             "question": "राइबोसोम खुरदरी अन्तर्द्रव्यी जालिका की सतह पर चिपके रहते हैं। खुरदरी अन्तर्द्रव्यी जालिका का प्राथमिक काय क्या है?",
@@ -788,7 +825,8 @@
             "examName": "RRB JE 19/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_respiration_52"
+            "id": "q_respiration_52",
+            "correct_option": 3
         },
         {
             "question": "________ प्रक्रिया के दौरान, ऊष्मीय ऊर्जा का निर्माण होता है।",
@@ -803,7 +841,8 @@
             "examName": "RRB Group D 27 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_respiration_53"
+            "id": "q_respiration_53",
+            "correct_option": 3
         },
         {
             "question": "वायुवीय श्वसन के संदर्भ में निम्नलिखित में से कौन सा कथन सही है? रिया में, पाइरूवेट का एक अणु तीन कार्बन डाइऑक्साइड अणुओं में खंडित हो जाता है।",
@@ -818,7 +857,8 @@
             "examName": "RRB Group D 12 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_54"
+            "id": "q_respiration_54",
+            "correct_option": 2
         },
         {
             "question": "प्रकाश संश्लेषण के बिना, ______ का निष्कासन रात में मुख्य विनिमय गतिविधि होती है।",
@@ -833,7 +873,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_respiration_55"
+            "id": "q_respiration_55",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा यह सुनिश्चित करता है कि श्वसन के दौरान वायमेंाग का संकुचन नहीं होता है?",
@@ -848,7 +889,8 @@
             "examName": "RRB Group D 27 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_56"
+            "id": "q_respiration_56",
+            "correct_option": 2
         },
         {
             "question": "मानव ध्वनियों का उत्पादन ________ में कंपन के कारण होता है।",
@@ -863,7 +905,8 @@
             "examName": "RPF Constable 2018 22 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_respiration_57"
+            "id": "q_respiration_57",
+            "correct_option": 1
         },
         {
             "question": "जलीय जीवों की श्वसन दर स्थलीय जीवों की तुलना में बहुत अधिक क्यों होती है?",
@@ -923,7 +966,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 25/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_respiration_61"
+            "id": "q_respiration_61",
+            "correct_option": 1
         },
         {
             "question": "कीट किसके द्वारा सांस लेते हैं?",
@@ -938,7 +982,8 @@
             "examName": "RRB NTPC CBT-I : 4 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_respiration_62"
+            "id": "q_respiration_62",
+            "correct_option": 2
         },
         {
             "question": "कौन-सा श्वसन जीव अधिक ऊर्जा प्रदान करता है?",
@@ -968,7 +1013,8 @@
             "examName": "RRB JE 23 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_respiration_64"
+            "id": "q_respiration_64",
+            "correct_option": 2
         },
         {
             "question": "स्थलीय जानवरों में गैसों का आदान-प्रदान विसरण द्वारा होता है। इन जानवरों में श्वसन के बारे में निम्नलिखित में से कौन से कथन सत्य हैं? a. अपनी सतह के माध्यम से विसरण b. उनके पास गैसों के आदान-प्रदान को सक्षम करने वाली कोमल और नाजेक सतह होती है c. उनके पास हवा के प्रवाह के लिए माग हो सकते हैं d. उनके पास कम सतह क्षेत्र लेकिन श्वसन के लिए भारी रक्त प्रवाह होता है",
@@ -976,14 +1022,15 @@
                 "c और d",
                 "और d",
                 "और b",
-                "b और c"
+                "a, b और c"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: a, b और c\n\n📝 व्याख्या:\nस्थलीय जानवरों में श्वसन प्रक्रिया के लिए गैसों का आदान-प्रदान विसरण (Diffusion) द्वारा होता है। चूँकि विसरण एक धीमी प्रक्रिया है, इसलिए इन जीवों में गैसों के कुशल आदान-प्रदान के लिए कोमल और नाजेक सतहें (जैसे फेफड़ों के एल्वियोली) होती हैं। इन सतहों तक हवा पहुँचाने के लिए विशेष मार्ग (जैसे श्वास नली या ब्रोंकाई) होते हैं, जो यह सुनिश्चित करते हैं कि ऑक्सीजन शरीर के अंदर तक पहुँच सके। विसरण की दर सतह के क्षेत्रफल पर निर्भर करती है, इसलिए श्वसन अंगों का सतह क्षेत्र अधिक होना अनिवार्य है, न कि कम।\n\n🔬 वैज्ञानिक सिद्धांत व समीकरण:\nयह प्रक्रिया 'फिक्स का विसरण नियम' (Fick's Law of Diffusion) पर आधारित है, जो बताता है कि विसरण की दर (Rate of Diffusion) सतह के क्षेत्रफल (A) और सांद्रता प्रवणता (Concentration Gradient) के समानुपाती होती है, जबकि झिल्ली की मोटाई (T) के व्युत्क्रमानुपाती होती है।\nसमीकरण: J = -D (dC/dx)\nजहाँ J विसरण फ्लक्स है, D विसरण गुणांक है, और dC/dx सांद्रता प्रवणता है। श्वसन के दौरान ऑक्सीजन का हीमोग्लोबिन के साथ जुड़ना:\nHb + 4O₂ ⇌ Hb (O₂)₄ (ऑक्सीहीमोग्लोबिन)\n\n❌ गलत विकल्प विश्लेषण:\n• a, c और d: यह विकल्प गलत है क्योंकि कथन 'd' में कहा गया है कि सतह क्षेत्र कम होता है, जो वैज्ञानिक रूप से गलत है। श्वसन अंगों का सतह क्षेत्र (Surface Area) हमेशा अधिक होना चाहिए ताकि गैसों का आदान-प्रदान तेजी से हो सके।\n• a और d: यह विकल्प गलत है क्योंकि इसमें 'b' और 'c' जैसे महत्वपूर्ण सत्य कथनों को छोड़ दिया गया है और 'd' को शामिल किया गया है जो कि गलत है।\n• a और b: यह विकल्प अधूरा है क्योंकि इसमें 'c' (हवा के प्रवाह के लिए मार्ग) को शामिल नहीं किया गया है, जो स्थलीय श्वसन प्रणाली का एक अनिवार्य हिस्सा है।\n\n💡 परीक्षा Tip:\nRRB परीक्षाओं में अक्सर पूछा जाता है कि मानव फेफड़ों में गैसों का आदान-प्रदान कहाँ होता है? इसका सही उत्तर 'एल्वियोली' (Alveoli) है। याद रखें, एल्वियोली की दीवारें बहुत पतली और रक्त वाहिकाओं से घिरी होती हैं, जो विसरण की प्रक्रिया को अधिकतम करने के लिए 'अधिक सतह क्षेत्र' प्रदान करती हैं।",
             "examName": "RRB Group D 14 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_65"
+            "id": "q_respiration_65",
+            "correct_option": 3
         },
         {
             "question": "जीव विज्ञान में निम्नलिखित में से कौन कोशिकाओं की क्रियाओं के लिए ऊर्जा का प्रचलन करता है?",
@@ -998,7 +1045,8 @@
             "examName": "RRB Group D 15/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_respiration_66"
+            "id": "q_respiration_66",
+            "correct_option": 3
         },
         {
             "question": "वायवीय (Aerobic) श्वसन के लिए _______ की उपस्थिति की आवश्यकता होती है।",
@@ -1013,12 +1061,13 @@
             "examName": "RRB Group D 30 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_respiration_67"
+            "id": "q_respiration_67",
+            "correct_option": 2
         },
         {
             "question": "नीचे दिया गया चित्र मनुष्यों में श्वसन तंत्र का एक भाग दर्शाता है। कौन सा विकल्प 'A' और 'B' की सही लेबलिंग और 'B' के फलन को दर्शाता है?",
             "options": [
-                "- श्वसनिका, b - गर्तिका (गैसों का आदान-प्रदान)",
+                "a - श्वसनिका, b - गर्तिका (गैसों का आदान-प्रदान)",
                 "- श्वसनिका, b - श्वासनलियाँ (गैसों का आदान-प्रदान)",
                 "- श्वासनलियाँ, b - गर्तिका (गैसों का आदान-प्रदान)",
                 "- श्वासनलियाँ, b - श्वसनिका (गैसों का आदान-प्रदान)"
@@ -1043,7 +1092,8 @@
             "examName": "RRB Group D 30 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_69"
+            "id": "q_respiration_69",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी जीवन प्रक्रिया, ऑक्सीजन की अनुपस्थिति में ग्लूकोज के विघटन का कारण बनती है?",
@@ -1058,7 +1108,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_respiration_70"
+            "id": "q_respiration_70",
+            "correct_option": 2
         },
         {
             "question": "प्रकाश संश्लेषण के दौरान अकार्बनिक CO 2 को कार्बनिक रूप (शकरा) में स्थिरीकरण की प्रक्रिया निम्नलिखित में से किस चरण में की जाती है?",
@@ -1088,7 +1139,8 @@
             "examName": "RPF Constable 2018 12 Feb 2019 shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_respiration_72"
+            "id": "q_respiration_72",
+            "correct_option": 1
         },
         {
             "question": "अंत:श्वसन के दौरान, फेफड़े ________ के कारण हवा से भर जाते हैं।",
@@ -1103,7 +1155,8 @@
             "examName": "RRB Group D 31/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_respiration_73"
+            "id": "q_respiration_73",
+            "correct_option": 2
         },
         {
             "question": "_____________ छोटे गुब्बारे के आकार की संरचनाएं हैं और श्वसन तंत्र में इनका माग सबसे कम होता है।",
@@ -1118,7 +1171,8 @@
             "examName": "RPF Constable 2018 08 Feb 2019 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_respiration_74"
+            "id": "q_respiration_74",
+            "correct_option": 2
         },
         {
             "question": "क्लोरेला जैसी कई एककोशिकीय शैवाल जल में रहते हैं। वे श्वसन के लिए ऑक्सीजन कैसे ग्रहण करते हैं?",
@@ -1133,7 +1187,8 @@
             "examName": "RRB Group D 27 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_75"
+            "id": "q_respiration_75",
+            "correct_option": 1
         },
         {
             "question": "तंत्रिका तंत्र के अलावा, हमारे शरीर में नियंत्रण और समन्वय में कौन सा अन्य तंत्र मदद करता है?",
@@ -1148,7 +1203,8 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_respiration_76"
+            "id": "q_respiration_76",
+            "correct_option": 1
         },
         {
             "question": "______ हमारे शरीर की कोशिकाओं में उपस्थित O₂ के साथ संयोजित होकर ऊर्जा प्रदान करता है।",
@@ -1163,7 +1219,8 @@
             "examName": "RRB Group D 15/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_respiration_77"
+            "id": "q_respiration_77",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा जीवित होने का एक सामान्य प्रमाण है?",
@@ -1178,7 +1235,8 @@
             "examName": "RRB Group D 29 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_78"
+            "id": "q_respiration_78",
+            "correct_option": 3
         },
         {
             "question": "पादप जड़ कोशिकाओं को भी ऊर्जा उत्पन्न करने के लिए ऑक्सीजन की आवश्यकता होती है। अत:, जड़ें _______ से वायु ग्रहण करती हैं।",
@@ -1193,7 +1251,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_respiration_79"
+            "id": "q_respiration_79",
+            "correct_option": 2
         },
         {
             "question": "O₂ का उपयोग करके पाइरूवेट का टूटना _______ में होता है।",
@@ -1208,7 +1267,8 @@
             "examName": "RRB Group D 18/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_respiration_80"
+            "id": "q_respiration_80",
+            "correct_option": 3
         },
         {
             "question": "कोशिका के किस कोशिकांग में कोशिकीय श्वसन का पहला चरण होता है, जिसमें ग्लूकोज, एक छह-कार्बन अणु, का तीन-कार्बन अणु पाइरुवेट (Pyruvate) में टूटना होता है?",
@@ -1253,7 +1313,8 @@
             "examName": "RRB Group D 2 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_83"
+            "id": "q_respiration_83",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से क्या हमारी पेशियों में ऐंठन का कारण बन सकता है?",
@@ -1268,7 +1329,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_respiration_84"
+            "id": "q_respiration_84",
+            "correct_option": 1
         },
         {
             "question": "अस्थमा मुख्यत: श्वसन तंत्र के किस भाग को प्रभावित करता है?",
@@ -1283,7 +1345,8 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_respiration_85"
+            "id": "q_respiration_85",
+            "correct_option": 1
         },
         {
             "question": "ऑक्सीजन का उपयोग करके पाइरुवेट (Pyruvate) का टूटना कहाँ होता है? रिया 2 2 2",
@@ -1321,14 +1384,15 @@
                 "अल्प आयतन",
                 "अवशिष्ट आयतन",
                 "जीवद आयतन",
-                "श्वसन आयतन"
+                "श्वसन आयतन (Tidal Volume)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: श्वसन आयतन (Tidal Volume)\n\n📝 व्याख्या:\nसामान्य श्वसन प्रक्रिया के दौरान, प्रत्येक सांस के साथ फेफड़ों के अंदर जाने वाली और बाहर निकलने वाली वायु की मात्रा को 'श्वसन आयतन' (Tidal Volume - TV) कहा जाता है। एक स्वस्थ वयस्क मनुष्य में, यह मात्रा सामान्यतः लगभग 500 मिलीलीटर (ml) होती है। इसका अर्थ है कि एक व्यक्ति एक मिनट में लगभग 6000 से 8000 मिलीलीटर वायु अंदर ले सकता है या बाहर निकाल सकता है।\n\n🔬 वैज्ञानिक सिद्धांत व समीकरण:\nश्वसन आयतन फेफड़ों की कार्यक्षमता का एक महत्वपूर्ण पैरामीटर है। इसे स्पाइरोमीटर (Spirometer) नामक उपकरण द्वारा मापा जाता है।\nसमीकरण:\nश्वसन दर (Respiratory Rate) × श्वसन आयतन (Tidal Volume) = मिनट वेंटिलेशन (Minute Ventilation)\nसामान्यतः: 12-16 सांस प्रति मिनट × 500 ml = 6000-8000 ml/min.\n\n❌ गलत विकल्प विश्लेषण:\n• अल्प आयतन (Inspiratory Reserve Volume - IRV): यह वह अतिरिक्त वायु की मात्रा है जिसे एक व्यक्ति बलपूर्वक अंतःश्वसन (Inhalation) द्वारा अंदर ले सकता है। यह सामान्य श्वसन आयतन से अलग है।\n• अवशिष्ट आयतन (Residual Volume - RV): यह बलपूर्वक उच्छ्वसन (Exhalation) के बाद भी फेफड़ों में बची रहने वाली वायु की मात्रा है। यह कभी भी फेफड़ों से बाहर नहीं निकलती, इसलिए यह सामान्य श्वसन का हिस्सा नहीं है।\n• जीवद आयतन (Vital Capacity - VC): यह वह अधिकतम वायु की मात्रा है जिसे एक व्यक्ति बलपूर्वक अंतःश्वसन के बाद बलपूर्वक बाहर निकाल सकता है। इसमें श्वसन आयतन, IRV और ERV तीनों शामिल होते हैं।\n\n💡 परीक्षा Tip:\nRRB परीक्षाओं में अक्सर पूछा जाता है कि 'अवशिष्ट आयतन' (Residual Volume) का क्या महत्व है? याद रखें, यह फेफड़ों को पिचकने (Collapse) से बचाता है और गैसों के निरंतर विनिमय के लिए आवश्यक समय प्रदान करता है। इसका मान लगभग 1100-1200 ml होता है।",
             "examName": "RRB JE 25 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_respiration_88"
+            "id": "q_respiration_88",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किसकी श्वास दर सबसे तेज़ है?",
@@ -1358,7 +1422,8 @@
             "examName": "RRB JE CE 29 Aug 2019 Shift 2 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_respiration_90"
+            "id": "q_respiration_90",
+            "correct_option": 1
         }
     ]
 }

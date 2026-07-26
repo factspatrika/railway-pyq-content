@@ -16,7 +16,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heredity_and_evolution_1"
+            "id": "q_heredity_and_evolution_1",
+            "correct_option": 1
         },
         {
             "question": "मटर का निम्नलिखित में से कौन-सा लक्षण एक प्रभावी विशेषक था, जिसका उपयोग मेंडल द्वारा अपने प्रयोगों में किया गया था?",
@@ -31,7 +32,8 @@
             "examName": "RRB Level 01 Stage I 17/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heredity_and_evolution_2"
+            "id": "q_heredity_and_evolution_2",
+            "correct_option": 1
         },
         {
             "question": "मेंडल ने किस आधार पर युग्मकों की शुद्धता का नियम दिया था?",
@@ -46,7 +48,8 @@
             "examName": "RRB Group D 30/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heredity_and_evolution_3"
+            "id": "q_heredity_and_evolution_3",
+            "correct_option": 3
         },
         {
             "question": "मेंडल के प्रयोगों में दो लक्षणों के बीच द्विसंकर क्रॉस के परिणामस्वरूप अनुपात क्या था?",
@@ -106,7 +109,8 @@
             "examName": "RRB Group D 11/10/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_heredity_and_evolution_7"
+            "id": "q_heredity_and_evolution_7",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प मेंडल के प्रयोग में F₁ पीढ़ी में अप्रभावी लक्षणों की अनुपस्थिति और F₂ पीढ़ी में उनकी पुनः उपस्थिति की व्याख्या करता है? जाते हैं।",
@@ -121,7 +125,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heredity_and_evolution_8"
+            "id": "q_heredity_and_evolution_8",
+            "correct_option": 1
         },
         {
             "question": "आनुवंशिकता का नियम किसने दिया?",
@@ -136,7 +141,8 @@
             "examName": "RRB Group D 2 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_heredity_and_evolution_9"
+            "id": "q_heredity_and_evolution_9",
+            "correct_option": 2
         },
         {
             "question": "नीचे दी गई छवि दो पौधों के बीच F₂ पीढ़ी तक के संकरण को दर्शाती है। इस संकरण से निकाले जा सकने वाले कुछ निष्कष नीचे दिए गए हैं। कौन सा विकल्प गलत निष्कष देता है?",
@@ -151,7 +157,8 @@
             "examName": "RRB Group D 8 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_heredity_and_evolution_10"
+            "id": "q_heredity_and_evolution_10",
+            "correct_option": 1
         },
         {
             "question": "सरल अकार्बनिक पदार्थों से जीवन की उत्पत्ति का सुझाव किसने दिया था?",
@@ -166,7 +173,8 @@
             "examName": "RRB Group D 1 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_heredity_and_evolution_11"
+            "id": "q_heredity_and_evolution_11",
+            "correct_option": 3
         },
         {
             "question": "मानव विकास में सबसे हाल में खोजी गई कड़ी किस जीवाश्म का अवशेष है?",
@@ -181,7 +189,8 @@
             "examName": "RRB NTPC Tier I : 22 Apr 2016 Shift 2",
             "examYear": "2016",
             "type": "standard",
-            "id": "q_heredity_and_evolution_12"
+            "id": "q_heredity_and_evolution_12",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी संकरण क्रॉसिंग (hybridisation crossing) फसल किस्मों में सुधार के लिए उपयोग नहीं की जाती है?",
@@ -196,7 +205,8 @@
             "examName": "RRB ALP CBT 1 18/02/2026 9:00 AM - 10:00 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heredity_and_evolution_13"
+            "id": "q_heredity_and_evolution_13",
+            "correct_option": 1
         },
         {
             "question": "मानव आनुवंशिकी का पता _______ से लगाया जा सकता है।",
@@ -241,7 +251,8 @@
             "examName": "RRB Group D 7/10/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_heredity_and_evolution_16"
+            "id": "q_heredity_and_evolution_16",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा अणु संतति द्वारा किसी विशेषक की वंशागति को नियंत्रित करता है?",
@@ -256,7 +267,8 @@
             "examName": "RRB Group D 2 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_heredity_and_evolution_17"
+            "id": "q_heredity_and_evolution_17",
+            "correct_option": 1
         },
         {
             "question": "संतति कोशिका में गुणसूत्रों की संख्या किस प्रक्रिया द्वारा आधी हो जाती है?",
@@ -271,7 +283,8 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heredity_and_evolution_18"
+            "id": "q_heredity_and_evolution_18",
+            "correct_option": 1
         },
         {
             "question": "मनुष्यों में लिंग निधारण का एक प्रवाह चाट नीचे दिखाया गया है। इससे जो निष्कष निकाले जा सकते हैं उनका उल्लेख विकल्पों में किया गया है। गलत विकल्प का चयन करें।",
@@ -286,7 +299,8 @@
             "examName": "RRB Group D 26 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_heredity_and_evolution_19"
+            "id": "q_heredity_and_evolution_19",
+            "correct_option": 3
         },
         {
             "question": "मेंडल द्वारा अध्ययन किए गए पात्रों के विपरीत जोड़ों में से एक _______ था।",
@@ -301,7 +315,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_20"
+            "id": "q_heredity_and_evolution_20",
+            "correct_option": 1
         },
         {
             "question": "मेंडल ने अपने प्रयोगों के लिए किस पौधे का उपयोग किया था?",
@@ -331,7 +346,8 @@
             "examName": "RRB Group D 9/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_22"
+            "id": "q_heredity_and_evolution_22",
+            "correct_option": 1
         },
         {
             "question": "‘ होमो सेपियन्स’ शब्द किसने दिया?",
@@ -346,7 +362,8 @@
             "examName": "RRB NTPC CBT-I : 21 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_heredity_and_evolution_23"
+            "id": "q_heredity_and_evolution_23",
+            "correct_option": 3
         },
         {
             "question": "आज हम जिस वैज्ञानिक नामकरण या जीवों के नामकरण की प्रणाली का उपयोग करते हैं, उसे निम्नलिखित में से किस वैज्ञानिक ने प्रस्तुत किया था?",
@@ -361,7 +378,8 @@
             "examName": "RRB NTPC CBT-I : 15 Mar 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_heredity_and_evolution_24"
+            "id": "q_heredity_and_evolution_24",
+            "correct_option": 1
         },
         {
             "question": "आनुवंशिकी में मेंडल का क्या योगदान था?",
@@ -376,7 +394,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heredity_and_evolution_25"
+            "id": "q_heredity_and_evolution_25",
+            "correct_option": 1
         },
         {
             "question": "एक आनुवंशिक प्रयोगशाला में, एक निषेचित मानव भ्रूण में XX गुणसूत्र पाए जाते हैं। निम्नलिखित में से कौन-सा कथन सत्य है?",
@@ -406,7 +425,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_27"
+            "id": "q_heredity_and_evolution_27",
+            "correct_option": 1
         },
         {
             "question": "आनुवंशिकी के संदर्भ में, वंशावली विश्लेषण का प्राथमिक उद्देश्य क्या है?",
@@ -421,7 +441,8 @@
             "examName": "RPF SI CBT-I 2024 : 12 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heredity_and_evolution_28"
+            "id": "q_heredity_and_evolution_28",
+            "correct_option": 2
         },
         {
             "question": "' द ओरिजिन ऑफ़ स्पीशीज़' किसके द्वारा लिखी गई थी?",
@@ -436,7 +457,8 @@
             "examName": "RRB NTPC CBT-I : 5 April 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_heredity_and_evolution_29"
+            "id": "q_heredity_and_evolution_29",
+            "correct_option": 3
         },
         {
             "question": "मेंडल द्वारा अपने प्रयोगों को संचालित करने के तरीके के आधार पर नीचे दिए गए कथनों में से सही कथन की पहचान कीजिए।",
@@ -451,7 +473,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_heredity_and_evolution_30"
+            "id": "q_heredity_and_evolution_30",
+            "correct_option": 1
         },
         {
             "question": "प्रत्येक बच्चे को उसकी माता से एक X गुणसूत्र प्राप्त होता है। कौन-सा तक इस जैविक निश्चितता की सर्वोत्तम व्याख्या करता है?",
@@ -466,7 +489,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_heredity_and_evolution_31"
+            "id": "q_heredity_and_evolution_31",
+            "correct_option": 3
         },
         {
             "question": "मेंडल ने कुछ अनुकूल कारणों से मटर का चयन किया था। निम्नलिखित में से कौन सा कारण उनके प्रयोगों के लिए आवश्यक चयन का कारण नहीं है?",
@@ -481,7 +505,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heredity_and_evolution_32"
+            "id": "q_heredity_and_evolution_32",
+            "correct_option": 3
         },
         {
             "question": "जीवित जीवों के वर्गीकरण की मूल इकाई क्या कहलाती है?",
@@ -496,7 +521,8 @@
             "examName": "RRB NTPC CBT-I : 21 Mar 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_heredity_and_evolution_33"
+            "id": "q_heredity_and_evolution_33",
+            "correct_option": 3
         },
         {
             "question": "दिए गए अभिकथन (A) और कारण (R) को पढ़िए और सबसे उपयुक्त विकल्प का चयन कीजिए। एक महिला में सामान्य अंडोत्सग और निषेचन होता है, लेकिन रोपण विफल होने के कारण युग्मनज, गभाशय भित्ति से जुड़े बिना ही निष्कासित हो जाता है। (R): रोपण वह प्रक्रिया है जिसके द्वारा कोरकपुटी (blastocyst), सगभता स्थापित करने के लिए गभाशय अंतःस्तर (endometrium) में अंतःस्थापित हो जाता है।",
@@ -511,7 +537,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heredity_and_evolution_34"
+            "id": "q_heredity_and_evolution_34",
+            "correct_option": 3
         },
         {
             "question": "एक बच्चा माता से एक X गुणसूत्र और पिता से एक Y गुणसूत्र लेकर जन्म लेता है। कौन-सा कथन इस गुणसूत्र संयोजन के परिणाम का सटीक वर्णन करता है?",
@@ -560,7 +587,8 @@
             "examName": "RRB Level 01 Stage I 06/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heredity_and_evolution_37"
+            "id": "q_heredity_and_evolution_37",
+            "correct_option": 2
         },
         {
             "question": "यदि मेंडल ने F₂ पीढ़ी का अध्ययन नहीं किया होता, तो क्या होता?",
@@ -575,7 +603,8 @@
             "examName": "RRB Group D 11/10/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_heredity_and_evolution_38"
+            "id": "q_heredity_and_evolution_38",
+            "correct_option": 3
         },
         {
             "question": "कुत्ते में गुणसूत्र की संख्या कितनी होती है?",
@@ -590,7 +619,8 @@
             "examName": "RPF Constable 2018 19 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heredity_and_evolution_39"
+            "id": "q_heredity_and_evolution_39",
+            "correct_option": 3
         },
         {
             "question": "________ विकासवादी संबंधों का प्रमाण देते हैं।",
@@ -605,7 +635,8 @@
             "examName": "RRB Group D 4/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_40"
+            "id": "q_heredity_and_evolution_40",
+            "correct_option": 3
         },
         {
             "question": "मेंडल ने मटर के पौधों को चुना क्योंकि ________I",
@@ -620,7 +651,8 @@
             "examName": "RRB Group D 2 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_41"
+            "id": "q_heredity_and_evolution_41",
+            "correct_option": 3
         },
         {
             "question": "उन्नीसवीं शताब्दी में, ______ प्राकृतिक वरण द्वारा प्रजातियों के विकास के विचार के साथ आया था।",
@@ -635,7 +667,8 @@
             "examName": "RRB Group D 15/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_42"
+            "id": "q_heredity_and_evolution_42",
+            "correct_option": 3
         },
         {
             "question": "डाई हाइब्रिड (संकर) क्रॉस में विपरीत लक्षणों की ________ जोड़ी पायी जाती है। विपरीत लक्षण से उत्पन्न जोड़े स्वतंत्र रूप से व्यवहार करते हैं, एक जोड़ा स्वतंत्र रूप से वर्गीकरण करता है-",
@@ -650,12 +683,13 @@
             "examName": "RRB Group D 10/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_43"
+            "id": "q_heredity_and_evolution_43",
+            "correct_option": 2
         },
         {
             "question": "F₂ पीढ़ी में लक्षण प्ररूपी अनुपात ________ होता है।",
             "options": [
-                "1 : 2 : 3",
+                "9 : 3 : 1",
                 "9 : 3 : 3 : 1",
                 "1 : 3 : 3 : 9",
                 "1 : 2 : 5"
@@ -680,7 +714,8 @@
             "examName": "RRB Group D 17 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heredity_and_evolution_45"
+            "id": "q_heredity_and_evolution_45",
+            "correct_option": 3
         },
         {
             "question": "स्थायी परिस्थितियों में वधमान स्वीट पी (sweet pea) पादपों की बृहत्आबादी में, निम्नलिखित में से कौन-सा सर्वोत्तम तरीके से यह वर्णन करता है कि लैंगिक जनन के माध्यम से आनुवंशिक विविधता अब तक उनके दीर्घकालिक अतिजीविता के लिए क्यों महत्वपूर्ण है? करती है। कर सकते हैं। जिससे अधिक बायोमास उत्पादन सुनिश्चित होता है। वंशक्रम की शुद्धता बनी रहती है।",
@@ -695,7 +730,8 @@
             "examName": "RRB Level 01 Stage I 06/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heredity_and_evolution_46"
+            "id": "q_heredity_and_evolution_46",
+            "correct_option": 1
         },
         {
             "question": "स्थायी वातावरण में अलैंगिक जनन से क्या लाभ मिलता है?",
@@ -710,7 +746,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heredity_and_evolution_47"
+            "id": "q_heredity_and_evolution_47",
+            "correct_option": 2
         },
         {
             "question": "किसी प्रजाति के भीतर विविधता क्या सुनिश्चित करती है?",
@@ -740,7 +777,8 @@
             "examName": "RRB Group D 29/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heredity_and_evolution_49"
+            "id": "q_heredity_and_evolution_49",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा कार्य समय के साथ प्रजातियों के अस्तित्व के लिए उत्तरदायी है?",
@@ -755,7 +793,8 @@
             "examName": "RRB ALP CBT-I 2024 : 28 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heredity_and_evolution_50"
+            "id": "q_heredity_and_evolution_50",
+            "correct_option": 1
         },
         {
             "question": "यौवनारंभ में होने वाले परिवर्तन का एक उदाहरण बताइए जो यौन परिपक्वता का संकेत दे सकता है।",
@@ -770,7 +809,8 @@
             "examName": "RRB ALP CBT-I 2024 : 27 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heredity_and_evolution_51"
+            "id": "q_heredity_and_evolution_51",
+            "correct_option": 2
         },
         {
             "question": "बगीचे के मटर के पौधों में _______ गुण अप्रभावी होता है।",
@@ -785,7 +825,8 @@
             "examName": "RRB Group D 8/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_52"
+            "id": "q_heredity_and_evolution_52",
+            "correct_option": 2
         },
         {
             "question": "पौधों की जड़ों के आकार के लिए कौन सा ऊतक जिम्मेदार होता है?",
@@ -815,7 +856,8 @@
             "examName": "RRB Group D 27 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_54"
+            "id": "q_heredity_and_evolution_54",
+            "correct_option": 2
         },
         {
             "question": "________ समवृत्ति अंग हैं।",
@@ -845,7 +887,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heredity_and_evolution_56"
+            "id": "q_heredity_and_evolution_56",
+            "correct_option": 1
         },
         {
             "question": "पादप और जंतु जगत के संदर्भ में, कीमो-वर्गीकरण मुख्य रूप से किस पर केंद्रित है? रियल DNA में आनुवंशिक क्रमों की जांच।",
@@ -860,7 +903,8 @@
             "examName": "RPF SI CBT-I 2024 : 12 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heredity_and_evolution_57"
+            "id": "q_heredity_and_evolution_57",
+            "correct_option": 1
         },
         {
             "question": "पेनिसिलिन की खोज किसने की?",
@@ -875,7 +919,8 @@
             "examName": "RRB NTPC CBT-I : 10 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_heredity_and_evolution_58"
+            "id": "q_heredity_and_evolution_58",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा क्रॉस, F₁ पीढ़ी में सभी विषमयुग्मजी संतानें उत्पन्न करेगा?",
@@ -890,7 +935,8 @@
             "examName": "RRB Level 01 Stage I 09/01/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heredity_and_evolution_59"
+            "id": "q_heredity_and_evolution_59",
+            "correct_option": 2
         },
         {
             "question": "मेंडेल के नियम केवल तभी लागू होते हैं जबः",
@@ -920,7 +966,8 @@
             "examName": "RRB Group D 19 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_61"
+            "id": "q_heredity_and_evolution_61",
+            "correct_option": 1
         },
         {
             "question": "आनुवंशिकी के जनक कौन हैं? I",
@@ -935,7 +982,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_heredity_and_evolution_62"
+            "id": "q_heredity_and_evolution_62",
+            "correct_option": 1
         },
         {
             "question": "घर्षण के कारण एक दूसरे के संपर्क में आने वाली दो सतहों की सापेक्ष गति ________ है।",
@@ -950,7 +998,8 @@
             "examName": "RPF Constable 2018 17 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_63"
+            "id": "q_heredity_and_evolution_63",
+            "correct_option": 3
         },
         {
             "question": "बच्चों का लिंग ________ से प्राप्त होने वाले आनुवंशिक गुणसूत्र द्वारा निर्धारित होता है।",
@@ -980,7 +1029,8 @@
             "examName": "RRB NTPC CBT-I : 11 Mar 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_heredity_and_evolution_65"
+            "id": "q_heredity_and_evolution_65",
+            "correct_option": 2
         },
         {
             "question": "आनुवंशिकता को प्रभावित करने वाले कारकों के बारे में मेंडल ने क्या खोज की? परिभाषित करता है।",
@@ -995,7 +1045,8 @@
             "examName": "RRB Group D 5 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_heredity_and_evolution_66"
+            "id": "q_heredity_and_evolution_66",
+            "correct_option": 3
         },
         {
             "question": "मेन्डेल (Mendel) ने अपने एकसंकर संकरण (monohybrid cross) से कौन-सा नियम व्युत्पन्न किया?",
@@ -1010,7 +1061,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heredity_and_evolution_67"
+            "id": "q_heredity_and_evolution_67",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा कारक मुख्य रूप से प्रजातियों के अस्तित्व के लिए जिम्मेदार है?",
@@ -1040,7 +1092,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heredity_and_evolution_69"
+            "id": "q_heredity_and_evolution_69",
+            "correct_option": 2
         },
         {
             "question": "जीवित जीवों के वर्गीकरण की मूल इकाई कौन सी है?",
@@ -1085,7 +1138,8 @@
             "examName": "RPF SI CBT-I 2024 : 09 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heredity_and_evolution_72"
+            "id": "q_heredity_and_evolution_72",
+            "correct_option": 3
         },
         {
             "question": "वंशानेक्रम के नियम किस वैज्ञानिक ने स्थापित किए?",
@@ -1100,7 +1154,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heredity_and_evolution_73"
+            "id": "q_heredity_and_evolution_73",
+            "correct_option": 1
         },
         {
             "question": "______ ने जीवित चीजों में विशेषताओं की वंशागति के सिद्धांतों में योगदान दिया।",
@@ -1130,7 +1185,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heredity_and_evolution_75"
+            "id": "q_heredity_and_evolution_75",
+            "correct_option": 2
         },
         {
             "question": "दिए गए कथन (A) और कारण (R) को पढ़ें और सबसे उपयुक्त विकल्प का चयन करें। मौखिक गर्भनिरोधक गोलियां गर्भनिरोधक की एक स्थायी विधि है। (R): वे हार्मोन के स्तर को बदलती हैं और अण्डोत्सग को रोकती हैं।",
@@ -1145,7 +1201,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heredity_and_evolution_76"
+            "id": "q_heredity_and_evolution_76",
+            "correct_option": 2
         },
         {
             "question": "प्रजनन के दौरान DNA प्रतियां बनाने का मुख्य उद्देश्य क्या है?",
@@ -1160,7 +1217,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heredity_and_evolution_77"
+            "id": "q_heredity_and_evolution_77",
+            "correct_option": 1
         },
         {
             "question": "वैज्ञानिकों के किस जोड़े ने सबसे पहले डीएनए की संरचना के लिए डबल-हेलिक्स मॉडल प्रस्तावित किया?",
@@ -1175,7 +1233,8 @@
             "examName": "RRB NTPC UG CBT-I : 04 Sept, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heredity_and_evolution_78"
+            "id": "q_heredity_and_evolution_78",
+            "correct_option": 2
         },
         {
             "question": "________ पैमाने और आकार में परिवर्तन की एक मात्रात्मक प्रक्रिया है, जिसे मापा जा सकता है और नैतिकता और मानदंडों द्वारा सहायता प्रदान की जा सकती है।",
@@ -1190,7 +1249,8 @@
             "examName": "RPF SI CBT-I 2024 : 03 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_79"
+            "id": "q_heredity_and_evolution_79",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सी विशेषता मटर के एक पौधे में अप्रभावी होती है?",
@@ -1205,7 +1265,8 @@
             "examName": "RRB Group D 9/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heredity_and_evolution_80"
+            "id": "q_heredity_and_evolution_80",
+            "correct_option": 1
         },
         {
             "question": "मटर के पौधों में बौनेपन के लिए't' जैसे अप्रभावी विशेषक (recessive traits) केवल तभी क्यों दिखाई देते हैं जब दोनों ऐलील (alleles) अप्रभावी होते हैं?",
@@ -1235,7 +1296,8 @@
             "examName": "RRB NTPC UG CBT-I : 28 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_82"
+            "id": "q_heredity_and_evolution_82",
+            "correct_option": 1
         },
         {
             "question": "मेंडल के प्रयोग में, जब उन्होंने एक लंबे (TT) और एक बौने मटर (tt) पौधे का संकरण किया तो F₁ पीढ़ी में उन्होंने क्या देखा?",
@@ -1250,7 +1312,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heredity_and_evolution_83"
+            "id": "q_heredity_and_evolution_83",
+            "correct_option": 2
         },
         {
             "question": "किसने सुझाव दिया था कि जीवन सरल अकार्बनिक (अजैविक) अणुओं से विकसित हुआ है?",
@@ -1265,7 +1328,8 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heredity_and_evolution_84"
+            "id": "q_heredity_and_evolution_84",
+            "correct_option": 2
         },
         {
             "question": "अपवर्तन के नियमों के अनुसार, निम्नलिखित में से कौन सा/से सत्य है/हैं? (A) आपतित किरण, अपवर्तित किरण और दो पारदर्शी माध्यमों के अंतरापृष्ठ के अभिलम्ब के लिए, आपतन कोण की ज्या के सापेक्ष अपवर्तन कोण की ज्या का अनुपात एक नियतांक होता है।",
@@ -1310,7 +1374,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heredity_and_evolution_87"
+            "id": "q_heredity_and_evolution_87",
+            "correct_option": 1
         },
         {
             "question": "गुणों की वंशानुगतता को नियंत्रित करने वाले नियमों की खोज में मेंडल के सफल होने का एक कारण था __________।",
@@ -1325,7 +1390,8 @@
             "examName": "RRB Group D 29 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_88"
+            "id": "q_heredity_and_evolution_88",
+            "correct_option": 1
         },
         {
             "question": "अभिकथन",
@@ -1344,7 +1410,8 @@
             "statements": [
                 "(A) और कारण (R) से चिह्नित निम्नलिखित दो कथनों के संबंध में सही विकल्प का चयन कीजिए।\n\n• अभि\n\n• कथन",
                 "(A): कैल्शियम ऑक्साइड जल के साथ तीव्र अभिक्रिया करके कैल्शियम हाइड्रॉक्साइड बनाता है।\n\n• कारण (R): संयोजन अभिक्रिया में, दो या दो से अधिक पदार्थ मिलकर एक उत्पाद बनाते हैं।"
-            ]
+            ],
+            "correct_option": 1
         },
         {
             "question": "जिन अंगों की अलग-अलग मूल संरचना (या अलग-अलग मूल डिज़ाइन) होती है, लेकिन उनका स्वरूप समान होता है और वे समान कार्य करते हैं, उन्हें क्या कहा जाता है?",
@@ -1359,7 +1426,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heredity_and_evolution_90"
+            "id": "q_heredity_and_evolution_90",
+            "correct_option": 2
         },
         {
             "question": "लैंगिक प्रजनन के बारे में निम्नलिखित में से कौन सा कथन गलत है?",
@@ -1374,7 +1442,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heredity_and_evolution_91"
+            "id": "q_heredity_and_evolution_91",
+            "correct_option": 2
         },
         {
             "question": "मनुष्यों में, बच्चे का लिंग कैसे निर्धारित होता है?",
@@ -1404,7 +1473,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heredity_and_evolution_93"
+            "id": "q_heredity_and_evolution_93",
+            "correct_option": 3
         },
         {
             "question": "नीचे दिए गए दो कथनों, जिन्हें अभिकथन",
@@ -1438,7 +1508,8 @@
             "examName": "RRB Level 01 Stage I 26/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heredity_and_evolution_95"
+            "id": "q_heredity_and_evolution_95",
+            "correct_option": 3
         },
         {
             "question": "उस प्रसिद्ध जीवविज्ञानी का नाम बताइए जिसके साथ गैलापागोस द्वीप समूह जुड़ा हुआ है।",
@@ -1453,7 +1524,8 @@
             "examName": "RRB NTPC CBT-I : 20 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_heredity_and_evolution_96"
+            "id": "q_heredity_and_evolution_96",
+            "correct_option": 3
         },
         {
             "question": "प्रत्येक जनन कोशिका प्रत्येक युग्में से एक गुणसूत्र लेती है और ये मातृ या पैतृक उत्पत्ति के हो सकते हैं। जब दो जनन कोशिकाएँ संयोजित होती हैं, तब वे संतति में गुणसूत्रों की सामान्य संख्या को पुनःस्थापित करती हैं, जिससे प्रजातियों के DNA की स्थिरता सुनिश्चित होती है। वंशागति के ऐसे कार्यतंत्र को _______________ में समझाया गया है।",
@@ -1468,7 +1540,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_97"
+            "id": "q_heredity_and_evolution_97",
+            "correct_option": 3
         },
         {
             "question": "________ से कुछ सरीसृपों में निषेचित अंडों का लिंग निर्धारित होता है।",
@@ -1483,7 +1556,8 @@
             "examName": "RRB Group D 23 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_98"
+            "id": "q_heredity_and_evolution_98",
+            "correct_option": 2
         },
         {
             "question": "आनुवंशिकी के संदर्भ में वंशावली विश्लेषण का प्राथमिक उद्देश्य क्या है?",
@@ -1513,7 +1587,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heredity_and_evolution_100"
+            "id": "q_heredity_and_evolution_100",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प कार्यिक प्रवर्धन द्वारा उत्पन्न संतति की प्रमुख विशेषता को संदर्भित करता है?",
@@ -1528,7 +1603,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heredity_and_evolution_101"
+            "id": "q_heredity_and_evolution_101",
+            "correct_option": 2
         },
         {
             "question": "जीवों के वैज्ञानिक नामकरण की प्रणाली किसके द्वारा शुरू की गई थी?",
@@ -1543,7 +1619,8 @@
             "examName": "RRB NTPC CBT-I : 5 April 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_heredity_and_evolution_102"
+            "id": "q_heredity_and_evolution_102",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-से युग्म संरचनात्मक समावयवों के रूप में सुमेलित हैं? A) पेंटेन − 2- मेथिलब्यूटेन B) ब्यूटेन − 2- मेथिलप्रोपेन C) बेंजीन − साइक्लोहुक्सीन",
@@ -1588,7 +1665,8 @@
             "examName": "RRB Group D 11/10/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_heredity_and_evolution_105"
+            "id": "q_heredity_and_evolution_105",
+            "correct_option": 2
         },
         {
             "question": "विकास का पहला मौलिक कारक है:",
@@ -1603,7 +1681,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heredity_and_evolution_106"
+            "id": "q_heredity_and_evolution_106",
+            "correct_option": 1
         },
         {
             "question": "' होमो सेपियन्स' शब्द किसने दिया?",
@@ -1618,7 +1697,8 @@
             "examName": "RRB NTPC CBT-I : 20 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_heredity_and_evolution_107"
+            "id": "q_heredity_and_evolution_107",
+            "correct_option": 1
         },
         {
             "question": "अमीबा में विखंडन (fission) की प्रक्रिया के परिणामस्वरूप ____________ का निर्माण होता है।",
@@ -1648,7 +1728,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heredity_and_evolution_109"
+            "id": "q_heredity_and_evolution_109",
+            "correct_option": 2
         },
         {
             "question": "_______ का विकास का सिद्धांत हमें बताता है कि कैसे जीवन सरल से अधिक जटिल रूपों में कैसे विकसित हुआ है।",
@@ -1693,7 +1774,8 @@
             "examName": "RRB Level 01 Stage I 08/01/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heredity_and_evolution_112"
+            "id": "q_heredity_and_evolution_112",
+            "correct_option": 2
         },
         {
             "question": "जब मटर के पौधे जिनमें दो अलग-अलग लक्षण (लंबा/बौना लक्षण और गोल बीज/ झुर्रीदार बीज लक्षण) हैं, केवल एक के बजाय एक-दूसरे के साथ प्रजनन करते हैं, तो क्या होता है? के साथ होते हैं। हैं।",
@@ -1728,7 +1810,8 @@
                 "a) गोल और झुर्रीदार बीज",
                 "b) लंबे और छोटे पौधे",
                 "c) सफेद और बैंगनी फूल उपरोक्त में से कौन-से मटर के पौधे में अप्रभावी विशेषल हैं?"
-            ]
+            ],
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित कथनों को ध्यानपूर्वक पढ़ें और सही विकल्प चुनें।\n\n• अभि\n\n• कथन (A): ऑक्सीजन के साथ कॉपर की अभिक्रिया में, ऑक्सीजन अपचायक के रूप में कार्य करता है।\n\n• कारण (R): ऑक्सीजन कॉपर से मिलकर कॉपर ऑक्साइड बनाता है।",
@@ -1743,7 +1826,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heredity_and_evolution_115"
+            "id": "q_heredity_and_evolution_115",
+            "correct_option": 2
         },
         {
             "question": "जीवाणु और प्रोटोजोआ जैसे एककोशिकीय जीवों में द्वि-खंडन की प्रक्रिया में, निम्नलिखित में से किसके घटित होने की संभावना सबसे कम होती है?",
@@ -1758,7 +1842,8 @@
             "examName": "RRB Level 01 Stage I 15/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heredity_and_evolution_116"
+            "id": "q_heredity_and_evolution_116",
+            "correct_option": 1
         },
         {
             "question": "मेंडल ने दो प्रयोग किए: (1) लंबे पौधों से पराग को छोटे पौधों के अंडाशय को निषेचित करने के लिए लिया गया, और (2) छोटे पौधों से पराग को लंबे पौधों के अंडाशय को निषेचित करने के लिए लिया गया। यदि हम इन दो प्रयोगों से उत्पन्न पौधों की तुलना करें, तो हम देखेंगे कि _________.",
@@ -1788,7 +1873,8 @@
             "examName": "RRB Level 01 Stage I 19/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_118"
+            "id": "q_heredity_and_evolution_118",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस वैज्ञानिक ने अपनी पुस्तक \"ओरिजिन ऑफ़ स्पीशीज\" में जैविक विकास के एक तंत्र का सुझाव दिया।",
@@ -1803,7 +1889,8 @@
             "examName": "RRB Group D 19 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heredity_and_evolution_119"
+            "id": "q_heredity_and_evolution_119",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किसे \"जीवविज्ञान का जनक\" माना जाता है?",
@@ -1818,7 +1905,8 @@
             "examName": "RRB JE CBT I - : 30 May 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_heredity_and_evolution_120"
+            "id": "q_heredity_and_evolution_120",
+            "correct_option": 3
         },
         {
             "question": "पौधों में विभिन्नता के संबंध में गलत कथन का चयन करें।",
@@ -1833,7 +1921,8 @@
             "examName": "RRB Level 01 Stage I 09/01/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heredity_and_evolution_121"
+            "id": "q_heredity_and_evolution_121",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन, सूत्रीविभाजन के लिए सत्य है लेकिन अर्धसूत्री विभाजन के लिए सत्य नहीं है?",
@@ -1848,7 +1937,8 @@
             "examName": "RRB Level 01 Stage I 06/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heredity_and_evolution_122"
+            "id": "q_heredity_and_evolution_122",
+            "correct_option": 2
         },
         {
             "question": "गुणसूत्र योगदान (chromosome contribution) के संदर्भ में, निम्नलिखित में से कौन-सा कथन सही है?",
@@ -1908,7 +1998,8 @@
             "examName": "RRB Group D 26 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_126"
+            "id": "q_heredity_and_evolution_126",
+            "correct_option": 3
         },
         {
             "question": "के-शेल ___________ ऊर्जा स्तर है।",
@@ -1923,7 +2014,8 @@
             "examName": "RRB JE 25 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_127"
+            "id": "q_heredity_and_evolution_127",
+            "correct_option": 1
         },
         {
             "question": "\" प्राकृतिक वरण का सिद्धांत\" किसके द्वारा प्रस्तावित किया गया था -",
@@ -1938,7 +2030,8 @@
             "examName": "RRB JE 27 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_heredity_and_evolution_128"
+            "id": "q_heredity_and_evolution_128",
+            "correct_option": 1
         },
         {
             "question": "____________ परिवर्तन की एक मात्रात्मक और गुणात्मक प्रक्रिया है जिसे मापा नहीं जा सकता है। - Q₈₀₀. सही उत्तर: प्रत्येक माता-पिता से एक संस्करण (version) व्याख्या: लैंगिक प्रजनन करने वाले जीवों में, आनुवंशिकता मेंडेलियन सिद्धांतों का पालन करती है। प्रत्येक गुण गुणसूत्रों पर स्थित जीनों द्वारा नियंत्रित होता है। अर्धसूत्री विभाजन के माध्यम से युग्मक निर्माण के दौरान, प्रत्येक माता-पिता अपने युग्मकों (शुक्राणु या अंडा) में गुणसूत्रों का एक सेट योगदान करते हैं। संतति प्रत्येक गुण के लिए दो एलील (संस्करण (version)) प्राप्त करती है—एक माता से और एक पिता से। यह बताता है कि विकल्प 2 सही क्यों है: संतति को प्रत्येक माता-पिता से एक संस्करण (version) मिलता है। विकल्प 1 गलत है क्योंकि आनुवंशिकता द्विपैतृक होती है, केवल पैतृक नहीं। विकल्प 3 गलत है क्योंकि माताएं प्रति गुण केवल एक संस्करण (version) योगदान करती हैं, दो नहीं। विकल्प 4 गलत है क्योंकि कुल दो संस्करण (version) (प्रत्येक माता-पिता से एक) होते हैं, एक नहीं। परीक्षा के लिए अतिरिक्त तथ्य: • ग्रेगर मेंडल को उनके मटर के पौधों के प्रयोगों के लिए \"आनुवंशिकी के जनक\" कहा जाता है। • एलील जीन के विभिन्न रूप हैं जो आंखों का रंग या लंबाई जैसे गुण निर्धारित करते हैं। • मनुष्यों में, लिंग गुणसूत्र लिंग निर्धारित करते हैं: मादाओं में XX , नर में XY होते हैं। • समयुग्मजी व्यक्तियों में दो समान एलील होते हैं; विषमयुग्मजी में दो अलग-अलग एलील होते हैं। • प्रभावी एलील एक प्रति मौजूद होने पर भी स्वयं को व्यक्त करते हैं; अप्रभावी एलील को दो प्रतियों की आवश्यकता होती है।",
@@ -1953,7 +2046,8 @@
             "examName": "RPF SI CBT-I 2024 : 02 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_129"
+            "id": "q_heredity_and_evolution_129",
+            "correct_option": 1
         },
         {
             "question": "मेंडल (Mendel) का कौन-सा नियम, युग्मक निर्माण के दौरान युग्मविकल्पी (allele) के पृथक्करण की व्याख्या करता है?",
@@ -1968,7 +2062,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 17/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heredity_and_evolution_130"
+            "id": "q_heredity_and_evolution_130",
+            "correct_option": 2
         },
         {
             "question": "किस वैज्ञानिक ने' थ्योरी ऑफ़ इवोल्यूशन’ तैयार किया?",
@@ -1983,7 +2078,8 @@
             "examName": "RRB JE 23 May 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_heredity_and_evolution_131"
+            "id": "q_heredity_and_evolution_131",
+            "correct_option": 2
         },
         {
             "question": "मेंडल ने सात अलग-अलग लक्षणों का अध्ययन क्यों किया?",
@@ -2028,7 +2124,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heredity_and_evolution_134"
+            "id": "q_heredity_and_evolution_134",
+            "correct_option": 3
         }
     ]
 }

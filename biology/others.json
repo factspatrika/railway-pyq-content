@@ -16,7 +16,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 14 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_others_1"
+            "id": "q_others_1",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा पदार्थ जैव आवर्धन (Biomagnification) दर्शाता है?",
@@ -46,7 +47,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_others_3"
+            "id": "q_others_3",
+            "correct_option": 1
         },
         {
             "question": "कार्बनिक पदार्थों के अपघटन द्वारा पृथ्वी की सतह के नीचे बने ईंधन को _______ ईंधन कहा जाता है।",
@@ -61,7 +63,8 @@
             "examName": "RRB Group D 25/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_others_4"
+            "id": "q_others_4",
+            "correct_option": 1
         },
         {
             "question": "वर्गीकरण विज्ञान का जनक किसे माना जाता है?",
@@ -76,7 +79,8 @@
             "examName": "RRB Group D 27/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_others_5"
+            "id": "q_others_5",
+            "correct_option": 3
         },
         {
             "question": "सामान्यतः किस पोषी स्तर पर जीवों की संख्या सबसे कम होती है?",
@@ -91,7 +95,8 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_others_6"
+            "id": "q_others_6",
+            "correct_option": 1
         },
         {
             "question": "मानव में, _______ का कंपन ध्वनि पैदा करता है।",
@@ -106,7 +111,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_others_7"
+            "id": "q_others_7",
+            "correct_option": 1
         },
         {
             "question": "काल लीनियस को किस रूप में जाना जाता है?",
@@ -136,7 +142,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_others_9"
+            "id": "q_others_9",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा गैर-जैवनिम्नीकरणीय है??",
@@ -151,7 +158,8 @@
             "examName": "RRB Group D 30 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_others_10"
+            "id": "q_others_10",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा पोषण स्तर, तृतीयक उपभोक्ताओं द्वारा आच्छादित है?",
@@ -166,7 +174,8 @@
             "examName": "RRB Level 01 Stage I 26/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_others_11"
+            "id": "q_others_11",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सी ग्रीनहाउस गैस का उदाहरण है?",
@@ -181,7 +190,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_others_12"
+            "id": "q_others_12",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा घटक पारिस्थितिकी तंत्र का जैविक घटक नहीं है?",
@@ -196,7 +206,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_others_13"
+            "id": "q_others_13",
+            "correct_option": 2
         },
         {
             "question": "स्थलीय खाद्य श्रृंखलाओं में पोषण स्तरों की संख्या आमतौर पर 4-5 तक ही सीमित क्यों होती है?",
@@ -211,7 +222,8 @@
             "examName": "RRB JE 19/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_others_14"
+            "id": "q_others_14",
+            "correct_option": 1
         },
         {
             "question": "उद्यान एक पारिस्थितिकी तंत्र है क्योंकि: प्रभावित नहीं होते हैं। प्रभावित होते हैं।",
@@ -226,7 +238,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_others_15"
+            "id": "q_others_15",
+            "correct_option": 1
         },
         {
             "question": "अजैवनिम्नीकरणीय से क्या अभिप्राय है?",
@@ -241,7 +254,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_others_16"
+            "id": "q_others_16",
+            "correct_option": 1
         },
         {
             "question": "मनुष्य की आवाज़ _____ के द्वारा वाकतंतु से उत्पादित होती है।",
@@ -256,7 +270,8 @@
             "examName": "RRB Group D 5/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_others_17"
+            "id": "q_others_17",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस तत्व के लिए, चिह्न में केवल एक अक्षर होता है?",
@@ -271,7 +286,8 @@
             "examName": "RRB Group D 3/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_others_18"
+            "id": "q_others_18",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन मानव उत्सर्जन तंत्र का हिस्सा नहीं है?",
@@ -286,7 +302,8 @@
             "examName": "RRB Group D 8 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_others_19"
+            "id": "q_others_19",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा सतत विकास के लिए आवश्यक 5 R का हिस्सा नहीं है?",
@@ -331,7 +348,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_others_22"
+            "id": "q_others_22",
+            "correct_option": 3
         },
         {
             "question": "वे पदार्थ जो बैक्टीरिया या सैप्रोफाइट्स की क्रिया द्वारा विघटित नहीं हुए हैं, लेकिन भौतिक प्रक्रियाओं द्वारा किसी तरह से विघटित हो गए हैं, उन्हें कहा जाता है।",
@@ -346,7 +364,8 @@
             "examName": "RRB Level 01 Stage I 05/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_others_23"
+            "id": "q_others_23",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा व्हि टेकर द्वारा प्रस्तावित 5-जगत वर्गीकरण का भाग नहीं है?",
@@ -361,7 +380,8 @@
             "examName": "RRB Group D 19/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_others_24"
+            "id": "q_others_24",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित का मिलान कीजिए: A B i. लाल पत्तागोभी के पत्ते a. घ्राण सूचक ii. मिथाइल ऑरेंज b. अम्ल-क्षारक सूचक iii. प्याज, लौंग c. प्राकृतिक अम्ल-क्षारक सूचक",
@@ -376,7 +396,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_others_25"
+            "id": "q_others_25",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा समूह सभी जैव निम्नीकरणीय पदार्थों को शामिल करता है?",
@@ -391,7 +412,8 @@
             "examName": "RRB Group D 30 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_others_26"
+            "id": "q_others_26",
+            "correct_option": 3
         },
         {
             "question": "अभिप्रेरण के मनोविज्ञान में, संतुलन सिद्धांत अभिवृत्ति परिवर्तन का एक सिद्धांत है, जिसे __________द्वारा प्रस्तावित किया गया है।",
@@ -406,7 +428,8 @@
             "examName": "RRB Group D 19 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_others_27"
+            "id": "q_others_27",
+            "correct_option": 1
         },
         {
             "question": "तालाब पारितंत्र में, पादपप्लवक को हटा देने पर सबसे प्रत्यक्ष रूप से ____________ प्रभावित होगा।",
@@ -421,7 +444,8 @@
             "examName": "RRB JE 20/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_others_28"
+            "id": "q_others_28",
+            "correct_option": 2
         },
         {
             "question": "गैर-जैवनिम्नीकरणीय प्लास्टिक से संबंधित निम्नलिखित कथनों में से तीन कथन जानवरों, पौधों और हमारे आस-पास के वातावरण पर उनके प्रभाव को दशाते हैं। बमेंेल को चुनें।",
@@ -451,7 +475,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_others_30"
+            "id": "q_others_30",
+            "correct_option": 1
         },
         {
             "question": "रक्त के तरल भाग को क्या कहा जाता है?",
@@ -466,7 +491,8 @@
             "examName": "RRB JE 25 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_others_31"
+            "id": "q_others_31",
+            "correct_option": 3
         },
         {
             "question": "जीवों का कौन सा समूह शवों और अपशिष्ट पदार्थों को सरल पदार्थों में विघटित करने के लिए होता है जो मृदा में वापस मिल जाते हैं?",
@@ -496,7 +522,8 @@
             "examName": "RPF Constable 2018 10 Feb 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_others_33"
+            "id": "q_others_33",
+            "correct_option": 3
         },
         {
             "question": "नीचे दिए गए कथनों पर विचार कीजिए और सही उत्तर की पहचान कीजिए। कथन-I: घ्राण सूचक एक ऐसा पदार्थ है, जिसकी गंध इस बात पर निर्भर करती है कि यह अम्लीय या क्षारकीय विलयन के साथ मिलाया गया है या नहीं। कथन-II: प्याज, लौंग का तेल और वेनिला सत (अक) कुछ घ्राण सूचकों के उदाहरण हैं।",
@@ -511,7 +538,8 @@
             "examName": "RRB Group D 26 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_others_34"
+            "id": "q_others_34",
+            "correct_option": 2
         },
         {
             "question": "अजैवनिम्नीकरणीय प्लास्टिक से संबंधित निम्नलिखित में से तीन कथन जंतुओं, पादपों और हमारे आसपास के वातावरण पर उनके प्रभाव को इंगित करते हैं। विषम कथन का चयन कीजिए।",
@@ -526,7 +554,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_others_35"
+            "id": "q_others_35",
+            "correct_option": 1
         },
         {
             "question": "पारिस्थितिकी तंत्र में किस कथन से अजैविक घटक और जैविक घटक के बीच परस्पर क्रिया प्रदर्शित होती है?",
@@ -556,7 +585,8 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_others_37"
+            "id": "q_others_37",
+            "correct_option": 2
         },
         {
             "question": "गलत जोड़ी का चयन करें।",
@@ -571,7 +601,8 @@
             "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_others_38"
+            "id": "q_others_38",
+            "correct_option": 3
         },
         {
             "question": "घरेलू और औद्योगिक ठोस अपशिष्ट में प्राथमिक अंतर क्या है?",
@@ -601,7 +632,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_others_40"
+            "id": "q_others_40",
+            "correct_option": 3
         },
         {
             "question": "______ जीव द्वारा पयावरण परिवर्तन के लिए शारीरिक समायोजन है।",
@@ -616,7 +648,8 @@
             "examName": "RRB ALP Fitter 23 Jan 2019 Shift 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_others_41"
+            "id": "q_others_41",
+            "correct_option": 3
         },
         {
             "question": "शुक्राणु निर्माण के लिए वृषण उदर गयहा के बाहर स्क्रोटम में स्थित होते हैं क्योंकि इसके लिए आवश्यक है:",
@@ -646,7 +679,8 @@
             "examName": "RRB Group D 19 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_others_43"
+            "id": "q_others_43",
+            "correct_option": 2
         },
         {
             "question": "खाद्य श्रृंखला के उस संबंध को क्या कहा जाता है, जिन्हें शाखन रेखाओं की एक श्रृंखला के रूप में दशाया जा सकता है?",
@@ -676,7 +710,8 @@
             "examName": "RRB Group D 11/10/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_others_45"
+            "id": "q_others_45",
+            "correct_option": 1
         },
         {
             "question": "झीलों में नाइट्रोजन और फॉस्फोरस की अत्यधिक मात्रा को क्या कहा जाता है?",
@@ -691,7 +726,8 @@
             "examName": "RRB JE CBT I - : 31 May 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_others_46"
+            "id": "q_others_46",
+            "correct_option": 1
         },
         {
             "question": "विविधताओं के बारे में निम्नलिखित में से कौन-सा कथन गलत है?",
@@ -706,7 +742,8 @@
             "examName": "RRB Level 01 Stage I 19/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_others_47"
+            "id": "q_others_47",
+            "correct_option": 1
         },
         {
             "question": "हम अजैवनिम्नीकरणीय उत्पादों के उपयोग को कैसे कम कर सकते हैं? सकती हैं। खरीदा जा सकता है।",
@@ -721,7 +758,8 @@
             "examName": "RRB Group D 9 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_others_48"
+            "id": "q_others_48",
+            "correct_option": 3
         },
         {
             "question": "शरीर के अंदर उत्पन्न कमजोर चुंबकीय क्षेत्र का उपयोग करके शरीर के विभिन्न अंगों की छवियां प्राप्त करने की प्रक्रिया को _____ कहा जाता है।",
@@ -751,7 +789,8 @@
             "examName": "RRB Group D 20 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_others_50"
+            "id": "q_others_50",
+            "correct_option": 2
         },
         {
             "question": "लाइपेज का क्या कार्य है?",
@@ -766,7 +805,8 @@
             "examName": "RPF Constable 2018 10 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_others_51"
+            "id": "q_others_51",
+            "correct_option": 1
         },
         {
             "question": "आत्मनिभर पारिस्थितिकी तंत्र का क्या अथ है?",
@@ -781,7 +821,8 @@
             "examName": "RRB Group D 29 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_others_52"
+            "id": "q_others_52",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा सतत विकास के लिए आवश्यक 5 R का हिस्सा नहीं है? ology - Others स्तर बहुत अधिक हो जाता है। यह प्रक्रिया खाद्य श्रृंखला के शीष पर सबसे अधिक प्रभाव डालती है। अन्य विकल्प (अम्लीय धुएँ, कार्बन कालिख, ग्रीनहाउस गैसें) जैव आवर्धन नहीं दशाते बल्कि वायु प्रदूषण या जलवायु परिवर्तन से संबंधित हैं। Important one-liners for upcoming exams: ☛ जैव आवर्धन (Biomagnification) का मुख्य कारण → अविघटनीय कीटनाशक (जैसे DDT) ☛ जैव आवर्धन खाद्य श्रृंखला में होता है → जलीय खाद्य श्रृंखला में सबसे स्पष्ट ☛ जैव आवर्धन (Biomagnification) से प्रभावित जीव → शीष परभक्षी (जैसे बाज, मछली) ☛ DDT की खोज → पॉल मुलर (1939) ☛ जैव आवर्धन (Biomagnification) का प्रभाव → पक्षियों के अंडे के छिलके पतले होना",
@@ -796,7 +837,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_others_53"
+            "id": "q_others_53",
+            "correct_option": 1
         }
     ]
 }

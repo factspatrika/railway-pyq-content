@@ -16,7 +16,8 @@
             "examName": "RPF Constable 2024 : 11 Mar, 2025 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_1"
+            "id": "q_heat_and_thermodynamics_1",
+            "correct_option": 1
         },
         {
             "question": "एक तांबे के चम्मच को गरम जल में डुबोया जाता है। इसके दूसरे सिरे पर क्या प्रभाव पड़ता है?",
@@ -46,7 +47,8 @@
             "examName": "RRB Group D 27 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_heat_and_thermodynamics_3"
+            "id": "q_heat_and_thermodynamics_3",
+            "correct_option": 3
         },
         {
             "question": "कौन-सा कारक वाष्पीकरण की दर को नहीं बढ़ाता है?",
@@ -61,7 +63,8 @@
             "examName": "RRB Level 01 Stage I 06/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_4"
+            "id": "q_heat_and_thermodynamics_4",
+            "correct_option": 3
         },
         {
             "question": "द्रवों में गैसों की विलेयता सामान्यतः __________ ।",
@@ -76,7 +79,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_heat_and_thermodynamics_5"
+            "id": "q_heat_and_thermodynamics_5",
+            "correct_option": 2
         },
         {
             "question": "एक स्वस्थ मानव शरीर के लिए तापमान की सामान्य परास केल्विन में क्या है?",
@@ -91,12 +95,13 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_6"
+            "id": "q_heat_and_thermodynamics_6",
+            "correct_option": 2
         },
         {
             "question": "किसी पदार्थ की मोलर विशिष्ट ऊष्मा धारिता क्या होती है?",
             "options": [
-                "पदार्थ के 1 मोल का तापमान 1 K (या 1°C) बढ़ाने के लिए आवश्यक ऊष्मा की मात्रा",
+                "पदार्थ के १ मोल का तापमान १ K (या १°C) बढ़ाने के लिए आवश्यक ऊष्मा की मात्रा",
                 "पदार्थ के 1 ग्राम का तापमान 1 K बढ़ाने के लिए आवश्यक ऊष्मा की मात्रा",
                 "पदार्थ के 1 किलोग्राम का तापमान 1 K बढ़ाने के लिए आवश्यक ऊष्मा की मात्रा",
                 "1 जूल कार्य करने के लिए आवश्यक ऊष्मा की मात्रा"
@@ -121,7 +126,8 @@
             "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_8"
+            "id": "q_heat_and_thermodynamics_8",
+            "correct_option": 3
         },
         {
             "question": "विद्युत मापने वाले उपकरणों में निम्नलिखित में से कौन सी स्विचिंग त्रुटि है?",
@@ -166,7 +172,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_11"
+            "id": "q_heat_and_thermodynamics_11",
+            "correct_option": 3
         },
         {
             "question": "ओम का नियम किस स्थिति में मान्य है?",
@@ -211,7 +218,8 @@
             "examName": "RPF Constable 2018 20 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_14"
+            "id": "q_heat_and_thermodynamics_14",
+            "correct_option": 2
         },
         {
             "question": "एक धात्विक चालक का प्रतिरोध, _____________ के साथ बढ़ता है।",
@@ -256,12 +264,13 @@
             "examName": "RRB Group D 2 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_17"
+            "id": "q_heat_and_thermodynamics_17",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन सत्य है? ऊष्मा का सुचालक है।",
             "options": [
-                "रसोईघर में, एल्युमिनियम के बर्तनों का उपयोग किया जाता है क्योंकि एल्युमिनियम",
+                "रसोईघर में, एल्यमेंिनियम के बतनों का उपयोग किया जाता है क्योंकि एल्यमेंिनियम",
                 "ऊष्मारोधी और चालक दोनों ऊष्मा को अपने से आसानी से गुजरने देते हैं।",
                 "प्लास्टिक ऊष्मा का सुचालक है।",
                 "लकड़ी ऊष्मा की सुचालक है।"
@@ -286,12 +295,13 @@
             "examName": "RPF ConstableAncillary 2018 30 Mar 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_19"
+            "id": "q_heat_and_thermodynamics_19",
+            "correct_option": 3
         },
         {
             "question": "कौन-सा ऊर्जा परिवर्तन सामान्यतः अपघटन अभिक्रियाओं से जुड़ा होता है?",
             "options": [
-                "कोई ऊर्जा परिवर्तन नहीं",
+                "उष्माशोषी ऊर्जा परिवर्तन",
                 "ऊष्माक्षेपी ऊर्जा परिवर्तन",
                 "ऊष्माशोषी ऊर्जा परिवर्तन",
                 "उत्क्रमणीय ऊर्जा परिवर्तन"
@@ -321,7 +331,7 @@
         {
             "question": "प्रतिरोधकता के बारे में निम्नलिखित में से कौन-सा कथन सही है?",
             "options": [
-                "यह अनुप्रस्थ काट के क्षेत्रफल के साथ बढ़ता है",
+                "यह केवल पदार्थ की प्रकृति और तापमान पर निभर करता है",
                 "यह लंबाई बढ़ने पर घटता है",
                 "यह केवल पदार्थ की प्रकृति और तापमान पर निर्भर करता है",
                 "यह चालक के आकार के साथ बदलता है"
@@ -346,7 +356,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 16 Jun, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_23"
+            "id": "q_heat_and_thermodynamics_23",
+            "correct_option": 3
         },
         {
             "question": "द्रव नाइट्रोजन का क्वथनांक क्या है?",
@@ -361,7 +372,8 @@
             "examName": "RRB NTPC CBT-I : 17 Feb 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_24"
+            "id": "q_heat_and_thermodynamics_24",
+            "correct_option": 3
         },
         {
             "question": "जब हथेली पर ऐसीटोन डाला जाता है तो इसे शीतल क्यों महसूस होता है?",
@@ -376,12 +388,13 @@
             "examName": "RRB ALP CBT 1 18/02/2026 9:00 AM - 10:00 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_25"
+            "id": "q_heat_and_thermodynamics_25",
+            "correct_option": 1
         },
         {
             "question": "गर्म धूप वाले दिन के बाद, लोग छत या खुले मैदान पर जल का छिड़काव करते हैं क्योंकि:",
             "options": [
-                "जल के वाष्पीकरण की उच्च गुप्त ऊष्मा ठंडी सतह को गर्म करने में मदद करती है",
+                "जल के वाष्पीकरण की उच्च गुप्त ऊष्मा गम सतह को ठंडा करने में मदद करती है",
                 "जल के वाष्पीकरण की उच्च गुप्त ऊष्मा गर्म सतह को ठंडा करने में मदद नहीं करती है",
                 "जल के वाष्पीकरण की उच्च गुप्त ऊष्मा गर्म सतह को ठंडा करने में मदद करती है",
                 "जल के वाष्पीकरण की निम्न गुप्त ऊष्मा गर्म सतह को ठंडा करने में मदद करती है"
@@ -406,7 +419,8 @@
             "examName": "RRB JE ECE 22 Apr 2025 Shift 1 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_27"
+            "id": "q_heat_and_thermodynamics_27",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा कारक वाष्पीकरण की दर को कम करता है?",
@@ -436,7 +450,8 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_heat_and_thermodynamics_29"
+            "id": "q_heat_and_thermodynamics_29",
+            "correct_option": 2
         },
         {
             "question": "जब समान लंबाई लेकिन अलग-अलग प्रतिरोध वाले दो तारों में समान धारा प्रवाहित होती है, तो उच्च प्रतिरोध वाला तार.।",
@@ -451,7 +466,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_30"
+            "id": "q_heat_and_thermodynamics_30",
+            "correct_option": 1
         },
         {
             "question": "गैस में आणविक गति के वितरण पर तापमान में वृद्धि के प्रभाव के संबंध में निम्नलिखित में से कौन सा कथन सत्य नहीं है?",
@@ -466,12 +482,13 @@
             "examName": "RRB Group D 11 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_31"
+            "id": "q_heat_and_thermodynamics_31",
+            "correct_option": 3
         },
         {
             "question": "ध्वनि की चाल माध्यम के _________ गुणों पर निर्भर करती है।",
             "options": [
-                "उपरोक्त में से कोई नहीं",
+                "सभी विकल्प",
                 "घनत्व",
                 "तापमान",
                 "लोच"
@@ -511,7 +528,8 @@
             "examName": "RRB JE CE 22 Apr 2025 Shift 2 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_34"
+            "id": "q_heat_and_thermodynamics_34",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किसका क्वथनांक सबसे अधिक है?",
@@ -526,7 +544,8 @@
             "examName": "RRB Group D 1 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_35"
+            "id": "q_heat_and_thermodynamics_35",
+            "correct_option": 3
         },
         {
             "question": "जब दो पिंड तापीय संपर्क में होते हैं, तब उनके बीच ऊष्मा का प्रवाह होगा, यदि वे ______ में भिन्न हों।",
@@ -541,12 +560,13 @@
             "examName": "RRB ALP CBT 2 Electrician Previous Paper : 22 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_heat_and_thermodynamics_36"
+            "id": "q_heat_and_thermodynamics_36",
+            "correct_option": 3
         },
         {
             "question": "एक प्रबल अम्ल और एक प्रबल क्षार से बने लवण विलयन का pH मान लगभग कितना होता है?",
             "options": [
-                "तापमान के आधार पर 7 से कम या अधिक हो सकता है",
+                "७ के बराबर",
                 "7 से कम",
                 "7 से अधिक",
                 "7 के बराबर"
@@ -571,7 +591,8 @@
             "examName": "RRB Group D 26/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_38"
+            "id": "q_heat_and_thermodynamics_38",
+            "correct_option": 2
         },
         {
             "question": "वाष्पीकरण प्रक्रिया पर पृष्ठीय क्षेत्रफल का क्या प्रभाव होगा?",
@@ -586,12 +607,13 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_39"
+            "id": "q_heat_and_thermodynamics_39",
+            "correct_option": 3
         },
         {
             "question": "_____ समान तापमान और दाब में ठोस से तरल पदार्थ में बदलने के लिए आवश्यक प्रति इकाई द्रव्यमान ऊष्मा है।",
             "options": [
-                "वाष्पीकरण",
+                "द्रवण की गुप्त उष्मा",
                 "द्रवण की गुप्त ऊष्मा",
                 "पुनर्हिमापन",
                 "ऊर्ध्वपातन"
@@ -646,7 +668,8 @@
             "examName": "RRB Group D 22 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_43"
+            "id": "q_heat_and_thermodynamics_43",
+            "correct_option": 2
         },
         {
             "question": "स्थिर तापमान पर अवस्था परिवर्तन के दौरान अवशोषित ऊर्जा को क्या कहते हैं?",
@@ -661,7 +684,8 @@
             "examName": "RRB Level 01 Stage I 26/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_44"
+            "id": "q_heat_and_thermodynamics_44",
+            "correct_option": 2
         },
         {
             "question": "समान परिस्थितियों के अंतर्गत, एक श्वेत पृष्ठ की तुलना में एक काला पृष्ठ ________ को अवशोषित करता है।",
@@ -676,13 +700,14 @@
             "examName": "RRB ALP Electronics Mechanic 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_heat_and_thermodynamics_45"
+            "id": "q_heat_and_thermodynamics_45",
+            "correct_option": 2
         },
         {
             "question": "सर्दियों में दो पतले कंबल एक मोटे कंबल की तुलना में आपको अधिक गर्म क्यों रखते हैं? होता है। हैं।",
             "options": [
                 "दो पतले कंबल अधिक गर्मी निकलने देते हैं, जिससे आप गर्म रहते हैं।",
-                "दो कंबल हवा की एक अतिरिक्त इन्सुलेट परत बनाते हैं, जिससे गर्मी का नुकसान कम",
+                "दो कंबल हवा की एक अतिरिक्त इन्सुलेट परत बनाते हैं, जिससे गर्मी का नुकसान कम होता है।",
                 "दो पतले कंबल एक मोटे कंबल की तुलना में अधिक गर्मी उत्पन्न करते हैं।",
                 "दो पतले कंबल एक मोटे कंबल की तुलना में परिवेश से अधिक गर्मी अवशोषित करते"
             ],
@@ -691,7 +716,8 @@
             "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_46"
+            "id": "q_heat_and_thermodynamics_46",
+            "correct_option": 1
         },
         {
             "question": "आदित्य सर्दियों में खुद को गर्म रखने के लिए एक मोटे कंबल के बजाय दो पतले कंबल का उपयोग कर रहा है क्योंकि ________ ।",
@@ -706,7 +732,8 @@
             "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_heat_and_thermodynamics_47"
+            "id": "q_heat_and_thermodynamics_47",
+            "correct_option": 1
         },
         {
             "question": "किसी पदार्थ की विशिष्ट ऊष्मा धारिता को निम्न द्वारा परिभाषित किया जाता है:",
@@ -721,7 +748,8 @@
             "examName": "RRB ALP Electronics Mechanic 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_48"
+            "id": "q_heat_and_thermodynamics_48",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा एक अच्छे ऊष्मारोधी का उदाहरण है?",
@@ -736,7 +764,8 @@
             "examName": "RRB Group D 14 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_49"
+            "id": "q_heat_and_thermodynamics_49",
+            "correct_option": 1
         },
         {
             "question": "प्रायः द्रवों में ऊष्मा अंतरण का प्रक्रम क्या है?",
@@ -751,7 +780,8 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_50"
+            "id": "q_heat_and_thermodynamics_50",
+            "correct_option": 2
         },
         {
             "question": "__________ गैसों से संबंधित नहीं है।",
@@ -766,7 +796,8 @@
             "examName": "RRB NTPC Tier I : 27 Apr 2016 Shift 2",
             "examYear": "2016",
             "type": "fillInBlanks",
-            "id": "q_heat_and_thermodynamics_51"
+            "id": "q_heat_and_thermodynamics_51",
+            "correct_option": 1
         },
         {
             "question": "BTU ________ का माप है।",
@@ -781,7 +812,8 @@
             "examName": "RRB Group D 27 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_heat_and_thermodynamics_52"
+            "id": "q_heat_and_thermodynamics_52",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा क्लिनिकल थर्मामीटर में तापमान का परास है?",
@@ -796,7 +828,8 @@
             "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_53"
+            "id": "q_heat_and_thermodynamics_53",
+            "correct_option": 1
         },
         {
             "question": "पदार्थ के कणों की निरंतर गति के बारे में निम्नलिखित में से कौन-सा कथन सही है?",
@@ -811,7 +844,8 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_54"
+            "id": "q_heat_and_thermodynamics_54",
+            "correct_option": 3
         },
         {
             "question": "एक आदर्श गैस के रुद्धोष्म संपीडन के परिणामस्वरूप ____________ होता है।",
@@ -856,7 +890,8 @@
             "examName": "RRB Group D 25/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_57"
+            "id": "q_heat_and_thermodynamics_57",
+            "correct_option": 1
         },
         {
             "question": "किसी दिए गए पदार्थ के लिए, प्रति इकाई लंबाई का प्रतिरोध निम्नलिखित में से किसके व्युत्क्रमानुपाती होता है?",
@@ -871,7 +906,8 @@
             "examName": "RRB Level 01 Stage I 15/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_58"
+            "id": "q_heat_and_thermodynamics_58",
+            "correct_option": 2
         },
         {
             "question": "किसी पदार्थ की अवस्था परिवर्तन के दौरान प्रति इकाई द्रव्यमान में स्थानांतरित ऊष्मा की मात्रा को क्या कहते हैं?",
@@ -886,7 +922,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 17/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_59"
+            "id": "q_heat_and_thermodynamics_59",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन गलत है? किसी माध्यम की आवश्यकता नहीं होती है। स्थानांतरित होती है।",
@@ -901,7 +938,8 @@
             "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_60"
+            "id": "q_heat_and_thermodynamics_60",
+            "correct_option": 2
         },
         {
             "question": "एक प्रयोगशाला थर्मामीटर में, सामान्य तापमान परास क्या होता है?",
@@ -916,7 +954,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 24 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_61"
+            "id": "q_heat_and_thermodynamics_61",
+            "correct_option": 2
         },
         {
             "question": "पानी की विशिष्ट ऊष्मा क्षमता के बारे में निम्नलिखित में से कौन सा सही है?",
@@ -931,7 +970,8 @@
             "examName": "RPF Constable 2024 : 17 Mar, 2025 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_62"
+            "id": "q_heat_and_thermodynamics_62",
+            "correct_option": 1
         },
         {
             "question": "गरम जलवायु वाले क्षेत्रों में, घर की बाहरी दीवारों का रंग सफेद रखना पसंद किया जाता है क्योंकि।",
@@ -976,7 +1016,8 @@
             "examName": "RRB ALP CBT-I 2024 : 27 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_65"
+            "id": "q_heat_and_thermodynamics_65",
+            "correct_option": 2
         },
         {
             "question": "अमोनियम सल्फेट किस तापमान पर लौहविद्युत बन जाता है?",
@@ -991,7 +1032,8 @@
             "examName": "RRB JE CBT-2 2024 CMA : 22 Apr, 2025 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_66"
+            "id": "q_heat_and_thermodynamics_66",
+            "correct_option": 3
         },
         {
             "question": "हाइग्रोमीटर क्या मापता है?",
@@ -1006,7 +1048,8 @@
             "examName": "RRB NTPC CBT-I : 27 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_67"
+            "id": "q_heat_and_thermodynamics_67",
+            "correct_option": 2
         },
         {
             "question": "सर्दियों में, लोग जेकेट पहनते हैं क्योंकि _____।",
@@ -1021,7 +1064,8 @@
             "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_heat_and_thermodynamics_68"
+            "id": "q_heat_and_thermodynamics_68",
+            "correct_option": 2
         },
         {
             "question": "सेल्सियस पैमाने पर जल के त्रिक बिंदु का तापमान क्या है?",
@@ -1029,14 +1073,15 @@
                 "100°C",
                 "0°C",
                 "-273.15°C",
-                "0.01°C"
+                "01°C"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: 0.01°C\n\nव्याख्या:\nजल का त्रिक बिंदु (Triple point of water) वह अद्वितीय तापमान और दाब है जिस पर जल तीनों अवस्थाओं — ठोस (बर्फ), द्रव (पानी), और गैस (भाप) — में एक साथ साम्यावस्था में रह सकता है।\n\n🔑 त्रिक बिंदु के मान:\n• तापमान: 0.01°C (273.16 K)\n• दाब: 611.73 Pa (≈ 0.006 atm)\n• केल्विन पैमाने की परिभाषा: 1 K = (1/273.16) × त्रिक बिंदु का तापमान\n\n❌ अन्य विकल्प:\n• 100°C — जल का क्वथनांक (1 atm पर)।\n• 0°C — जल का हिमांक (1 atm पर)।\n• -273.15°C — परम शून्य (Absolute zero), 0 K के बराबर।\n\nमहत्वपूर्ण: त्रिक बिंदु का उपयोग अंतर्राष्ट्रीय तापमान पैमाने (ITS-90) के कैलिब्रेशन के लिए किया जाता है।",
             "examName": "RRB NTPC Graduate Level CBT-I : 12 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_69"
+            "id": "q_heat_and_thermodynamics_69",
+            "correct_option": 3
         },
         {
             "question": "कणों के बीच आकर्षण बलों के आरोही क्रम में निम्नलिखित पदार्थों की व्यवस्था कीजिए।",
@@ -1051,7 +1096,8 @@
             "examName": "RRB Group D 17 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_70"
+            "id": "q_heat_and_thermodynamics_70",
+            "correct_option": 3
         },
         {
             "question": "सबसे उपयुक्त विकल्प का चयन करें। 0°C =________F",
@@ -1081,12 +1127,13 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_72"
+            "id": "q_heat_and_thermodynamics_72",
+            "correct_option": 3
         },
         {
             "question": "तांबे की विशिष्ट ऊष्मा क्या है, जिसका उपयोग अक्सर बर्तन और पैन के लिए किया जाता है क्योंकि यह जल्दी गरम हो जाता है?",
             "options": [
-                "604.2 J kg -1 K -1",
+                "4 J kg⁻¹ K⁻¹",
                 "239.3 J kg -1 K -1",
                 "712.1 J kg -1 K -1",
                 "386.4 J kg -1 K -1"
@@ -1111,7 +1158,8 @@
             "examName": "RRB JE 20/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_74"
+            "id": "q_heat_and_thermodynamics_74",
+            "correct_option": 2
         },
         {
             "question": "वायुमंडलीय दाब पर इसके गलनांक पर 1 किग्रा ठोस को द्रव में बदलने के लिए आवश्यक ऊष्मा ऊर्जा की मात्रा को _____________ के रूप में जाना जाता है।",
@@ -1126,12 +1174,13 @@
             "examName": "RRB JE Electronics 01 Sep 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_heat_and_thermodynamics_75"
+            "id": "q_heat_and_thermodynamics_75",
+            "correct_option": 2
         },
         {
             "question": "जूल के तापन नियम के बारे में निम्नलिखित में से कौन सा सही नहीं है? आनुपातिक होती है। प्रतिरोधक से होकर बहती है। आनुपातिक होती है। व्युत्क्रमानुपाती होती है।",
             "options": [
-                "किसी दिए गए प्रतिरोध के लिए, एक प्रतिरोधक में उत्पन्न ऊष्मा धारा के वर्ग के सीधे",
+                "किसी दिए गए प्रतिरोध के लिए, एक प्रतिरोधक में उत्पन्न ऊष्मा धारा के वग के व्युत्क्रमानुपाती होती है।",
                 "एक प्रतिरोधक में उत्पन्न ऊष्मा उस समय के सीधे आनुपातिक होती है जिसके लिए धारा",
                 "किसी दिए गए धारा के लिए, एक प्रतिरोधक में उत्पन्न ऊष्मा प्रतिरोध के सीधे",
                 "किसी दिए गए प्रतिरोध के लिए, एक प्रतिरोधक में उत्पन्न ऊष्मा धारा के वर्ग के समानुपाती होती है।"
@@ -1156,7 +1205,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_heat_and_thermodynamics_77"
+            "id": "q_heat_and_thermodynamics_77",
+            "correct_option": 1
         },
         {
             "question": "वाष्पीकरण के बारे में निम्नलिखित में से कौन सा कथन सत्य है?",
@@ -1171,7 +1221,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_78"
+            "id": "q_heat_and_thermodynamics_78",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा विकल्प सही है जब एक ही तापमान पर दो वस्तुओं को एक दूसरे के संपर्क में रखा जाता है?",
@@ -1186,7 +1237,8 @@
             "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_79"
+            "id": "q_heat_and_thermodynamics_79",
+            "correct_option": 2
         },
         {
             "question": "मानव शरीर का औसत तापमान कितना होता है?",
@@ -1201,12 +1253,13 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_80"
+            "id": "q_heat_and_thermodynamics_80",
+            "correct_option": 3
         },
         {
             "question": "हिम नमक का तापमान ________ है।",
             "options": [
-                "273.15 के",
+                "15 K",
                 "273.15° फारेनहाइट",
                 "273.15° सेल्सियस",
                 "273.15° आर"
@@ -1221,7 +1274,7 @@
         {
             "question": "बर्फ को पानी में बदलने के लिए आवश्यक ऊष्मा की मात्रा को कहते हैं-",
             "options": [
-                "बर्फ के संघनन की गुप्त ऊष्मा",
+                "बफ के संलयन की गुप्त ऊष्मा",
                 "वाष्पीकरण की गुप्त ऊष्मा",
                 "भाप आसवन की गुप्त ऊष्मा",
                 "बर्फ के संलयन की गुप्त ऊष्मा"
@@ -1239,19 +1292,20 @@
                 "0.3 atm",
                 "0.1 atm",
                 "0.2 atm",
-                "0.4 atm"
+                "4 atm"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: 0.4 atm\n\nडाल्टन के आंशिक दाब के नियम (Dalton's Law of Partial Pressures) के अनुसार, गैस मिश्रण में किसी एक गैस द्वारा लगाया गया दाब उसके मोल अंश (Mole Fraction) के समानुपाती होता है।\n\nगणना:\n• कुल मोल = 0.2 (O₂) + 0.4 (N₂) + 0.1 (NH₃) + 0.3 (He) = 1.0 मोल\n• N₂ का मोल अंश = 0.4/1.0 = 0.4\n• N₂ का आंशिक दाब (P_N₂) = मोल अंश × कुल दाब = 0.4 × 1 atm = 0.4 atm\n\nभौतिक सिद्धांत: डाल्टन का नियम — P_कुल = P₁ + P₂ + P₃ +. जहाँ Pᵢ = (nᵢ/n_कुल) × P_कुल\nयह नियम आदर्श गैसों (Ideal Gases) के लिए पूर्णतः मान्य है, जहाँ गैसों के बीच कोई अंतर-आण्विक बल नहीं होता।\n\nगलत विकल्प:\n• 0.2 atm — O₂ के मोल अंश (0.2) से संबंधित, N₂ का नहीं।\n• 0.1 atm — NH₃ के मोल अंश (0.1) से।\n• 0.3 atm — He के मोल अंश (0.3) से।\n\nExtra: आंशिक दाब का उपयोग वायमेंडलीय विज्ञान, रक्त में O₂/CO₂ के दाब मापन, और रासायनिक अभिक्रियाओं की दर निर्धारण में होता है।",
             "examName": "RRB Group D 17 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_83"
+            "id": "q_heat_and_thermodynamics_83",
+            "correct_option": 3
         },
         {
             "question": "ऊष्मागतिक प्रणाली में एक डायथर्मिक दीवार का क्या कार्य है?",
             "options": [
-                "यह केवल कार्य के प्रवाह की अनुमति देता है।",
+                "यह प्रणालियों के बीच ऊष्मा के प्रवाह की अनुमति देता है。",
                 "यह पदार्थ और ऊर्जा दोनों के आदान-प्रदान को रोकता है।",
                 "यह केवल पदार्थ के आदान-प्रदान की अनुमति देता है।",
                 "यह प्रणालियों के बीच ऊष्मा के प्रवाह की अनुमति देता है।"
@@ -1276,7 +1330,8 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 2",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_heat_and_thermodynamics_85"
+            "id": "q_heat_and_thermodynamics_85",
+            "correct_option": 1
         },
         {
             "question": "‘ नाभिकीय संलयन’ दो या दो से अधिक हल्के नाभिकों के संयोजन की प्रक्रिया है। नाभिकीय संलयन के लिए आवश्यक तापमान (लगभग) क्या है?",
@@ -1306,7 +1361,8 @@
             "examName": "RRB Level 01 Stage I 05/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_87"
+            "id": "q_heat_and_thermodynamics_87",
+            "correct_option": 3
         },
         {
             "question": "बल्बों में इस्तेमाल होने वाले टंगस्टन फिलामेंट का गलनांक क्या होता है?",
@@ -1321,7 +1377,8 @@
             "examName": "RRB NTPC CBT-I : 1 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_88"
+            "id": "q_heat_and_thermodynamics_88",
+            "correct_option": 3
         },
         {
             "question": "लगातार लंबे समय तक उपयोग किए जाने पर एक विद्युत पंखा गरम हो जाता है। ऐसा किस कारण से होता है?",
@@ -1351,7 +1408,8 @@
             "examName": "RPF Constable 2024 : 11 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_90"
+            "id": "q_heat_and_thermodynamics_90",
+            "correct_option": 3
         },
         {
             "question": "किसी गैस पर दाब अनुप्रयुक्त करने से, __________ ।",
@@ -1366,7 +1424,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_heat_and_thermodynamics_91"
+            "id": "q_heat_and_thermodynamics_91",
+            "correct_option": 1
         },
         {
             "question": "जिंक का गलनांक कितना होता है?",
@@ -1396,12 +1455,13 @@
             "examName": "RRB ALP CBT 2 Electrician Previous Paper : 22 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_heat_and_thermodynamics_93"
+            "id": "q_heat_and_thermodynamics_93",
+            "correct_option": 1
         },
         {
             "question": "जब किसी चालक से विद्युत धारा प्रवाहित होती है तो उसमें ऊष्मा उत्पन्न होने का प्राथमिक कारण क्या है?",
             "options": [
-                "इलेक्ट्रॉनों की गति ऊष्मा उत्पन्न करती है।",
+                "इलेक्ट्रॉनों की गति ऊष्मा उत्पन्न करती है。",
                 "प्रोटॉनों की गति ऊष्मा उत्पन्न करती है।",
                 "चालक में विद्युत क्षेत्र ऊष्मा उत्पन्न करता है।",
                 "चालक आसपास के वातावरण से ऊष्मा अवशोषित करता है।"
@@ -1416,7 +1476,7 @@
         {
             "question": "निम्नलिखित में से कौन-सा कथन सही है?",
             "options": [
-                "मानव शरीर का तापमान मापने के लिए प्रयोगशाला थर्मामीटर का उपयोग किया जाता",
+                "सामान्य मानव शरीर का तापमान 98.6°F होता है。",
                 "तापमान को एक ताप पैमाने से दूसरे ताप पैमाने में परिवर्तित करने की कोई विधि नहीं",
                 "सामान्य मानव शरीर का तापमान 45°C होता है।",
                 "सामान्य मानव शरीर का तापमान 98.6°F होता है।"
@@ -1441,7 +1501,8 @@
             "examName": "RRB JE 19/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_96"
+            "id": "q_heat_and_thermodynamics_96",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा एक विद्युत उपकरण जूल के तापन नियम के सिद्धांत पर कार्य करता है?",
@@ -1456,7 +1517,8 @@
             "examName": "RRB Group D 13 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_97"
+            "id": "q_heat_and_thermodynamics_97",
+            "correct_option": 2
         },
         {
             "question": "यदि बादल का तापमान ______ हो, तो बर्फ बनती है।",
@@ -1471,7 +1533,8 @@
             "examName": "RRB JE CE 28 Aug 2019 Shift 2 CBT 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_heat_and_thermodynamics_98"
+            "id": "q_heat_and_thermodynamics_98",
+            "correct_option": 3
         },
         {
             "question": "______ पदार्थ की वास्तविक गति द्वारा ऊष्मा अंतरण की एक प्रणाली है।",
@@ -1501,7 +1564,8 @@
             "examName": "RRB NTPC CBT-I : 12 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_100"
+            "id": "q_heat_and_thermodynamics_100",
+            "correct_option": 3
         },
         {
             "question": "जल का आयतन बनाम तापमान ग्राफ किस तापमान पर न्यूनतम मान प्राप्त करता है?",
@@ -1516,7 +1580,8 @@
             "examName": "RPF Constable 2024 : 07 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_101"
+            "id": "q_heat_and_thermodynamics_101",
+            "correct_option": 1
         },
         {
             "question": "एक कक्ष तापक (room heater) और एक विद्युत बल्ब दोनों विद्युत ऊर्जा को ऊष्मा में परिवर्तित करते हैं, परंतु केवल बल्ब ही अधिक दृश्य प्रकाश क्यों उत्सर्जित करता है?",
@@ -1546,7 +1611,8 @@
             "examName": "RRB Group D 13 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_103"
+            "id": "q_heat_and_thermodynamics_103",
+            "correct_option": 2
         },
         {
             "question": "दो कंटेनर, एक काले रंग से रंगा हुआ और दूसरा सफेद रंग से रंगा हुआ, दोपहर में एक घंटे के लिए धूप में रखे गए हैं। सही अवलोकन चुनें।",
@@ -1561,7 +1627,8 @@
             "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_104"
+            "id": "q_heat_and_thermodynamics_104",
+            "correct_option": 2
         },
         {
             "question": "एक विद्युत बल्ब के तंतु से 5 मिनट के लिए 1 A की धारा प्रवाहित होती है। परिपथ से प्रवाहित होने वाले विद्युत आवेश की मात्रा ____ होगी।",
@@ -1576,12 +1643,13 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_heat_and_thermodynamics_105"
+            "id": "q_heat_and_thermodynamics_105",
+            "correct_option": 2
         },
         {
             "question": "ग्रीष्मकाल में त्वचा पर जल डालने के बाद हमें ठंडक क्यों महसूस होती है?",
             "options": [
-                "जल के वाष्पीकरण से त्वचा की सतह से ऊष्मा अवशोषित होती है।",
+                "जल के वाष्पीकरण से त्वचा की सतह से ऊष्मा अवशोषित होती है。",
                 "जल पसीना निकलने को कम करता है और शरीर की ऊष्मा को बनाए रखता है।",
                 "जल सूर्य के प्रकाश को अवशोषित करके शरीर का तापमान बढ़ाता है।",
                 "जल के संघनन से त्वचा की सतह पर ऊर्जा निकलती है।"
@@ -1606,7 +1674,8 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_heat_and_thermodynamics_107"
+            "id": "q_heat_and_thermodynamics_107",
+            "correct_option": 3
         },
         {
             "question": "फ़ारेनहाइट और सेल्सियस पैमाने ______ पर अभिसारित होते हैं।",
@@ -1621,7 +1690,8 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_heat_and_thermodynamics_108"
+            "id": "q_heat_and_thermodynamics_108",
+            "correct_option": 1
         }
     ]
 }

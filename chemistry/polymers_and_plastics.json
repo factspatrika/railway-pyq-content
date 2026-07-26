@@ -16,7 +16,8 @@
             "examName": "RRB Group D 7/10/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_polymers_and_plastics_1"
+            "id": "q_polymers_and_plastics_1",
+            "correct_option": 3
         },
         {
             "question": "रसोई के बतनों पर नॉन-स्टिक कोटिंग के लिए उपयुक्त विशेष प्लास्टिक कौन सा है?",
@@ -31,7 +32,8 @@
             "examName": "RPF Constable 2018 22 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_polymers_and_plastics_2"
+            "id": "q_polymers_and_plastics_2",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किसे जैविक प्रक्रियाओं द्वारा तोड़ा जा सकता है?",
@@ -46,7 +48,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_polymers_and_plastics_3"
+            "id": "q_polymers_and_plastics_3",
+            "correct_option": 3
         },
         {
             "question": "कौन सा लचीला और अनुकूलनीय बहुलक अक्सर औद्योगिक ब्रश, टूथब्रश और अन्य सफाई आपूर्ति में पाया जाता है?",
@@ -61,7 +64,8 @@
             "examName": "RRB NTPC UG CBT-I : 08 Aug, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_polymers_and_plastics_4"
+            "id": "q_polymers_and_plastics_4",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा पॉलिएस्टर बोतलें और बतन बनाने के लिए उपयोग किया जाने वाला लोकप्रिय पॉलिएस्टर है? रियल",
@@ -76,7 +80,8 @@
             "examName": "RPF Constable 2018 18 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_polymers_and_plastics_5"
+            "id": "q_polymers_and_plastics_5",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा उद्योग में प्रयुक्त सिंथेटिक बहुलक का उदाहरण है?",
@@ -91,7 +96,8 @@
             "examName": "RRB NTPC UG CBT-I : 20 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_polymers_and_plastics_6"
+            "id": "q_polymers_and_plastics_6",
+            "correct_option": 1
         },
         {
             "question": "______ को पीवीसी के साथ चालक तार को परत चढ़ाकर रोका जाता है।",
@@ -106,7 +112,8 @@
             "examName": "RRB Group D 18 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_polymers_and_plastics_7"
+            "id": "q_polymers_and_plastics_7",
+            "correct_option": 3
         },
         {
             "question": "पानी की पाइपों के निर्माण में किस बहुलक का उपयोग किया जाता है?",
@@ -121,7 +128,8 @@
             "examName": "RRB NTPC CBT-I : 16 Feb 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_polymers_and_plastics_8"
+            "id": "q_polymers_and_plastics_8",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन ऊष्मारोधी नहीं है?",
@@ -136,7 +144,8 @@
             "examName": "RRB ALP CBT-II Fitter : 02 May, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_polymers_and_plastics_9"
+            "id": "q_polymers_and_plastics_9",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा मानव निर्मित रेशा का उदाहरण है?",
@@ -151,12 +160,13 @@
             "examName": "RRB NTPC CBT-I : 1 April 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_polymers_and_plastics_10"
+            "id": "q_polymers_and_plastics_10",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा बहुलक विद्युत स्विच बनाने में उपयोग किया जाता है?",
             "options": [
-                "बकेलाइट",
+                "बकेलाइट (Bakelite)",
                 "फिनोल",
                 "एपॉक्सी रेजिन",
                 "पॉलीइथिलीन"
@@ -181,7 +191,8 @@
             "examName": "RPF Constable 2018 17 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_polymers_and_plastics_12"
+            "id": "q_polymers_and_plastics_12",
+            "correct_option": 3
         },
         {
             "question": "IIT मंडी द्वारा विकसित उस स्थायी मिश्रित पदार्थ का प्राथमिक संघटन क्या है जो 2D अर्धचालकों को खराब होने से रोकता है?",
@@ -196,7 +207,8 @@
             "examName": "RRB JE 25/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_polymers_and_plastics_13"
+            "id": "q_polymers_and_plastics_13",
+            "correct_option": 2
         },
         {
             "question": "सिंथेटिक रेशे आसानी से आग पकड़ लेते हैं, हालाँकि, अग्निशामकों की वर्दियों में उन्हें आग प्रतिरोधी बनाने के लिए _____ प्लास्टिक की परत होती है।",
@@ -211,7 +223,8 @@
             "examName": "RRB NTPC CBT-I : 1 April 2021 Shift 2",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_polymers_and_plastics_14"
+            "id": "q_polymers_and_plastics_14",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा पदार्थ, प्रकृति में अक्रिय होता है और लंबी अवधि तक पयावरण में मौजूद रहता है तथा पारिस्थितिकी तंत्र के विभिन्न अवयवों को क्षति पहुंचाता है?",
@@ -226,7 +239,8 @@
             "examName": "RRB Level 01 Stage I 15/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_polymers_and_plastics_15"
+            "id": "q_polymers_and_plastics_15",
+            "correct_option": 2
         },
         {
             "question": "किसी मशीन के गतिशील पुर्जों में प्रयुक्त तीन मुख्य स्नेहक कौन से हैं?",
@@ -241,7 +255,8 @@
             "examName": "RRB JE CBT I - : 30 May 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_polymers_and_plastics_16"
+            "id": "q_polymers_and_plastics_16",
+            "correct_option": 2
         },
         {
             "question": "कौन-सा गुणधर्म कार्बन को दीघ श्रृंखलाएं बनाने में सक्षम बनाता है?",
@@ -256,7 +271,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_polymers_and_plastics_17"
+            "id": "q_polymers_and_plastics_17",
+            "correct_option": 2
         },
         {
             "question": "कौन-सा उद्योग चूना पत्थर को कच्चे माल के रूप में उपयोग करता है?",
@@ -271,7 +287,8 @@
             "examName": "RRB NTPC CBT-I : 4 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_polymers_and_plastics_18"
+            "id": "q_polymers_and_plastics_18",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित तालिका में, एक टूटी हुई प्लास्टिक की बाल्टी को कहाँ रखा जाएगा? सुरक्षित रूप से दहनशील असुरक्षित रूप से दहनशील पुनचक्रण A B अपुनचक्रण C D",
@@ -286,7 +303,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_polymers_and_plastics_19"
+            "id": "q_polymers_and_plastics_19",
+            "correct_option": 2
         },
         {
             "question": "PVC का अथ है:",
@@ -316,7 +334,8 @@
             "examName": "RRB JE 29 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_polymers_and_plastics_21"
+            "id": "q_polymers_and_plastics_21",
+            "correct_option": 1
         },
         {
             "question": "प्लास्टिक के संशोधित और पुनचक्रित रूप से प्राप्त होने वाले महीन पाउडर को _______ कहा जाता है।",
@@ -331,7 +350,8 @@
             "examName": "RRB JE CE 22 Apr 2025 Shift 2 CBT 2",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_polymers_and_plastics_22"
+            "id": "q_polymers_and_plastics_22",
+            "correct_option": 1
         },
         {
             "question": "अक्टूबर 2018 में, भारतीय वैज्ञानिकों ने किसानों के लिए विषैले कीटनाशकों से बचाव करने हेतु _____ नामक जेल विकसित किया।",
@@ -346,7 +366,8 @@
             "examName": "RRB NTPC CBT-I : 4 Feb 2021 Shift 2",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_polymers_and_plastics_23"
+            "id": "q_polymers_and_plastics_23",
+            "correct_option": 2
         },
         {
             "question": "कार्बन परमाणु का कौन-सा गुण, एक कार्बन परमाणु को अन्य कार्बन परमाणुओं के साथ आबंध बनाने में सक्षम बनाता है?",
@@ -376,7 +397,8 @@
             "examName": "RPF SI 2018 : 10 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_polymers_and_plastics_25"
+            "id": "q_polymers_and_plastics_25",
+            "correct_option": 2
         },
         {
             "question": "सिलिकॉन द्वारा निर्मित लंबी श्रृंखला वाले यौगिक ______________ होते हैं।",
@@ -391,7 +413,8 @@
             "examName": "RRB Group D 26 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_polymers_and_plastics_26"
+            "id": "q_polymers_and_plastics_26",
+            "correct_option": 1
         },
         {
             "question": "नायलॉन और पॉलिएस्टर जैसे रेशे, जो रासायनिक पदार्थों से बने होते हैं, कहलाते हैं:",
@@ -406,7 +429,8 @@
             "examName": "RRB NTPC CBT-I : 8 Mar 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_polymers_and_plastics_27"
+            "id": "q_polymers_and_plastics_27",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सी सामग्री जैव-अपघट्य नहीं होने की संभावना है?",
@@ -421,7 +445,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_polymers_and_plastics_28"
+            "id": "q_polymers_and_plastics_28",
+            "correct_option": 2
         }
     ]
 }

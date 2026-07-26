@@ -16,7 +16,8 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_1"
+            "id": "q_hormones_and_endocrine_system_1",
+            "correct_option": 3
         },
         {
             "question": "पौधे के शीर्ष (Apex) पर किस पादप हार्मोन की सांद्रता सबसे अधिक होती है और जड़ों के पास जाने पर यह कम होती जाती है?",
@@ -61,7 +62,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_4"
+            "id": "q_hormones_and_endocrine_system_4",
+            "correct_option": 3
         },
         {
             "question": "हमारे शरीर में निम्नलिखित में से कौन सी अंतःस्रावी ग्रंथि नहीं है?",
@@ -76,7 +78,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_5"
+            "id": "q_hormones_and_endocrine_system_5",
+            "correct_option": 1
         },
         {
             "question": "कौन सा हार्मोन शरीर को तनाव से अनुकूलित करने में मदद करता है जब कोई बहुत क्रोधित, शर्मिंदा या चिंतित होता है?",
@@ -106,7 +109,8 @@
             "examName": "RRB NTPC CBT-I : 14 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_7"
+            "id": "q_hormones_and_endocrine_system_7",
+            "correct_option": 3
         },
         {
             "question": "मधमेंेह (डायबिटीज मेलिटस) किस हार्मोन की कमी के कारण होता है?",
@@ -121,7 +125,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_8"
+            "id": "q_hormones_and_endocrine_system_8",
+            "correct_option": 3
         },
         {
             "question": "एक विद्यार्थी कहता है, “ पौधों में तंत्रिका तंत्र नहीं होता, इसलिए वे किसी के भी प्रति अनुक्रिया नहीं कर सकते। ” इसका सही वैज्ञानिक उत्तर क्या होगा?",
@@ -151,7 +156,8 @@
             "examName": "RRB NTPC CBT-I : 22 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_10"
+            "id": "q_hormones_and_endocrine_system_10",
+            "correct_option": 1
         },
         {
             "question": "जन्म नियंत्रण की गोलियों में क्या होता है?",
@@ -166,7 +172,8 @@
             "examName": "RRB NTPC Tier I : 11 Apr 2016 Shift 1",
             "examYear": "2016",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_11"
+            "id": "q_hormones_and_endocrine_system_11",
+            "correct_option": 2
         },
         {
             "question": "ट्रेकिया मानव शरीर के निम्नलिखित में से किस तंत्र का भाग है?",
@@ -181,7 +188,8 @@
             "examName": "RRB NTPC CBT-I : 31 July 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_12"
+            "id": "q_hormones_and_endocrine_system_12",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा एक महत्वपूर्ण महिला सेक्स हार्मोन है?",
@@ -196,7 +204,8 @@
             "examName": "RRB NTPC CBT-I : 25 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_13"
+            "id": "q_hormones_and_endocrine_system_13",
+            "correct_option": 1
         },
         {
             "question": "पीनियल ग्रंथि क्या स्रावित करती है?",
@@ -211,7 +220,8 @@
             "examName": "RPF SI 2018 : 10 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_14"
+            "id": "q_hormones_and_endocrine_system_14",
+            "correct_option": 1
         },
         {
             "question": "वृषण से कौन-सा हॉर्मोन स्रावित होता है?",
@@ -226,7 +236,8 @@
             "examName": "RRB Group D 23/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_15"
+            "id": "q_hormones_and_endocrine_system_15",
+            "correct_option": 3
         },
         {
             "question": "हार्मोनल गर्भनिरोधक गभावस्था को कैसे रोकते हैं?",
@@ -241,7 +252,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_16"
+            "id": "q_hormones_and_endocrine_system_16",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सी ग्रंथि शरीर के अंदर ऊर्जा मुक्ति की दर को नियंत्रित करती है?",
@@ -271,7 +283,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_18"
+            "id": "q_hormones_and_endocrine_system_18",
+            "correct_option": 2
         },
         {
             "question": "______ कोशिका विभाजन को बढ़ावा देता है।",
@@ -286,7 +299,8 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_hormones_and_endocrine_system_19"
+            "id": "q_hormones_and_endocrine_system_19",
+            "correct_option": 1
         },
         {
             "question": "शरीर में कार्बोहाइड्रेट का मुख्य कार्य क्या है?",
@@ -301,7 +315,8 @@
             "examName": "RRB NTPC UG CBT-I : 04 Sept, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_20"
+            "id": "q_hormones_and_endocrine_system_20",
+            "correct_option": 2
         },
         {
             "question": "______ अंतःस्रावी ग्रंथियों से स्रावित होते हैं।",
@@ -316,7 +331,8 @@
             "examName": "RPF Constable 2018 22 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_hormones_and_endocrine_system_21"
+            "id": "q_hormones_and_endocrine_system_21",
+            "correct_option": 3
         },
         {
             "question": "रक्त में शर्करा (Sugar) के स्तर में वृद्धि का पता ________ द्वारा लगाया जाता है।",
@@ -331,7 +347,8 @@
             "examName": "RRB Group D 17 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_hormones_and_endocrine_system_22"
+            "id": "q_hormones_and_endocrine_system_22",
+            "correct_option": 3
         },
         {
             "question": "________ युवावस्था के समय लड़कों में दिखाई देने वाले बदलाव का कारण बनता है।",
@@ -346,7 +363,8 @@
             "examName": "RRB Group D 31/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_hormones_and_endocrine_system_23"
+            "id": "q_hormones_and_endocrine_system_23",
+            "correct_option": 3
         },
         {
             "question": "मानव विकास हार्मोन किस ग्रंथि द्वारा स्रावित होता है?",
@@ -361,7 +379,8 @@
             "examName": "RRB NTPC CBT-I : 19 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_24"
+            "id": "q_hormones_and_endocrine_system_24",
+            "correct_option": 1
         },
         {
             "question": "पीयूष ग्रंथि द्वारा स्रावित वृद्धि हार्मोन का क्या कार्य है?",
@@ -391,7 +410,8 @@
             "examName": "RPF Constable 2018 16 Feb 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_26"
+            "id": "q_hormones_and_endocrine_system_26",
+            "correct_option": 1
         },
         {
             "question": "आयोडीन _________ के संश्लेषण के लिए आवश्यक है।",
@@ -406,7 +426,8 @@
             "examName": "RRB NTPC CBT-I : 13 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_hormones_and_endocrine_system_27"
+            "id": "q_hormones_and_endocrine_system_27",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा हार्मोन पीयूष ग्रंथि द्वारा स्रावित होता है?",
@@ -436,7 +457,8 @@
             "examName": "RRB JE 27 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_29"
+            "id": "q_hormones_and_endocrine_system_29",
+            "correct_option": 2
         },
         {
             "question": "थायरॉक्सिन हार्मोन बनाने के लिए किस ग्रंथि को आयोडीन की आवश्यकता होती है?",
@@ -451,7 +473,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_30"
+            "id": "q_hormones_and_endocrine_system_30",
+            "correct_option": 3
         },
         {
             "question": "फलों और बीजों में निम्नलिखित में से किस पादप हार्मोन की उच्च सांद्रता होती है?",
@@ -466,7 +489,8 @@
             "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_31"
+            "id": "q_hormones_and_endocrine_system_31",
+            "correct_option": 2
         },
         {
             "question": "वृद्धि हार्मोन का क्या कार्य है?",
@@ -496,7 +520,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_33"
+            "id": "q_hormones_and_endocrine_system_33",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा स्टेरॉयड हार्मोन का एक प्रकार है जो अधिवृक्क ग्रंथि से स्रावित होता है?",
@@ -511,7 +536,8 @@
             "examName": "RPF Constable 2018 17 Feb 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_34"
+            "id": "q_hormones_and_endocrine_system_34",
+            "correct_option": 3
         },
         {
             "question": "कई पादप चिपचिपा दूधिया तरल स्रावित करते हैं और इसका उपयोग अपने रक्षा तंत्र के लिए करते हैं। इस तरल को ___________________ के रूप में जाना जाता है।",
@@ -526,7 +552,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 25/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_hormones_and_endocrine_system_35"
+            "id": "q_hormones_and_endocrine_system_35",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा ग्रंथि वृद्धि हार्मोन का स्राव करता है?",
@@ -571,7 +598,8 @@
             "examName": "RRB JE 28 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_38"
+            "id": "q_hormones_and_endocrine_system_38",
+            "correct_option": 3
         },
         {
             "question": "मनुष्यों में वृद्धि हॉर्मोन (GH) का स्रवण कौन-सी ग्रंथि करती है? याज (Pancreas)",
@@ -586,7 +614,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_39"
+            "id": "q_hormones_and_endocrine_system_39",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से कौन सा हार्मोन युवावस्था के समय लड़कों में दिखाई देने वाली उपस्थिति में बदलाव लाता है है?",
@@ -601,7 +630,8 @@
             "examName": "RRB Group D 18/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_40"
+            "id": "q_hormones_and_endocrine_system_40",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा हार्मोन सभी अंगों की वृद्धि को उत्तेजित करता है?",
@@ -616,7 +646,8 @@
             "examName": "RRB ALP CBT-I 2024 : 27 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_41"
+            "id": "q_hormones_and_endocrine_system_41",
+            "correct_option": 3
         },
         {
             "question": "मानवों में लैंगिक परिपक्वता (Sexual maturation) के परिणामस्वरूप _______ ।",
@@ -631,7 +662,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_hormones_and_endocrine_system_42"
+            "id": "q_hormones_and_endocrine_system_42",
+            "correct_option": 1
         },
         {
             "question": "पौधों के हार्मोनों का उनके कार्यों के साथ सही मिलान पहचानें। जिबरेलिन: वृद्धि को रोकता है एब्सिसिक अम्ल : तने की वृद्धि में सहायता करता है। जिबरेलिन: कोशिका विभाजन को बढ़ावा देते हैं। एब्सिसिक अम्ल : वृद्धि को रोकता है। जिबरेलिन: तने की वृद्धि में सहायता करते हैं। एब्सिसिक अम्ल : कोशिका विभाजन को बढ़ावा देता है जिबरेलिन तने की वृद्धि में सहायता करते हैं। एब्सिसिक अम्ल : वृद्धि को रोकता है।",
@@ -676,7 +708,8 @@
             "examName": "RRB NTPC CBT-I : 7 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_45"
+            "id": "q_hormones_and_endocrine_system_45",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सी अंतःस्रावी ग्रंथि वृद्धि हार्मोन का स्राव करती है?",
@@ -691,7 +724,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_46"
+            "id": "q_hormones_and_endocrine_system_46",
+            "correct_option": 1
         },
         {
             "question": "कौन सा हार्मोन महिला जननांग के विकास में मदद करता है और मासिक धम चक्र को नियंत्रित करता है?",
@@ -721,7 +755,8 @@
             "examName": "RPF SI 2018 : 24 Dec, 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_48"
+            "id": "q_hormones_and_endocrine_system_48",
+            "correct_option": 2
         },
         {
             "question": "आपातकाल स्थिति के दौरान कौनसा हार्मोन स्रावित होता है?",
@@ -766,7 +801,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_51"
+            "id": "q_hormones_and_endocrine_system_51",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा एक पादप हार्मोन है?",
@@ -781,7 +817,8 @@
             "examName": "RRB NTPC CBT-I : 22 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_52"
+            "id": "q_hormones_and_endocrine_system_52",
+            "correct_option": 3
         },
         {
             "question": "मधमेंेह (Diabetes mellitus) किस हार्मोन के अपयाप्त स्राव के कारण होता है?",
@@ -796,7 +833,8 @@
             "examName": "RRB NTPC UG CBT-I : 29 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_53"
+            "id": "q_hormones_and_endocrine_system_53",
+            "correct_option": 1
         },
         {
             "question": "किस हार्मोन के स्राव से हृदय स्पंद और श्वसन दर में एक साथ वृद्धि होती है?",
@@ -811,7 +849,8 @@
             "examName": "RRB NTPC CBT-I : 31 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_54"
+            "id": "q_hormones_and_endocrine_system_54",
+            "correct_option": 3
         },
         {
             "question": "शरीर में निम्नलिखित में से किस हार्मोन का अत्यधिक उत्पादन कुशिंग सिंड्रोम का कारण बनता है, जिससे वजन बढ़ता है और त्वचा पतली हो जाती है?",
@@ -826,7 +865,8 @@
             "examName": "RPF SI CBT-I 2024 : 03 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_55"
+            "id": "q_hormones_and_endocrine_system_55",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौनसा हार्मोन बच्चे के जन्म के बाद दूध उत्पन्न करने के लिए उत्तेजित करता है?",
@@ -871,7 +911,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_58"
+            "id": "q_hormones_and_endocrine_system_58",
+            "correct_option": 2
         },
         {
             "question": "मानव शरीर में कौन-सी ग्रंथि वृद्धि हार्मोन का स्राव करती है?",
@@ -901,7 +942,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_60"
+            "id": "q_hormones_and_endocrine_system_60",
+            "correct_option": 2
         },
         {
             "question": "प्रजनन स्वास्थ्य के लिए सुरक्षित यौन संबंध बनाना क्यों महत्वपूर्ण है?",
@@ -916,7 +958,8 @@
             "examName": "RRB Level 01 Stage I 08/01/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_61"
+            "id": "q_hormones_and_endocrine_system_61",
+            "correct_option": 2
         },
         {
             "question": "अस्थि मज्जा में मौजूद कौन सा हार्मोन RBC उत्पादन को बढ़ावा देता है?",
@@ -931,7 +974,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_62"
+            "id": "q_hormones_and_endocrine_system_62",
+            "correct_option": 3
         },
         {
             "question": "शरीर में रक्त शर्करा (Sugar) के स्तर को कौन-सा हार्मोन नियंत्रित करता है?",
@@ -946,7 +990,8 @@
             "examName": "RRB NTPC CBT-I : 1 April 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_63"
+            "id": "q_hormones_and_endocrine_system_63",
+            "correct_option": 3
         },
         {
             "question": "घेंघा रोग ______ ग्रंथि का रोग है।",
@@ -961,7 +1006,8 @@
             "examName": "RPF Constable 2018 19 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_hormones_and_endocrine_system_64"
+            "id": "q_hormones_and_endocrine_system_64",
+            "correct_option": 3
         },
         {
             "question": "थाइराइड ग्रंथि क्या स्रावित करती है?",
@@ -976,7 +1022,8 @@
             "examName": "RPF SI 2018 : 19 Dec 2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_65"
+            "id": "q_hormones_and_endocrine_system_65",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन मनुष्यों में यौन परिपक्वता की प्रक्रिया का सबसे अच्छा वर्णन करता है? ओर ले जाता है हार्मोनल परिवर्तन शामिल होते हैं",
@@ -991,7 +1038,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_66"
+            "id": "q_hormones_and_endocrine_system_66",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा हार्मोन गभाशय को संकुचित करता है और गभाशय ग्रीवा को फैलाने के लिए उत्तेजित करता है?",
@@ -1006,7 +1054,8 @@
             "examName": "RRB NTPC CBT-I : 27 Feb 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_67"
+            "id": "q_hormones_and_endocrine_system_67",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से क्या पुरुषों में टसे्टोस्टेरोन का उत्पादन करता है?",
@@ -1021,7 +1070,8 @@
             "examName": "RRB Group D 25/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_68"
+            "id": "q_hormones_and_endocrine_system_68",
+            "correct_option": 2
         },
         {
             "question": "मानव शरीर में निम्नलिखित में से कौन सी ग्रंथि अंतःस्रावी ग्रंथि है?",
@@ -1036,7 +1086,8 @@
             "examName": "RRB NTPC CBT-I : 26 July 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_69"
+            "id": "q_hormones_and_endocrine_system_69",
+            "correct_option": 1
         },
         {
             "question": "जब वृद्धि हार्मोन का स्तर कम होता है, तो कौन वृद्धि हार्मोन-रिलीजिंग कारक स्रावित करता है और पिट्यूटरी ग्रंथि को वृद्धि हार्मोन स्रावण के लिए उत्तेजित करता है?",
@@ -1051,7 +1102,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_70"
+            "id": "q_hormones_and_endocrine_system_70",
+            "correct_option": 2
         },
         {
             "question": "प्रकाश से दूर तने के भाग में कोशिकाओं की तीव्र वृद्धि का क्या कारण है?",
@@ -1081,7 +1133,8 @@
             "examName": "RRB Level 01 Stage I 08/01/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_72"
+            "id": "q_hormones_and_endocrine_system_72",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित अंगों में से कौन-सा अंग वृद्धि हॉर्मोन मोचन कारक को विमोचित करता है, जो वृद्धि हॉर्मोन विमोचित करने के लिए पीयूष ग्रंथि को उद्दीपित करता है?",
@@ -1096,7 +1149,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_73"
+            "id": "q_hormones_and_endocrine_system_73",
+            "correct_option": 3
         },
         {
             "question": "टसे्टोस्टेरोन जो एक नर लैंगिक हार्मोन है _________ में संश्लेषित होता है।",
@@ -1111,7 +1165,8 @@
             "examName": "RRB Group D 25 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_hormones_and_endocrine_system_74"
+            "id": "q_hormones_and_endocrine_system_74",
+            "correct_option": 1
         },
         {
             "question": "कौन सी ग्रंथि एड्रेनालाईन (Adrenaline) का स्राव करती है?",
@@ -1126,7 +1181,8 @@
             "examName": "RRB ALP CBT-I 2024 : 27 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_75"
+            "id": "q_hormones_and_endocrine_system_75",
+            "correct_option": 1
         },
         {
             "question": "कौन सा हार्मोन शरीर में कार्बोहाइड्रेट, प्रोटीन और वसा के चयापचय को नियंत्रित करता है और इसके संश्लेषण के लिए आयोडीन आवश्यक है?",
@@ -1141,7 +1197,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_76"
+            "id": "q_hormones_and_endocrine_system_76",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा, सीधे रक्त में स्रावित किया जाता है और शरीर के विभिन्न अंगों तक पहुँचाया जाता है?",
@@ -1156,7 +1213,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_77"
+            "id": "q_hormones_and_endocrine_system_77",
+            "correct_option": 3
         },
         {
             "question": "थायरोक्सिन हार्मोन के निर्माण के लिए किस खनिज की आवश्यकता होती है?",
@@ -1171,7 +1229,8 @@
             "examName": "RRB Group D 30 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_78"
+            "id": "q_hormones_and_endocrine_system_78",
+            "correct_option": 2
         },
         {
             "question": "पश्च पीयूष ग्रंथि (posterior Pituitary gland) क्या स्रावित करती है?",
@@ -1186,7 +1245,8 @@
             "examName": "RPF SI 2018 : 19 Dec, 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_79"
+            "id": "q_hormones_and_endocrine_system_79",
+            "correct_option": 3
         },
         {
             "question": "थाइरॉक्सिन के संश्लेषण के लिए ________ आवश्यक है।",
@@ -1201,7 +1261,8 @@
             "examName": "RRB Group D 26 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_hormones_and_endocrine_system_80"
+            "id": "q_hormones_and_endocrine_system_80",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सी अंतःस्रावी ग्रंथि वृद्धि हार्मोन का स्राव करती है?",
@@ -1246,7 +1307,8 @@
             "examName": "RRB NTPC CBT-I : 16 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_hormones_and_endocrine_system_83"
+            "id": "q_hormones_and_endocrine_system_83",
+            "correct_option": 3
         },
         {
             "question": "संश्लेषित ऑक्सिन 2,4-D सामान्यतः किस रूप में प्रयोग किया जाता है?",
@@ -1261,7 +1323,8 @@
             "examName": "RPF SI CBT-I 2024 : 09 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_84"
+            "id": "q_hormones_and_endocrine_system_84",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सी ग्रंथि किसी जंतु को उड़ने के काबिल बनाती है?",
@@ -1276,7 +1339,8 @@
             "examName": "RRB JE 29 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_85"
+            "id": "q_hormones_and_endocrine_system_85",
+            "correct_option": 3
         },
         {
             "question": "मानव शरीर में रक्तचाप को नियंत्रित करने में कौन सी ग्रंथियां मदद करती हैं?",
@@ -1306,7 +1370,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_87"
+            "id": "q_hormones_and_endocrine_system_87",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा हार्मोन वृद्धि को रोकता है और पत्तियों के मुरझाने के लिए जिम्मेदार है?",
@@ -1321,7 +1386,8 @@
             "examName": "RRB NTPC CBT-I : 14 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_88"
+            "id": "q_hormones_and_endocrine_system_88",
+            "correct_option": 1
         },
         {
             "question": "पुरुष प्रजनन तंत्र के संबंध में निम्नलिखित में से कौन सा कथन सही है? आवश्यकता होती है।",
@@ -1336,7 +1402,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_89"
+            "id": "q_hormones_and_endocrine_system_89",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सी अंतःस्रावी ग्रंथि है?",
@@ -1366,7 +1433,8 @@
             "examName": "RPF Constable 2018 : 02 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_91"
+            "id": "q_hormones_and_endocrine_system_91",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन एक जैविक उत्प्रेरक है?",
@@ -1381,7 +1449,8 @@
             "examName": "RRB NTPC CBT-I : 23 Feb 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_92"
+            "id": "q_hormones_and_endocrine_system_92",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से क्या मनुष्यों में बौनेपन के लिए उत्तरदायी है?",
@@ -1396,7 +1465,8 @@
             "examName": "RRB NTPC CBT-I : 18 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_93"
+            "id": "q_hormones_and_endocrine_system_93",
+            "correct_option": 1
         },
         {
             "question": "जंतुओं में, डरावनी स्थिति (scary situation) के दौरान निम्नलिखित में से कौन-सा हार्मोन स्रावित होता है?",
@@ -1411,7 +1481,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_94"
+            "id": "q_hormones_and_endocrine_system_94",
+            "correct_option": 1
         },
         {
             "question": "कौन-सा हार्मोन लड़कों में यौन परिपक्वता को उत्प्रेरित करता है? - Horm Q₉₃₄. सही उत्तर: इंसुलिन की कमी व्याख्या: कम मात्रा में भोजन करने के बाद भी रक्त शर्करा (Sugar) का उच्च स्तर हाइपरग्लाइसीमिया को दर्शाता है, जो मुख्य रूप से इंसुलिन की कमी के कारण होता है। इंसुलिन एक हार्मोन है जो अग्न्याशय के लैंगरहैंस द्वीपों के बीटा कोशिकाओं द्वारा उत्पादित होता है। इसका मुख्य कार्य कोशिकाओं द्वारा ग्लूकोज अवशोषण को सुगर्म बनाना, यकृत और मांसपेशियों में ग्लाइकोजन संश्लेषण को बढ़ावा देना और ग्लूकोनियोजेनसेिस को रोकना है। जब इंसुलिन की कमी होती है, तो ग्लूकोज प्रभावी रूप से कोशिकाओं में प्रवेश नहीं कर पाता, जिससे रक्त ग्लूकोज स्तर बढ़ जाता है। यह स्थिति टाइप1 मधमेंेह मेलिटस की विशेषता है, जो एक ऑटोइम्यून विकार है जहां इंसुलिन-उत्पादक कोशिकाएं नष्ट हो जाती हैं। विकल्प 1 (वृद्धि हार्मोन की अधिकता) जायगेंटिज्म/एक्रोमेगली का कारण बनता है, मुख्य रूप से हाइपरग्लाइसीमिया नहीं। विकल्प 2 (थाइरॉक्सिन की कमी) हाइपोथायरायडिज्म के साथ वजन बढ़ने और थकान का कारण बनता है। विकल्प 3 (एस्ट्रोजन की अधिकता) प्रजनन कार्यों से संबंधित है, रक्त शर्करा (Sugar) विनियमन से नहीं। परीक्षा के लिए अतिरिक्त तथ्य: • इंसुलिन की खोज सबसे पहले 1921 में फ्रेडरिक बैंटिंग और चार्ल्सस बसे्ट ने की थी। • ग्लूकागॉन इंसुलिन का प्रतिवर्ती हार्मोन है, जो अग्न्याशय के अल्फा कोशिकाओं द्वारा स्रावित होता है। • टाइप1 मधमेंेह एक ऑटोइम्यून स्थिति है, जबकि टाइप 2 में इंसुलिन प्रतिरोध शामिल है। • अग्न्याशय में बहिःःस्रावी (पाचक एंजाइम) और अंतःस्रावी (हार्मोन) दोनों कार्य होते हैं। • हाइपरग्लाइसीमिया के लक्षणों में पॉल्यूरिया (बार-बार पेशाब आना), पॉलीडिप्सिया (अत्यधिक प्यास) और पॉलीफेजिया (बढ़ी हुई भूख) शामिल हैं। आगामी परीक्षाओं के लिए महत्वपूर्ण एक-पंक्तियाँ: ☛ कौन सा हार्मोन रक्त ग्लूकोज स्तर को कम करता है? → इंसुलिन ☛ अग्न्याशय की कौन सी कोशिकाएं इंसुलिन उत्पन्न करती हैं? → बीटा कोशिकाएं (β- कोशिकाएं) ☛ टाइप1 मधमेंेह का मुख्य कारण क्या है? → इंसुलिन-उत्पादक बीटा कोशिकाओं का ऑटोइम्यून विनाश ☛ कौन सा हार्मोन रक्त ग्लूकोज स्तर बढ़ाता है? → ग्लूकागॉन ☛ सामान्य उपवास रक्त ग्लूकोज स्तर क्या है? → 70-100 mg/dL Q₉₃₅. सही उत्तर: विकल्प 1 — ऑक्सिन व्याख्या: सही उत्तर ऑक्सिन है क्योंकि यह पौधों में एक सांद्रता प्रवणता प्रदर्शित करता है, जो मुख्य रूप से शीर्ष (Apex) विभज्योतक (प्ररोह शीर्ष (Apex)) और युवा पत्तियों में संश्लेषित होता है। यह हार्मोन ध्रुवीय परिवहन के माध्यमें से पौधे में नीचे की ओर गति करता है, जिसके परिणामस्वरूप शीर्ष (Apex) (प्ररोह शीर्ष (Apex)) पर सबसे अधिक सांद्रता और जड़ों की ओर प्रगतिशील रूप से कम होती जाती है। ऑक्सिन प्ररोहों में कोशिका दीर्घीकरण को बढ़ावा देता है और जड़ों में इसे रोकता है, जो इसके वितरण पैटन की व्याख्या करता है। विकल्प 2 (साइटोकिनिन) गलत है क्योंकि यह मुख्य रूप से जड़ शीर्ष (Apex) में संश्लेषित होता है और ऊपर की ओर गति करता है, कोशिका विभाजन को बढ़ावा देता है। विकल्प 3 (जिबरेलिन) गलत है क्योंकि यह युवा पत्तियों, बीजों और तनों में उत्पन्न होता है, जिसकी कोई विशिष्ट शीर्ष (Apex)-से-तल",
@@ -1426,7 +1497,8 @@
             "examName": "RRB Level 01 Stage I 22/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_95"
+            "id": "q_hormones_and_endocrine_system_95",
+            "correct_option": 2
         },
         {
             "question": "हार्मोन थायरोक्सिन को सामान्यतः _________ कहा जाता है।",
@@ -1441,7 +1513,8 @@
             "examName": "RRB JE CBT I - : 30 May 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_hormones_and_endocrine_system_96"
+            "id": "q_hormones_and_endocrine_system_96",
+            "correct_option": 1
         },
         {
             "question": "कौन-सा हॉर्मोन मानव रक्त में शर्करा (Sugar) की मात्रा को नियंत्रित करता है? mones & Endocrine System प्रवणता नहीं होती। विकल्प 4 (एथिलीन) गलत है क्योंकि यह एक गैसीय हार्मोन है जो पूरे पौधे में, विशेष रूप से तनाव के दौरान, उत्पन्न होता है और इस प्रवणता का पालन नहीं करता। परीक्षा के लिए अतिरिक्त तथ्य: • ऑक्सिन को पहली बार 1928 में F.W. वेंट द्वारा मानव मूत्र से अलग किया गया था। • 2,4-D जैसे संश्लेषित ऑक्सिन का उपयोग चौड़ी पत्ती वाले खरपतवारों को मारने के लिए शाकनाशी के रूप में किया जाता है। • ऑक्सिन पार्श्व कलिकाओं के विकास को रोककर शीर्ष (Apex) प्रभाविता को बढ़ावा देता है। • अम्ल वृद्धि परिकल्पना बताती है कि ऑक्सिन प्रोटॉन पंपों को सक्रिय करके कोशिका दीर्घीकरण को कैसे उत्तेजित करता है। • ऑक्सिन प्रकाशानुवर्तन और गुरुत्वानुवतन प्रतिक्रियाओं में महत्वपूर्ण भूमिका निभाता है। आगामी परीक्षाओं के लिए महत्वपूर्ण एक-पंक्ति प्रश्न: ☛ कौन सा पादप हार्मोन शीर्ष (Apex) प्रभाविता को बढ़ावा देता है? → ऑक्सिन ☛ कौन सा हार्मोन मुख्य रूप से जड़ शीर्ष (Apex) में संश्लेषित होता है? → साइटोकिनिन ☛ कौन सा पादप हार्मोन गैसीय प्रकृति का होता है? → एथिलीन ☛ कौन सा हार्मोन बीज प्रसुप्ति को तोड़ता है? → जिबरेलिन ☛ कौन सा हार्मोन फल पकने के लिए जिम्मेदार है? → एथिलीन Q₉₃₆. सही उत्तर: साइटोकाइनिन व्याख्या: साइटोकाइनिन पादप हार्मोन हैं जो कोशिका विभाजन (साइटोकाइनसेिस) को बढ़ावा देते हैं और सक्रिय कोशिका विभाजन वाले क्षेत्रों जैसे जड़ के सिरे, प्ररोह कलिकाओं और विकासशील फलों में अधिक सांद्रता में पाए जाते हैं। ये ऑक्सिन के साथ मिलकर पादप वृद्धि और विकास को नियंत्रित करते हैं। साइटोकाइनिन कोशिका चक्र में G₂ चरण से M चरण में संक्रमण को प्रोत्साहित करके कोशिका विभाजन को उत्तेजित करते हैं। एब्सिसिक अम्ल (विकल्प 2) एक तनाव हार्मोन है जो वृद्धि को रोकता है और प्रसुप्ति को बढ़ावा देता है। जिबरेलिन्स (विकल्प 3) तने के दीर्घीकरण और बीज अंकुरण को बढ़ावा देते हैं। ऑक्सिन (विकल्प 4) कोशिका दीर्घीकरण और शीर्ष (Apex) प्रभाविता को बढ़ावा देते हैं, लेकिन मुख्य रूप से कोशिका विभाजन को नहीं। परीक्षा के लिए अतिरिक्त तथ्य: • साइटोकाइनिन की खोज सबसे पहले किनेटिन के रूप में ऑटोक्लेव्ड हेरिंग शुक्राणु DNA से हुई थी • साइटोकाइनिन पत्तियों के वार्धक्य (Senescence) में देरी करते हैं क्योंकि ये क्लोरोफिल के विघटन को रोकते हैं • साइटोकाइनिन-ऑक्सिन अनुपात ऊतक संवर्धन में जड़ बनाम प्ररोह विकास निर्धारित करता है • ज़ीएटिन एक प्राकृतिक साइटोकाइनिन है जो पहली बार मक्का (Zea mays) से पृथक किया गया था • साइटोकाइनिन शीर्ष (Apex) प्रभाविता का प्रतिकार करके पार्श्व कलिका वृद्धि को बढ़ावा देते हैं आगामी परीक्षाओं के लिए महत्वपूर्ण एक-पंक्ति प्रश्न: ☛ कौन सा पादप हार्मोन कोशिका विभाजन को बढ़ावा देता है? → साइटोकाइनिन ☛ कौन सा हार्मोन पत्तियों के वार्धक्य (Senescence) में देरी करता है? → साइटोकाइनिन ☛ कौन सा हार्मोन ऑक्सिन के साथ मिलकर पादप वृद्धि को नियंत्रित करता है? → साइटोकाइनिन",
@@ -1456,7 +1529,8 @@
             "examName": "RRB JE 24 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_hormones_and_endocrine_system_97"
+            "id": "q_hormones_and_endocrine_system_97",
+            "correct_option": 3
         }
     ]
 }

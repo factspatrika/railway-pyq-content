@@ -16,7 +16,8 @@
             "examName": "RRB Group D 13 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_1"
+            "id": "q_carbon_and_its_compounds_1",
+            "correct_option": 1
         },
         {
             "question": "कार्बन यौगिकों के संदर्भ में, ' शाखित श्रृंखला' संरचना की क्या विशेषता है?",
@@ -31,7 +32,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_2"
+            "id": "q_carbon_and_its_compounds_2",
+            "correct_option": 3
         },
         {
             "question": "कार्बन का वह विशिष्ट लक्षण क्या है, जो इसके अधिक संख्या में कार्बनिक यौगिकों के निर्माण का कारण बनता है?",
@@ -46,7 +48,8 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_3"
+            "id": "q_carbon_and_its_compounds_3",
+            "correct_option": 2
         },
         {
             "question": "तत्वों के परमाणु द्रव्यमान की तुलना एक मानक संदर्भ के साथ की जाती है। कार्बन- 12 को मुख्य रूप से परमाणु द्रव्यमान इकाई के लिए मानक के रूप में चुना गया था क्योंकि _________ ।",
@@ -61,7 +64,8 @@
             "examName": "RRB JE 19/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_4"
+            "id": "q_carbon_and_its_compounds_4",
+            "correct_option": 2
         },
         {
             "question": "दिए गए विकल्प में से निम्नलिखित में से कौन सही रूप से मेल नहीं खाता है?",
@@ -91,7 +95,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_6"
+            "id": "q_carbon_and_its_compounds_6",
+            "correct_option": 1
         },
         {
             "question": "ऐल्केन संतृप्त हाइड्रोकार्बन होते हैं, जिनमें दो कार्बन परमाणुओं के बीच एक आबंध पाया जाता है। जिनका सामान्य सूत्र क्या है?",
@@ -136,7 +141,8 @@
             "examName": "RRB Group D 28/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_9"
+            "id": "q_carbon_and_its_compounds_9",
+            "correct_option": 3
         },
         {
             "question": "जब सान्द्र सल्फ्यूरिक अम्ल की कुछ बूंदों की उपस्थिति में गर्म करने पर एथेनॉल, एथेनोइक अम्ल के साथ अभिक्रिया करता है, तो क्या बनता है?",
@@ -151,7 +157,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_10"
+            "id": "q_carbon_and_its_compounds_10",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा विभिन्न रूपों में मौजूद हो सकता है?",
@@ -166,7 +173,8 @@
             "examName": "RRB Group D 26/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_11"
+            "id": "q_carbon_and_its_compounds_11",
+            "correct_option": 2
         },
         {
             "question": "चींटी के काटने से उत्पन्न फॉर्मिक एसिड के प्रभाव को बेअसर करने के लिए निम्नलिखित में से किसका उपयोग किया जा सकता है?",
@@ -181,7 +189,8 @@
             "examName": "RRB NTPC CBT-I : 1 April 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_12"
+            "id": "q_carbon_and_its_compounds_12",
+            "correct_option": 3
         },
         {
             "question": "यौगिक C₆H₁₀ का अगला समजातीय श्रेणी सदस्य क्या होगा?",
@@ -196,7 +205,8 @@
             "examName": "RRB Group D 24 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_13"
+            "id": "q_carbon_and_its_compounds_13",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन, कार्बन के अपररूपों (allotropes) का सर्वोत्तम वर्णन करता है? रासायनिक गुणधर्म समान होते हैं।",
@@ -204,14 +214,15 @@
                 "वे कार्बन के विभिन्न समस्थानिक हैं जिनमें न्यूट्रॉनों की संख्या भिन्न-भिन्न होती है।",
                 "वे कार्बन के समावयवी हैं, जिनका आणविक सूत्र समान लेकिन संरचना भिन्न होती है।",
                 "ये विभिन्न तत्वों के साथ कार्बन द्वारा निर्मित यौगिक हैं।",
-                "वे कार्बन के विभिन्न संरचनात्मक रूप हैं जिनके भौतिक गुणधर्म भिन्न लेकिन रासायनिक गुणधर्म समान होते हैं।"
+                "वे कार्बन के विभिन्न संरचनात्मक रूप हैं जिनके भौतिक गुणधर्म भिन्न लेकिन"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: वे कार्बन के विभिन्न संरचनात्मक रूप हैं जिनके भौतिक गुणधर्म भिन्न लेकिन\n\n📝 व्याख्या:\nकार्बन के अपररूप (Allotropes) वे पदार्थ होते हैं जो एक ही तत्व (कार्बन) से बने होते हैं, लेकिन उनकी परमाणुओं की व्यवस्था (arrangement) अलग-अलग होती है। चूँकि ये सभी शुद्ध कार्बन से बने हैं, इसलिए इनके रासायनिक गुणधर्म (Chemical properties) समान होते हैं, लेकिन परमाणुओं की ज्यामितीय संरचना में अंतर के कारण इनके भौतिक गुणधर्म (Physical properties) जैसे कठोरता, विद्युत चालकता और गलनांक पूरी तरह भिन्न होते हैं। उदाहरण के लिए, हीरा (Diamond) अत्यंत कठोर और विद्युत का कुचालक है, जबकि ग्रेफाइट (Graphite) नरम है और विद्युत का सुचालक है।\n\n🔬 वैज्ञानिक सिद्धांत व समीकरण:\nअपररूपता (Allotropy) का सिद्धांत इस तथ्य पर आधारित है कि कार्बन की संयोजकता (Valency)₄ होती है, जिससे यह विभिन्न संकरण (Hybridization) अवस्थाओं में रह सकता है।\n- हीरा: sp³ संकरण (चतुष्फलकीय संरचना)।\n- ग्रेफाइट: sp² संकरण (षट्कोणीय परतदार संरचना)।\n- फुलरीन (C₆₀): बकीबॉल संरचना।\nरासायनिक रूप से, दहन (Combustion) पर ये सभी समान उत्पाद देते हैं:\nC (s) + O₂ (g) → CO₂ (g) + ऊर्जा\n\n❌ गलत विकल्प विश्लेषण:\n• वे कार्बन के विभिन्न समस्थानिक हैं जिनमें न्यूट्रॉनों की संख्या भिन्न-भिन्न होती है: यह गलत है क्योंकि समस्थानिक (Isotopes) एक ही तत्व के वे परमाणु हैं जिनमें प्रोटॉन समान लेकिन न्यूट्रॉन अलग होते हैं (जैसे C¹², C¹³, C¹⁴), जबकि अपररूप संरचनात्मक रूप हैं।\n• वे कार्बन के समावयवी हैं, जिनका आणविक सूत्र समान लेकिन संरचना भिन्न होती है: यह गलत है क्योंकि समावयवता (Isomerism) मुख्य रूप से कार्बनिक यौगिकों (Compounds) में पाई जाती है, न कि शुद्ध तत्वों के अपररूपों में।\n• ये विभिन्न तत्वों के साथ कार्बन द्वारा निर्मित यौगिक हैं: यह गलत है क्योंकि अपररूप केवल कार्बन परमाणुओं से बने होते हैं, इनमें कोई अन्य तत्व शामिल नहीं होता।\n\n💡 परीक्षा Tip:\nRRB परीक्षाओं में अक्सर पूछा जाता है कि \"कौन सा कार्बन का अपररूप विद्युत का सुचालक है?\" तो याद रखें, ग्रेफाइट एकमात्र ऐसा अपररूप है जिसमें मुक्त इलेक्ट्रॉन (Free electrons) पाए जाते हैं, इसलिए यह विद्युत का सुचालक होता है। साथ ही, हीरा प्रकृति का सबसे कठोर ज्ञात पदार्थ है।",
             "examName": "RRB Level 01 Stage I 05/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_14"
+            "id": "q_carbon_and_its_compounds_14",
+            "correct_option": 3
         },
         {
             "question": "एथीन (C₂H₂) का मोलर द्रव्यमान क्या है?",
@@ -226,12 +237,13 @@
             "examName": "RRB Group D 2 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_15"
+            "id": "q_carbon_and_its_compounds_15",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सी बेंजीन अणु की सही संरचना है?",
             "options": [
-                "7",
+                "N/A",
                 "14",
                 "2",
                 "10"
@@ -257,7 +269,8 @@
             "examName": "RRB JE 25 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_17"
+            "id": "q_carbon_and_its_compounds_17",
+            "correct_option": 3
         },
         {
             "question": "दो या दो से अधिक रूपों में किसी तत्व का होना जिसमें भौतिक गुण भिन्न लेकिन रासायनिक गुण समान होते है वह क्या कहलाता है?",
@@ -272,7 +285,8 @@
             "examName": "RRB Group D 31/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_18"
+            "id": "q_carbon_and_its_compounds_18",
+            "correct_option": 2
         },
         {
             "question": "इनमें से किसका उपयोग पेट्रोल के साथ कारों में ईंधन के रूप में किया जाता है?",
@@ -287,7 +301,8 @@
             "examName": "RRB JE 27 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_19"
+            "id": "q_carbon_and_its_compounds_19",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किसमें शाखित-श्रृंखला हाइड्रोकार्बन है?",
@@ -302,7 +317,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_20"
+            "id": "q_carbon_and_its_compounds_20",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा सबसे छोटा ऐल्केन है, जो एक स्थिर वलय बना सकता है?",
@@ -317,7 +333,8 @@
             "examName": "RRB Level 01 Stage I 08/01/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_21"
+            "id": "q_carbon_and_its_compounds_21",
+            "correct_option": 3
         },
         {
             "question": "कार्बन युक्त कार्बन-कार्बन द्वि-आबंध वाले यौगिकों को _________________ के रूप में जाना जाता है।",
@@ -332,7 +349,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_22"
+            "id": "q_carbon_and_its_compounds_22",
+            "correct_option": 3
         },
         {
             "question": "कार्बन का निम्नलिखित में से कौन-सा अपररूप, विद्युत का चालन करता है?",
@@ -347,7 +365,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_23"
+            "id": "q_carbon_and_its_compounds_23",
+            "correct_option": 2
         },
         {
             "question": "प्रोपेनोन में कितने द्वि-आबंध उपस्थित हैं?",
@@ -362,7 +381,8 @@
             "examName": "RRB Group D 7/10/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_24"
+            "id": "q_carbon_and_its_compounds_24",
+            "correct_option": 2
         },
         {
             "question": "इथेनॉल को एथीन में बदलने के लिए उपयोग किया जाने वाला निजलीकरण एजेंट __________ है",
@@ -377,7 +397,8 @@
             "examName": "RRB Group D 22/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_25"
+            "id": "q_carbon_and_its_compounds_25",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से किसका उपयोग मादक पेय में किया जाता है?",
@@ -392,7 +413,8 @@
             "examName": "RRB JE 24 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_26"
+            "id": "q_carbon_and_its_compounds_26",
+            "correct_option": 1
         },
         {
             "question": "एथेनॉइक अम्ल (Ethanoic acid), सांद्र H₂SO₄ की उपस्थिति में एथेनॉल के साथ अभिक्रिया करके ____________ बनाता है।",
@@ -407,7 +429,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_27"
+            "id": "q_carbon_and_its_compounds_27",
+            "correct_option": 3
         },
         {
             "question": "ईंधन के रूप में व्यापक रूप से उपयोग किए जाने वाले कार्बन द्वारा निर्मित सबसे सरल यौगिक की पहचान करें।",
@@ -422,7 +445,8 @@
             "examName": "RRB ALP CBT-I 2024 : 28 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_28"
+            "id": "q_carbon_and_its_compounds_28",
+            "correct_option": 1
         },
         {
             "question": "_____ और पानी, वायु की उपस्थिति में अभिक्रिया करके कार्बोनिक अम्ल बनाते हैं।",
@@ -437,7 +461,8 @@
             "examName": "RRB JE CE 28 Aug 2019 Shift 2 CBT 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_29"
+            "id": "q_carbon_and_its_compounds_29",
+            "correct_option": 2
         },
         {
             "question": "पाँच कार्बन परमाणु वाले यौगिक 'पेंटेनल' में क्रियात्मक समूह का चयन करें।",
@@ -452,7 +477,8 @@
             "examName": "RRB Group D 20 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_30"
+            "id": "q_carbon_and_its_compounds_30",
+            "correct_option": 1
         },
         {
             "question": "आइसो ब्यूटेन का आण्विक सूत्र क्या है?",
@@ -467,7 +493,8 @@
             "examName": "RRB Group D 11 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_31"
+            "id": "q_carbon_and_its_compounds_31",
+            "correct_option": 1
         },
         {
             "question": "नीचे दिए गए कथनों पर विचार करें और सही उत्तर की पहचान कीजिए।\n\n• कथन।: कार्बन में अन्य कार्बन परमाणुओं के साथ बंध बनाने की अद्वितीय क्षमता होती है, जिससे बड़े अणु बनते हैं।\n\n• कथन II: इस गुण को श्रृंखलन कहा जाता है।",
@@ -482,7 +509,8 @@
             "examName": "RRB Group D 23 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_32"
+            "id": "q_carbon_and_its_compounds_32",
+            "correct_option": 2
         },
         {
             "question": "फुलेरीन __________ का एक अपरूप है।",
@@ -497,7 +525,8 @@
             "examName": "RRB Group D 25 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_33"
+            "id": "q_carbon_and_its_compounds_33",
+            "correct_option": 3
         },
         {
             "question": "रसायन विज्ञान की कौन-सी शाखा उन तत्वों और यौगिकों के अध्ययन से संबंधित है जिनमें कार्बन-हाइड्रोजन आबंध नहीं होते हैं?",
@@ -512,7 +541,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_34"
+            "id": "q_carbon_and_its_compounds_34",
+            "correct_option": 3
         },
         {
             "question": "हाइड्रोकार्बन के एल्काइन समूह का पहला सदस्य कौन सा है?",
@@ -527,7 +557,8 @@
             "examName": "RRB Group D 1 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_35"
+            "id": "q_carbon_and_its_compounds_35",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा, चक्रीय हाइड्रोकार्बन का उदाहरण है?",
@@ -542,7 +573,8 @@
             "examName": "RRB Level 01 Stage I 05/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_36"
+            "id": "q_carbon_and_its_compounds_36",
+            "correct_option": 1
         },
         {
             "question": "डीऑक्सीराइबोन्यूक्लिक अम्ल (DNA) और राइबोन्यूक्लिक अम्ल (RNA), जैवअणुओं के किस वग से संबंधित हैं?",
@@ -572,7 +604,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_38"
+            "id": "q_carbon_and_its_compounds_38",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस समूह में सभी हाइड्रोकार्बन एक ही समजातीय श्रेणी से संबंधित नहीं हैं?",
@@ -602,7 +635,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_40"
+            "id": "q_carbon_and_its_compounds_40",
+            "correct_option": 3
         },
         {
             "question": "हाइड्रोकार्बन के परिवार का प्रत्येक क्रमिक सदस्य ______ समूह द्वारा पिछले सदस्य से भिन्न होता है। मैथिलीन एथिल मिथाइल एथिलीन",
@@ -633,7 +667,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_42"
+            "id": "q_carbon_and_its_compounds_42",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस हाइड्रोकार्बन में शाखित श्रृंखला होती है?",
@@ -648,7 +683,8 @@
             "examName": "RRB Level 01 Stage I 27/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_43"
+            "id": "q_carbon_and_its_compounds_43",
+            "correct_option": 3
         },
         {
             "question": "इनमें से कौन सा आणविक सूत्र चक्रीय हाइड्रोकार्बन से संबंधित है? 3 7 3 4 1010² 5?",
@@ -678,7 +714,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_45"
+            "id": "q_carbon_and_its_compounds_45",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन कार्बन का अपररूप नहीं है?",
@@ -693,7 +730,8 @@
             "examName": "RRB NTPC CBT-I : 22 Feb 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_46"
+            "id": "q_carbon_and_its_compounds_46",
+            "correct_option": 1
         },
         {
             "question": "ब्यूटाइन का आणविक सूत्र क्या है?",
@@ -708,7 +746,8 @@
             "examName": "RRB Group D 17 Dec 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_47"
+            "id": "q_carbon_and_its_compounds_47",
+            "correct_option": 3
         },
         {
             "question": "4 कार्बन परमाणुओं के साथ हाइड्रोकार्बन के नाम में जोड़ा गया उपसग है।",
@@ -723,7 +762,8 @@
             "examName": "RRB Group D 18 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_48"
+            "id": "q_carbon_and_its_compounds_48",
+            "correct_option": 3
         },
         {
             "question": "एथेनॉल का एथेनोइक एसिड में रूपांतरण किसके द्वारा उत्प्रेरित होता है?",
@@ -738,7 +778,8 @@
             "examName": "RRB Group D 30 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_49"
+            "id": "q_carbon_and_its_compounds_49",
+            "correct_option": 1
         },
         {
             "question": "इथेनॉल के एक अणु में कितने हाइड्रोजन परमाणु उपस्थित हैं?",
@@ -768,7 +809,8 @@
             "examName": "RRB Group D 17 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_51"
+            "id": "q_carbon_and_its_compounds_51",
+            "correct_option": 2
         },
         {
             "question": "ऐल्कीन श्रेणी के पहले सदस्य का सही सूत्र कौन-सा है?",
@@ -783,7 +825,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_52"
+            "id": "q_carbon_and_its_compounds_52",
+            "correct_option": 1
         },
         {
             "question": "निम्न में से कौन सा पेन्टेन का समावयव नहीं है?",
@@ -798,12 +841,13 @@
             "examName": "RRB Group D 12 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_53"
+            "id": "q_carbon_and_its_compounds_53",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस समुच्चय के सभी यौगिक एक ही समजातीय श्रेणी के हैं? , C H , C H , C H?",
             "options": [
-                "C H , C H , C H",
+                "C₂H₆ , C₃H₈",
                 "C H , C H , C H",
                 "C H",
                 "C H , C H"
@@ -828,12 +872,13 @@
             "examName": "RRB JE 28 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_55"
+            "id": "q_carbon_and_its_compounds_55",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित कार्बनिक यौगिकों को उनके क्वथनांक के आरोही क्रम में व्यवस्थित कीजिए। CH₄, CH₃COOH, CHCl₃, CH₃CH₂OH।",
             "options": [
-                "CH CH OH < CH COOH < CHCl₃ < CH₄",
+                "CH₄ < CHCl₃ < CH₃CH₂OH < CH₃COOH",
                 "CH < CHCl₃ < CH₃COOH < CH₃CH₂OH",
                 "CH₃COOH < CH₃CH₂OH < CHCI₃ < CH₄",
                 "CH₄ < CHCI < CH CH OH < CH COOH"
@@ -858,7 +903,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_57"
+            "id": "q_carbon_and_its_compounds_57",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा कार्बन यौगिक गुड़ के किण्वन से बनता है?",
@@ -873,12 +919,13 @@
             "examName": "RRB Group D 20 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_58"
+            "id": "q_carbon_and_its_compounds_58",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस समुच्चय के सभी यौगिक एक ही समजातीय श्रेणी से संबंधित हैं? , सी एच , सी एच , सी एच?",
             "options": [
-                "सी एच , सी एच",
+                "CH₄, C₂H₆",
                 "सी एच",
                 "सी एच , सी एच , सी एच",
                 "सी एच , सी एच , सी एच"
@@ -903,7 +950,8 @@
             "examName": "RRB Group D 10/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_60"
+            "id": "q_carbon_and_its_compounds_60",
+            "correct_option": 1
         },
         {
             "question": "जब एथेनॉल को अतिरिक्त सांद्र सल्फ्यूरिक अम्ल के साथ 443 K पर गर्म किया जाता है, तो सही उत्पाद का चयन कीजिए।",
@@ -933,7 +981,8 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_62"
+            "id": "q_carbon_and_its_compounds_62",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा गुण समजातीय श्रेणी में समान रहता है?",
@@ -948,7 +997,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_63"
+            "id": "q_carbon_and_its_compounds_63",
+            "correct_option": 3
         },
         {
             "question": "परमाणु ऊर्जा संयंत्र में मंदक के रूप में किस सामग्री का उपयोग किया जाता है, जो न्यूट्रॉन को धीमा कर देता है और उन्हें विखंडन के लायक बनता है?",
@@ -963,7 +1013,8 @@
             "examName": "RRB JE 24 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_64"
+            "id": "q_carbon_and_its_compounds_64",
+            "correct_option": 3
         },
         {
             "question": "जब एथीन (C₂H₄) निकल उत्प्रेरक की उपस्थिति में हाइड्रोजन (H₂) के साथ अभिक्रिया करता है, तो निम्नलिखित में से कौन-सा उत्पाद बनता है?",
@@ -978,7 +1029,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_65"
+            "id": "q_carbon_and_its_compounds_65",
+            "correct_option": 3
         },
         {
             "question": "कार्यात्मक समूह - CHO निम्नलिखित में से किसमें मौजूद होता है?",
@@ -993,7 +1045,8 @@
             "examName": "RRB JE CBT-I : 22 May, 2019 Shift 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_66"
+            "id": "q_carbon_and_its_compounds_66",
+            "correct_option": 1
         },
         {
             "question": "मिथाइल एल्कोहोल और एथिल एल्कोहोल ______ इकाइयों द्वारा आणविक द्रव्यमान में भिन्न होते हैं।",
@@ -1008,7 +1061,8 @@
             "examName": "RRB Group D 20 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_67"
+            "id": "q_carbon_and_its_compounds_67",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा यौगिक संतृप्त हाइड्रोकार्बन के रूप में वर्गीकृत है?",
@@ -1023,12 +1077,13 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_68"
+            "id": "q_carbon_and_its_compounds_68",
+            "correct_option": 3
         },
         {
             "question": "कार्बन अन्य तत्वों के साथ प्रबल बंध बनाता है। निम्नलिखित में से कौन सा कथन के लिए सही स्पष्टीकरण है? धारण करता है। से धारण करता है। धारण करता है। से धारण करता है।",
             "options": [
-                "कार्बन नाभिक अपने छोटे आकार के कारण इलेक्ट्रॉनों के साझा युग्मों को दृढ़ता से धारण करता है।",
+                "कार्बन नाभिक अपने छोटे आकार के कारण इलेक्ट्रॉनों के साझा युग्मों को दृढ़ता से",
                 "कार्बन नाभिक अपने छोटे आकार के कारण इलेक्ट्रॉनों के साझा युग्मों को कमजोर रूप से धारण करता है।",
                 "कार्बन नाभिक अपने बड़े आकार के कारण इलेक्ट्रॉनों के साझा युग्मों को दृढ़ता से धारण करता है।",
                 "कार्बन नाभिक अपने बड़े आकार के कारण इलेक्ट्रॉनों के साझा युग्मों को कमजोर रूप से धारण करता है।"
@@ -1053,7 +1108,8 @@
             "examName": "RRB Group D 26 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_70"
+            "id": "q_carbon_and_its_compounds_70",
+            "correct_option": 1
         },
         {
             "question": "नीचे की संरचना में दिखाए गए यौगिक का नाम क्या है?",
@@ -1068,7 +1124,8 @@
             "examName": "RRB Group D 22 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_71"
+            "id": "q_carbon_and_its_compounds_71",
+            "correct_option": 1
         },
         {
             "question": "________ का बहुत अधिक गलनांक और क्वथनांक है",
@@ -1113,7 +1170,8 @@
             "examName": "RRB Group D 16 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_74"
+            "id": "q_carbon_and_its_compounds_74",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस अणु में तीन कार्बन परमाणु हैं?",
@@ -1128,7 +1186,8 @@
             "examName": "RRB Group D 5 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_75"
+            "id": "q_carbon_and_its_compounds_75",
+            "correct_option": 1
         },
         {
             "question": "कार्बन, अपने सभी अपररूपों में, ऑक्सीजन में जलकर __________ देता है।",
@@ -1143,7 +1202,8 @@
             "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_76"
+            "id": "q_carbon_and_its_compounds_76",
+            "correct_option": 1
         },
         {
             "question": "किसी कार्बनिक यौगिक में, क्रियात्मक समूह _______ को निर्धारित करता है।",
@@ -1188,7 +1248,8 @@
             "examName": "RRB Group D 23 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_79"
+            "id": "q_carbon_and_its_compounds_79",
+            "correct_option": 2
         },
         {
             "question": "कार्बनिक यौगिकों की किसी भी समजातीय श्रेणी में बढ़ते हुए आण्विक द्रव्यमान के साथ कौन सा गुणधर्म क्रमबद्धता नहीं दिखाता है?",
@@ -1203,7 +1264,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_80"
+            "id": "q_carbon_and_its_compounds_80",
+            "correct_option": 3
         },
         {
             "question": "निम्न में से कौन सजातीय श्रृंखला नहीं है?",
@@ -1218,7 +1280,8 @@
             "examName": "RRB Group D 7 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_81"
+            "id": "q_carbon_and_its_compounds_81",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा युग्म एक ही समजातीय श्रेणी में होगा?",
@@ -1233,7 +1296,8 @@
             "examName": "RRB Group D 2 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_82"
+            "id": "q_carbon_and_its_compounds_82",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा, इथेनॉल (C₂H₅OH) का सामान्य नाम है?",
@@ -1248,7 +1312,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_83"
+            "id": "q_carbon_and_its_compounds_83",
+            "correct_option": 3
         },
         {
             "question": "_______ में, प्रत्येक कार्बन परमाणु चार अन्य कार्बन परमाणुओं के साथ कठोर तीन आयामी संरचना बनाते हुए एक आबन्ध में होते हैं।",
@@ -1263,7 +1328,8 @@
             "examName": "RRB Group D 8/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_84"
+            "id": "q_carbon_and_its_compounds_84",
+            "correct_option": 2
         },
         {
             "question": "C H और C H युग्म के बीच आणविक द्रव्यमान में अंतर है:",
@@ -1308,12 +1374,13 @@
             "examName": "RRB Group D 20 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_87"
+            "id": "q_carbon_and_its_compounds_87",
+            "correct_option": 1
         },
         {
             "question": "कार्बन किसके कारण श्रृंखलन गुण प्रदर्शित करता है?",
             "options": [
-                "इसका आकार छोटा है और कार्बन-कार्बन बंध की सामर्थ्य अधिक है।",
+                "इसका आकार छोटा है और कार्बन-कार्बन बंध की सामर्थ्यय अधिक है।",
                 "इसका आकार बड़ा है और कार्बन-कार्बन बंध की सामर्थ्य अधिक है।",
                 "इसका आकार छोटा है और कार्बन-कार्बन बंध की सामर्थ्य दुर्बल है।",
                 "इसका आकार बड़ा है और कार्बन-कार्बन बंध की सामर्थ्य दुर्बल है।"
@@ -1338,7 +1405,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_89"
+            "id": "q_carbon_and_its_compounds_89",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किसे वुड स्पिरिट कहा जाता है?",
@@ -1353,7 +1421,8 @@
             "examName": "RPF SI 2018 : 12 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_90"
+            "id": "q_carbon_and_its_compounds_90",
+            "correct_option": 2
         },
         {
             "question": "नैफ्थलीन की गोलियां _______ से तैयार की जाती हैं। 3 8 5 12 5 12 3 8 3 6 3 4 3 4",
@@ -1368,7 +1437,8 @@
             "examName": "RRB Group D 13 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_91"
+            "id": "q_carbon_and_its_compounds_91",
+            "correct_option": 2
         },
         {
             "question": "दो क्रमार्गत समजातीय श्रेणी सदस्यों के बीच आणविक द्रव्यमान में अंतर होगा:",
@@ -1383,7 +1453,8 @@
             "examName": "RRB Group D 17 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_92"
+            "id": "q_carbon_and_its_compounds_92",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा एक संतृप्त कार्बन यौगिक है?",
@@ -1403,7 +1474,7 @@
         {
             "question": "ऐल्डिहाइड के लिए गलत तथ्य का चयन करें।",
             "options": [
-                "C₃H₇COH → ब्यूटानल → ब्यूटिरल्डिहाइड",
+                "CH₂COH → मेथनॉल → फॉमलाडयहाइड",
                 "CH₃COH→ एथनल → एसिटाल्डीहाइड",
                 "C₂H₅COH → प्रोपेनल → प्रोपियालडिहाइड",
                 "CH₂COH → मेथनॉल → फॉर्मेल्डिहाइड"
@@ -1428,12 +1499,13 @@
             "examName": "RPF SI 2018 : 24 Dec, 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_95"
+            "id": "q_carbon_and_its_compounds_95",
+            "correct_option": 2
         },
         {
             "question": "साइक्लोहुक्सेन का सूत्र क्या है?",
             "options": [
-                "C H",
+                "C₆H₁₂",
                 "C H",
                 "C H",
                 "C H"
@@ -1458,7 +1530,8 @@
             "examName": "RRB Group D 28 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_97"
+            "id": "q_carbon_and_its_compounds_97",
+            "correct_option": 1
         },
         {
             "question": "एक असंतृप्त कार्बोहाइड्रेट जिसमें द्विआबंध होता है, वह है:",
@@ -1473,7 +1546,8 @@
             "examName": "RRB JE CBT-I 2024 18 Dec 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_98"
+            "id": "q_carbon_and_its_compounds_98",
+            "correct_option": 3
         },
         {
             "question": "समजातीय श्रृंखला के बारे में निम्नलिखित में से कौन सा कथन सत्य है?",
@@ -1488,7 +1562,8 @@
             "examName": "RRB Level 01 Stage I 05/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_99"
+            "id": "q_carbon_and_its_compounds_99",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा तत्व कार्बन की तरह श्रृंखलन गुण दर्शाता है?",
@@ -1503,7 +1578,8 @@
             "examName": "RRB Group D 1 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_100"
+            "id": "q_carbon_and_its_compounds_100",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किसका उपयोग इत्र और सुगंधित पदार्थ बनाने में किया जाता है?",
@@ -1518,7 +1594,8 @@
             "examName": "RPF Constable 2018 14 Feb 2019",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_101"
+            "id": "q_carbon_and_its_compounds_101",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा एक संतृप्त कार्बन यौगिक है?",
@@ -1533,7 +1610,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_102"
+            "id": "q_carbon_and_its_compounds_102",
+            "correct_option": 3
         },
         {
             "question": "वायुमंडल में ओजोन परत के क्षरण के लिए निम्नलिखित में से कौन सा/से उत्तरदायी हैं?",
@@ -1548,7 +1626,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_103"
+            "id": "q_carbon_and_its_compounds_103",
+            "correct_option": 3
         },
         {
             "question": "_______में प्रत्येक कार्बन परमाणु एक ही तल में तीन अन्य कार्बन परमाणुओं से बंधे होते हैं जो षट्कोणीय सरणी प्रदान करते हैं।",
@@ -1563,7 +1642,8 @@
             "examName": "RRB Group D 9/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_104"
+            "id": "q_carbon_and_its_compounds_104",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा यौगिक असंतृप्त है?",
@@ -1594,7 +1674,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_106"
+            "id": "q_carbon_and_its_compounds_106",
+            "correct_option": 3
         },
         {
             "question": "CH 3 COCH 3 का IUPAC नाम क्या है?",
@@ -1624,7 +1705,8 @@
             "examName": "RRB Group D 14 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_108"
+            "id": "q_carbon_and_its_compounds_108",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सी संरचना कार्बन परमाणुओं की बंद श्रृंखला से बनती है?",
@@ -1639,7 +1721,8 @@
             "examName": "RRB Group D 20 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_109"
+            "id": "q_carbon_and_its_compounds_109",
+            "correct_option": 2
         },
         {
             "question": "साइक्लोहुक्सेन में ______ CC बंध और ______ CH बंध होते हैं, इसलिए कुल ______ सहसंयोजक बंध होते हैं।",
@@ -1654,7 +1737,8 @@
             "examName": "RRB Group D 17 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_110"
+            "id": "q_carbon_and_its_compounds_110",
+            "correct_option": 3
         },
         {
             "question": "________ अल्कोहल और कार्बोक्साइलिक अम्ल को वापस देने के लिए एक अम्ल या क्षार की उपस्थिति में प्रतिक्रिया करता है-",
@@ -1669,7 +1753,8 @@
             "examName": "RRB Group D 10/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_111"
+            "id": "q_carbon_and_its_compounds_111",
+            "correct_option": 2
         },
         {
             "question": "________ एक असंतृप्त हाइड्रोकार्बन है।",
@@ -1684,7 +1769,8 @@
             "examName": "RRB Group D 10/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_112"
+            "id": "q_carbon_and_its_compounds_112",
+            "correct_option": 2
         },
         {
             "question": "पयाप्त ऑक्सीजन की उपस्थिति में मेथेन (CH 4) के पूर्ण दहन से कौन-से उत्पाद बनते हैं?",
@@ -1699,7 +1785,8 @@
             "examName": "RRB JE 19/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_113"
+            "id": "q_carbon_and_its_compounds_113",
+            "correct_option": 2
         },
         {
             "question": "ऐल्केन का सामान्य सूत्र क्या है?",
@@ -1714,7 +1801,8 @@
             "examName": "RRB Group D 16/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_114"
+            "id": "q_carbon_and_its_compounds_114",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा कार्बन का अपररूप है, जिसकी संरचना पिंजरे-जैसी (cage-like structure) होती है?",
@@ -1729,7 +1817,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_115"
+            "id": "q_carbon_and_its_compounds_115",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित रासायनिक प्रतिक्रिया पर विचार कीजिए। CO (g) + ²H² (g) → P इस अभिक्रिया के उत्पाद (P) की भविष्यवाणी कीजिए।",
@@ -1759,7 +1848,8 @@
             "examName": "RRB Group D 30 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_117"
+            "id": "q_carbon_and_its_compounds_117",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से पृथ्वी पर सबसे हल्का पदार्थ कौन सा है?",
@@ -1789,7 +1879,8 @@
             "examName": "RRB Level 01 Stage I 17/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_119"
+            "id": "q_carbon_and_its_compounds_119",
+            "correct_option": 1
         },
         {
             "question": "यौगिक प्रोपीन की समजातीय श्रृंखला का चौथा अगला सदस्य कौन सा होगा?",
@@ -1804,7 +1895,8 @@
             "examName": "RRB Group D 22 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_120"
+            "id": "q_carbon_and_its_compounds_120",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा यौगिक, असंतृप्त हाइड्रोकार्बन है?",
@@ -1819,7 +1911,8 @@
             "examName": "RRB Level 01 Stage I 22/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_121"
+            "id": "q_carbon_and_its_compounds_121",
+            "correct_option": 2
         },
         {
             "question": "UV प्रकाश के अंतर्गत क्लोरीन (Cl₂) के साथ मेथेन (CH 4) की प्रतिस्थापन अभिक्रिया में, प्रथम उत्पाद क्या बनता है?",
@@ -1849,7 +1942,8 @@
             "examName": "RRB Group D 29/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_123"
+            "id": "q_carbon_and_its_compounds_123",
+            "correct_option": 1
         },
         {
             "question": "एल्कीन श्रेणी के दूसरे सदस्य का आणविक सूत्र क्या है?",
@@ -1879,7 +1973,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_125"
+            "id": "q_carbon_and_its_compounds_125",
+            "correct_option": 1
         },
         {
             "question": "यौगिक CH₃OH का अगला समरूप सदस्य क्या होगा?",
@@ -1894,7 +1989,8 @@
             "examName": "RRB Group D 8 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_126"
+            "id": "q_carbon_and_its_compounds_126",
+            "correct_option": 3
         },
         {
             "question": "क्लोरोइथीन का सामान्य नाम क्या है?",
@@ -1909,7 +2005,8 @@
             "examName": "RPF SI 2018 : 12 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_127"
+            "id": "q_carbon_and_its_compounds_127",
+            "correct_option": 1
         },
         {
             "question": "_________ यौगिक में एक क्रियात्मक समूह के रूप में –OH है।",
@@ -1924,7 +2021,8 @@
             "examName": "RRB Group D 26 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_128"
+            "id": "q_carbon_and_its_compounds_128",
+            "correct_option": 3
         },
         {
             "question": "कीटोन सजातीय श्रेणी के क्रमशः प्रथम और द्वितीय सदस्य हैं:",
@@ -1954,7 +2052,8 @@
             "examName": "RRB Group D 23/9/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_130"
+            "id": "q_carbon_and_its_compounds_130",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौनसा मिलान सही है?",
@@ -2014,7 +2113,8 @@
             "examName": "RRB Level 01 Stage I 22/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_134"
+            "id": "q_carbon_and_its_compounds_134",
+            "correct_option": 3
         },
         {
             "question": "कार्बनिक यौगिक केवल जीवित तंत्र के भीतर ही निर्मित हो सकते हैं कथन का खंडन किसने किया?",
@@ -2029,7 +2129,8 @@
             "examName": "RRB Group D 12 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_135"
+            "id": "q_carbon_and_its_compounds_135",
+            "correct_option": 2
         },
         {
             "question": "यदि एथेन, हाइड्रोजन क्लोराइड और ग्लूकोज के आण्विक सूत्र क्रमश: C₂H₆, HCI और C₆H₁₂ O₆ हैं तो इनके संबंधित आनुभविक सूत्र क्या होंगे?",
@@ -2059,7 +2160,8 @@
             "examName": "RRB JE 27 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_137"
+            "id": "q_carbon_and_its_compounds_137",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा ऋजु-श्रृंखला वाला संतृप्त हाइड्रोकार्बन है?",
@@ -2074,7 +2176,8 @@
             "examName": "RRB Level 01 Stage I 06/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_138"
+            "id": "q_carbon_and_its_compounds_138",
+            "correct_option": 3
         },
         {
             "question": "____________में कार्बन परमाणु फुटबॉल की आकृति में व्यवस्थित होते हैं।",
@@ -2104,7 +2207,8 @@
             "examName": "RPF Constable 2018 20 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_140"
+            "id": "q_carbon_and_its_compounds_140",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस यौगिक में 7 सहसंयोजक बंध हैं?",
@@ -2119,7 +2223,8 @@
             "examName": "RRB Group D 29 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_141"
+            "id": "q_carbon_and_its_compounds_141",
+            "correct_option": 2
         },
         {
             "question": "ऐल्कीन, असंतृप्त हाइड्रोकार्बन है जिसमें दो कार्बन परमाणुओं के बीच एक द्विबंध होता है, इसका सामान्य सूत्र है: 3 2।",
@@ -2134,7 +2239,8 @@
             "examName": "RRB Group D 31/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_142"
+            "id": "q_carbon_and_its_compounds_142",
+            "correct_option": 3
         },
         {
             "question": "बायोगैस मुख्य रूप से ________ और कार्बोनडाईऑक्साइड से बना होता है।",
@@ -2149,7 +2255,8 @@
             "examName": "RRB JE CE 19 Sept 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_143"
+            "id": "q_carbon_and_its_compounds_143",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित का मिलान कीजिए: यौगिक नाम i. C H a. एथेन ii. H C = CH b. बेंजीन iii. CH - CHO c. ऐसीटैल्डिहाइड iv. CH COCH d. एथिलीन v. CH CH e. एसीटोन।",
@@ -2164,7 +2271,8 @@
             "examName": "RRB Group D 2 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_144"
+            "id": "q_carbon_and_its_compounds_144",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन प्रोपेनोन में क्रियात्मक समूह है?",
@@ -2194,7 +2302,8 @@
             "examName": "RRB Group D 30/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_146"
+            "id": "q_carbon_and_its_compounds_146",
+            "correct_option": 3
         },
         {
             "question": "A cyclic compound that contains only single bonds is classified as:",
@@ -2209,7 +2318,8 @@
             "examName": "RRB JE 20/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_147"
+            "id": "q_carbon_and_its_compounds_147",
+            "correct_option": 2
         },
         {
             "question": "मीथेन और क्लोरीन गैस से मिथाइल क्लोराइड का निर्माण किस प्रकार की अभिक्रिया है?",
@@ -2224,7 +2334,8 @@
             "examName": "RRB Group D 26 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_148"
+            "id": "q_carbon_and_its_compounds_148",
+            "correct_option": 2
         },
         {
             "question": "नीचे दिए गए कथनों पर विचार करें और सही उत्तर पहचानें।\n\n• कथन।: ग्रेफाइट विद्युत का कुचालक है।\n\n• कथन II: ग्रेफाइट में, प्रत्येक कार्बन परमाणु एक षट्कोणीय सरणी देते हुए एक ही तल में तीन अन्य कार्बन परमाणुओं से जुड़ा होता है। 6 6 2 2 3 3 3 3 3",
@@ -2239,7 +2350,8 @@
             "examName": "RRB Group D 25 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_149"
+            "id": "q_carbon_and_its_compounds_149",
+            "correct_option": 3
         },
         {
             "question": "सूर्य के प्रकाश की उपस्थिति में ________ को अधिक तीव्र अभिक्रिया में हाइड्रोकार्बन में मिलाया जाता है।",
@@ -2254,7 +2366,8 @@
             "examName": "RRB Group D 10/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_150"
+            "id": "q_carbon_and_its_compounds_150",
+            "correct_option": 3
         },
         {
             "question": "ऐल्केन की सजातीय श्रृंखला के निम्नलिखित सदस्यों में से किसका गलनांक सबसे अधिक है?",
@@ -2284,7 +2397,8 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_152"
+            "id": "q_carbon_and_its_compounds_152",
+            "correct_option": 3
         },
         {
             "question": "पतंगों और अन्य कीड़ों को भगाने के लिए इस्तेमाल होने वाली नेफ़थलीन बॉल्स किससे प्राप्त की जाती हैं:",
@@ -2299,7 +2413,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_153"
+            "id": "q_carbon_and_its_compounds_153",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा युग्म ऐल्कीन के समजातीय श्रेणी से संबंधित है?",
@@ -2314,7 +2429,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_154"
+            "id": "q_carbon_and_its_compounds_154",
+            "correct_option": 2
         },
         {
             "question": "निम्न में से किसमें त्रि आबंध होता है?",
@@ -2329,7 +2445,8 @@
             "examName": "RRB Group D 11/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_155"
+            "id": "q_carbon_and_its_compounds_155",
+            "correct_option": 3
         },
         {
             "question": "इथेनॉल का सूत्र __________ है।",
@@ -2344,7 +2461,8 @@
             "examName": "RRB Group D 26 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_156"
+            "id": "q_carbon_and_its_compounds_156",
+            "correct_option": 2
         },
         {
             "question": "संतृप्त कार्बन यौगिक सामान्यतः ______ होते हैं।",
@@ -2359,7 +2477,8 @@
             "examName": "RRB Group D 19 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_157"
+            "id": "q_carbon_and_its_compounds_157",
+            "correct_option": 2
         },
         {
             "question": "आवर्त सारणी में कौन सा तत्व अधिकतम संख्या में यौगिक बनाता है?",
@@ -2374,7 +2493,8 @@
             "examName": "RRB Group D 25/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_158"
+            "id": "q_carbon_and_its_compounds_158",
+            "correct_option": 3
         },
         {
             "question": "योगज अभिक्रियाएं किस प्रकार के हाइड्रोकार्बन की विशेषताएं हैं?",
@@ -2404,7 +2524,8 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_160"
+            "id": "q_carbon_and_its_compounds_160",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा कार्बन यौगिक शाखित श्रृंखला संरचना की उपस्थिति दर्शाता है?",
@@ -2419,7 +2540,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_161"
+            "id": "q_carbon_and_its_compounds_161",
+            "correct_option": 2
         },
         {
             "question": "नीचे दिए गए कथनों पर विचार करें और सही उत्तर पहचानें।\n\n• कथन।: अधिकांश कार्बन यौगिक विद्युत के सुचालक होते हैं।\n\n• कथन II: कार्बन यौगिकों के अणुओं के बीच आकर्षण बल बहुत प्रबल नहीं होता है।",
@@ -2464,7 +2586,8 @@
             "examName": "RRB Group D 29 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_164"
+            "id": "q_carbon_and_its_compounds_164",
+            "correct_option": 3
         },
         {
             "question": "_____ इथेनोइक एसिड का एक सामान्य नाम है।",
@@ -2479,7 +2602,8 @@
             "examName": "RRB Group D 24/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_165"
+            "id": "q_carbon_and_its_compounds_165",
+            "correct_option": 3
         },
         {
             "question": "इनमें से कौन सा एक असंतृप्त यौगिक है? n 2n+4 n 2n-2 n 2n+2 n 2n?",
@@ -2510,7 +2634,8 @@
             "examName": "RRB Group D 29 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_167"
+            "id": "q_carbon_and_its_compounds_167",
+            "correct_option": 2
         },
         {
             "question": "ग्लाइकोजन शरीर में ________ का संचय रूप है।",
@@ -2525,7 +2650,8 @@
             "examName": "RRB NTPC CBT-I : 5 April 2021 Shift 2",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_168"
+            "id": "q_carbon_and_its_compounds_168",
+            "correct_option": 3
         },
         {
             "question": "कार्बन यौगिकों में सामान्यतः पाया जाने वाला बंधन कौन सा नहीं है?",
@@ -2540,7 +2666,8 @@
             "examName": "RRB Group D 14 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_169"
+            "id": "q_carbon_and_its_compounds_169",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा समजातीय श्रृंखला के लिए सही युग्म है?",
@@ -2555,7 +2682,8 @@
             "examName": "RRB Group D 11/10/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_170"
+            "id": "q_carbon_and_its_compounds_170",
+            "correct_option": 3
         },
         {
             "question": "C₆H₁₄ में कितने समावयवी हैं?",
@@ -2570,7 +2698,8 @@
             "examName": "RRB Group D 22/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_171"
+            "id": "q_carbon_and_its_compounds_171",
+            "correct_option": 3
         },
         {
             "question": "संतृप्त कार्बन यौगिकों के लिए निम्नलिखित में से कौन-सा कथन सही है? और त्रि दोनों आबंध होते हैं।",
@@ -2585,7 +2714,8 @@
             "examName": "RRB Group D 19 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_172"
+            "id": "q_carbon_and_its_compounds_172",
+            "correct_option": 1
         },
         {
             "question": "हीरे में, प्रत्येक कार्बन परमाणु आबंध है:",
@@ -2600,7 +2730,8 @@
             "examName": "RRB Group D 1/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_173"
+            "id": "q_carbon_and_its_compounds_173",
+            "correct_option": 2
         },
         {
             "question": "कार्बन के निम्नलिखित में से किस मिश्रण में द्रवीकरण और क्वथनांक का तापमान उच्चतम होता है?",
@@ -2630,7 +2761,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_175"
+            "id": "q_carbon_and_its_compounds_175",
+            "correct_option": 3
         },
         {
             "question": "मेथेन के एक अणु में एक कार्बन परमाणु, चार हाइड्रोजन परमाणुओं से आबंधित होता है। मेथेन का रासायनिक सूत्र क्या है?",
@@ -2660,7 +2792,8 @@
             "examName": "RRB Group D 6/10/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_177"
+            "id": "q_carbon_and_its_compounds_177",
+            "correct_option": 1
         },
         {
             "question": "तीन कार्बन परमाणुओं की एक सीधी श्रृंखला जिसमें कोई द्विआबंध नहीं है और पहले कार्बन परमाणु पर - OH प्रकार्यात्मक समूह है, उसे क्या नाम दिया गया है?",
@@ -2675,7 +2808,8 @@
             "examName": "RRB Level 01 Stage I 15/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_178"
+            "id": "q_carbon_and_its_compounds_178",
+            "correct_option": 1
         },
         {
             "question": "यौगिक का प्रयोग सिद्ध सूत्र CH₂O है, इसकी वाष्प घनत्व 90 है। यौगिक का आणविक सूत्र है:",
@@ -2696,7 +2830,7 @@
             "question": "निम्नलिखित में से कौन सा कथन समजातीय श्रेणी का सही वर्णन करता है? गुण होते हैं। रासायनिक गुण होते हैं। गुण होते हैं। रासायनिक गुण होते हैं।",
             "options": [
                 "एक समजातीय श्रेणी के सदस्यों में समान क्रियात्मक समूह के कारण भिन्न रासायनिक गुण होते हैं।",
-                "एक समजातीय श्रेणी के सदस्यों में समान क्रियात्मक समूह के कारण लगभग समान रासायनिक गुण होते हैं।",
+                "एक समजातीय श्रेणी के सदस्यों में समान क्रियात्मक समूह के कारण लगभग समान",
                 "एक समजातीय श्रेणी के सदस्यों में विभिन्न क्रियात्मक समूहों के कारण भिन्न रासायनिक गुण होते हैं।",
                 "एक समजातीय श्रेणी के सदस्यों में विभिन्न क्रियात्मक समूहों के कारण लगभग समान रासायनिक गुण होते हैं।"
             ],
@@ -2705,7 +2839,8 @@
             "examName": "RRB Group D 29 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_180"
+            "id": "q_carbon_and_its_compounds_180",
+            "correct_option": 1
         },
         {
             "question": "एथेनॉल को 443K पर अधिक सांद्रित H₂SO₄ के साथ गर्म करने पर, एथेनॉल के निजलीकरण से __________ प्राप्त होता है।",
@@ -2720,7 +2855,8 @@
             "examName": "RRB Group D 10/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_181"
+            "id": "q_carbon_and_its_compounds_181",
+            "correct_option": 3
         },
         {
             "question": "केवल एकल बंध द्वारा जुड़े कार्बन यौगिकों को _____ के रूप में जाना जाता है।",
@@ -2735,7 +2871,8 @@
             "examName": "RRB Group D 27 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_182"
+            "id": "q_carbon_and_its_compounds_182",
+            "correct_option": 2
         },
         {
             "question": "कार्बन द्वारा दर्शाया गया श्रृंखलन का गुण निम्नलिखित में से किस गुण को संदर्भित करता है?",
@@ -2765,7 +2902,8 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_184"
+            "id": "q_carbon_and_its_compounds_184",
+            "correct_option": 2
         },
         {
             "question": "ऐसे कार्यात्मक समूहों वाले यौगिकों के वग जिनमें कोई ऑक्सीजन परमाणु नहीं होता है, उन्हें _______ कहा जाता है।",
@@ -2780,7 +2918,8 @@
             "examName": "RRB Group D 13 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_185"
+            "id": "q_carbon_and_its_compounds_185",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किसमें ऋजु-श्रृंखला वाले हाइड्रोकार्बन होते हैं?",
@@ -2810,7 +2949,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_187"
+            "id": "q_carbon_and_its_compounds_187",
+            "correct_option": 3
         },
         {
             "question": "इथेनॉल का क्वथनांक है-",
@@ -2825,7 +2965,8 @@
             "examName": "RRB Group D 31/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_188"
+            "id": "q_carbon_and_its_compounds_188",
+            "correct_option": 3
         },
         {
             "question": "ईथेन में, प्रत्येक कार्बन परमाणु _______ हाइड्रोजन परमाणुओं से आबंधित होता है।",
@@ -2840,7 +2981,8 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_189"
+            "id": "q_carbon_and_its_compounds_189",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा कार्बन का यौगिक मौजूद नहीं है?",
@@ -2855,7 +2997,8 @@
             "examName": "RRB Group D 7/10/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_190"
+            "id": "q_carbon_and_its_compounds_190",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा सजातीय श्रेणी का समूह बनाता है?",
@@ -2870,7 +3013,8 @@
             "examName": "RRB JE CBT I - : 31 May 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_191"
+            "id": "q_carbon_and_its_compounds_191",
+            "correct_option": 1
         },
         {
             "question": "यदि किसी ऐल्केन का आणविक द्रव्यमान 44 है, तो उसका आणविक सूत्र क्या होगा?",
@@ -2885,7 +3029,8 @@
             "examName": "RRB Technician Grade III 06/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_192"
+            "id": "q_carbon_and_its_compounds_192",
+            "correct_option": 2
         },
         {
             "question": "साइक्लोपेंटेन में एकल बंधों की कुल संख्या कितनी होती है?",
@@ -2900,7 +3045,8 @@
             "examName": "RRB Group D 5 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_193"
+            "id": "q_carbon_and_its_compounds_193",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी समजातीय श्रेणी नहीं है?",
@@ -2915,7 +3061,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_194"
+            "id": "q_carbon_and_its_compounds_194",
+            "correct_option": 3
         },
         {
             "question": "बेंजीन के एक अणु में _________ दोहरा बंध मौजूद होता है/ होते हैं।",
@@ -2960,7 +3107,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_197"
+            "id": "q_carbon_and_its_compounds_197",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा एल्काइन सजातीय श्रृंखला का पहला सदस्य है?",
@@ -2990,7 +3138,8 @@
             "examName": "RRB Level 01 Stage I 09/01/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_199"
+            "id": "q_carbon_and_its_compounds_199",
+            "correct_option": 1
         },
         {
             "question": "सिलिकॉन की तुलना में कार्बन श्रृंखलन की अधिक प्रवृत्ति दर्शाता है। निम्नलिखित में से कौन-सा कथन दिए गए कथन की सही व्याख्या है? Si आबंध से दुर्बल होता है। Si-Si आबंध से दुर्बल होता है। Si आबंध से अधिक प्रबल होता है। आबंध से अधिक प्रबल होता है।",
@@ -3005,7 +3154,8 @@
             "examName": "RRB Group D 19 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_200"
+            "id": "q_carbon_and_its_compounds_200",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा एल्कीन को दर्शाता है?",
@@ -3035,7 +3185,8 @@
             "examName": "RRB JE 25 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_202"
+            "id": "q_carbon_and_its_compounds_202",
+            "correct_option": 2
         },
         {
             "question": "कार्बन डाइऑक्साइड की कैल्शियम हाइड्रॉक्साइड (चूने का पानी) के साथ अभिक्रिया होने पर निम्नलिखित में से कौन-सा उत्पाद बनता है?",
@@ -3065,7 +3216,8 @@
             "examName": "RRB Group D 18 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_204"
+            "id": "q_carbon_and_its_compounds_204",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा वलय-श्रृंखला वाला हाइड्रोकार्बन है?",
@@ -3080,7 +3232,8 @@
             "examName": "RRB Level 01 Stage I 05/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_205"
+            "id": "q_carbon_and_its_compounds_205",
+            "correct_option": 1
         },
         {
             "question": "जब एथेनॉल को 443K पर अधिक मात्रा में सान्द्र सल्फ्यूरिक अम्ल के साथ गर्म किया जाता है, तो कौन-सा उत्पाद बनेगा?",
@@ -3095,7 +3248,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_206"
+            "id": "q_carbon_and_its_compounds_206",
+            "correct_option": 1
         },
         {
             "question": "कार्बनिक यौगिकों की एक श्रृंखला जिनका कार्यात्मक समूह समान होता है लेकिन –CH₂ समूह भिन्न है, कहलाती है:",
@@ -3110,7 +3264,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_207"
+            "id": "q_carbon_and_its_compounds_207",
+            "correct_option": 3
         },
         {
             "question": "जब वाष्पीकृत कार्बन एक निष्क्रि य गैस के वातावरण में घनीभूत होता है, तो निम्नलिखित में से क्या बनता है?",
@@ -3185,7 +3340,8 @@
             "examName": "RRB Group D 9/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_212"
+            "id": "q_carbon_and_its_compounds_212",
+            "correct_option": 1
         },
         {
             "question": "साबुन दीघ श्रृंखला _________ के सोडियम या पोटैशियम लवण हैं।",
@@ -3215,7 +3371,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_214"
+            "id": "q_carbon_and_its_compounds_214",
+            "correct_option": 3
         },
         {
             "question": "ब्यूटेन और पेन्टेन के समावयव की कुल संख्या क्रमशः _______ हैं।",
@@ -3230,7 +3387,8 @@
             "examName": "RRB Group D 5 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_215"
+            "id": "q_carbon_and_its_compounds_215",
+            "correct_option": 2
         },
         {
             "question": "श्रृंखलन गुण ______________ द्वारा दर्शाया गया है।",
@@ -3245,7 +3403,8 @@
             "examName": "RRB Group D 2 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_216"
+            "id": "q_carbon_and_its_compounds_216",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा कार्बन यौगिक एक एल्कोहल के रूप में वर्गीकृत किया जाता है?",
@@ -3260,7 +3419,8 @@
             "examName": "RRB ALP CBT-I 2024 : 28 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_217"
+            "id": "q_carbon_and_its_compounds_217",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा हुक्सेन का संभावित समावयव नहीं है?",
@@ -3275,7 +3435,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_218"
+            "id": "q_carbon_and_its_compounds_218",
+            "correct_option": 3
         },
         {
             "question": "प्रोपेन का रासायनिक सूत्र क्या है?",
@@ -3290,7 +3451,8 @@
             "examName": "RRB NTPC CBT-I : 27 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_219"
+            "id": "q_carbon_and_its_compounds_219",
+            "correct_option": 2
         },
         {
             "question": "443 K पर इथेनॉल को अधिक सांद्र सल्फ्यूरिक अम्ल के साथ गर्म करने पर निम्नलिखित में से क्या प्राप्त होता है?",
@@ -3305,7 +3467,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_220"
+            "id": "q_carbon_and_its_compounds_220",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा हाइड्रोकार्बन सामान्यतः स्वच्छ ज्वाला उत्पन्न करता है?",
@@ -3320,7 +3483,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_221"
+            "id": "q_carbon_and_its_compounds_221",
+            "correct_option": 1
         },
         {
             "question": "दी गई संरचना का सही नामकरण निम्नलिखित में से कौन सा है? CH₃CH₂OH?",
@@ -3350,7 +3514,8 @@
             "examName": "RRB JE CBT I - : 31 May 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_223"
+            "id": "q_carbon_and_its_compounds_223",
+            "correct_option": 1
         },
         {
             "question": "यौगिक CH 3 CH 2 CH 3 का IUPAC नाम है:",
@@ -3365,7 +3530,8 @@
             "examName": "RRB JE 24 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_224"
+            "id": "q_carbon_and_its_compounds_224",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा हुक्सेन का संभावित समावयवी नहीं है?",
@@ -3380,7 +3546,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_225"
+            "id": "q_carbon_and_its_compounds_225",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस यौगिक में केवल एक कार्बन-कार्बन एकल आबंध होता है?",
@@ -3455,7 +3622,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 3",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_230"
+            "id": "q_carbon_and_its_compounds_230",
+            "correct_option": 3
         },
         {
             "question": "एकल कार्बन परमाणु कितने बंध बनाता है?",
@@ -3470,7 +3638,8 @@
             "examName": "RRB Group D 11/10/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_231"
+            "id": "q_carbon_and_its_compounds_231",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा एथाइन का सही सूत्र है?",
@@ -3485,7 +3654,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_232"
+            "id": "q_carbon_and_its_compounds_232",
+            "correct_option": 1
         },
         {
             "question": "फुलेरीन में फुटबॉल जैसे आकार में कितने कार्बन परमाणु व्यवस्थित होते हैं?",
@@ -3500,7 +3670,8 @@
             "examName": "RRB Group D 30 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_233"
+            "id": "q_carbon_and_its_compounds_233",
+            "correct_option": 1
         },
         {
             "question": "यदि प्रोपेनॉल जैसे कार्बन यौगिक को पोटैशियम डाइक्रोमेट की उपस्थिति में ऑक्सीकृत किया जाता है, तो बनने वाला सबसे संभावित उत्पाद क्या होगा?",
@@ -3530,7 +3701,8 @@
             "examName": "RPF SI 2018 : 11 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_235"
+            "id": "q_carbon_and_its_compounds_235",
+            "correct_option": 1
         },
         {
             "question": "सामान्य सूत्र CₙH₂ₙ₋₂ किसका निरूपण करता है?",
@@ -3560,7 +3732,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_237"
+            "id": "q_carbon_and_its_compounds_237",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन हुक्सीन की समजातीय श्रृंखला का अगला सदस्य होगा?",
@@ -3590,7 +3763,8 @@
             "examName": "RRB Group D 7/10/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_239"
+            "id": "q_carbon_and_its_compounds_239",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा यौगिक चक्रीय और असंतृप्त है?",
@@ -3620,7 +3794,8 @@
             "examName": "RRB NTPC CBT-I : 12 Mar 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_241"
+            "id": "q_carbon_and_its_compounds_241",
+            "correct_option": 1
         },
         {
             "question": "असंतृप्त हाइड्रोकार्बन निम्न उत्प्रेरक की उपस्थिति में हाइड्रोजन जोड़ते हैं जैसे:",
@@ -3635,7 +3810,8 @@
             "examName": "RRB Group D 4/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_242"
+            "id": "q_carbon_and_its_compounds_242",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा हाइड्रोकार्बन संतृप्त है?",
@@ -3665,7 +3841,8 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_244"
+            "id": "q_carbon_and_its_compounds_244",
+            "correct_option": 2
         },
         {
             "question": "एक प्रोपेन अणु में तीन कार्बन परमाणु सभी हाइड्रोजन परमाणुओं के साथ कुल कितने इलेक्ट्रॉन साझा करते हैं?",
@@ -3680,7 +3857,8 @@
             "examName": "RRB Group D 24 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_245"
+            "id": "q_carbon_and_its_compounds_245",
+            "correct_option": 1
         },
         {
             "question": "असंतृप्त हाइड्रोकार्बन के लिए कौन-सा कथन सही है?",
@@ -3695,7 +3873,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_246"
+            "id": "q_carbon_and_its_compounds_246",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस तत्व का गलनांक और क्वथनांक उच्चतम होता है?",
@@ -3710,7 +3889,8 @@
             "examName": "RRB Group D 20 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_247"
+            "id": "q_carbon_and_its_compounds_247",
+            "correct_option": 2
         },
         {
             "question": "एक या एक से अधिक द्विबंध वाले असंतृप्त हाइड्रोकार्बन को क्या कहा जाता है?",
@@ -3725,12 +3905,13 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_248"
+            "id": "q_carbon_and_its_compounds_248",
+            "correct_option": 2
         },
         {
             "question": "सजातीय श्रेणी, कार्बन यौगिकों की एक ऐसी श्रेणी है जिसमें _______ ।",
             "options": [
-                "अलग अलग संख्या में कार्बन परमाणु पाए जाते हैं, और अलग-अलग कार्यात्मक समूह",
+                "अलग अलग संख्या में कार्बन परमाणु पाए जाते हैं, किन्तु समान कायात्मक समूह पाए",
                 "समान संख्या में कार्बन परमाणु पाए जाते हैं, और समान कार्यात्मक समूह पाए जाते हैं",
                 "अलग अलग संख्या में कार्बन परमाणु पाए जाते हैं, किन्तु समान कार्यात्मक समूह पाए",
                 "समान संख्या में कार्बन परमाणु पाए जाते हैं, किन्तु अलग अलग कार्यात्मक समूह पाए"
@@ -3755,7 +3936,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_250"
+            "id": "q_carbon_and_its_compounds_250",
+            "correct_option": 1
         },
         {
             "question": "______ एक संतृप्त हाइड्रोकार्बन है",
@@ -3770,7 +3952,8 @@
             "examName": "RRB Group D 9/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_251"
+            "id": "q_carbon_and_its_compounds_251",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन सही है?",
@@ -3785,7 +3968,8 @@
             "examName": "RRB Group D 6 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_252"
+            "id": "q_carbon_and_its_compounds_252",
+            "correct_option": 1
         },
         {
             "question": "कार्बन की संयोजकता _______ है।",
@@ -3830,7 +4014,8 @@
             "examName": "RRB JE 23 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_255"
+            "id": "q_carbon_and_its_compounds_255",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित का मिलान कीजिए: कार्यात्मक समूह समूह का नाम i. COOH a. एस्टर ii. R - CO - R b. कीटोन iii. COOR c. कार्बोक्सिलिक अम्ल।",
@@ -3845,7 +4030,8 @@
             "examName": "RRB Group D 6 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_256"
+            "id": "q_carbon_and_its_compounds_256",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित विकल्पों में से कौन-सा, संतृप्त हाइड्रोकार्बन है?",
@@ -3860,7 +4046,8 @@
             "examName": "RRB Level 01 Stage I 17/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_257"
+            "id": "q_carbon_and_its_compounds_257",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित को मिलाएं: सूत्र नाम i. CH COOH a. मीथेन ii. CHCl b. इथेनॉल iii. CH₃CH₂OH c. एसीटिक अम्ल iv. CH₄ d. क्लोरोफाम।",
@@ -3875,7 +4062,8 @@
             "examName": "RRB Group D 25 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_258"
+            "id": "q_carbon_and_its_compounds_258",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित अभिक्रिया का उत्पाद होगा:",
@@ -3935,7 +4123,8 @@
             "examName": "RRB NTPC CBT-I : 29 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_262"
+            "id": "q_carbon_and_its_compounds_262",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस यौगिक का क्वथनांक सबसे अधिक होता है?",
@@ -3965,7 +4154,8 @@
             "examName": "RRB Group D 28 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_264"
+            "id": "q_carbon_and_its_compounds_264",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा संतृप्त हाइड्रोकार्बन है?",
@@ -3995,7 +4185,8 @@
             "examName": "RRB Group D 23 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_266"
+            "id": "q_carbon_and_its_compounds_266",
+            "correct_option": 1
         },
         {
             "question": "जब ऐथेनॉल को 170 °C पर आधिक्य सांद्र सल्फ्यूरिक अम्ल के साथ गर्म किया जाता है, तो मुख्य उत्पाद क्या प्राप्त होता है?",
@@ -4010,7 +4201,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_carbon_and_its_compounds_267"
+            "id": "q_carbon_and_its_compounds_267",
+            "correct_option": 1
         },
         {
             "question": "उत्प्रेरक की उपस्थिति में एथेनोइक अम्ल के साथ ऐल्कोहॉल की अभिक्रिया होने पर जल और _____ बनता है।",
@@ -4025,7 +4217,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_carbon_and_its_compounds_268"
+            "id": "q_carbon_and_its_compounds_268",
+            "correct_option": 3
         },
         {
             "question": "ब्यूटैनल में उपस्थित क्रियात्मक समूह की प्रकृति पहचानें।",

@@ -16,7 +16,8 @@
             "examName": "RRB JE 25 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_others_1"
+            "id": "q_others_1",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित पर विचार करें। स्थिर तापमान पर, गैस की एक निश्चित मात्रा का दाब उसके आयतन के व्युत्क्रमानुपाती होता है। यह गैस नियम किस रूप में जाना जाता है?",
@@ -31,7 +32,8 @@
             "examName": "RPF Constable 2024 : 12 Mar, 2025 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_others_2"
+            "id": "q_others_2",
+            "correct_option": 3
         },
         {
             "question": "खाद्य उद्योग में कई गोंदों का उपयोग गाढ़ा करने वाले एजेंट या पायस स्टेबलाइजर के रूप में किया जाता है, इसमें मुख्य रूप से _______ होता है।",
@@ -61,7 +63,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_others_4"
+            "id": "q_others_4",
+            "correct_option": 3
         },
         {
             "question": "तापन के प्रभाव से विसरण की दर पर क्या प्रभाव पड़ता है?",
@@ -76,7 +79,8 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_others_5"
+            "id": "q_others_5",
+            "correct_option": 1
         },
         {
             "question": "एल्डिहाइड में कौन-सा प्रकायात्मक समूह उपस्थित होता है?",
@@ -91,7 +95,8 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_others_6"
+            "id": "q_others_6",
+            "correct_option": 1
         },
         {
             "question": "जिन कार्बोहाइड्रेट का तुरंत उपयोग नहीं किया जाता है उन्हें ________ के रूप में संग्रहित किया जाता है, जो पौधे द्वारा आवश्यकतानुसार उपयोग किए जाने के लिए आंतरिक ऊर्जा भंडार के रूप में काय करता है।",
@@ -106,7 +111,8 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_others_7"
+            "id": "q_others_7",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा तापमापी गुण नहीं है?",
@@ -136,7 +142,8 @@
             "examName": "RPF Constable 2018 05 Feb 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_others_9"
+            "id": "q_others_9",
+            "correct_option": 1
         },
         {
             "question": "नील, हरा, नारंगी और पीला रंगों में से किस रंग का अपवर्तनांक सबसे कम होता है?",
@@ -151,7 +158,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_others_10"
+            "id": "q_others_10",
+            "correct_option": 2
         },
         {
             "question": "H₂SO₄ का आणविक द्रव्यमान ____है। (H = 1, S = 32, O = 16)",
@@ -181,7 +189,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_others_12"
+            "id": "q_others_12",
+            "correct_option": 2
         },
         {
             "question": "किसी पदार्थ का _______ मान जितना अधिक होगा, वह उतनी ही तीव्रता से ऊष्मा का चालन करेगा।",
@@ -196,7 +205,8 @@
             "examName": "RRB ALP Fitter 23 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_others_13"
+            "id": "q_others_13",
+            "correct_option": 3
         },
         {
             "question": "CaCl₂ का सूत्र इकाई द्रव्यमान क्या है?",
@@ -226,7 +236,8 @@
             "examName": "RPF Constable 2024 03 Mar, 2025 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_others_15"
+            "id": "q_others_15",
+            "correct_option": 2
         },
         {
             "question": "परमाणु भट्ठी में प्रयुक्त ईंधन ________ है।",
@@ -241,7 +252,8 @@
             "examName": "RRB Group D 27 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_others_16"
+            "id": "q_others_16",
+            "correct_option": 3
         },
         {
             "question": "मानव यकृत्और पेशियों के ऊतकों में स्टोर ऊर्जा मुख्यत: किस कार्बोहाइड्रेट के रूप में होती है?",
@@ -271,7 +283,8 @@
             "examName": "RRB Group D 20 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_others_18"
+            "id": "q_others_18",
+            "correct_option": 2
         },
         {
             "question": "पौधों में आंतरिक ऊर्जा भंडार क्या है?",
@@ -286,7 +299,8 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_others_19"
+            "id": "q_others_19",
+            "correct_option": 1
         },
         {
             "question": "एक वृहद अणु जिसमें दस या अधिक मोनोसेकेराइड इकाइयाँ ग्लाइकोसिडिक बंधों द्वारा जुड़ी होती हैं, कहलाता है:",
@@ -301,7 +315,8 @@
             "examName": "RPF Constable 2024 : 18 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_others_20"
+            "id": "q_others_20",
+            "correct_option": 1
         },
         {
             "question": "सूर्य में सौर ऊर्जा के उत्पादन के समय निम्न में से कौन सी अभिक्रिया संपन्न होती है?",
@@ -316,7 +331,8 @@
             "examName": "RRB Group D 26/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_others_21"
+            "id": "q_others_21",
+            "correct_option": 2
         },
         {
             "question": "लैक्टोज ________ और ग्लूकोज से बना होता है।",
@@ -331,7 +347,8 @@
             "examName": "RRB JE 26 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_others_22"
+            "id": "q_others_22",
+            "correct_option": 2
         },
         {
             "question": "कौन-सा सिद्धांत बताता है कि किसी विलयन में प्रत्येक वाष्पशील घटक का आंशिक वाष्प दाब उसके मोल अंश के समानुपाती होता है?",
@@ -346,7 +363,8 @@
             "examName": "RPF Constable 2024 02 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_others_23"
+            "id": "q_others_23",
+            "correct_option": 2
         },
         {
             "question": "भारी व्यायाम के दौरान जब ऊर्जा की मांग अधिक होती है, लेकिन ऊर्जा उत्पन्न करने के लिए ऑक्सीजन की आपूर्ति सीमित होती है, तो मांसपेशी कोशिकाएं ______ दिखाती हैं।",
@@ -361,7 +379,8 @@
             "examName": "RRB Group D 11/10/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_others_24"
+            "id": "q_others_24",
+            "correct_option": 3
         },
         {
             "question": "कार्बन यौगिकों में निम्नलिखित में से कौन-सा प्रकायात्मक समूह - OH द्वारा दशाया जाता है?",
@@ -376,7 +395,8 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_others_25"
+            "id": "q_others_25",
+            "correct_option": 1
         },
         {
             "question": "पृथ्वी के मेंटल में गैसों के साथ मिश्रित पिघला हुआ पदार्थ ________ कहलाता है।",
@@ -406,7 +426,8 @@
             "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_others_27"
+            "id": "q_others_27",
+            "correct_option": 3
         },
         {
             "question": "अम्लीय वषा तब होती है जब वायुमंडल ____ से भारी प्रदूषित होता है।",
@@ -436,7 +457,8 @@
             "examName": "RRB JE 26 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_others_29"
+            "id": "q_others_29",
+            "correct_option": 1
         },
         {
             "question": "किस नियम के अनुसार स्थिर ताप पर गैस का आयतन दाब के व्युत्क्रमानुपाती होता है?",
@@ -466,7 +488,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_others_31"
+            "id": "q_others_31",
+            "correct_option": 2
         },
         {
             "question": "पौधों में शकरा का सामान्य परिवहन रूप क्या है?",
@@ -511,7 +534,8 @@
             "examName": "RRB NTPC UG CBT-I : 02 Sept, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_others_34"
+            "id": "q_others_34",
+            "correct_option": 2
         },
         {
             "question": "कार्बोहाइड्रेट जो हाइड्रोलिसिस में दो से दस इकाई मोनोसेकेराइड का उत्पादन करते हैं उन्हें __________ कहा जाता है।",
@@ -526,7 +550,8 @@
             "examName": "RPF SI 2018 : 12 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_others_35"
+            "id": "q_others_35",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन 25°C पर विभिन्न साधन में ध्वनि की गति के बारे में सत्य है/हैं?\n• A. एल्युमीनियम में, ध्वनि की गति 6220 मीटर/सेकंड है।\n• B. निकेल में ध्वनि की गति 6040 मीटर/सेकंड है।",
@@ -571,7 +596,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_others_38"
+            "id": "q_others_38",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा नियम कहता है कि रासायनिक अभिक्रिया में द्रव्यमान को न तो बनाया जा सकता है और न ही नष्ट किया जा सकता है?",
@@ -586,7 +612,8 @@
             "examName": "RRB JE CBT-I : 28 June 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_others_39"
+            "id": "q_others_39",
+            "correct_option": 1
         }
     ]
 }

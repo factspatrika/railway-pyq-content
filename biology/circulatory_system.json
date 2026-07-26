@@ -16,7 +16,8 @@
             "examName": "RRB Group D 22 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_circulatory_system_1"
+            "id": "q_circulatory_system_1",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन, हृदय से फेफड़ों तक रुधिर के परिवहन का सही वर्णन करता है?",
@@ -31,7 +32,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_circulatory_system_2"
+            "id": "q_circulatory_system_2",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस जानवर का हृदय दो कक्षीय होता है?",
@@ -61,7 +63,8 @@
             "examName": "RRB Group D 1 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_4"
+            "id": "q_circulatory_system_4",
+            "correct_option": 1
         },
         {
             "question": "मानव परिसंचरण तंत्र में, सभी शिराएं रक्त को हृदय (Heart) की ओर ले जाती हैं। फुफ्फुसीय शिरा और अन्य शिराओं में क्या अंतर है?",
@@ -91,7 +94,8 @@
             "examName": "RRB Group D 28 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_6"
+            "id": "q_circulatory_system_6",
+            "correct_option": 1
         },
         {
             "question": "हृदय ममें्ब्रेन (झिल्ली) की दो परतों से ढका होता है। इन झिल्लियों को क्या कहा जाता है?",
@@ -106,7 +110,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_circulatory_system_7"
+            "id": "q_circulatory_system_7",
+            "correct_option": 1
         },
         {
             "question": "दाएं अट्रियम और दाएं वेंट्रिकल के बीच दाएं औरिक्युलो वेंट्रिक्युलर- सेप्टम पर मौजूद वाल्व को क्या कहा जाता है?",
@@ -121,7 +126,8 @@
             "examName": "RRB Group D 1 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_circulatory_system_8"
+            "id": "q_circulatory_system_8",
+            "correct_option": 3
         },
         {
             "question": "किस प्रकार की रक्त वाहिका की भित्तियां मोटी और लचीली होती हैं ताकि वह उच्च दाब को सहन कर सके?",
@@ -136,7 +142,8 @@
             "examName": "RRB Level 01 Stage I 10/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_circulatory_system_9"
+            "id": "q_circulatory_system_9",
+            "correct_option": 3
         },
         {
             "question": "मानव शरीर में इंसुलिन का क्या कार्य है?",
@@ -151,7 +158,8 @@
             "examName": "RRB NTPC CBT-I : 22 Feb 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_circulatory_system_10"
+            "id": "q_circulatory_system_10",
+            "correct_option": 2
         },
         {
             "question": "यदि द्विवलनी (मिट्रल) कपाट ठीक से बंद होने में विफल रहता है, तो निलय के संकुचन के दौरान किस तत्काल प्रभाव की सबसे अधिक संभावना है?",
@@ -196,7 +204,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_circulatory_system_13"
+            "id": "q_circulatory_system_13",
+            "correct_option": 3
         },
         {
             "question": "मानव में नाइट्रोजन युक्त अपशिष्ट पदार्थ उत्पन्न करने वाली उपापचय क्रियाओं को किसके द्वारा हटाया जाता है?",
@@ -211,7 +220,8 @@
             "examName": "RRB ALP CBT-I 2024 : 28 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_circulatory_system_14"
+            "id": "q_circulatory_system_14",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस कारण, हृदय के निलय में मोटी पेशीय भित्तियाँ मौजूद होती हैं?",
@@ -226,7 +236,8 @@
             "examName": "RRB ALP CBT 1 18/02/2026 12:30 PM - 1:30 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_circulatory_system_15"
+            "id": "q_circulatory_system_15",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से क्या परिसंचरण तंत्र का भाग नहीं है?",
@@ -286,7 +297,8 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_circulatory_system_19"
+            "id": "q_circulatory_system_19",
+            "correct_option": 3
         },
         {
             "question": "स्तनधारी जंतुओं का _________ होता है।",
@@ -301,7 +313,8 @@
             "examName": "RRB Group D 9/10/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_circulatory_system_20"
+            "id": "q_circulatory_system_20",
+            "correct_option": 1
         },
         {
             "question": "मनुष्यों में परिसंचरण तंत्र की कुछ विशेषताएं नीचे दी गई हैं। गलत विकल्प चुनें।",
@@ -331,7 +344,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_22"
+            "id": "q_circulatory_system_22",
+            "correct_option": 1
         },
         {
             "question": "किसी अंग या ऊतक तक पहुँचने पर, धमनियाँ छोटी-छोटी वाहिकाओं में विभाजित हो जाती हैं। सबसे छोटी वाहिकाओं की भित्तियाँ एक कोशिका जितनी मोटी होती हैं जिन्हें __________ कहा जाता है।",
@@ -361,7 +375,8 @@
             "examName": "RRB Group D 24 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_24"
+            "id": "q_circulatory_system_24",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किस जीव का हृदय तीन कक्षीय होता है?",
@@ -376,7 +391,8 @@
             "examName": "RRB Group D 2 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_25"
+            "id": "q_circulatory_system_25",
+            "correct_option": 1
         },
         {
             "question": "उस विकल्प का चयन कीजिये जो परिसंचरण तंत्र के बारे में सत्य नही है।",
@@ -391,7 +407,8 @@
             "examName": "RRB Group D 4/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_circulatory_system_26"
+            "id": "q_circulatory_system_26",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा पूरे शरीर में प्रवाहित होता है, और चोट के स्थान पर रक्त का थक्का बनाने में मदद करके रक्तस्राव को रोकता है?",
@@ -406,7 +423,8 @@
             "examName": "RRB Group D 13 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_27"
+            "id": "q_circulatory_system_27",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सी नलिका है जो हृदय से निकलती है और शरीर में विभिन्न अंगों में रक्त संचारित करती है?",
@@ -421,7 +439,8 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_circulatory_system_28"
+            "id": "q_circulatory_system_28",
+            "correct_option": 2
         },
         {
             "question": "रक्त का तरल मैट्रिक्स क्या कहलाता है?",
@@ -436,7 +455,8 @@
             "examName": "RRB Group D 20 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_29"
+            "id": "q_circulatory_system_29",
+            "correct_option": 1
         },
         {
             "question": "वह विकल्प चुनें जो संवहनी प्रणाली के बारे में सत्य नहीं है",
@@ -466,7 +486,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_circulatory_system_31"
+            "id": "q_circulatory_system_31",
+            "correct_option": 3
         },
         {
             "question": "निम्न आकृति मानव हृदय को दर्शाती है। LA = बायाँ अलिंद; LV = बायाँ निलय; RA = दायाँ अलिंद; RV = दायाँ निलय। वाल्व कहाँ स्थित हैं?",
@@ -481,7 +502,8 @@
             "examName": "RRB Group D 6/10/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_32"
+            "id": "q_circulatory_system_32",
+            "correct_option": 2
         },
         {
             "question": "फेफड़ों से ऑक्सीजन युक्त रक्त हृदय में कहाँ आता है?",
@@ -496,7 +518,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_circulatory_system_33"
+            "id": "q_circulatory_system_33",
+            "correct_option": 3
         },
         {
             "question": "मनुष्य जैसे कुछ प्राणियों के हृदय में ऑक्सीजन रहित रक्त को ऑक्सीजन युक्त रक्त से अलग क्यों रखा जाता है?",
@@ -511,7 +534,8 @@
             "examName": "RRB Group D 14 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_34"
+            "id": "q_circulatory_system_34",
+            "correct_option": 2
         },
         {
             "question": "वृक्क विफलता का उपचार समय-समय पर किडनी मशीन से किया जाता है। इस प्रक्रिया को ______ के रूप में जाना जाता है।",
@@ -526,7 +550,8 @@
             "examName": "RRB NTPC CBT-I : 16 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_circulatory_system_35"
+            "id": "q_circulatory_system_35",
+            "correct_option": 2
         },
         {
             "question": "निम्न में से किन प्राणियों में पूरे शरीर में रक्त प्रवाह के प्रत्येक चक्र के दौरान, रक्त केवल एक बार हृदय से होकर गुजरता है?",
@@ -541,7 +566,8 @@
             "examName": "RRB Group D 22 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_36"
+            "id": "q_circulatory_system_36",
+            "correct_option": 3
         },
         {
             "question": "मछलियों का हृदय _____ कक्षीय होता है।",
@@ -556,7 +582,8 @@
             "examName": "RRB Group D 17 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_circulatory_system_37"
+            "id": "q_circulatory_system_37",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन गलत है?",
@@ -571,7 +598,8 @@
             "examName": "RRB NTPC CBT-I : 18 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_circulatory_system_38"
+            "id": "q_circulatory_system_38",
+            "correct_option": 2
         },
         {
             "question": "मानव हृदय में फुफ्फुस शिरा _________ से जुड़ी होती है।",
@@ -586,7 +614,8 @@
             "examName": "RRB Group D 6/10/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_circulatory_system_39"
+            "id": "q_circulatory_system_39",
+            "correct_option": 2
         },
         {
             "question": "मनुष्यों में सामान्य प्रकुंचन और अनुशिथिलन दबाव क्रमशः __________ होता है।",
@@ -601,7 +630,8 @@
             "examName": "RRB Group D 23 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_circulatory_system_40"
+            "id": "q_circulatory_system_40",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस जानवर में प्रत्येक चक्र के दौरान रक्त दो बार हृदय से गुजरता है?",
@@ -616,7 +646,8 @@
             "examName": "RRB Group D 29 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_41"
+            "id": "q_circulatory_system_41",
+            "correct_option": 2
         },
         {
             "question": "उपकला ऊतकों की कोशिकाओं के बीच बहुत कम स्थान क्यों होता है?",
@@ -631,7 +662,8 @@
             "examName": "RRB Level 01 Stage I 26/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_circulatory_system_42"
+            "id": "q_circulatory_system_42",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन हृदय से गुर्दे तक रक्त पहुँचाता है?",
@@ -646,7 +678,8 @@
             "examName": "RRB NTPC CBT-I : 22 Feb 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_circulatory_system_43"
+            "id": "q_circulatory_system_43",
+            "correct_option": 2
         },
         {
             "question": "मानव शरीर में कंकाल पेशियों का मुख्य कार्य निम्नलिखित में से क्या है?",
@@ -676,7 +709,8 @@
             "examName": "RRB Group D 24 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_45"
+            "id": "q_circulatory_system_45",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा रक्त घटक थक्के के निर्माण में सहायता करता है?",
@@ -706,7 +740,8 @@
             "examName": "RRB Group D 3/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_circulatory_system_47"
+            "id": "q_circulatory_system_47",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सी वाहिका रक्त को हृदय से फेफड़ों को छोड़कर शरीर के विभिन्न अंगों तक ले जाती है?",
@@ -721,7 +756,8 @@
             "examName": "RRB Group D 11/10/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_48"
+            "id": "q_circulatory_system_48",
+            "correct_option": 3
         },
         {
             "question": "वह विकल्प चुनें जो संवहन तंत्र के बारे में सत्य नहीं है।",
@@ -751,7 +787,8 @@
             "examName": "RRB ALP CBT 1 17/02/2026 4:00 PM - 5:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_circulatory_system_50"
+            "id": "q_circulatory_system_50",
+            "correct_option": 2
         },
         {
             "question": "रक्तचाप वह बल है:",
@@ -759,14 +796,15 @@
                 "नसों के अंदर",
                 "वेंट्रिकुलर डायस्टोल के दौरान धमनी के अंदर",
                 "वेंट्रिकुलर सिस्टोल के दौरान धमनी के अंदर",
-                "रक्त वाहिका की दीवार के विरुद्ध दबाव डालता है"
+                "रक्तचाप वह बल है जो रक्त वाहिका की दीवार के विरुद्ध दबाव डालता है"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: रक्तचाप वह बल है जो रक्त वाहिका की दीवार के विरुद्ध दबाव डालता है\n\n📝 विस्तृत व्याख्या:\nरक्तचाप (Blood Pressure) वह द्रवस्थैतिक दाब (hydrostatic pressure) है, जो प्रवाहित हो रहा रक्त वाहिकाओं (मुख्यतः धमनियों) की आंतरिक दीवारों पर लगाता है। जब हृदय रक्त को परिसंचरण तंत्र में पंप करता है, तो रक्त धमनियों की दीवारों पर बल उत्पन्न करता है। यह दबाव पूरे शरीर में ऑक्सीजन (O₂) और पोषक तत्वों के निरंतर प्रवाह को बनाए रखने के लिए अत्यंत आवश्यक है।\n\n🔬 वैज्ञानिक सिद्धांत व तथ्य:\n• द्रव गतिकी नियम: बंद नलिकाओं (वाहिकाओं) में बहता हुआ द्रव उनकी पार्श्व दीवारों (lateral walls) पर लंबवत दाब डालता है।\n• गणितीय सूत्र: रक्तचाप = हृदय निर्गर्म (Cardiac Output) × संवहनी प्रतिरोध (Vascular Resistance)।\n• मापन इकाई: इसे मिलीमीटर ऑफ मरकरी (mm Hg) में मापा जाता है।\n\n❌ गलत विकल्प विश्लेषण:\n• नसों के अंदर: सिराओं (Veins/नसों) में रक्तचाप धमनियों की तुलना में बहुत कम (लगभग नगण्य) होता है।\n• वेंट्रिकुलर डायस्टोल के दौरान धमनी के अंदर: यह केवल न्यूनतम/शीथिलन दाब (डायस्टोलिक प्रेशर) का प्रतिनिधित्व करता है, जो आंशिक परिभाषा है।\n• वेंट्रिकुलर सिस्टोल के दौरान धमनी के अंदर: यह केवल उच्चतम/संकुचन दाब (सिस्टोलिक प्रेशर) को दर्शाता है, जो पूर्ण परिभाषा नहीं है।\n\n💡 महत्वपूर्ण तथ्य (Extra Info):\n• सामान्य वयस्क का मानक रक्तचाप **120/80 mm Hg** होता है (120 = सिस्टोलिक, 80 = डायस्टोलिक)।\n• रक्तचाप मापने के लिए **स्फिग्मोमैनोमीटर (Sphygmomanometer)** नामक उपकरण का उपयोग किया जाता है।\n• उच्च रक्तचाप को **हाइपरटेंशन (Hypertension)** (140/90 mm Hg से अधिक) तथा निम्न रक्तचाप को **हाइपोटेंशन (Hypotension)** कहते हैं।\n• इसे मुख्य रूप से मुख्य बांह की **ब्रेकीयल धमनी (Brachial Artery)** से मापा जाता है।",
             "examName": "RRB NTPC CBT-I : 8 Mar 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_circulatory_system_51"
+            "id": "q_circulatory_system_51",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन मूत्राशय के दाब को नियंत्रित करता है?",
@@ -781,7 +819,8 @@
             "examName": "RRB ALP CBT-I 2024 : 27 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_circulatory_system_52"
+            "id": "q_circulatory_system_52",
+            "correct_option": 2
         },
         {
             "question": "मानव हृदय में शीथलन के दौरान निम्नलिखित में से कौन सी घटना घटित होती है?",
@@ -796,7 +835,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_53"
+            "id": "q_circulatory_system_53",
+            "correct_option": 2
         },
         {
             "question": "प्रकुंचन दाब _________ का एक माप है।",
@@ -871,7 +911,8 @@
             "examName": "RRB Group D 22 Sept 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_circulatory_system_58"
+            "id": "q_circulatory_system_58",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन मछलियों के बारे में सही नहीं है? जाता है।",
@@ -886,7 +927,8 @@
             "examName": "RRB NTPC CBT-I : 16 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_circulatory_system_59"
+            "id": "q_circulatory_system_59",
+            "correct_option": 2
         },
         {
             "question": "द्विशीष पत्ती के ऊपरी और निचले एपिडर्मिस के बीच पाए जाने वाले ऊतक को क्या कहते हैं?",
@@ -901,7 +943,8 @@
             "examName": "RPF SI 2018 : 11 Jan 2019 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_circulatory_system_60"
+            "id": "q_circulatory_system_60",
+            "correct_option": 1
         },
         {
             "question": "मानव रक्त में प्लाज्मा का क्या कार्य होता है?",
@@ -916,7 +959,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_circulatory_system_61"
+            "id": "q_circulatory_system_61",
+            "correct_option": 2
         },
         {
             "question": "हृदय चक्र क्या है?",
@@ -931,7 +975,8 @@
             "examName": "RRB Group D 2 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_circulatory_system_62"
+            "id": "q_circulatory_system_62",
+            "correct_option": 2
         },
         {
             "question": "धड़कन का क्या कारण होता है?",
@@ -946,7 +991,8 @@
             "examName": "RRB Group D 30 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_63"
+            "id": "q_circulatory_system_63",
+            "correct_option": 1
         },
         {
             "question": "रक्त स्कंदन _____________ की सहायता से होता है।",
@@ -976,7 +1022,8 @@
             "examName": "RRB Group D 13 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_65"
+            "id": "q_circulatory_system_65",
+            "correct_option": 3
         },
         {
             "question": "पल्स ______ की तरंग है।",
@@ -1006,7 +1053,8 @@
             "examName": "RRB Group D 28 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_67"
+            "id": "q_circulatory_system_67",
+            "correct_option": 2
         },
         {
             "question": "श्वसन वर्णक, हीमोग्लोबिन, कहाँ उपस्थित होता है?",
@@ -1021,7 +1069,8 @@
             "examName": "RRB Group D 11/10/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_circulatory_system_68"
+            "id": "q_circulatory_system_68",
+            "correct_option": 1
         },
         {
             "question": "इकोकार्डियोग्राफ (echocardiography) में अल्ट्रासाउंड का प्राथमिक उपयोग निम्नलिखित में से कौन-सा है?",

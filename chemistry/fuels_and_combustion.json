@@ -16,12 +16,13 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_fuels_and_combustion_1"
+            "id": "q_fuels_and_combustion_1",
+            "correct_option": 3
         },
         {
             "question": "_______ पेट्रोल के साथ कारों में ईंधन के रूप में उपयोग किया जाता है।",
             "options": [
-                "एथेनॉल",
+                "एथेनॉल (Ethanol)",
                 "एल्कोहॉल",
                 "बेंजीन",
                 "ब्यूटेन"
@@ -51,7 +52,7 @@
         {
             "question": "जब हाइड्रोकार्बन को जलाया जाता है तो नीली, अप्रकाशित लौ क्या दर्शाती है?",
             "options": [
-                "उच्च तापमान के साथ पूर्ण दहन",
+                "उच्च तापमान के साथ पूर्ण दहन (Complete combustion with high temperature)",
                 "बिना जले कार्बन की उपस्थिति",
                 "ऑक्सीजन की कमी",
                 "अपूर्ण दहन और कालिख निर्माण"
@@ -67,7 +68,7 @@
             "question": "निम्नलिखित में से कौन-सा कार्बन यौगिक सामान्य परिस्थितियों में नीली, गैर- कज्जली लौ (non-sooty flame) के साथ जलता है?",
             "options": [
                 "डीजल",
-                "एथेनॉल",
+                "एथेनॉल (Ethanol)",
                 "मिट्टी का तेल",
                 "चारकोल"
             ],
@@ -76,7 +77,8 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_fuels_and_combustion_5"
+            "id": "q_fuels_and_combustion_5",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस गुणधर्म के कारण एथेनॉल, पेट्रोल की तुलना में एक बेहतर वैकल्पिक ईंधन होता है?",
@@ -91,13 +93,14 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_fuels_and_combustion_6"
+            "id": "q_fuels_and_combustion_6",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सी अभिक्रिया ऊष्माक्षेपी अभिक्रिया नहीं है?",
             "options": [
                 "प्रबल अम्ल का तनुकरण",
-                "प्रकाश संश्लेषण",
+                "प्रकाश संश्लेषण (Photosynthesis)",
                 "श्वसन",
                 "प्राकृतिक गैस का दहन"
             ],
@@ -106,12 +109,13 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_fuels_and_combustion_7"
+            "id": "q_fuels_and_combustion_7",
+            "correct_option": 1
         },
         {
             "question": "कोक का महत्वपूर्ण उपयोग क्या है?",
             "options": [
-                "आक्सीकरण कारक के रूप में",
+                "धातुओं के निष्कर्षण में एक कारक (अपचायक) के रूप में",
                 "औद्योगिक बॉयलरों के लिए ईंधन के रूप में",
                 "घरेलू ओवन में ईंधन के रूप में",
                 "धातुओं के निष्कषण में एक कारक के रूप में"
@@ -143,7 +147,7 @@
             "options": [
                 "बर्निंग",
                 "हीटिंग",
-                "रोस्टिंग",
+                "रोस्टिंग (Roasting / भर्जन)",
                 "ब्लेज़िंग"
             ],
             "correctIndex": 2,
@@ -151,7 +155,8 @@
             "examName": "RRB NTPC CBT-I : 18 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_fuels_and_combustion_10"
+            "id": "q_fuels_and_combustion_10",
+            "correct_option": 2
         },
         {
             "question": "ऐल्कोहॉल को पेट्रोल की तुलना में स्वच्छ ईंधन क्यों माना जाता है?",
@@ -174,20 +179,21 @@
                 "बिटमेंिनस",
                 "लिग्नाइट",
                 "पीट",
-                "एन्थ्रसेाइट"
+                "एन्थ्रसेाइट (Anthracite)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: एन्थ्रसेाइट (Anthracite)\n\n📝 व्याख्या:\nएन्थ्रसेाइट (Anthracite) कोयले की सर्वोत्तम और उच्चतम गुणवत्ता वाली श्रेणी है, जिसमें कार्बन का प्रतिशत सर्वाधिक (90-95%) होता है।\n\n🔑 कोयले की विभिन्न श्रेणियां (कार्बन प्रतिशत का बढ़ता क्रम):\n1️⃣ पीट (Peat): सबसे निचली श्रेणी, लगभग 30-40% कार्बन (अधिक धुआं और नमी)।\n2️⃣ लिग्नाइट (Lignite): भूरा कोयला, लगभग 40-55% कार्बन।\n3️⃣ बिटमेंिनस (Bituminous): सामान्य उपयोग का कोयला, लगभग 60-80% carbon।\n4️⃣ एन्थ्रसेाइट (Anthracite): कठोर और चमकीला, 90-95% कार्बन (न्यूनतम धुआं और उच्चतम ऊष्मा मान)।",
             "examName": "RRB NTPC CBT-I : 9 Jan 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_fuels_and_combustion_12"
+            "id": "q_fuels_and_combustion_12",
+            "correct_option": 3
         },
         {
             "question": "ऊष्मा और प्रकाश उत्पन्न करने वाली ऑक्सीकरण अभिक्रिया को __________ कहा जाता है।",
             "options": [
                 "ऊष्माशोषी",
-                "दहन",
+                "दहन (Combustion)",
                 "उष्माक्षेपी",
                 "तटस्थ"
             ],
@@ -196,12 +202,13 @@
             "examName": "RRB Group D 28 Sept 2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_fuels_and_combustion_13"
+            "id": "q_fuels_and_combustion_13",
+            "correct_option": 1
         },
         {
             "question": "संयंत्रों में जीवाश्म ईंधन की किस ऊर्जा को विद्युत ऊर्जा में परिवर्तित किया जाता है?",
             "options": [
-                "रासायनिक ऊर्जा",
+                "रासायनिक ऊर्जा (Chemical Energy)",
                 "ज्वारीय ऊर्जा",
                 "जलविद्युत ऊर्जा",
                 "सौर ऊर्जा"
@@ -216,7 +223,7 @@
         {
             "question": "निम्नलिखित में से कौन सा कार्बन यौगिक बायोगैस और संपीड़ित प्राकृतिक गैस का एक प्रमुख घटक है?",
             "options": [
-                "मीथेन",
+                "मीथेन (Methane)",
                 "ब्यूटेन",
                 "एथेन",
                 "प्रोपेन"
@@ -232,7 +239,7 @@
             "question": "निम्नलिखित प्रक्रियाओं में से कौन-सी प्रक्रिया उत्क्रमणीय प्रक्रिया का एक उदाहरण है?",
             "options": [
                 "ऊष्मा स्थानांतरण",
-                "विद्युत अपघटन",
+                "विद्युत अपघटन (Electrolysis)",
                 "दहन",
                 "प्लास्टिक विरूपण"
             ],
@@ -241,13 +248,14 @@
             "examName": "RRB JE ME 31 Aug 2019 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_fuels_and_combustion_16"
+            "id": "q_fuels_and_combustion_16",
+            "correct_option": 1
         },
         {
             "question": "साबुन का हाइड्रोफिलिक सिरा निम्नलिखित में से किसके साथ प्रतिक्रिया करता है?",
             "options": [
                 "हाइड्रोकार्बन",
-                "जल",
+                "जल (Water)",
                 "जल और तेल दोनों",
                 "तेल"
             ],
@@ -256,7 +264,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_fuels_and_combustion_17"
+            "id": "q_fuels_and_combustion_17",
+            "correct_option": 1
         },
         {
             "question": "एक पीली चमकदार ज्वाला सामान्यत: निम्नलिखित में से किसका संकेत है?",
@@ -271,14 +280,15 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_fuels_and_combustion_18"
+            "id": "q_fuels_and_combustion_18",
+            "correct_option": 2
         },
         {
             "question": "एक स्पैचुला पर नैफ्थलीन के जलने से _______ उत्पन्न होती है।",
             "options": [
                 "लाल ज्वाला",
                 "स्वच्छ ज्वाला",
-                "पीली ज्वाला",
+                "पीली ज्वाला (या कालिख युक्त ज्वाला)",
                 "कालिख युक्त ज्वाला"
             ],
             "correctIndex": 2,
@@ -286,7 +296,8 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 3",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_fuels_and_combustion_19"
+            "id": "q_fuels_and_combustion_19",
+            "correct_option": 2
         },
         {
             "question": "पौधों को पोषक तत्व उपलब्ध कराने की प्रक्रिया के आधार पर, रासायनिक उवरकों और खादों के बीच मुख्य अंतर क्या है?",
@@ -301,7 +312,8 @@
             "examName": "RRB JE 20/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_fuels_and_combustion_20"
+            "id": "q_fuels_and_combustion_20",
+            "correct_option": 2
         },
         {
             "question": "एथिल अल्कोहल का उपयोग ______ के रूप में किया जाता है।",
@@ -323,7 +335,7 @@
             "options": [
                 "डीज़ल",
                 "मिट्टी का तेल",
-                "पानी",
+                "पानी (Water)",
                 "पेट्रोल"
             ],
             "correctIndex": 2,
@@ -331,7 +343,8 @@
             "examName": "RPF Constable 2018 15 Feb 2019",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_fuels_and_combustion_22"
+            "id": "q_fuels_and_combustion_22",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा, रासायनिक ऊर्जा के ऊष्मा ऊर्जा में रूपांतरण का सर्वोत्तम उदाहरण है?",
@@ -346,12 +359,13 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_fuels_and_combustion_23"
+            "id": "q_fuels_and_combustion_23",
+            "correct_option": 1
         },
         {
             "question": "1 किलोग्राम ईंधन के पूर्ण दहन से उत्पन्न ऊष्मीय ऊर्जा की मात्रा को क्या कहते हैं?",
             "options": [
-                "कैलोरी मान",
+                "कैलोरी मान (Calorific Value)",
                 "प्राकृतिक मान",
                 "आदश मान",
                 "दहन ऊष्मा"
@@ -376,7 +390,8 @@
             "examName": "RRB JE 19/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_fuels_and_combustion_25"
+            "id": "q_fuels_and_combustion_25",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा पदार्थ बिना ज्वाला के जलता है?",
@@ -391,12 +406,13 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_fuels_and_combustion_26"
+            "id": "q_fuels_and_combustion_26",
+            "correct_option": 2
         },
         {
             "question": "वह पदार्थ जो वायु में जलता है, उसे कहते क्या हैं?",
             "options": [
-                "ज्वलनशील",
+                "ज्वलनशील (Flammable)",
                 "दहनशील",
                 "नवीकरणीय",
                 "गैर नवीकरणीय"
@@ -413,7 +429,7 @@
             "options": [
                 "स्वतःस्फूत दहन",
                 "धीमा दहन",
-                "तीव्र दहन",
+                "तीव्र दहन (Rapid Combustion)",
                 "विलंबित दहन"
             ],
             "correctIndex": 2,
@@ -421,7 +437,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 16 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_fuels_and_combustion_28"
+            "id": "q_fuels_and_combustion_28",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा दहन अभिक्रिया का गुण है?",
@@ -436,12 +453,13 @@
             "examName": "RRB Group D 29 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_fuels_and_combustion_29"
+            "id": "q_fuels_and_combustion_29",
+            "correct_option": 1
         },
         {
             "question": "वह कौन सा दहन है जिसमें कोई भी पदार्थ बिना किसी स्पष्ट कारण के अचानक आग में बदल जाता है?",
             "options": [
-                "स्वतः दहन",
+                "स्वतः दहन (Spontaneous Combustion)",
                 "विस्फोटक दहन",
                 "तीव्र दहन",
                 "धीमा दहन"
@@ -458,7 +476,7 @@
             "options": [
                 "asphalt (डामर)",
                 "केरोसिन",
-                "प्राकृतिक गैस",
+                "प्राकृतिक गैस (Natural Gas)",
                 "स्नेहन तेल"
             ],
             "correctIndex": 2,
@@ -466,12 +484,13 @@
             "examName": "RRB JE CBT-2 2024 CMA : 22 Apr, 2025 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_fuels_and_combustion_31"
+            "id": "q_fuels_and_combustion_31",
+            "correct_option": 2
         },
         {
             "question": "CNG का मुख्य घटक क्या है?",
             "options": [
-                "मीथेन",
+                "मीथेन (Methane)",
                 "ब्यूटेन",
                 "इथेन",
                 "प्रोपेन"
@@ -487,7 +506,7 @@
             "question": "पावर अल्कोहल _______ और एथिल अल्कोहल का मिश्रण है।",
             "options": [
                 "सरसों",
-                "पेट्रोल",
+                "पेट्रोल (Petrol)",
                 "डीजल",
                 "केरोसिन"
             ],
@@ -496,7 +515,8 @@
             "examName": "RRB NTPC CBT-I : 22 Feb 2021 Shift 1",
             "examYear": "2021",
             "type": "fillInBlanks",
-            "id": "q_fuels_and_combustion_33"
+            "id": "q_fuels_and_combustion_33",
+            "correct_option": 1
         },
         {
             "question": "CNG और LPG के संबंध में निम्नलिखित में से कौन सा कथन असत्य है?",
@@ -511,12 +531,13 @@
             "examName": "RRB Group D 6/10/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_fuels_and_combustion_34"
+            "id": "q_fuels_and_combustion_34",
+            "correct_option": 3
         },
         {
             "question": "गैस स्टोव की लौ नीली क्यों जलती है?",
             "options": [
-                "ईंधन का पूर्ण दहन",
+                "ईंधन का पूर्ण दहन (Complete combustion of fuel)",
                 "हवा में हाइड्रोजन की उपस्थिति",
                 "खतरनाक दहन",
                 "ऑक्सीजन की कमी"
@@ -531,7 +552,7 @@
         {
             "question": "कार्बन के किस गुणधर्म के कारण वह स्वयं और अन्य तत्वों के साथ आबंध बनाकर बड़ी संख्या में यौगिक बनाता है?",
             "options": [
-                "दहन",
+                "शृंखलन (Catenation)",
                 "चतुःसंयोजकता",
                 "श्रृंखलन",
                 "समावयवता"
@@ -546,7 +567,7 @@
         {
             "question": "पादप सामग्री से कोयले के निर्माण के दौरान, लाखों वर्षों तक उच्च दाब और ताप के अंतर्गत रासायनिक और भौतिक परिवर्तनों का एक अनुक्रम घटित होती है। निम्नलिखित में से कौन-सा, कोयले के निर्माण के दौरान कार्बन की मात्रा में क्रमिक वृद्धि को सही प्रकार से निरूपित करता है?",
             "options": [
-                "पीट → ऐन्थ्रासाइट → बिटमेंेनी → लिग्नाइ ट",
+                "पीट → लिग्नाइट → बिटमेंेनी → ऐन्थ्रासाइट",
                 "पीट → बिटमेंेनी → लिग्नाइट → ऐन्थ्रासाइ ट",
                 "पीट → लिग्नाइट → बिटमेंेनी → ऐन्थ्रासाइ ट",
                 "लिग्नाइट → पीट → ऐन्थ्रासाइट → बिटमेंेनी"
@@ -563,7 +584,7 @@
             "options": [
                 "जीवाश्म",
                 "डीजल",
-                "कोयला",
+                "कोयला (Coal)",
                 "पेट्रोल"
             ],
             "correctIndex": 2,
@@ -571,7 +592,8 @@
             "examName": "RRB Group D 25 /8/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_fuels_and_combustion_38"
+            "id": "q_fuels_and_combustion_38",
+            "correct_option": 2
         },
         {
             "question": "LPG का मुख्य घटक क्या है?",
@@ -579,19 +601,20 @@
                 "मेथेन",
                 "हुक्सेन",
                 "इथेन",
-                "ब्यूटेन"
+                "ब्यूटेन (Butane)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: ब्यूटेन (Butane)\n\n📝 व्याख्या:\nतरलीकृत पेट्रोलियम गैस (LPG) का मुख्य घटक ब्यूटेन (C₄H₁₀) है।\n\n🔑 LPG संघटन:\n• इसमें लगभग 60% ब्यूटेन (n-ब्यूटेन और आइसो-ब्यूटेन) और 40% प्रोपेन गैस का मिश्रण होता है।\n• घरेलू रसोई गैस सिलेंडर में इसे अत्यधिक दाब पर द्रव अवस्था में भंडारित किया जाता है।\n• लीकेज सुरक्षा के लिए इसमें तीव्र अप्रिय गंध वाली गैस इथाइल मरकैप्टन मिलाई जाती है।",
             "examName": "RRB Group D 30/10/2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_fuels_and_combustion_39"
+            "id": "q_fuels_and_combustion_39",
+            "correct_option": 3
         },
         {
             "question": "एक लौ तीन भागों से बनी होती है: सबसे अंदरूनी भाग, बीच का भाग और सबसे बाहरी भाग। सबसे अंदरूनी भाग काला क्यों होता है?",
             "options": [
-                "ईंधन के पूर्ण दहन के कारण",
+                "अनजले कार्बन कणों (या बिना जले ईंधन वाष्प) की उपस्थिति के कारण",
                 "ईंधन के अपूर्ण दहन के कारण",
                 "अनजले कार्बन कणों की उपस्थिति के कारण",
                 "ऑक्सीजन की उपस्थिति के कारण"
@@ -607,7 +630,7 @@
             "question": "असंतृप्त हाइड्रोकार्बन सामान्यत: कैसी ज्वाला उत्पन्न करते हैं?",
             "options": [
                 "स्वच्छ नीली ज्वाला",
-                "काले धूम के साथ पीली ज्वाला",
+                "काले धूम के साथ पीली ज्वाला (Yellow flame with black smoke)",
                 "चमक के साथ श्वेत ज्वाला",
                 "कोई ज्वाला नहीं"
             ],
@@ -616,13 +639,14 @@
             "examName": "RRB Level 01 Stage I 10/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_fuels_and_combustion_41"
+            "id": "q_fuels_and_combustion_41",
+            "correct_option": 1
         },
         {
             "question": "ऊष्मा ऊर्जा उत्पन्न करने के लिए जिन सामग्रियों को जलाया जाता है, उन्हें क्या नाम दिया जाता है?",
             "options": [
                 "जैवपदार्थ",
-                "ईंधन",
+                "ईंधन (Fuel)",
                 "रसायन",
                 "गैस"
             ],
@@ -631,13 +655,14 @@
             "examName": "RRB JE 27 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_fuels_and_combustion_42"
+            "id": "q_fuels_and_combustion_42",
+            "correct_option": 1
         },
         {
             "question": "जब कोयले का भंजक आसवन (Destructive Distillation) किया जाता है, तो निम्नलिखित में से कौन-सा उत्पाद प्राप्त होता है?",
             "options": [
                 "डीज़ल",
-                "कोक",
+                "कोक (Coke)",
                 "पेट्रोल",
                 "मिट्टी का तेल"
             ],
@@ -646,12 +671,13 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 3",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_fuels_and_combustion_43"
+            "id": "q_fuels_and_combustion_43",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा परिणाम जीवाश्म ईंधन के जलने के कारण नहीं होता है?",
             "options": [
-                "अम्लीय वषा",
+                "वायमेंडल की ऊपरी परतों में ओजोन स्तर में कमी (Ozone Depletion)",
                 "नाइट्रोजन और सल्फर के ऑक्साइड का निर्माण",
                 "धूम-कोहरा निर्माण",
                 "वायुमंडल की ऊपरी परतों में ओजोन स्तर में कमी"
@@ -666,7 +692,7 @@
         {
             "question": "निम्नलिखित गैसों में से किसका ऊष्मीय मान उच्चतम है?",
             "options": [
-                "हाइड्रोजन",
+                "हाइड्रोजन (Hydrogen)",
                 "रसोई गैस (LPG)",
                 "प्राकृतिक गैस",
                 "मीथेन"
@@ -691,7 +717,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 22/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_fuels_and_combustion_46"
+            "id": "q_fuels_and_combustion_46",
+            "correct_option": 2
         },
         {
             "question": "क्रमशः CNG और LPG का पूर्ण रूप क्या है? प्रेशड गैस) गैस) पेट्रोलियम गैस) लिक्यूफाइड पेट्रोलियम गैस)",
@@ -706,13 +733,14 @@
             "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_fuels_and_combustion_47"
+            "id": "q_fuels_and_combustion_47",
+            "correct_option": 3
         },
         {
             "question": "प्राकृतिक गैस (CH) के जलने पर कौन सी गैस निकलती है?",
             "options": [
                 "NH₃",
-                "CO₂",
+                "CO₂ (कार्बन डाइऑक्साइड)",
                 "N₂",
                 "H₂"
             ],
@@ -721,13 +749,14 @@
             "examName": "RRB Group D 6 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_fuels_and_combustion_48"
+            "id": "q_fuels_and_combustion_48",
+            "correct_option": 1
         },
         {
             "question": "_______ गैस का उपयोग प्रकाशयुक्त गैस के रूप में किया जाता है।",
             "options": [
                 "मिथाइल",
-                "प्रोपेन",
+                "प्रोपेन (Propane)",
                 "एसिटिलीन",
                 "एथाइन"
             ],
@@ -736,7 +765,8 @@
             "examName": "RRB Group D 27/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_fuels_and_combustion_49"
+            "id": "q_fuels_and_combustion_49",
+            "correct_option": 1
         },
         {
             "question": "क्या होता है जब एक नैफ्थलीन बॉल को खुली जगह में धातु की प्लेट पर जलाया जाता है?",
@@ -751,7 +781,8 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_fuels_and_combustion_50"
+            "id": "q_fuels_and_combustion_50",
+            "correct_option": 1
         }
     ]
 }

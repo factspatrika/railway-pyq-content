@@ -23,7 +23,7 @@
         {
             "question": "दो या अधिक पदार्थों के एक सजातीय मिश्रण को किस नाम से जाना जाता है?",
             "options": [
-                "विलयन",
+                "विलयन (Solution)",
                 "विखंडन",
                 "कोलाइड",
                 "निलंबन"
@@ -38,7 +38,7 @@
         {
             "question": "डिटर्जेंट निम्नलिखित में से किसमें कार्य कर सकते हैं?",
             "options": [
-                "कठोर और मृदु जल दोनों",
+                "कठोर और मृदु जल दोनों (Both hard and soft water)",
                 "केवल आसुत जल",
                 "केवल शीतल जल",
                 "केवल गर्म जल"
@@ -63,7 +63,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_4"
+            "id": "q_solutions_and_mixtures_4",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प निलंबन के गुण को प्रदर्शित नहीं करता है?",
@@ -78,7 +79,8 @@
             "examName": "RRB ALP CBT-I 2024 : 26 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_5"
+            "id": "q_solutions_and_mixtures_5",
+            "correct_option": 2
         },
         {
             "question": "यदि किसी चालक की लम्बाई को तीन गुना कर दिया जाए, तथा अन्य कारक समान रहें, तो चालक का प्रतिरोध होगा:",
@@ -93,14 +95,15 @@
             "examName": "RRB ALP CBT-I 2024 : 28 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_6"
+            "id": "q_solutions_and_mixtures_6",
+            "correct_option": 1
         },
         {
             "question": "एक विषम मिश्रण जिसमें विलेय कण विघटित नहीं होते हैं, बल्कि माध्यम में निलंबित रहते हैं, उन्हें _____ कहा जाता है।",
             "options": [
                 "पायसीकरण",
                 "संवहन",
-                "निलंबन",
+                "निलंबन (Suspension)",
                 "प्रसरण"
             ],
             "correctIndex": 2,
@@ -108,7 +111,8 @@
             "examName": "RPF Constable 2018 25 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_solutions_and_mixtures_7"
+            "id": "q_solutions_and_mixtures_7",
+            "correct_option": 2
         },
         {
             "question": "साबुन अणु का जलरागी सिरा कैसा होता है?",
@@ -131,20 +135,21 @@
                 "नींबू का रस",
                 "रक्त",
                 "मिल्क ऑफ मैग्नीशिया",
-                "जठर रस"
+                "जठर रस (Gastric juice)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: जठर रस (Gastric juice)\n\n📝 व्याख्या:\nदिए गए विकल्पों में से जठर रस (Gastric Juice) का pH मान सबसे कम (अर्थात यह सबसे अधिक अम्लीय) होता है।\n\n🔑 विभिन्न पदार्थों का pH मान:\n• जठर रस (Gastric Juice): pH ~ 1.2 से 2.0 (इसमें तीव्र हाइड्रोक्लोरिक अम्ल HCl होता है)।\n• नींबू का रस: pH ~ 2.2 से 2.4\n• मानव रक्त: pH ~ 7.4 (हल्का क्षारीय)\n• मिल्क ऑफ मैग्नीशिया: pH ~ 10 (क्षारीय)\n\n📌 pH मान 7 से जितना कम होगा, अम्लता उतनी ही अधिक होगी।",
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_9"
+            "id": "q_solutions_and_mixtures_9",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित अभिक्रिया में कौन-सा रंग परिवर्तन देखा जाता है? Fe + CuSO 4 → FeSO 4 + Cu?",
             "options": [
                 "हरा से नीला",
-                "नीला से हरा",
+                "नीला से हरा (Blue to green)",
                 "नीला से लाल",
                 "लाल से हरा"
             ],
@@ -153,7 +158,8 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_10"
+            "id": "q_solutions_and_mixtures_10",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किसमें MgCl विलेय है?",
@@ -161,20 +167,21 @@
                 "पेट्रोल",
                 "एसीटोन",
                 "किरोसीन",
-                "पानी"
+                "पानी (Water)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: पानी (Water)\n\n📝 व्याख्या:\nमैग्नीशियम क्लोराइड (MgCl₂) एक आयनिक यौगिक (Electrovalent Compound) है, जो ध्रुवीय विलायक जैसे पानी (Water) में पूरी तरह घुलनशील (विलेय) होता है।\n\n🔑 विलेयता का नियम:\n• 'समान समान को घोलता है' (Like dissolves like):\n - MgCl₂ ध्रुवीय आयनों (Mg²⁺ and Cl⁻) से बना है, और जल एक अत्यधिक ध्रुवीय विलायक है।\n - पेट्रोल, एसीटोन और केरोसिन अध्रुवीय कार्बनिक विलायक हैं, इसलिए इनमें आयनिक लवण अघुलनशील होते हैं।",
             "examName": "RRB Group D 3/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_11"
+            "id": "q_solutions_and_mixtures_11",
+            "correct_option": 3
         },
         {
             "question": "मिश्र धातु एक ________ है।",
             "options": [
                 "यौगिक",
-                "समांगी मिश्रण",
+                "समांगी मिश्रण (Homogeneous Mixture)",
                 "विषमांगी मिश्रण",
                 "तत्व"
             ],
@@ -183,7 +190,8 @@
             "examName": "RRB JE CBT I - : 2 June 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_solutions_and_mixtures_12"
+            "id": "q_solutions_and_mixtures_12",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा रोजमर्रा का उदाहरण एक समांगी मिश्रण को दर्शाता है?",
@@ -191,14 +199,15 @@
                 "जल में अच्छी तरह से मिश्रित तेल",
                 "लौह रेतन के साथ समान रूप से मिश्रित रेत",
                 "जल में मिला हुआ चॉक चूण",
-                "जल में पूर्णतः घुलित लवण"
+                "जल में पूर्णतः घुलित लवण (Salt fully dissolved in water)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: जल में पूर्णतः घुलित लवण (Salt fully dissolved in water)\n\n📝 व्याख्या:\nजब नमक (लवण) पानी में पूरी तरह घुल जाता है, तो वह एक समांगी मिश्रण (Homogeneous Mixture) यानी वास्तविक विलयन बनाता है।\n\n🔑 अन्य विकल्पों का विश्लेषण (विषमांगी मिश्रण):\n• जल में तेल: दो अमिश्रणीय द्रव (विषमांगी)।\n• बालू में लोहे की छीलन: ठोस-ठोस का विषम मिश्रण (विषमांगी)।\n• जल में चॉक पाउडर: निलंबन बनाता है जो कुछ समय बाद नीचे बैठ जाता है (विषमांगी)।",
             "examName": "RRB JE 19/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_13"
+            "id": "q_solutions_and_mixtures_13",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा, मिश्रण को यौगिक से सर्वोत्तम रूप से विभेदित करता है? करने के लिए रासायनिक विधियों की आवश्यकता होती है।",
@@ -228,7 +237,8 @@
             "examName": "RRB Level 01 Stage I 19/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_15"
+            "id": "q_solutions_and_mixtures_15",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किसके दो स्वभाव होते हैं: एक जलरागी (हाइड्रोफिलिक) और दूसरा जलविरोधी (हाइड्रोफोबिक)?",
@@ -236,19 +246,20 @@
                 "पानी",
                 "इत्र",
                 "क्रीम",
-                "साबुन"
+                "साबुन (Soap)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: साबुन (Soap)\n\n📝 व्याख्या:\nसाबुन के अणुओं में दो विपरीत स्वभाव वाले सिरे होते हैं:\n1️⃣ जलरागी (Hydrophilic Head): यह सिरा ध्रुवीय और आयनिक (-COO⁻Na⁺) होता है, जो पानी में घुलनशील होता है।\n2️⃣ जलविरोधी (Hydrophobic Tail): यह सिरा अध्रुवीय हाइड्रोकार्बन श्रृंखला (C₁₇H₃₅-) होती है, जो पानी में अघुलनशील होती है लेकिन तेल और ग्रीस में आसानी से घुल जाती है।\n• इसी दोहरे स्वभाव के कारण साबुन कपड़ों से मैल साफ कर पाता है।",
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_16"
+            "id": "q_solutions_and_mixtures_16",
+            "correct_option": 3
         },
         {
             "question": "जब दो भिन्न प्रकार के पदार्थों के कण, कणों की अंतर्निहित यादृच्छि क गति के कारण यादृच्छि क रूप से मिश्रित होते हैं, तो इस प्रक्रिया को क्या कहा जाता है? 2?",
             "options": [
-                "निस्सरण (effusion)",
+                "विसरण (Diffusion)",
                 "समांगीकरण (homogenisation)",
                 "विसरण (diffusion)",
                 "अंतर्मिश्रण (intermixing)"
@@ -273,7 +284,8 @@
             "examName": "RRB Level 01 Stage I 29/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_18"
+            "id": "q_solutions_and_mixtures_18",
+            "correct_option": 3
         },
         {
             "question": "150 ग्राम जल में 50 ग्राम चीनी घोल कर बनाए विलयन में द्रव्यमान की सांद्रता _____ होगी।",
@@ -288,7 +300,8 @@
             "examName": "RRB Group D 11 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_solutions_and_mixtures_19"
+            "id": "q_solutions_and_mixtures_19",
+            "correct_option": 2
         },
         {
             "question": "A और B आदश स्थिति में हैं।",
@@ -342,14 +355,15 @@
                 "Mix alcohol with water",
                 "Heat water to boiling",
                 "Dissolve sugar in water",
-                "Mix sand with water and stir"
+                "Mix sand with water and stir (पानी में बालू मिलाकर हिलाएं)"
             ],
             "correctIndex": 3,
             "explanation": "सही उत्तर: Mix sand with water and stir (पानी में बालू मिलाकर हिलाएं)\n\n📝 व्याख्या:\nप्रयोगशाला में निलंबन (Suspension) तैयार करने के लिए सबसे उपयुक्त निर्देश पानी में रेत या चॉक पाउडर मिलाकर हिलाना है।\n\n🔑\n\n• कारण:\n• रेत पानी में अघुलनशील है और हिलाने पर इसके कण पानी में लटके (निलंबित) रहते हैं, जो निलंबन की स्पष्ट परिभाषा है।\n• इसके विपरीत, पानी में चीनी घोलने से वास्तविक विलयन बनता है, और पानी में अल्कोहल मिलाने से समांगी द्रव विलयन बनता है।",
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_23"
+            "id": "q_solutions_and_mixtures_23",
+            "correct_option": 3
         },
         {
             "question": "यदि द्रव माध्यम में केवल जल है, तो मिश्रण को ________ कहा जाता है।",
@@ -364,7 +378,8 @@
             "examName": "RPF Constable 2018 17 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_solutions_and_mixtures_24"
+            "id": "q_solutions_and_mixtures_24",
+            "correct_option": 3
         },
         {
             "question": "प्रकाश संश्लेषण के उत्पादों के अलावा, पौधों में निम्नलिखित में से कौन से पदार्थ फ्लोएम द्वारा परिवहित होते हैं? P₂ P₅ P₂.5 P₄?",
@@ -379,7 +394,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_25"
+            "id": "q_solutions_and_mixtures_25",
+            "correct_option": 3
         },
         {
             "question": "यदि किसी चालक की लंबाई दोगुनी कर दी जाए, तो चालक का प्रतिरोध क्या होगा? (अन्य पैरामीटर समान रखे गए हैं)?",
@@ -394,12 +410,13 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_26"
+            "id": "q_solutions_and_mixtures_26",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन, यौगिक को विलयन से सर्वोत्तम रूप से अलग करता है? विलयन में ऐसा नहीं किया जा सकता है। होते हैं, जबकि विलयन में ऐसा नहीं होता है।",
             "options": [
-                "यौगिक को भौतिक विधियों द्वारा उसके घटकों में पृथक किया जा सकता है, जबकि विलयन में ऐसा नहीं किया जा सकता है।",
+                "यौगिक का एक निश्चित संघटन और गुणधर्म होते हैं, जो उसके संघटक तत्वों से भिन्न होते हैं।",
                 "यौगिक और विलयन दोनों सदैव समांगी और रासायनिक रूप से आबंधित होते हैं।",
                 "यौगिक का परिवर्ती संघटन होता है, जबकि विलयन का निश्चित संघटन होता है।",
                 "यौगिक का एक निश्चित संघटन और गुणधर्म होते हैं, जो उसके संघटक तत्वों से भिन्न होते हैं, जबकि विलयन में ऐसा नहीं होता है।"
@@ -414,7 +431,7 @@
         {
             "question": "________ को विद्युत ऋणात्मक तत्व के रूप में जाना जाता है क्योंकि वे इलेक्ट्रॉनों के लाभ से ऋणावेशित आयन बनाते हैं।",
             "options": [
-                "अधातु",
+                "अधातु (Non-metal)",
                 "मिश्रण",
                 "मिश्र धातु",
                 "यौगिक"
@@ -439,12 +456,13 @@
             "examName": "RRB Level 01 Stage I 03/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_29"
+            "id": "q_solutions_and_mixtures_29",
+            "correct_option": 3
         },
         {
             "question": "पृथक्करण फ़नल का उपयोग _____ के मिश्रण के पृथक्करण के लिए किया जाता है।",
             "options": [
-                "मिश्रणीय तरल पदार्थों",
+                "अमिश्रणीय तरल पदार्थों (Immiscible Liquids)",
                 "नमक और कपूर",
                 "काली स्याही में मिश्रित डाई",
                 "अमिश्रणीय तरल पदार्थों"
@@ -469,7 +487,8 @@
             "examName": "RRB JE CBT I - : 30 May 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_31"
+            "id": "q_solutions_and_mixtures_31",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन कोलाइड के लिए गलत है?",
@@ -514,7 +533,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_34"
+            "id": "q_solutions_and_mixtures_34",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा एक, समांगी मिश्रण (homogeneous mixture) है?",
@@ -544,7 +564,8 @@
             "examName": "RRB Level 01 Stage I 02/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_36"
+            "id": "q_solutions_and_mixtures_36",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन, किसी यौगिक को विलयन से सर्वोत्तम रूप से विभेदित करता है? मिश्रण होते हैं। नहीं किया जा सकता।",
@@ -559,7 +580,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_37"
+            "id": "q_solutions_and_mixtures_37",
+            "correct_option": 3
         },
         {
             "question": "एक बीकर में थोड़ी मात्रा में कॉपर ऑक्साइड लिया जाता है और उसमें तनु हाइड्रोक्लोरिक अम्ल को धीरे-धीरे हिलाते हुए मिलाया जाता है, जिसके परिणामस्वरूप.होता है।",
@@ -619,7 +641,8 @@
             "examName": "RRB NTPC UG CBT-I : 19 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_41"
+            "id": "q_solutions_and_mixtures_41",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित विकल्पों में से कौन-सा, निलंबन का एक गुण है?",
@@ -649,7 +672,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_43"
+            "id": "q_solutions_and_mixtures_43",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा व्यंजक विलयन के द्रव्यमान द्वारा द्रव्यमान प्रतिशत के लिए सही सूत्र देता है?",
@@ -694,7 +718,8 @@
             "examName": "RRB Group D 22 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_46"
+            "id": "q_solutions_and_mixtures_46",
+            "correct_option": 1
         },
         {
             "question": "रासायनिक समीकरण में किसी पदार्थ के प्रतीक/सूत्र के बाद लिखा गया शब्द (aq) यह दर्शाता है कि वह कहाँ मौजूद है:",
@@ -709,7 +734,8 @@
             "examName": "RRB Group D 23 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_47"
+            "id": "q_solutions_and_mixtures_47",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा एक विषमांगी मिश्रण है?",
@@ -831,7 +857,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_55"
+            "id": "q_solutions_and_mixtures_55",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा वायु के मिश्रण का सबसे अच्छा वर्णन करता है?",
@@ -846,7 +873,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_56"
+            "id": "q_solutions_and_mixtures_56",
+            "correct_option": 2
         },
         {
             "question": "स्थलीय पारिस्थितिकी तंत्र में हरे पौधे सौर ऊर्जा का कितना प्रतिशत अवशोषित करते हैं? Mass of solute Volume of solution × 100 Mass of solute Mass of solution × 100 Volume of solute Volume of solution × 100 Volume of solution Mass of solute × 100?",
@@ -891,7 +919,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_59"
+            "id": "q_solutions_and_mixtures_59",
+            "correct_option": 3
         },
         {
             "question": "एका परिसंस्थेत एका पोषण पातळीपासून दुसऱ्या पोषण पातळीवर अंदाजे किती टक्के ऊर्जा हस्तांतरित केली जाते?",
@@ -906,7 +935,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_60"
+            "id": "q_solutions_and_mixtures_60",
+            "correct_option": 2
         },
         {
             "question": "कोलॉइडी विलयन क्या है?",
@@ -921,7 +951,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_61"
+            "id": "q_solutions_and_mixtures_61",
+            "correct_option": 2
         },
         {
             "question": "पानी के साथ एक अम्ल का मिश्रण क्या कहलाता है, जिसके परिणामस्वरूप आयनों की प्रति इकाई आयतन सांद्रता में कमी आ जाती है?",
@@ -966,7 +997,8 @@
             "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 3",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_64"
+            "id": "q_solutions_and_mixtures_64",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा कारक पदार्थ की अवस्था में परिवर्तन का कारण बनता है?",
@@ -981,7 +1013,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_65"
+            "id": "q_solutions_and_mixtures_65",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सी सुविधा उपयोगकता को किसी विशिष्ट प्रेषक से प्राप्त ईमेल को तुरंत ढूंढने की अनुमति देती है?",
@@ -996,7 +1029,8 @@
             "examName": "RRB ALP CBT-II Fitter : 06 May, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_66"
+            "id": "q_solutions_and_mixtures_66",
+            "correct_option": 2
         },
         {
             "question": "कौन सी रसोई प्रक्रिया परासरण का उदाहरण है?",
@@ -1011,7 +1045,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 06 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_67"
+            "id": "q_solutions_and_mixtures_67",
+            "correct_option": 2
         },
         {
             "question": "मिश्रण और यौगिक में क्या अंतर है?",
@@ -1026,7 +1061,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_68"
+            "id": "q_solutions_and_mixtures_68",
+            "correct_option": 3
         },
         {
             "question": "अयस्कों से अपद्रव्यों को हटाने के लिए कौन-सी प्रक्रिया जानी जाती है?",
@@ -1041,7 +1077,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_69"
+            "id": "q_solutions_and_mixtures_69",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन' टिण्डल प्रभाव' को दर्शाता है?",
@@ -1056,7 +1093,8 @@
             "examName": "RRB JE CBT I - : 1 June 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_70"
+            "id": "q_solutions_and_mixtures_70",
+            "correct_option": 2
         },
         {
             "question": "सोडियम क्लोराइड का जलीय घोल क्या कहलाता है?",
@@ -1071,7 +1109,8 @@
             "examName": "RRB Group D 27 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_71"
+            "id": "q_solutions_and_mixtures_71",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से किसका उपयोग विलयन की सांद्रता को व्यक्त करने के लिए नहीं किया जाता है?",
@@ -1116,7 +1155,8 @@
             "examName": "RRB NTPC UG CBT-I : 28 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_74"
+            "id": "q_solutions_and_mixtures_74",
+            "correct_option": 2
         },
         {
             "question": "कौन-सा कथन एक विषमांगी मिश्रण का सही वर्णन करता है?",
@@ -1146,7 +1186,8 @@
             "examName": "RRB NTPC UG CBT-I : 19 Aug, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_76"
+            "id": "q_solutions_and_mixtures_76",
+            "correct_option": 3
         },
         {
             "question": "धातुओं के पतले तारों में खींचे जाने की क्षमता कहलाती है:",
@@ -1161,7 +1202,8 @@
             "examName": "RRB NTPC CBT-I : 4 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_77"
+            "id": "q_solutions_and_mixtures_77",
+            "correct_option": 1
         },
         {
             "question": "वाशिंग सोडा का उपयोग निम्नलिखित में से क्या है?",
@@ -1176,7 +1218,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_78"
+            "id": "q_solutions_and_mixtures_78",
+            "correct_option": 2
         },
         {
             "question": "पानी में चीनी के समांगी मिश्रण के लिए निम्नलिखित में से कौन सा कथन सही है?",
@@ -1206,7 +1249,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_80"
+            "id": "q_solutions_and_mixtures_80",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा विषमांगी विलयन का उदाहरण है?",
@@ -1281,7 +1325,8 @@
             "examName": "RPF Constable 2024 04 Mar, 2025 Shift 3",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_solutions_and_mixtures_85"
+            "id": "q_solutions_and_mixtures_85",
+            "correct_option": 3
         },
         {
             "question": "साबुन की माजन क्रिया में मिसेल (micelles) की मुख्य भूमिका क्या है?",
@@ -1296,7 +1341,8 @@
             "examName": "RRB Level 01 Stage I 27/11/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_86"
+            "id": "q_solutions_and_mixtures_86",
+            "correct_option": 1
         },
         {
             "question": "मोलरता क्या है?",
@@ -1311,7 +1357,8 @@
             "examName": "RRB JE CBT-II Electronics : 31 Aug, 2019 Shift 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_87"
+            "id": "q_solutions_and_mixtures_87",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन उस विलयन की सही पहचान करता है जहाँ विलेय और विलायक दोनों तत्व हैं, तथा विलयन समांगी है?",
@@ -1356,7 +1403,8 @@
             "examName": "RRB NTPC CBT-I : 1 April 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_90"
+            "id": "q_solutions_and_mixtures_90",
+            "correct_option": 2
         },
         {
             "question": "निलंबन विलयनों से भिन्न होते हैं, क्योंकि ________________ ।",
@@ -1416,7 +1464,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_94"
+            "id": "q_solutions_and_mixtures_94",
+            "correct_option": 3
         },
         {
             "question": "जब एक धातु ऑक्साइड एक अम्ल के साथ अभिक्रिया करता है, तो निम्नलिखित में से क्या उत्पादित होता है?",
@@ -1491,7 +1540,8 @@
             "examName": "RRB JE CBT-2 2024 CMA : 22 Apr, 2025 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_99"
+            "id": "q_solutions_and_mixtures_99",
+            "correct_option": 2
         },
         {
             "question": "एक विद्यार्थी, एक बीकर में रेत, नमक और जल को मिश्रित करके अच्छी तरह से हिलाता है। कुछ समय बाद, उसे क्या दिखाई देगा?",
@@ -1506,7 +1556,8 @@
             "examName": "RRB Technician Grade III 06/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_100"
+            "id": "q_solutions_and_mixtures_100",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा आयनिक यौगिकों का एक विशिष्ट गुण है?",
@@ -1521,7 +1572,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_101"
+            "id": "q_solutions_and_mixtures_101",
+            "correct_option": 3
         },
         {
             "question": "यदि किसी विलयन का pH मान 3 है, तो विलयन में हाइड्रोजन आयनों की सांद्रता कितनी है?",
@@ -1581,7 +1633,8 @@
             "examName": "RRB Level 01 Stage I 27/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_105"
+            "id": "q_solutions_and_mixtures_105",
+            "correct_option": 2
         },
         {
             "question": "लिटमस पेपर के अलावा निम्नलिखित में से किस' सूचक' का उपयोग विलयनों की प्रकृति का परीक्षण करने के लिए किया जाता है?",
@@ -1596,7 +1649,8 @@
             "examName": "RRB Level 01 Stage I 27/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_106"
+            "id": "q_solutions_and_mixtures_106",
+            "correct_option": 1
         },
         {
             "question": "250 mL विलयन में 5 g विलेय घुला हुआ है। विलयन की सांद्रता (द्रव्यमान आयतन%) क्या है?",
@@ -1626,7 +1680,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_108"
+            "id": "q_solutions_and_mixtures_108",
+            "correct_option": 3
         },
         {
             "question": "कार्बन डाइऑक्साइड में, कार्बन और ऑक्सीजन का द्रव्यमान अनुपात क्या है?",
@@ -1671,7 +1726,8 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_solutions_and_mixtures_111"
+            "id": "q_solutions_and_mixtures_111",
+            "correct_option": 2
         },
         {
             "question": "280 ग्राम पानी में 20 ग्राम साधारण नमक का विलयन है। द्रव्यमान द्वारा द्रव्यमान प्रतिशत के संदर्भ में सांद्रता क्या है?",
@@ -1701,7 +1757,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_113"
+            "id": "q_solutions_and_mixtures_113",
+            "correct_option": 2
         },
         {
             "question": "जब परिक्षिप्त प्रावस्था गैस होती है और परिक्षेपण माध्यम ठोस होता है तो कोलाइड का प्रकार कैसा होता है?",
@@ -1746,7 +1803,8 @@
             "examName": "RRB ALP CBT-I 2024 : 28 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_116"
+            "id": "q_solutions_and_mixtures_116",
+            "correct_option": 3
         },
         {
             "question": "इनमें से किस कोलॉइड में तरल परिक्षेपण माध्यम में, ठोस परिक्षिप्त प्रावस्था होती है?",
@@ -1761,7 +1819,8 @@
             "examName": "RRB Group D 22 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_117"
+            "id": "q_solutions_and_mixtures_117",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन कोलाइडल विलयन के बारे में गलत है?",
@@ -1791,12 +1850,13 @@
             "examName": "RRB NTPC GRADUATE CBT 1 22/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_119"
+            "id": "q_solutions_and_mixtures_119",
+            "correct_option": 2
         },
         {
             "question": "विलयन के संबंध में निम्नलिखित में से कौन-सा कथन सही है? देते।",
             "options": [
-                "विलयन एक समांगी मिश्रण होता है जिसमें विलेय के कण नग्न आंखों से दिखाई नहीं देते।",
+                "विलयन एक समांगी मिश्रण होता है जिसमें विलेय के कण नग्न आंखों से दिखाई नहीं",
                 "विलयन दो या दो से अधिक पदार्थों का एक विषमांगी मिश्रण होता है।",
                 "विलयन में विलेय स्थिर रहने पर नीचे बैठ जाता है।",
                 "विलयन में विलेय की मात्रा विलायक से सदैव अधिक होती है।"
@@ -1821,7 +1881,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_121"
+            "id": "q_solutions_and_mixtures_121",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा कोलॉइडी विलयन है?",
@@ -1866,7 +1927,8 @@
             "examName": "RRB ALP CBT 1 16/02/2026 9:00 AM - 10:00 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_124"
+            "id": "q_solutions_and_mixtures_124",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सी विधि अयस्क संवर्धन (ore enrichment) के लिए उपयोग नहीं की जाती है?",
@@ -1881,7 +1943,8 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_125"
+            "id": "q_solutions_and_mixtures_125",
+            "correct_option": 1
         },
         {
             "question": "जलीय (aq) शब्द तब लिखा जाता है जब अभिकारक या उत्पाद एक ________ के रूप में मौजूद होता है।",
@@ -1896,7 +1959,8 @@
             "examName": "RRB JE 27 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_solutions_and_mixtures_126"
+            "id": "q_solutions_and_mixtures_126",
+            "correct_option": 1
         },
         {
             "question": "चार संभावनाओं में से, निलंबन में कौन सा गुण होता है?",
@@ -1986,7 +2050,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_132"
+            "id": "q_solutions_and_mixtures_132",
+            "correct_option": 3
         },
         {
             "question": "एक विलयन में पानी की 320g मात्रा में सामान्य नमक की मात्रा 41g है। विलयन के द्रव्यमान प्रतिशत के द्वारा द्रव्यमान के संदर्भ में इसकी सांद्रता की गणना कीजिए।",
@@ -2016,7 +2081,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_134"
+            "id": "q_solutions_and_mixtures_134",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा विषमांगी मिश्रण का सबसे अच्छा वर्णन करता है?",
@@ -2061,7 +2127,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_137"
+            "id": "q_solutions_and_mixtures_137",
+            "correct_option": 2
         },
         {
             "question": "दो विभिन्न प्रकार के पदार्थों के कणों के आपस में मिलने को _____________ कहा जाता है।",
@@ -2076,7 +2143,8 @@
             "examName": "RPF Constable 2018 08 Feb 2019",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_solutions_and_mixtures_138"
+            "id": "q_solutions_and_mixtures_138",
+            "correct_option": 1
         },
         {
             "question": "किस प्रकार का विलयन प्लाज्मा झिल्ली के माध्यमें से जल को कोशिका से बाहर स्थानांतरित कर देता है, जिससे कोशिका संकुचित हो जाती है?",
@@ -2091,7 +2159,8 @@
             "examName": "RRB Level 01 Stage I 10/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_139"
+            "id": "q_solutions_and_mixtures_139",
+            "correct_option": 1
         },
         {
             "question": "कौन-सा परिवर्तन, अपमाजक विलयन में मिसेल (micelle) निर्माण को प्रवर्धित करेगा?",
@@ -2121,7 +2190,8 @@
             "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_141"
+            "id": "q_solutions_and_mixtures_141",
+            "correct_option": 1
         },
         {
             "question": "किसी विलयन में विलेय को घोलते समय, जब किसी दिए गए तापमान पर विलयन में और अधिक विलेय नहीं घोला जा सकता है, तो इसे _______ कहा जाता है।",
@@ -2136,7 +2206,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_solutions_and_mixtures_142"
+            "id": "q_solutions_and_mixtures_142",
+            "correct_option": 1
         },
         {
             "question": "कौन-सा गुण निलंबन को कोलॉइड से सबसे स्पष्ट रूप से विभेदित करता है?",
@@ -2166,7 +2237,8 @@
             "examName": "RRB Level 01 Stage I 24/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_144"
+            "id": "q_solutions_and_mixtures_144",
+            "correct_option": 2
         },
         {
             "question": "एक खाद्य श्रृंखला घास → टिड्डा → मेंढक → साँप → बाज से शुरू होती है। बाज में अजैवनिम्नीकरणीय पीड़कनाशियों की कितनी सांद्रता अपैक्षित है?",
@@ -2226,7 +2298,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_148"
+            "id": "q_solutions_and_mixtures_148",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा विषमांगी मिश्रण का उदाहरण है?",
@@ -2286,7 +2359,8 @@
             "examName": "RRB Group D 1 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_solutions_and_mixtures_152"
+            "id": "q_solutions_and_mixtures_152",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा विलयन का लक्षण नहीं है? प्रकीर्णित नहीं करते हैं।",
@@ -2301,7 +2375,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_153"
+            "id": "q_solutions_and_mixtures_153",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा कोलॉइडी विलयन का गुण नहीं है? है तथा उसका मार्ग दृश्यमान बना सकता है।",
@@ -2316,7 +2391,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_154"
+            "id": "q_solutions_and_mixtures_154",
+            "correct_option": 1
         },
         {
             "question": "यौगिक एक ऐसा पदार्थ है जिसमें तत्व _________ ।",
@@ -2331,7 +2407,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_solutions_and_mixtures_155"
+            "id": "q_solutions_and_mixtures_155",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा कोलॉइड और वास्तविक विलयनों के बीच एक विशिष्ट अंतर है? प्रणाली होती है परिक्षिप्त कण होते हैं?",
@@ -2346,7 +2423,8 @@
             "examName": "RRB JE CE 22 Apr 2025 Shift 2 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_156"
+            "id": "q_solutions_and_mixtures_156",
+            "correct_option": 2
         },
         {
             "question": "एक विशिष्ट विशेषता जो साबुन से संबंधित नहीं है, वह.है।",
@@ -2361,7 +2439,8 @@
             "examName": "RRB Level 01 Stage I 19/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_157"
+            "id": "q_solutions_and_mixtures_157",
+            "correct_option": 1
         },
         {
             "question": "प्रकृति में क्लोरीन के दो समस्थानिक रूप, जिनके द्रव्यमान 35 u और 37 u हैं, किस अनुपात में पाए जाते हैं?",
@@ -2411,7 +2490,7 @@
         {
             "question": "कैरम खेलते समय घर्षण को कम करने के लिए हम क्या करते हैं?",
             "options": [
-                "बोर्ड पर दो या तीन बूंद तेल लगातें हैं।",
+                "बोड पर बारीक पाउडर छिड़कते है ।",
                 "बोर्ड को एक चिकने कपड़े से पोंछते हैं।",
                 "बोर्ड को एक तरफ ऊंचा रखें ताकि तिरछा हो ।",
                 "बोर्ड पर बारीक पाउडर छिड़कते है ।"
@@ -2458,7 +2537,7 @@
             "options": [
                 "यौगिक परिवर्ती संयोजन (variable composition) दर्शाते हैं, मिश्रण नहीं।",
                 "मिश्रण रासायनिक अभिक्रियाओं के माध्यमें से बनते हैं।",
-                "मिश्रण को भौतिक माध्यमों से अलग किया जा सकता है, लेकिन यौगिकों को अलग नहीं किया जा सकता है।",
+                "मिश्रण को भौतिक माध्यमों से अलग किया जा सकता है, लेकिन यौगिकों को अलग",
                 "यौगिक अपने संघटकों के गुणधर्मों को बनाए रखते हैं।"
             ],
             "correctIndex": 2,
@@ -2466,7 +2545,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_164"
+            "id": "q_solutions_and_mixtures_164",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा रासायनिक परिवर्तन का उदाहरण है?",
@@ -2481,7 +2561,8 @@
             "examName": "RRB JE CBT 2 Electronics Engineering ReExam : 04 Jun, 2025",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_165"
+            "id": "q_solutions_and_mixtures_165",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन समांगी मिश्रण का उदाहरण नहीं है?",
@@ -2526,7 +2607,8 @@
             "examName": "RRB Group D 7/10/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_168"
+            "id": "q_solutions_and_mixtures_168",
+            "correct_option": 3
         },
         {
             "question": "सिरका निम्नलिखित में से किसका 5-8% विलयन है?",
@@ -2541,7 +2623,8 @@
             "examName": "RRB Level 01 Stage I 23/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_169"
+            "id": "q_solutions_and_mixtures_169",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन आयनिक यौगिक का उदाहरण है?",
@@ -2556,7 +2639,8 @@
             "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_170"
+            "id": "q_solutions_and_mixtures_170",
+            "correct_option": 1
         },
         {
             "question": "विलयन के प्रति इकाई द्रव्यमान या प्रति इकाई आयतन में विलेय की मात्रा को _________ के रूप में जाना जाता है।",
@@ -2571,7 +2655,8 @@
             "examName": "RRB JE CE 19 Sept 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_solutions_and_mixtures_171"
+            "id": "q_solutions_and_mixtures_171",
+            "correct_option": 1
         },
         {
             "question": "_________ में सामान्यतः लंबी, अस्थायी कार्बन श्रृंखलाएं होती हैं।",
@@ -2586,7 +2671,8 @@
             "examName": "RRB Level 01 Stage I 05/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_solutions_and_mixtures_172"
+            "id": "q_solutions_and_mixtures_172",
+            "correct_option": 1
         },
         {
             "question": "' निलंबन' का निम्नलिखित में से कौन-सा गुणधर्म गलत है?",
@@ -2661,7 +2747,8 @@
             "examName": "RRB Level 01 Stage I 05/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_177"
+            "id": "q_solutions_and_mixtures_177",
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन विषमांगी मिश्रण के लिए सही है?",
@@ -2706,7 +2793,8 @@
             "examName": "RRB Group D 14 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_180"
+            "id": "q_solutions_and_mixtures_180",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन सा कथन विलयन के बारे में सत्य नहीं है?",
@@ -2721,7 +2809,8 @@
             "examName": "RRB Technician Grade III : 27 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_181"
+            "id": "q_solutions_and_mixtures_181",
+            "correct_option": 1
         },
         {
             "question": "दो बीकरों में अलग-अलग सांद्रता वाले चीनी के विलयन हैं। एक अर्धपारगम्य झिल्ली उन्हें पृथक करती है। कुछ समय बाद, एक बीकर में विलयन का स्तर बढ़ जाता है जबकि दूसरे में यह घट जाता है। यह प्रयोग विलयनों के किस गुणधर्म को सर्वोत्तम रूप से दर्शाता है, और क्यों? हैं जब तक संतुलन स्थापित नहीं हो जाता। अंतर होता है। सांद्र विलयन की ओर गति करते हैं।",
@@ -2781,7 +2870,8 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_185"
+            "id": "q_solutions_and_mixtures_185",
+            "correct_option": 3
         },
         {
             "question": "निम्नलिखित में से कौन सा मिश्रण अलग-अलग कीपों/फनल द्वारा अलग किया जा सकता है?",
@@ -2796,7 +2886,8 @@
             "examName": "RRB Group D 31/10/2018 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_186"
+            "id": "q_solutions_and_mixtures_186",
+            "correct_option": 2
         },
         {
             "question": "एक विद्यार्थी तालाब से एकत्रित मिट्टी और पानी के विषमांगी मिश्रण को अलग करना चाहता है। मिश्रणों के बारे में आपकी समझ के आधार पर, कौन-सी विधि सबसे प्रभावी होगी और क्यों?",
@@ -2841,7 +2932,8 @@
             "examName": "RRB JE ME 29 Aug 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_189"
+            "id": "q_solutions_and_mixtures_189",
+            "correct_option": 2
         },
         {
             "question": "पीतल.का उदाहरण है।",
@@ -2856,7 +2948,8 @@
             "examName": "RRB Level 01 Stage I 17/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_190"
+            "id": "q_solutions_and_mixtures_190",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा युग्म पदार्थ की ठोस अवस्था का उदाहरण है?",
@@ -2901,7 +2994,8 @@
             "examName": "RRB Level 01 Stage I 05/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_193"
+            "id": "q_solutions_and_mixtures_193",
+            "correct_option": 2
         },
         {
             "question": "कोलाइड एक ______ है।",
@@ -3006,7 +3100,8 @@
             "examName": "RRB Technician Grade III : 28 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_200"
+            "id": "q_solutions_and_mixtures_200",
+            "correct_option": 2
         },
         {
             "question": "यदि विलायक की समान मात्रा में अधिक विलेय मिलाया जाए, तो विलयन की सांद्रता पर क्या प्रभाव पड़ता है?",
@@ -3036,7 +3131,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_202"
+            "id": "q_solutions_and_mixtures_202",
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन यह सर्वोत्तम रूप से प्रदर्शित करता है कि द्रव्य के कणों के बीच अंतराल होता है?",
@@ -3051,7 +3147,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_203"
+            "id": "q_solutions_and_mixtures_203",
+            "correct_option": 3
         },
         {
             "question": "एक विलयन में पानी की 320 ग्राम मात्रा में सामान्य नमक की मात्रा 46 ग्राम है। द्रव्यमान प्रतिशत द्वारा द्रव्यमान के संदर्भ में विलयन की सांद्रता की गणना कीजिए।",
@@ -3126,7 +3223,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_208"
+            "id": "q_solutions_and_mixtures_208",
+            "correct_option": 2
         }
     ]
 }
