@@ -1069,7 +1069,7 @@
       "id": "q_force_and_laws_of_motion_71"
     },
     {
-      "question": "पृथ्वी और'm' kg द्रव्यमान वाले किसी पिंड के बीच गुरुत्वाकर्षण बल'F' N है। यदि पिंड का द्रव्यमान बढ़ाकर'4m' kg कर दिया जाए, तो पिंड और पृथ्वी के बीच गुरुत्वाकर्षण बल क्या होगा? (अन्य सभी प्राचलों को समान रखें)",
+      "question": "पृथ्वी और \\'m\\' kg द्रव्यमान वाले किसी पिंड के बीच गुरुत्वाकर्षण बल \\'F\\' N है। यदि पिंड का द्रव्यमान बढ़ाकर'4m' kg कर दिया जाए, तो पिंड और पृथ्वी के बीच गुरुत्वाकर्षण बल क्या होगा? (अन्य सभी प्राचलों को समान रखें)",
       "options": [
         "F N",
         "F/4 N",
@@ -1249,7 +1249,7 @@
       "id": "q_force_and_laws_of_motion_83"
     },
     {
-      "question": "जब हवा का तापमान बढ़ता है, तो ध्वनि तरंगों की चाल.",
+      "question": "जब हवा का तापमान बढ़ता है, तो ध्वनि तरंगों की चाल।",
       "options": [
         "स्थिर रहती है",
         "घटती है",
@@ -2315,7 +2315,7 @@
       "id": "q_force_and_laws_of_motion_154"
     },
     {
-      "question": "यदि पृथ्वी और एक सेब, जिनके बीच की दूरी'x' है, के बीच आकर्षण बल'F' है, तो उसी सेब पर'2x' दूरी पर कार्य करने वाला बल ______ होगा।",
+      "question": "यदि पृथ्वी और एक सेब, जिनके बीच की दूरी'x' है, के बीच आकर्षण बल \\'F\\' है, तो उसी सेब पर'2x' दूरी पर कार्य करने वाला बल ______ होगा।",
       "options": [
         "F/2",
         "F/4",
@@ -2706,7 +2706,7 @@
       "id": "q_force_and_laws_of_motion_180"
     },
     {
-      "question": "यदि पृथ्वी और चंद्रमा के बीच गुरुत्वीय बल'F', N है, यदि पृथ्वी और चंद्रमा के बीच की दूरी दोगुनी हो जाए तो उनके बीच का बल कितना होगा? (अन्य सभी प्राचलों को समान रखें।)",
+      "question": "यदि पृथ्वी और चंद्रमा के बीच गुरुत्वीय बल \\'F\\', N है, यदि पृथ्वी और चंद्रमा के बीच की दूरी दोगुनी हो जाए तो उनके बीच का बल कितना होगा? (अन्य सभी प्राचलों को समान रखें।)",
       "options": [
         "4F",
         "2F",
@@ -3293,10 +3293,10 @@
     {
       "question": "A car suddenly changes direction while moving at constant speed. Which aspect of inertia is being demonstrated, and how does the car’s mass influence this effect?",
       "options": [
-        "The inertia of rest is demonstrated, and the car’s mass does not affect direction changes.",
-        "The inertia of speed is demonstrated, and a lighter car resists direction change more.",
-        "Mass only affects speed, not direction, when a car turns.",
-        "The inertia of direction is demonstrated, and a car with greater mass will resist the change in direction more."
+        "The inertia of rest is demonstrated, and the car’s mass does not affect direction changes।",
+        "The inertia of speed is demonstrated, and a lighter car resists direction change more।",
+        "Mass only affects speed, not direction, when a car turns।",
+        "The inertia of direction is demonstrated, and a car with greater mass will resist the change in direction more।"
       ],
       "correctIndex": 3,
       "explanation": "सही उत्तर: The inertia of direction is demonstrated, and a car with greater mass will resist the change in direction more.\n\n📝 व्याख्या:\nयह स्थिति **'दिशा के जड़त्व' (Inertia of Direction)** को दर्शाती है, जिसके कारण कार उसी सीधी रेखा में चलते रहना चाहती है।\n\nजड़त्व सीधे द्रव्यमान पर निर्भर करता है। अतः यदि कार का द्रव्यमान अधिक होगा, तो उसका जड़त्व भी अधिक होगा, और वह दिशा परिवर्तन का **अधिक दृढ़ता से प्रतिरोध (Resist)** करेगी (अर्थात्उसे मोड़ने के लिए अधिक बल की आवश्यकता होगी)।",
@@ -3531,7 +3531,7 @@
       "id": "q_force_and_laws_of_motion_235"
     },
     {
-      "question": "यदि पृथ्वी की सतह पर द्रव्यमान'm' वाले पिंड पर लगने वाला गुरुत्वाकर्षण बल'X' N है। यदि पिंड का द्रव्यमान तीन गुना हो जाता है, तो पिंड पर लगने वाले गुरुत्वाकर्षण बल का मान क्या होगा?",
+      "question": "यदि पृथ्वी की सतह पर द्रव्यमान \\'m\\' वाले पिंड पर लगने वाला गुरुत्वाकर्षण बल \\'X\\' N है। यदि पिंड का द्रव्यमान तीन गुना हो जाता है, तो पिंड पर लगने वाले गुरुत्वाकर्षण बल का मान क्या होगा?",
       "options": [
         "X/9 N",
         "X/3 N",
@@ -4101,7 +4101,7 @@
       "id": "q_force_and_laws_of_motion_273"
     },
     {
-      "question": "निम्नलिखित में से कौन सा नियम बताता है कि धातु के तार के माध्यम से प्रवाहित होने वाली विद्युत धारा'I' विभवांतर'V' के अनुक्रमानुपाती है और इसके सिरों पर इसका तापमान स्थिर रहता है?",
+      "question": "निम्नलिखित में से कौन सा नियम बताता है कि धातु के तार के माध्यम से प्रवाहित होने वाली विद्युत धारा'I' विभवांतर \\'V\\' के अनुक्रमानुपाती है और इसके सिरों पर इसका तापमान स्थिर रहता है?",
       "options": [
         "गौस का नियम",
         "ओम का नियम",
@@ -4626,7 +4626,7 @@
       "id": "q_force_and_laws_of_motion_308"
     },
     {
-      "question": "50 kg द्रव्यमान का एक लकड़ी का गुटका एक चिकनी क्षैतिज सतह पर रखा जाता है। जब वह विरामावस्था में होता है तो उस पर'X' N का एक नियत क्षैतिज बल लगाया जाता है। गुटका 2 s में 10 m/s का वेग प्राप्त कर लेता है। X का मान क्या है?",
+      "question": "50 kg द्रव्यमान का एक लकड़ी का गुटका एक चिकनी क्षैतिज सतह पर रखा जाता है। जब वह विरामावस्था में होता है तो उस पर \\'X\\' N का एक नियत क्षैतिज बल लगाया जाता है। गुटका 2 s में 10 m/s का वेग प्राप्त कर लेता है। X का मान क्या है?",
       "options": [
         "100 N",
         "10 N",
@@ -5602,7 +5602,7 @@
       "id": "q_force_and_laws_of_motion_373"
     },
     {
-      "question": "एक पिंड पर'X' N का एक नियत बल इस प्रकार कार्य करता है कि पिंड बल की दिशा में 5 m विस्थापित होता है। यदि बल के कारण किया गया कार्य 500 J है, तो X का मान क्या है?",
+      "question": "एक पिंड पर \\'X\\' N का एक नियत बल इस प्रकार कार्य करता है कि पिंड बल की दिशा में 5 m विस्थापित होता है। यदि बल के कारण किया गया कार्य 500 J है, तो X का मान क्या है?",
       "options": [
         "2500 N",
         "100 N",
