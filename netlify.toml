@@ -1,0 +1,6 @@
+[build]
+  publish = "admin"
+
+# Ignore builds unless files in the admin folder change
+[build.ignore]
+  command = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- admin/ pyq_admin/ netlify.toml"
