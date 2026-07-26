@@ -865,7 +865,8 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_transportation_in_plants_and_animals_55",
-            "answer": "अंतःस्यंदन (Infiltration)"
+            "answer": "अंतःस्यंदन (Infiltration)",
+            "correct_option": 0
         },
         {
             "question": "पौधे के हवाई भागों से वाष्प के रूप में पानी का नुकसान क्या कहलाता है?",

@@ -282,7 +282,8 @@
             "examName": "RRB Group D 26 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_genetics_and_dna_18"
+            "id": "q_genetics_and_dna_18",
+            "correct_option": 0
         },
         {
             "question": "Why is it important for DNA to be accompanied by a cellular apparatus in a reproducing cell during DNA copying?",
@@ -557,7 +558,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_genetics_and_dna_35",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "1950 के दशक से पहले संरचनात्मक अध्ययन के लिए इंटेक्ट DNA को अलग करने में असमथता मुख्य रूप से किस आणविक विशेषता के कारण थी?",
@@ -1468,7 +1469,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_genetics_and_dna_93",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "एक ही जनक (parents) के दो बच्चे एक दूसरे के समरूप होते हैं परंतु बिल्कुल एक जैसे नहीं होते क्योंकि ___________ ।",
@@ -1704,7 +1705,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_genetics_and_dna_108",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "मेंडल के स्वतंत्र अपव्यूहन के नियम किस आधार पर था, जहाँ पैतृक मटर के पौधों में कितने लक्षणों में अंतर था?",
@@ -1734,7 +1735,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 24/03/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_genetics_and_dna_110"
+            "id": "q_genetics_and_dna_110",
+            "correct_option": 0
         },
         {
             "question": "________ वंशानुगत सामग्री का वहन करता है/करते हैं।",

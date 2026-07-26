@@ -125,7 +125,8 @@
             "examName": "RRB JE 28 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_fuels_and_combustion_8"
+            "id": "q_fuels_and_combustion_8",
+            "correct_option": 0
         },
         {
             "question": "संतृप्त हाइड्रोकार्बन के जलने से किस प्रकार की ज्वाला उत्पन्न होगी?",
@@ -562,7 +563,8 @@
             "examName": "RRB Level 01 Stage I 10/02/2026 12:45 PM - 2:15 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_fuels_and_combustion_36"
+            "id": "q_fuels_and_combustion_36",
+            "correct_option": 0
         },
         {
             "question": "पादप सामग्री से कोयले के निर्माण के दौरान, लाखों वर्षों तक उच्च दाब और ताप के अंतर्गत रासायनिक और भौतिक परिवर्तनों का एक अनुक्रम घटित होती है। निम्नलिखित में से कौन-सा, कोयले के निर्माण के दौरान कार्बन की मात्रा में क्रमिक वृद्धि को सही प्रकार से निरूपित करता है?",
@@ -577,7 +579,8 @@
             "examName": "RRB Technician Grade III 06/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_fuels_and_combustion_37"
+            "id": "q_fuels_and_combustion_37",
+            "correct_option": 0
         },
         {
             "question": "लंबी अवधि के दौरान मृत पौधों के ______ में परिवर्तित होने की प्रक्रिया कार्बनीकरण कहलाती है।",
@@ -624,7 +627,8 @@
             "examName": "RRB NTPC CBT-I : 22 Feb 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_fuels_and_combustion_40"
+            "id": "q_fuels_and_combustion_40",
+            "correct_option": 0
         },
         {
             "question": "असंतृप्त हाइड्रोकार्बन सामान्यत: कैसी ज्वाला उत्पन्न करते हैं?",
@@ -687,7 +691,8 @@
             "examName": "RRB Group D 29 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_fuels_and_combustion_44"
+            "id": "q_fuels_and_combustion_44",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित गैसों में से किसका ऊष्मीय मान उच्चतम है?",

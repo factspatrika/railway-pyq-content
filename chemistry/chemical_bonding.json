@@ -933,7 +933,8 @@
             "examName": "RRB JE CBT-I 2024 17 Dec 2024 Shift 2",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_chemical_bonding_59"
+            "id": "q_chemical_bonding_59",
+            "correct_option": 0
         },
         {
             "question": "एक ______ कोण दो तलों के बीच का कोण है।",
@@ -1140,7 +1141,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_chemical_bonding_72",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "आयनिक यौगिकों में विद्युत की चालकता के बारे में निम्नलिखित में से कौन सा कथन सही है?",
@@ -1782,7 +1783,7 @@
             "examYear": "2026",
             "type": "standard",
             "id": "q_chemical_bonding_113",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "हाइड्रोकार्बन के कार्बन-कार्बन परमाणुओं के बीच निम्नलिखित में से कौन से आबंध बनते हैं?",
@@ -1798,7 +1799,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_chemical_bonding_114",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "कार्बन एक स्थायी यौगिक क्यों बनाता है?",
@@ -1859,7 +1860,8 @@
             "examName": "RRB JE 27 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_chemical_bonding_118"
+            "id": "q_chemical_bonding_118",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन एक अध्रुवीय सहसंयोजक बंध प्रदर्शित करता है?",
@@ -1968,7 +1970,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_chemical_bonding_125",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "PAN शब्द का क्या अभिप्राय है?",
@@ -2064,7 +2066,8 @@
             "examName": "RRB JE ECE 22 Apr 2025 Shift 2 CBT 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_131"
+            "id": "q_chemical_bonding_131",
+            "correct_option": 0
         },
         {
             "question": "उत्क्रम परासरण __________ का एक प्रकार है।",
@@ -2079,7 +2082,8 @@
             "examName": "RRB JE CE 28 Aug 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_chemical_bonding_132"
+            "id": "q_chemical_bonding_132",
+            "correct_option": 0
         },
         {
             "question": "कार्बनिक रसायन में समावयवों का कौन-सा गुण है?",
@@ -2095,7 +2099,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_chemical_bonding_133",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "यदि लंबा (T), छोटे (t) पर प्रभावी है, और गोल बीज (R), झुर्रीदार (r) पर प्रभावी हैं, तो उस पौधे के जीनोटाइप की पहचान कीजिए जो छोटी ऊंचाई और गोल बीज दर्शाता है।",
@@ -2174,7 +2178,7 @@
             "examYear": "2026",
             "type": "standard",
             "id": "q_chemical_bonding_138",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "N₂ में साझा इलेक्ट्रॉनों की कुल संख्या ______ है।",
@@ -2301,7 +2305,8 @@
             "examName": "RRB NTPC UG CBT-I : 11 Aug, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_146"
+            "id": "q_chemical_bonding_146",
+            "correct_option": 0
         },
         {
             "question": "अमीनो अम्लों में कौन से क्रियात्मक समूह पेप्टाइड बंध बनाने में सीधे तौर पर शामिल होते हैं?",
@@ -2552,7 +2557,8 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_chemical_bonding_162",
-            "answer": "C₆H₁₂O₆"
+            "answer": "C₆H₁₂O₆",
+            "correct_option": 0
         },
         {
             "question": "किसी विलयन में H⁺ आयनों की सांद्रता मुख्यतः उसके ________________ को निर्धारित करती है।",
@@ -2646,7 +2652,7 @@
             "examYear": "2024",
             "type": "fillInBlanks",
             "id": "q_chemical_bonding_168",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "फॉस्फोरिक अम्ल (H₃ PO₄) निम्नलिखित में से किन आयनों से बना होता है?",
@@ -2661,7 +2667,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_169"
+            "id": "q_chemical_bonding_169",
+            "correct_option": 0
         },
         {
             "question": "ब्लीचिंग पाउडर का रासायनिक सूत्र क्या होता है?",
@@ -2693,7 +2700,7 @@
             "examYear": "2019",
             "type": "standard",
             "id": "q_chemical_bonding_171",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "कार्बन बड़ी संख्या में यौगिक बनाने में सक्षम क्यों है?",
@@ -2708,7 +2715,8 @@
             "examName": "RRB Level 01 Stage I 26/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_chemical_bonding_172"
+            "id": "q_chemical_bonding_172",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन-सा, कैल्शियम फॉस्फेट यौगिक का सही सूत्र है?",
@@ -3196,7 +3204,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_chemical_bonding_203",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "फिनोल का रासायनिक सूत्र क्या है?",
@@ -3731,7 +3739,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_chemical_bonding_237",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "______ जीवित कोशिकाओं में परमाणुओं को प्रभावित करता है और इस तरह उनके आनुवंशिक पदार्थ (DNA) को नुकसान पहुँचाता है।",
@@ -3934,7 +3942,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_chemical_bonding_250",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "कार्बन कई यौगिकों का निर्माण करता है, इसका कारण निम्नलिखित में से क्या है?",
@@ -4870,7 +4878,7 @@
             "examYear": "2024",
             "type": "fillInBlanks",
             "id": "q_chemical_bonding_309",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "सूत्र Ca (OH)₂ में कोष्ठक का उपयोग क्यों किया जाता है?",

@@ -114,7 +114,7 @@
             "examYear": "2018",
             "type": "fillInBlanks",
             "id": "q_laboratory_chemistry_7",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "विनिर्माण में टेट्राक्लोरोमेथेन का मुख्यतः किस लिए उपयोग किया जाता है?",
@@ -193,7 +193,8 @@
             "examName": "RRB JE ME 30 Aug 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_laboratory_chemistry_12"
+            "id": "q_laboratory_chemistry_12",
+            "correct_option": 0
         },
         {
             "question": "फ्रांांसीसी भौतिक विज्ञानी साडी कार्नोट ने किस वष में कार्नोट इंजन बनाया, जो एक आदश ऊष्मा इंजन के रूप में कार्य करने के लिए ऊष्मप्रवैगिकी सिद्धांतों का उपयोग करता है?",
@@ -366,7 +367,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_laboratory_chemistry_23"
+            "id": "q_laboratory_chemistry_23",
+            "correct_option": 0
         },
         {
             "question": "________ यौगिक का उपयोग शुष्क करने वाले कारक के रूप में किया जाता है।",

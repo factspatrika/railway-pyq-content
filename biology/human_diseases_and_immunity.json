@@ -1277,7 +1277,7 @@
             "examYear": "2019",
             "type": "standard",
             "id": "q_human_diseases_and_immunity_81",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा रोग विषाणु से होता है?",
@@ -2079,7 +2079,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_human_diseases_and_immunity_132",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "एंजाइम क्या हैं?",
@@ -2765,7 +2765,7 @@
             "examYear": "2026",
             "type": "standard",
             "id": "q_human_diseases_and_immunity_175",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "दिए गए कथनों को पढ़ें और सबसे उपयुक्त विकल्प चुनें।\n\n• कथन 1: दर्पण सूत्र अवतल और उत्तल दोनों दर्पणों पर लागू होता है, बशर्ते चिह्न परिपाटी का पालन किया जाए।\n\n• कथन 2: दर्पण सूत्र की वैधता वस्तु के आकार पर निर्भर करती है।",
@@ -3217,7 +3217,7 @@
                 "(A) और कारण (R) के संबंध में सही विकल्प का चयन कीजिए।\n\n• अभि\n\n• कथन",
                 "(A): साबुन का विलयन मेघमय दिखाई देता है।\n\n• कारण (R): साबुन के मिसेल प्रकाश को प्रकीर्णित करने के लिए पयाप्त बड़े होते हैं।"
             ],
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "निम्न में से कौन सा रोग हवा के माध्यम से नहीं फैलता है।",
@@ -3375,7 +3375,7 @@
             "examYear": "2026",
             "type": "standard",
             "id": "q_human_diseases_and_immunity_213",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा कथन सही है?\n\n• कथन 1: विभवांतर को वोल्ट में मापा जाता है।\n\n• कथन 2: एक वोल्ट एक न्यूटन प्रति कूलॉम के बराबर है।",
@@ -4176,7 +4176,7 @@
             "examYear": "2026",
             "type": "standard",
             "id": "q_human_diseases_and_immunity_264",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "सामान्य जुकाम को श्वसन तंत्र के निचले हिस्से का संक्रमण क्यों कम ही माना जाता है?",
@@ -5197,7 +5197,7 @@
             "examYear": "2022",
             "type": "matchFollowing",
             "id": "q_human_diseases_and_immunity_328",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "प्रतिजैविक (Antibiotic) (एंटीबायोटिक) क्या हैं?",
@@ -5523,7 +5523,7 @@
             "examYear": "2026",
             "type": "standard",
             "id": "q_human_diseases_and_immunity_349",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "प्लेटलेट (platelet) संख्या की कमी से ________ हो सकता है।",
@@ -5555,7 +5555,7 @@
             "examYear": "2026",
             "type": "standard",
             "id": "q_human_diseases_and_immunity_351",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "ल्यूकोडमा _____ की बीमारी है।",
@@ -6232,7 +6232,7 @@
             "examYear": "2018",
             "type": "fillInBlanks",
             "id": "q_human_diseases_and_immunity_393",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा जल जनित रोग है?",
@@ -6293,7 +6293,7 @@
             "examYear": "2019",
             "type": "standard",
             "id": "q_human_diseases_and_immunity_397",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "इनमें से कौन सा संगीत वाद्ययंत्र सभी दिशाओं में फैलाए बिना किसी विशेष दिशा में ध्वनि प्रेषित करने के लिए निर्मित किया गया है?",
@@ -6355,7 +6355,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_human_diseases_and_immunity_401",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "एक युवा पुरुष का रक्तचाप सामान्यतः कितना होता है?",
@@ -6862,7 +6862,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_human_diseases_and_immunity_433",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "एफेपी एपिजूटिका, जिसे' पैर और मुंह की बीमारी' कहा जाता है, किसके कारण होता है?",

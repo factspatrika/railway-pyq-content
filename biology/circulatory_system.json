@@ -503,7 +503,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_circulatory_system_32",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "फेफड़ों से ऑक्सीजन युक्त रक्त हृदय में कहाँ आता है?",
@@ -1054,7 +1054,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_circulatory_system_67",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "श्वसन वर्णक, हीमोग्लोबिन, कहाँ उपस्थित होता है?",

@@ -391,7 +391,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_nervous_system_and_sense_organs_25"
+            "id": "q_nervous_system_and_sense_organs_25",
+            "correct_option": 0
         },
         {
             "question": "केकिंग के समय, उबलने के दौरान निकलने वाले भाप से यदि केक का हाथ स्पर्श हो जाता है, तो जलन महसूस होने से पहले ही वह अपना हाथ क्यों खींच लेता है?",
@@ -759,7 +760,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_nervous_system_and_sense_organs_48",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "मानव आँख के सामने, आँखों के पीछे एक आकृति बनती है-",
@@ -1042,7 +1043,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_nervous_system_and_sense_organs_66",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "मानव शरीर में, कशेरेका _________ का हिस्सा हैं।",
@@ -2155,7 +2156,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_nervous_system_and_sense_organs_137",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "पशुओं में मुख्य परिवहन तंत्र कौन-सा होता है?",

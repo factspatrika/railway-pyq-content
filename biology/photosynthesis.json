@@ -409,7 +409,8 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_photosynthesis_26",
-            "answer": "रात्रि में प्रकाश संश्लेषण द्वारा"
+            "answer": "रात्रि में प्रकाश संश्लेषण द्वारा",
+            "correct_option": 0
         },
         {
             "question": "6CO₂ (aq) + 12H₂O (I) - C₆H₁₂O₆ (aq) + 6O₂ (aq) + 6H₂O (I) दी गई अभिक्रिया के लिए सही अभिक्रिया स्थितियों का चयन कीजिए। य वातावरण",
@@ -536,7 +537,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_photosynthesis_34",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन सी प्रक्रिया पौधों में अनुपस्थित होती है?",
@@ -631,7 +632,8 @@
             "examName": "RRB Group D 22 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_photosynthesis_40"
+            "id": "q_photosynthesis_40",
+            "correct_option": 0
         },
         {
             "question": "प्रकाश संश्लेषण के दौरान, पौधे ________ की उपस्थिति में कार्बन डाइऑक्साइड और जल लेते हैं।",
@@ -742,7 +744,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_photosynthesis_47",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "बेल-जार प्रयोग में पोटैशियम हाइड्रॉक्साइड का उपयोग क्यों किया जाता है, जिसमें प्रकाश संश्लेषण शामिल है?",

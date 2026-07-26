@@ -63,7 +63,8 @@
             "examName": "RRB Group D 6/10/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electrochemistry_4"
+            "id": "q_electrochemistry_4",
+            "correct_option": 0
         },
         {
             "question": "क्लोरो-क्षार प्रक्रिया में ______, ______ और ______ तीन उत्पाद बनते हैं।",
@@ -95,7 +96,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_electrochemistry_6",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "क्लोर-क्षार प्रक्रिया के बारे में सही कथन की पहचान कीजिए। लिए किया जाता है।",
@@ -110,7 +111,8 @@
             "examName": "RRB JE 20/02/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_electrochemistry_7"
+            "id": "q_electrochemistry_7",
+            "correct_option": 0
         },
         {
             "question": "उच्च अभिक्रियाशीलता श्रेणी वाली धातुओं को निष्कर्षित करने के लिए किस विधि का उपयोग किया जाता है?",
@@ -125,7 +127,8 @@
             "examName": "RRB Level 01 Stage I 30/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electrochemistry_8"
+            "id": "q_electrochemistry_8",
+            "correct_option": 0
         },
         {
             "question": "तांबे के विद्युत अपघटनी शोधन में, निम्नलिखित में से कौन-सा विकल्प इलेक्ट्रोड की भूमिका का सही वर्णन करता है? किया जाता है किया जाता है",
@@ -140,7 +143,8 @@
             "examName": "RRB Level 01 Stage I 04/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_electrochemistry_9"
+            "id": "q_electrochemistry_9",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन सी रासायनिक प्रतिक्रिया क्लोर-क्षार प्रक्रिया का प्रतिनिधित्व करती है?",
@@ -155,7 +159,8 @@
             "examName": "RRB Group D 18/8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electrochemistry_10"
+            "id": "q_electrochemistry_10",
+            "correct_option": 0
         },
         {
             "question": "कॉपर की वैद्युतअपघटनी परिष्करण प्रक्रिया में, निम्नलिखित में से कौन-सा सुमेलित है?",
@@ -170,7 +175,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "matchFollowing",
-            "id": "q_electrochemistry_11"
+            "id": "q_electrochemistry_11",
+            "correct_option": 0
         },
         {
             "question": "ब्राइन के विद्युत अपघटन के दौरान कौन-सी गैस उत्पन्न होती है, जो पॉप की ध्वनि के साथ जलती है?",
@@ -185,7 +191,8 @@
             "examName": "RRB Group D 6/10/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electrochemistry_12"
+            "id": "q_electrochemistry_12",
+            "correct_option": 0
         },
         {
             "question": "विद्युत अपघटनी शोधन में शुद्ध धातु का उपयोग. के रूप में किया जाता है।",
@@ -200,7 +207,8 @@
             "examName": "RRB Level 01 Stage I 21/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electrochemistry_13"
+            "id": "q_electrochemistry_13",
+            "correct_option": 0
         },
         {
             "question": "कॉपर, जिंक और सिल्वर जैसी धातुओं का परिष्करण करने के लिए निम्नलिखित में से कौन-सी विधि का उपयोग किया जाता है?",
@@ -215,7 +223,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_electrochemistry_14"
+            "id": "q_electrochemistry_14",
+            "correct_option": 0
         },
         {
             "question": "बिजली का उपयोग करके जल को ऑक्सीजन और हाइड्रोजन गैस में विघटित करने की प्रक्रिया को ______ कहा जाता है।",
@@ -230,7 +239,8 @@
             "examName": "RRB Group D 11/10/2022 Shift 1",
             "examYear": "2022",
             "type": "fillInBlanks",
-            "id": "q_electrochemistry_15"
+            "id": "q_electrochemistry_15",
+            "correct_option": 0
         },
         {
             "question": "यौगिक के माध्यमें से बिजली पास करके एक यौगिक के रासायनिक अपघटन के उत्पादन की प्रक्रिया को _________ कहा जाता है।",
@@ -260,7 +270,8 @@
             "examName": "RRB Group D 7 Dec 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electrochemistry_17"
+            "id": "q_electrochemistry_17",
+            "correct_option": 0
         },
         {
             "question": "धातुओं के संक्षारण को रोकने के लिए निम्नलिखित में से कौन-सी विधि प्रभावी नहीं है?",
@@ -275,7 +286,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electrochemistry_18"
+            "id": "q_electrochemistry_18",
+            "correct_option": 0
         },
         {
             "question": "विद्युतसंयोजी यौगिक विद्युत का चालन दशाते हैं:",
@@ -290,7 +302,8 @@
             "examName": "RRB Group D 16 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electrochemistry_19"
+            "id": "q_electrochemistry_19",
+            "correct_option": 0
         },
         {
             "question": "बॉक्साइट से एल्युमीनियम निष्कषण के लिए किस प्रक्रम का उपयोग किया जाता है?",
@@ -305,7 +318,8 @@
             "examName": "RRB Level 01 Stage I 02/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_electrochemistry_20"
+            "id": "q_electrochemistry_20",
+            "correct_option": 0
         },
         {
             "question": "जलीय सोडियम क्लोराइड के इलेक्ट्रोलाइटिक अपघटन के दौरान क्रमशः एनोड और कैथोड में निम्नलिखित में से कौन सी गैसें विकसित होती हैं?",
@@ -320,7 +334,8 @@
             "examName": "RRB Group D 19 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electrochemistry_21"
+            "id": "q_electrochemistry_21",
+            "correct_option": 0
         },
         {
             "question": "CH 3 OH, C₂H₅ OH, C₃H₇ OH और C₄H₉ OH यौगिक लगभग समान रासायनिक गुण प्रदर्शित करते हैं क्योंकि वे ______ से संबंधित हैं।",
@@ -335,7 +350,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_electrochemistry_22"
+            "id": "q_electrochemistry_22",
+            "correct_option": 0
         },
         {
             "question": "विद्युत अपघटनी परिष्करण प्रक्रिया में, धारा प्रवाहित करने पर अशुद्धि याँ नीचे बैठ जाती हैं, उन अशुद्धि यों को __________ के रूप में जाना जाता है। 2 2 2 2 2 2 2 2",
@@ -350,7 +366,8 @@
             "examName": "RRB Technician Grade III : 20 Dec, 2024 Shift 2",
             "examYear": "2024",
             "type": "fillInBlanks",
-            "id": "q_electrochemistry_23"
+            "id": "q_electrochemistry_23",
+            "correct_option": 0
         },
         {
             "question": "जिंक के विद्युत अपघटनी शोधन के दौरान, यह ____________ ।",
@@ -365,7 +382,8 @@
             "examName": "RRB JE 29 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_electrochemistry_24"
+            "id": "q_electrochemistry_24",
+            "correct_option": 0
         },
         {
             "question": "नीचे दिए गए कथनों पर विचार करें और सही उत्तर की पहचान करें। कथन-I: सोडियम हाइड्रॉक्साइड का निर्माण क्लोरो-क्षार प्रक्रिया द्वारा किया जाता है। कथन-II: इस प्रक्रिया में तीन उत्पाद क्लोरीन गैस, हाइड्रोजन गैस और सोडियम हाइड्रॉक्साइड का उत्पादन होता है।",
@@ -410,7 +428,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_electrochemistry_27"
+            "id": "q_electrochemistry_27",
+            "correct_option": 0
         },
         {
             "question": "सक्रियता श्रृंखला के मध्य में धातुएँ, जैसे लोह और जिंक, सामान्यतः _____ द्वारा निष्कर्षित की जाती हैं।",
@@ -425,7 +444,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_electrochemistry_28"
+            "id": "q_electrochemistry_28",
+            "correct_option": 0
         },
         {
             "question": "सोडियम हाइड्रॉक्साइड (NaOH) के उत्पादन के लिए आमतौर पर किस औद्योगिक विधि का उपयोग किया जाता है?",
@@ -455,7 +475,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electrochemistry_30"
+            "id": "q_electrochemistry_30",
+            "correct_option": 0
         },
         {
             "question": "यदि ताँबे (Copper) को हवा में खुला रखा जाए, तो उसकी चमकती भूरी सतह धीरे-धीरे अपनी चमक खो देती है और उस पर हरे रंग की परत बन जाती है। यह किसके निर्माण के कारण होता है?",
@@ -470,7 +491,8 @@
             "examName": "RRB Level 01 Stage I 16/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electrochemistry_31"
+            "id": "q_electrochemistry_31",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से किसमें एक निश्चित प्रतिरूप में चांदी के तारों के साथ बड़ी संख्या में जुड़े सौर सेल शामिल हैं?",
@@ -485,7 +507,8 @@
             "examName": "RRB JE CE 28 Aug 2019 Shift 1 CBT 2",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_electrochemistry_32"
+            "id": "q_electrochemistry_32",
+            "correct_option": 0
         },
         {
             "question": "ऐनोड पंक (anode mud) क्या है?",
@@ -500,7 +523,8 @@
             "examName": "RRB Level 01 Stage I 14/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_electrochemistry_33"
+            "id": "q_electrochemistry_33",
+            "correct_option": 0
         },
         {
             "question": "लवण जल के विद्युत अपघटन के दौरान, निम्नलिखित में से कौन-सा, प्रत्येक इलेक्ट्रोड और विलयन में निर्मित होने वाले उत्पादों से सुमेलित है?",
@@ -545,7 +569,8 @@
             "examName": "RRB Group D 22/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_electrochemistry_36"
+            "id": "q_electrochemistry_36",
+            "correct_option": 0
         },
         {
             "question": "दी गई रासायनिक अभिक्रिया में कैथोड के पास कौन सा उत्पाद बनता है? 2NaCl (aq) + 2H₂O (l) → 2NaOH (aq) + H₂ (g) + Cl₂ (g)",
@@ -590,7 +615,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_electrochemistry_39"
+            "id": "q_electrochemistry_39",
+            "correct_option": 0
         },
         {
             "question": "धातुओं के वैद्युतअपघटनी परिष्करण की प्रक्रिया के दौरान, विद्युतअपघट्य से धारा प्रवाहित करने पर, _____________ से अशुद्ध धातु, विद्युत अपघट्य में विलीन हो जाती है।",
@@ -621,7 +647,8 @@
             "examName": "RRB Group D 2 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electrochemistry_41"
+            "id": "q_electrochemistry_41",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन-सा विलयन विद्युत का चालन नहीं करता है?",
@@ -636,7 +663,8 @@
             "examName": "RPF Constable 2018 25 Jan 2019 Shift 1",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_electrochemistry_42"
+            "id": "q_electrochemistry_42",
+            "correct_option": 0
         }
     ]
 }

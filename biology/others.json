@@ -96,7 +96,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_others_6",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "मानव में, _______ का कंपन ध्वनि पैदा करता है।",
@@ -397,7 +397,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_others_25",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन सा समूह सभी जैव निम्नीकरणीय पदार्थों को शामिल करता है?",

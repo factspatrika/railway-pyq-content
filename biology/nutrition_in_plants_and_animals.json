@@ -718,7 +718,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_nutrition_in_plants_and_animals_46"
+            "id": "q_nutrition_in_plants_and_animals_46",
+            "correct_option": 0
         },
         {
             "question": "घेंघा रोग _____ की कमी के कारण होता है।",
@@ -1184,7 +1185,8 @@
             "examName": "RRB ALP CBT-I 2024 : 29 Nov, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_nutrition_in_plants_and_animals_76"
+            "id": "q_nutrition_in_plants_and_animals_76",
+            "correct_option": 0
         },
         {
             "question": "जब आप किसी कार की चाल को दोगुना कर देते हैं, तब वह रुकने के लिए _____ गुना अधिक दूरी तय करती है।",
@@ -3087,7 +3089,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_nutrition_in_plants_and_animals_197",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "बचे हुए भोजन का खराब स्वाद या गंध निम्नलिखित में से किस कारण से होता है?",

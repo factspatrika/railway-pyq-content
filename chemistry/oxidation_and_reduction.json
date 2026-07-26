@@ -16,7 +16,8 @@
             "examName": "RRB Group D 20 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_1"
+            "id": "q_oxidation_and_reduction_1",
+            "correct_option": 0
         },
         {
             "question": "अरुण प्रयोगशाला में एक प्रयोग कर रहा था। उसने फेरिक क्लोराइड का विलयन लिया और उसमें जिंक के कुछ छोटे टुकड़ों को मिलाया। जब फेरिक क्लोराइड का पीला रंग लुप्त हो गया तो कौन-सा यौगिक बना?",
@@ -148,7 +149,7 @@
             "examYear": "2026",
             "type": "standard",
             "id": "q_oxidation_and_reduction_9",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "एक छात्र एक रिबन लेता है और उसे ऑक्सीजन की उपस्थिति में जलाता है। यह मैग्नीशियम ऑक्साइड में बदल जाता है। यहां कौन-सी प्रक्रिया हुई है?",
@@ -328,7 +329,8 @@
             "examName": "RRB JE 29 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_oxidation_and_reduction_20"
+            "id": "q_oxidation_and_reduction_20",
+            "correct_option": 0
         },
         {
             "question": "CuSO₄ + Mg → MgSO₄ + Cu उपरोक्त अभिक्रिया में Mg ___________है।",
@@ -501,7 +503,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_oxidation_and_reduction_31",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "जब बेरियम क्लोराइड, सोडियम सल्फेट के साथ अभिक्रिया करता है तो किस प्रकार की अभिक्रिया होती है?",
@@ -955,7 +957,8 @@
             "examName": "RRB Level 01 Stage I 28/11/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_oxidation_and_reduction_60"
+            "id": "q_oxidation_and_reduction_60",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन-सी अभिक्रिया अघुलनशील लवण (Insoluble Salt) पैदा करती है?",

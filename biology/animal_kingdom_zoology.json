@@ -740,7 +740,7 @@
             "examYear": "2026",
             "type": "standard",
             "id": "q_animal_kingdom_47",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "कशेरुकी जीवों के किस वग में ठंडे रक्त के अभिलक्षण और शल्की त्वचा पाई जाती है?",
@@ -898,7 +898,7 @@
             "examYear": "2019",
             "type": "fillInBlanks",
             "id": "q_animal_kingdom_57",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "प्रजनन कोशिकाओं का उपयोग मुकुलन की प्रक्रिया में किसमें होता है?",
@@ -1133,7 +1133,8 @@
             "examName": "RRB JE 27 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_animal_kingdom_72"
+            "id": "q_animal_kingdom_72",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन सा जोड़ा (प्रजाति - श्रेणी) भारत के संदर्भ में सही है?",
@@ -1181,7 +1182,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_animal_kingdom_75",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से किस जीव में आनुवंशिक रूप से पूव निर्धारित लिंग नहीं होता है?",

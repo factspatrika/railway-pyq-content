@@ -93,7 +93,8 @@
             "examName": "RRB Level 01 Stage I 09/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_acids_bases_and_salts_6"
+            "id": "q_acids_bases_and_salts_6",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन सा द्वितीयक वायु प्रदूषक है?",
@@ -208,7 +209,8 @@
             "examName": "RRB NTPC Graduate Level CBT-I : 14 Jun, 2025 Shift 2",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_acids_bases_and_salts_13"
+            "id": "q_acids_bases_and_salts_13",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन-सा प्रेक्षण इस बात की पुष्टि करता है कि कोई विलयन अम्लीय है?",
@@ -302,7 +304,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_acids_bases_and_salts_19",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "किस अम्ल के सोडियम या पोटैशियम लवणों को साबुन के रूप में परिभाषित किया जाता है?",
@@ -364,7 +366,8 @@
             "examName": "RRB Level 01 Stage I 01/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "fillInBlanks",
-            "id": "q_acids_bases_and_salts_23"
+            "id": "q_acids_bases_and_salts_23",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प जंतुओं में अनॉक्सी श्वसन के अंतिम उत्पाद को निरूपित करता है?",
@@ -442,7 +445,8 @@
             "examName": "RRB JE 19/02/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_acids_bases_and_salts_28"
+            "id": "q_acids_bases_and_salts_28",
+            "correct_option": 0
         },
         {
             "question": "चींटी के डंक में कौन सा अम्ल होता है?",
@@ -505,7 +509,7 @@
             "examYear": "2018",
             "type": "fillInBlanks",
             "id": "q_acids_bases_and_salts_32",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित अभिक्रिया _______ का उदाहरण है। Mg (OH) + 2HCl → MgCl + 2H O",
@@ -552,7 +556,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_acids_bases_and_salts_35",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा रसोई रसायन आमतौर पर अचार को संरक्षित करने के लिए उपयोग किया जाता है?",
@@ -1180,7 +1184,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_acids_bases_and_salts_75",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "डायबिटीज मेलिटस को नियंत्रित करने के लिए लैंगरहैंस कोशिका गुच्छ द्वारा किस हार्मोन का उत्पादन किया जाता है?",
@@ -1258,7 +1262,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_acids_bases_and_salts_80",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा यौगिक सोडा-अम्ल अग्निशामक में प्रयुक्त होता है?",
@@ -1589,7 +1593,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_acids_bases_and_salts_101",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित का मिलान करें। A B i. लाल गोभी के पत्ते a. घ्राण सूचक ii. मिथाइल नारंगी b. अम्ल-क्षारक सूचक iii. प्याज, लौंग c. प्राकृतिक अम्ल क्षारक सूचक",
@@ -1605,7 +1609,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_acids_bases_and_salts_102",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "एक जलीय घोल X है, जिसका pH 2.6 है। यह दर्शाता है कि घोल है:",
@@ -1637,7 +1641,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_acids_bases_and_salts_104",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "सोडियम कार्बोनेट एक क्षारीय लवण है, क्योंकि यह एक ____ लवण है।",
@@ -1667,7 +1671,8 @@
             "examName": "RRB Level 01 Stage I 04/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_acids_bases_and_salts_106"
+            "id": "q_acids_bases_and_salts_106",
+            "correct_option": 0
         },
         {
             "question": "मधुमक्खी के डंक से होने वाले दद से राहत पाने के लिए निम्नलिखित में से कौन सा रसायन लगाया जा सकता है?",
@@ -1745,7 +1750,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_acids_bases_and_salts_111",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "नीचे दिए गए कथनों पर विचार करें और सही उत्तर की पहचान कीजिए। कथन-I: वाशिंग सोडा सोडियम क्लोराइड से निर्मित होता है। कथन-II: यह गंदगी और ग्रीस पर हमला करके पानी में घुलनशील उत्पाद बनाता है, जो पानी से धोने पर धुल जाते हैं।",
@@ -1856,7 +1861,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_acids_bases_and_salts_118",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "‘फिटकिरी’ इसका एक उदाहरण है:",
@@ -1888,7 +1893,7 @@
             "examYear": "2019",
             "type": "standard",
             "id": "q_acids_bases_and_salts_120",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "1923 में किन दो शोधकताओं ने स्वतंत्र रूप से सुझाव दिया कि अम्ल-क्षार अभिक्रियाओं को पहली बार प्रोटॉन-स्थानांतरण अभिक्रियाओं के रूप में माना जा सकता है?",
@@ -1973,7 +1978,7 @@
             "examYear": "2022",
             "type": "fillInBlanks",
             "id": "q_acids_bases_and_salts_125",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस विलयन में हाइड्रोजन आयनों की सांद्रता सवाधिक है?",
@@ -2356,7 +2361,7 @@
             "examYear": "2021",
             "type": "standard",
             "id": "q_acids_bases_and_salts_149",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "जब एक अम्ल, धातु ऑक्साइड के साथ अभिक्रिया करता है, तो उत्पाद के रूप में _______ और ________ प्राप्त होते हैं।",
@@ -2535,7 +2540,7 @@
             "examYear": "",
             "type": "matchFollowing",
             "id": "q_acids_bases_and_salts_160",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "निम्न में से कौन-सा कथन इस तथ्य की सर्वोत्तम व्याख्या करता है कि अधात्विक ऑक्साइड सामान्यतः क्षार के साथ अभिक्रिया क्यों करते हैं?",
@@ -2757,7 +2762,7 @@
             "examYear": "2022",
             "type": "matchFollowing",
             "id": "q_acids_bases_and_salts_174",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन-सा उद्योग वाशिंग सोडा का उपयोग नहीं करता है?",
@@ -3026,7 +3031,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 24/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_acids_bases_and_salts_191"
+            "id": "q_acids_bases_and_salts_191",
+            "correct_option": 0
         },
         {
             "question": "पानी में अम्ल का विलयन बनाने का सही तरीका ________ है।",
@@ -3071,7 +3077,8 @@
             "examName": "RRB JE 24 May 2019 Shift 3 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_acids_bases_and_salts_194"
+            "id": "q_acids_bases_and_salts_194",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से क्या सोडियम हाइड्रॉक्साइड का एक उपयोग नहीं है?",
@@ -3317,7 +3324,8 @@
             "examName": "RRB Group D 15 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_acids_bases_and_salts_209"
+            "id": "q_acids_bases_and_salts_209",
+            "correct_option": 0
         },
         {
             "question": "इनमें से कौन सा एक एम्फ़ोटेरिक ऑक्साइड है? Al₂O₃",
@@ -3348,7 +3356,8 @@
             "examName": "RRB Group D 29 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_acids_bases_and_salts_211"
+            "id": "q_acids_bases_and_salts_211",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प बेकिंग सोडा के रासायनिक नाम (IUPAC) का सही प्रतिनिधित्व करता है?",
@@ -3380,7 +3389,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_acids_bases_and_salts_213",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा वसा अम्ल साबुन नहीं बनाता है?",
@@ -3459,7 +3468,7 @@
             "examYear": "2019",
             "type": "standard",
             "id": "q_acids_bases_and_salts_218",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से किस अम्ल और उसके पाए जाने वाले पदार्थ के युग्म का मिलान गलत है?",
@@ -3550,7 +3559,8 @@
             "examName": "RRB Group D 18 /9/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_acids_bases_and_salts_224"
+            "id": "q_acids_bases_and_salts_224",
+            "correct_option": 0
         },
         {
             "question": "प्लास्टर ऑफ पेरिस के बारे में निम्नलिखित में से कौन सा कथन गलत है?",
@@ -3565,7 +3575,8 @@
             "examName": "RRB Group D 14 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_acids_bases_and_salts_225"
+            "id": "q_acids_bases_and_salts_225",
+            "correct_option": 0
         },
         {
             "question": "साधारण नमक का रासायनिक सूत्र क्या है?",
@@ -3848,7 +3859,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_acids_bases_and_salts_243",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "_________ का रासायनिक नाम कैल्शियम सल्फेट हेमीहाइड्रेट है।",
@@ -3900,7 +3911,8 @@
             "examName": "RRB JE 22 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_acids_bases_and_salts_246"
+            "id": "q_acids_bases_and_salts_246",
+            "correct_option": 0
         },
         {
             "question": "अधातु के ऑक्साइड आमतौर पर ________ हैं।",
@@ -4088,7 +4100,8 @@
             "examName": "RRB Group D 12/10/2018 Shift 3",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_acids_bases_and_salts_258"
+            "id": "q_acids_bases_and_salts_258",
+            "correct_option": 0
         },
         {
             "question": "कठोर जल को सामान्य बनाने के लिए निम्नलिखित में से किस सोडियम यौगिक का उपयोग किया जाता है?",
@@ -4220,7 +4233,7 @@
             "examYear": "2024",
             "type": "fillInBlanks",
             "id": "q_acids_bases_and_salts_266",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "एक विलयन का pH 8 है। यदि इसे जल के समान आयतन से तनूकृत किया जाता है, तो इसके pH पर क्या प्रभाव पड़ेगा?",
@@ -4282,7 +4295,8 @@
             "examName": "RRB Group D 1 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_acids_bases_and_salts_270"
+            "id": "q_acids_bases_and_salts_270",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन सा/से दुर्बल अम्ल है/हैं? HCl, CH COOH, H SO , HNO , H CO , H SO",
@@ -4361,7 +4375,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_acids_bases_and_salts_275",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "चूना, क्लोरीन के साथ अभिक्रिया करके क्या बनाता है?",
@@ -4830,7 +4844,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_acids_bases_and_salts_305",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन-सा अम्ल-क्षार सूचक, अम्लीय माध्यम में रंगहीन और क्षारीय माध्यम में गुलाबी होता है?",
@@ -4937,7 +4951,7 @@
             "examYear": "2019",
             "type": "fillInBlanks",
             "id": "q_acids_bases_and_salts_312",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "सामान्य नमक का उपयोग मसाला और खाद्य परिरक्षक के रूप में करने के अलावा ___________ बनाने के लिए कच्चे माल के रूप में भी किया जा सकता है।",
@@ -4952,7 +4966,8 @@
             "examName": "RRB JE 23 May 2019 Shift 2",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_acids_bases_and_salts_313"
+            "id": "q_acids_bases_and_salts_313",
+            "correct_option": 0
         },
         {
             "question": "धातु अम्ल अभिक्रिया में निम्नलिखित में से कौन सी गैस उत्पन्न होती है?",
@@ -5283,7 +5298,8 @@
             "examName": "RRB NTPC UG CBT-I : 07 Aug, 2025 Shift 3",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_acids_bases_and_salts_334"
+            "id": "q_acids_bases_and_salts_334",
+            "correct_option": 0
         },
         {
             "question": "जीवाश्म ईंधन के जलने पर निकलने वाले कार्बन, नाइट्रोजन और सल्फर के ऑक्साइड _____ होते हैं",
@@ -5490,7 +5506,8 @@
                 "b) एसिटिक अम्ल सिरके में पाया जाता है।",
                 "c) जब मुंह का pH 5.5 से कम हो जाता है तो दांतों में सड़न शुरू हो जाती है।",
                 "d) मुंह में मौजूद बैक्टीरिया मुंह में मौजूद बचे हुए भोजन कणों के विघटन से बसे का उत्पादन करते हैं।"
-            ]
+            ],
+            "correct_option": 0
         },
         {
             "question": "विलयन A का pH 6 है, विलयन B का pH 8 है और विलयन C का pH 2 है, कौन सा विलयन सबसे अधिक हाइड्रोजन आयन सांद्रता वाला है? 3",
@@ -6802,7 +6819,7 @@
             "examYear": "2018",
             "type": "fillInBlanks",
             "id": "q_acids_bases_and_salts_431",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन-सा यौगिक प्लास्टर ऑफ पेरिस बनाने के लिए कच्चे माल के रूप में प्रयोग किया जाता है?",
@@ -6817,7 +6834,8 @@
             "examName": "RRB Group D 19 /9/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_acids_bases_and_salts_432"
+            "id": "q_acids_bases_and_salts_432",
+            "correct_option": 0
         },
         {
             "question": "जब किसी विलयन में H+ और OH⁻ आयनों की संख्या समान होती है, तो विलयन का pH क्या होता है?",
@@ -6988,7 +7006,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_acids_bases_and_salts_443",
-            "correct_option": 3
+            "correct_option": 2
         }
     ]
 }

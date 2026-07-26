@@ -252,7 +252,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_plant_kingdom_botany_16",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से क्या पादप जगत से संबंधित नहीं है?",
@@ -362,7 +362,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_plant_kingdom_botany_23",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "कृषि भूमि से निम्नलिखित में से किस खरपतवार को हटाना किसानों के लिए लाभदायक होगा?",
@@ -1813,7 +1813,7 @@
             "examYear": "2021",
             "type": "standard",
             "id": "q_plant_kingdom_botany_115",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से कौन-सा प्राकृतिक पारिस्थितिकी तंत्र का उदाहरण है?",
@@ -2651,7 +2651,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_plant_kingdom_botany_168",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "क्षार, सावत्रिक सूचकों के रंग को _______ रंग में बदल देते हैं।",
@@ -3774,7 +3774,7 @@
             "examYear": "2016",
             "type": "standard",
             "id": "q_plant_kingdom_botany_239",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन भारत का सबसे पुराना परमाणु अनुसंधान रिएक्टर है?",
@@ -4391,7 +4391,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_plant_kingdom_botany_278",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "______ एक एकबीजपत्री पौधा है।",

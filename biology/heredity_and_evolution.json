@@ -474,7 +474,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_heredity_and_evolution_30",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "प्रत्येक बच्चे को उसकी माता से एक X गुणसूत्र प्राप्त होता है। कौन-सा तक इस जैविक निश्चितता की सर्वोत्तम व्याख्या करता है?",
@@ -538,7 +538,7 @@
             "examYear": "2026",
             "type": "standard",
             "id": "q_heredity_and_evolution_34",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "एक बच्चा माता से एक X गुणसूत्र और पिता से एक Y गुणसूत्र लेकर जन्म लेता है। कौन-सा कथन इस गुणसूत्र संयोजन के परिणाम का सटीक वर्णन करता है?",
@@ -699,7 +699,8 @@
             "examName": "RRB Group D 30/10/2018 Shift 2",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_heredity_and_evolution_44"
+            "id": "q_heredity_and_evolution_44",
+            "correct_option": 0
         },
         {
             "question": "संतान का लिंग निम्नलिखित में से किसके द्वारा निर्धारित किया जाता है?",
@@ -715,7 +716,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_heredity_and_evolution_45",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "स्थायी परिस्थितियों में वधमान स्वीट पी (sweet pea) पादपों की बृहत्आबादी में, निम्नलिखित में से कौन-सा सर्वोत्तम तरीके से यह वर्णन करता है कि लैंगिक जनन के माध्यम से आनुवंशिक विविधता अब तक उनके दीर्घकालिक अतिजीविता के लिए क्यों महत्वपूर्ण है? करती है। कर सकते हैं। जिससे अधिक बायोमास उत्पादन सुनिश्चित होता है। वंशक्रम की शुद्धता बनी रहती है।",
@@ -1313,7 +1314,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_heredity_and_evolution_83",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "किसने सुझाव दिया था कि जीवन सरल अकार्बनिक (अजैविक) अणुओं से विकसित हुआ है?",
@@ -1588,7 +1589,7 @@
             "examYear": "2026",
             "type": "standard",
             "id": "q_heredity_and_evolution_100",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प कार्यिक प्रवर्धन द्वारा उत्पन्न संतति की प्रमुख विशेषता को संदर्भित करता है?",
@@ -1666,7 +1667,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_heredity_and_evolution_105",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "विकास का पहला मौलिक कारक है:",
@@ -1827,7 +1828,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_heredity_and_evolution_115",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "जीवाणु और प्रोटोजोआ जैसे एककोशिकीय जीवों में द्वि-खंडन की प्रक्रिया में, निम्नलिखित में से किसके घटित होने की संभावना सबसे कम होती है?",

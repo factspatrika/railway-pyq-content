@@ -661,7 +661,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_reproduction_42",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "जीवों में लैंगिक जनन के संबंध में सही विशेषता का चयन कीजिए।",
@@ -866,7 +866,8 @@
             "examName": "RRB Group D 5 Nov 2018 Shift 2",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_reproduction_55"
+            "id": "q_reproduction_55",
+            "correct_option": 0
         },
         {
             "question": "______ चींटियों के समूह द्वारा परागण का वर्णन करता है।",
@@ -1324,7 +1325,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_reproduction_84",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "अलैंगिक प्रजनन के संबंध में निम्नलिखित में से कौन-सा कथन गलत है? हैं।",
@@ -1954,7 +1955,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_reproduction_125",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "जीवों की आबादी में विविधता मुख्यतः क्यों महत्वपूर्ण है?",
@@ -3218,7 +3219,7 @@
             "examYear": "2024",
             "type": "fillInBlanks",
             "id": "q_reproduction_206",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "पुष्प का निम्नलिखित में से कौन-सा भाग निषेचन के बाद फल में विकसित होता है?",
@@ -3809,7 +3810,7 @@
             "examYear": "2018",
             "type": "fillInBlanks",
             "id": "q_reproduction_244",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "______ द्विधारी विखंडन द्वारा पुनःउत्पन्न होते हैं।",
@@ -5246,7 +5247,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 16/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_reproduction_337"
+            "id": "q_reproduction_337",
+            "correct_option": 0
         },
         {
             "question": "कोशिका विभाजन के दौरान एक जीव केवल दो समान भागों में विभाजित हो जाता है। इसे क्या कहा जाता है?",
@@ -5755,7 +5757,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_reproduction_370",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "गुलदाउदी में किस प्रकार का कार्यिक प्रवर्धित देखा जाता है?",
@@ -6142,7 +6144,8 @@
             "examName": "RRB Group D 30 /8/2022 Shift 2",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_reproduction_395"
+            "id": "q_reproduction_395",
+            "correct_option": 0
         },
         {
             "question": "संभोग के दौरान कंडोम का उपयोग करने की सलाह क्यों दी जाती है? जाता है।",

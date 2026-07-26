@@ -293,7 +293,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_matter_and_its_states_19",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन सा अजैवनिम्नीकरणीय पदार्थ निष्क्रिय हो सकता है और लंबे समय तक पयावरण में बना रह सकता है या पारिस्थितिकी तंत्र के विभिन्न सदस्यों को हानि पहुंचा सकता है?",
@@ -1420,7 +1420,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_matter_and_its_states_92",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "______ एक यौगिक नहीं है।",
@@ -1760,7 +1760,7 @@
             "examYear": "2018",
             "type": "fillInBlanks",
             "id": "q_matter_and_its_states_114",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "पदार्थ की एक अवस्था को दूसरी अवस्था में कैसे बदला जा सकता है?",
@@ -2209,7 +2209,7 @@
             "examYear": "2019",
             "type": "standard",
             "id": "q_matter_and_its_states_143",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन सी गैस बेकिंग सोडा की सिरके के साथ प्रतिक्रिया करने पर निकलती है?",
@@ -2761,7 +2761,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_matter_and_its_states_179",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "जिप्सम को 373 K पर गर्म करने पर यह जल के अणुओं को खो देता है और कैल्शियम सल्फेट हेमीहाइड्रेट बन जाता है। इस पदार्थ का उपयोग खिलौने, सजावट के लिए सामग्री और चिकनी सतहों को बनाने के लिए किया जाता है। इस पदार्थ को सामान्यतः किस नाम से जाना जाता है?",
@@ -3193,7 +3193,8 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_matter_and_its_states_207"
+            "id": "q_matter_and_its_states_207",
+            "correct_option": 0
         },
         {
             "question": "कौन-सा गुणधर्म किसी यौगिक को मिश्रण से विभेदित करता है?",
@@ -3287,7 +3288,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_matter_and_its_states_213",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "हाइड्रोक्लोरिक अम्ल की कैल्सियम कार्बोनेट के साथ अभिक्रिया करवाने पर कौन-सी गैस मोचित होती है?",
@@ -3937,7 +3938,8 @@
             "examName": "RRB Technician Grade III : 26 Dec, 2024 Shift 1",
             "examYear": "2024",
             "type": "standard",
-            "id": "q_matter_and_its_states_255"
+            "id": "q_matter_and_its_states_255",
+            "correct_option": 0
         },
         {
             "question": "कौन-सा गुण बताता है कि जब एक किरण पुंज एक वास्तविक विलयन (True solution) से गुजरती है तो प्रकाश का माग क्यों दिखाई नहीं देता है?",
@@ -4942,7 +4944,8 @@
             "examName": "RRB JE 25 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_matter_and_its_states_320"
+            "id": "q_matter_and_its_states_320",
+            "correct_option": 0
         },
         {
             "question": "इनमें से किस विधि का उपयोग वाष्पशील घटक को उसके अवाष्पशील विलेय से अलग करने के लिए किया जाता है?",
@@ -5313,7 +5316,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_matter_and_its_states_344"
+            "id": "q_matter_and_its_states_344",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से क्या स्टार्च के रूप में संग्रहित होता है जो आंतरिक ऊर्जा भंडार के रूप में काय करता है जिसका उपयोग पादप द्वारा आवश्यकतानुसार किया जाता है?",
@@ -5792,7 +5796,8 @@
             "examName": "RRB Level 01 Stage I 09/01/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_matter_and_its_states_375"
+            "id": "q_matter_and_its_states_375",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन-सा, ठोस सोल (solid sol) का उदाहरण है?",

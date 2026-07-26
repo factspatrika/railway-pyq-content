@@ -111,7 +111,7 @@
             "examYear": "2022",
             "type": "fillInBlanks",
             "id": "q_periodic_table_and_classification_7",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन सी धातु ठंडे पानी के साथ अभिक्रिया नहीं करती है?",
@@ -797,7 +797,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_periodic_table_and_classification_51",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "'अक्रिय गैसे' _________ समूह में होती है।",
@@ -1275,7 +1275,7 @@
             "examYear": "2026",
             "type": "standard",
             "id": "q_periodic_table_and_classification_81",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "_________ तत्व को दिए गए प्रतीक द्वारा दशाया गया है।",
@@ -1355,7 +1355,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_periodic_table_and_classification_86",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "तत्वों के रासायनिक गुणों का अध्ययन करने के लिए मेंडेलीव ने किन दो तत्वों द्वारा निर्मित यौगिकों पर ध्यान केंद्रित किया?",
@@ -1466,7 +1466,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_periodic_table_and_classification_93",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "मेंडेलीव की आवर्त सारणी में तत्वों के परमाणु द्रव्यमान और उनके ______ के बीच संबंध की जाँच की गई।",
@@ -1718,7 +1718,8 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_periodic_table_and_classification_109",
-            "answer": "s"
+            "answer": "s",
+            "correct_option": 0
         },
         {
             "question": "मेंडेलीव के आवधिक कानून में कहा गया है कि ______________।",
@@ -1766,7 +1767,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_periodic_table_and_classification_112",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से क्या न्यूलैंड के अष्टक का उदाहरण है?",
@@ -1878,7 +1879,7 @@
             "examYear": "2022",
             "type": "fillInBlanks",
             "id": "q_periodic_table_and_classification_119",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "किस तत्व अष्टक सिद्धांत लागू पाया गया था?",
@@ -2153,7 +2154,8 @@
             "examYear": "2018",
             "type": "fillInBlanks",
             "id": "q_periodic_table_and_classification_136",
-            "answer": "f"
+            "answer": "f",
+            "correct_option": 0
         },
         {
             "question": "O, S और Se के तत्वों के परमाणु आकार का सही क्रम क्या है?",
@@ -2585,7 +2587,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_periodic_table_and_classification_163",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "आधुनिक आवर्त सारणी में, ब्रोमीन _________ आवर्त में पाया जाता है।",
@@ -2648,7 +2650,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_periodic_table_and_classification_167",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से किस अधातु द्वारा निर्मित ऋणायन, Ca₂+ आयन के साथ अभिक्रिया करके एक स्थायी आयनिक यौगिक बनाता है?",
@@ -3074,7 +3076,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_periodic_table_and_classification_194",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "न्यूलैंड्स के अष्टक नियम के अनुसार, लौह, जो गुणों में ________ और ________ जैसा दिखता है इन तत्वों से बहुत दूर रखा गया है-",
@@ -3121,7 +3123,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_periodic_table_and_classification_197",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "पौधों में निम्नलिखित में से किस पोषक तत्व की सामान्यतः मिट्टी द्वारा आपूर्ति की जाती है?",
@@ -3293,7 +3295,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_periodic_table_and_classification_208",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "वग 3, आवर्त 6 में लैन्थेनम के साथ स्थित तत्वों को क्या कहा जाता है?",
@@ -3480,7 +3482,7 @@
             "examYear": "2019",
             "type": "standard",
             "id": "q_periodic_table_and_classification_220",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "थाइरॉइड ग्रंथि द्वारा थाइरॉक्सिन हार्मोन स्रावित करने के लिए कौन-सा तत्व आवश्यक है?",
@@ -3717,7 +3719,7 @@
             "examYear": "2021",
             "type": "standard",
             "id": "q_periodic_table_and_classification_235",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "कृत्रिम रूप से उत्पादित तत्वों के संदर्भ में कौन सा कथन सही है?",
@@ -4242,7 +4244,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_periodic_table_and_classification_268",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "आधुनिक आवर्त सारणी में मौजूद ऊर्ध्वावाधर स्तंभों को क्या कहा जाता है?",
@@ -4380,7 +4382,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_periodic_table_and_classification_277",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "समूह। के निम्नलिखित तत्वों कों उनके परमाणु त्रिज्या के घटते क्रम में व्यवस्थित करें। परमाणु संख्याएं निम्न कोष्ठकों में दी गई हैं: Li (3), K (19), Cs (55), Na (11), Rb (37)",
@@ -4396,7 +4398,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_periodic_table_and_classification_278",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन सा एक उपधातु नहीं है?",
@@ -4460,7 +4462,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_periodic_table_and_classification_282",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "दूसरे और तीसरे आवर्त में कितने तत्व शामिल होते हैं?",
@@ -4600,7 +4602,8 @@
             "examName": "RRB Group D 23/9/2018 Shift 1",
             "examYear": "2018",
             "type": "fillInBlanks",
-            "id": "q_periodic_table_and_classification_291"
+            "id": "q_periodic_table_and_classification_291",
+            "correct_option": 0
         },
         {
             "question": "धात्विक लक्षण का सही बढ़ता क्रम है:",
@@ -4616,7 +4619,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_periodic_table_and_classification_292",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "_________ में सबसे कम इलेक्ट्रॉन बंधुता होती है।",
@@ -4791,7 +4794,7 @@
             "examYear": "2022",
             "type": "fillInBlanks",
             "id": "q_periodic_table_and_classification_303",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "संयोजकता कोश में इलेक्ट्रॉनों की संख्या उसके ______ के बराबर होती है।",
@@ -4823,7 +4826,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_periodic_table_and_classification_305",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से किस तत्व का प्रभावी परमाणु आवेश सबसे अधिक है?",
@@ -4887,7 +4890,7 @@
             "examYear": "2022",
             "type": "fillInBlanks",
             "id": "q_periodic_table_and_classification_309",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन सा सूक्ष्म पोषक तत्व थायरॉयड ग्रंथि के सामान्य कायिकी के लिए आवश्यक है?",
@@ -4918,7 +4921,7 @@
             "examYear": "2018",
             "type": "fillInBlanks",
             "id": "q_periodic_table_and_classification_311",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन सा सबसे अधिक विद्युत धनात्मक तत्व है?",
@@ -4950,7 +4953,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_periodic_table_and_classification_313",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "आवर्त सारणी के सबसे कम अभिक्रियाशील तत्व हैं:",
@@ -5090,7 +5093,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_periodic_table_and_classification_322",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "बोर-बरी नियमों के अनुसार कॉलम। में तत्वों को कॉलम II में दिए गए उनके सही इलेक्ट्रॉन वितरण से सुमेलित कीजिए।",
@@ -5599,7 +5602,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_periodic_table_and_classification_354",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन सा समूह शून्य संयोजकता का प्रतिनिधित्व करता है?",
@@ -6573,7 +6576,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_periodic_table_and_classification_416",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "आधुनिक आवर्त सारणी के बायीं ओर स्थित एकमात्र अधातु कौन-सा है?",
@@ -6620,7 +6623,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_periodic_table_and_classification_419",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से किस तत्व की संयोजकता 3 है?",
@@ -6998,7 +7001,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_periodic_table_and_classification_443",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "मेंडलीव का आवर्त नियम यह दर्शाता है कि तत्वों के गुण उनके _______ के आवर्ती फलन हैं।",
@@ -7342,7 +7345,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_periodic_table_and_classification_465",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन अधातु का इलेक्ट्रॉनिक विन्यास नहीं है?",

@@ -32,7 +32,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 19/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_tissues_2"
+            "id": "q_tissues_2",
+            "correct_option": 0
         },
         {
             "question": "सरल स्थायी ऊतक के संबंध में निम्नलिखित में से कौन-सा कथन गलत है?",
@@ -47,7 +48,8 @@
             "examName": "RRB Level 01 Stage I 17/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_tissues_3"
+            "id": "q_tissues_3",
+            "correct_option": 0
         },
         {
             "question": "नारियल का जटा (भूसी) किस प्रकार के ऊतक बनाता है?",
@@ -62,7 +64,8 @@
             "examName": "RRB Group D 12/10/2018 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_tissues_4"
+            "id": "q_tissues_4",
+            "correct_option": 0
         },
         {
             "question": "पादपों में भोजन का परिवहन करने वाले जटिल ऊतक को __________ कहा जाता है, और इसमें चालनी नलिकाएँ (Sieve Tubes) (sieve tubes) और __________ जैसी जीवित कोशिकाएँ होती हैं।",
@@ -344,7 +347,8 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_tissues_22",
-            "answer": "d"
+            "answer": "d",
+            "correct_option": 0
         },
         {
             "question": "जीव विज्ञान की वह शाखा कौन-सी है जिसके अंतर्गत ऊतकों का अध्ययन किया जाता है?",
@@ -513,7 +517,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_tissues_33",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "सबसे छोटी रक्त वाहिकाओं की कोशिका भित्ति की मोटाई कहलाती है",
@@ -874,7 +878,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_tissues_56",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "________ को मूल शिखाग्र की लगातार विभाजित होने वाली कोशिकाओं द्वारा दशाया जाता है।",
@@ -921,7 +925,7 @@
             "examYear": "2024",
             "type": "fillInBlanks",
             "id": "q_tissues_59",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन-सा एक जटिल स्थायी ऊतक है जो पादपों में जल के परिवहन के लिए उत्तरदायी है?",
@@ -1091,7 +1095,7 @@
             "examYear": "2018",
             "type": "fillInBlanks",
             "id": "q_tissues_70",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "इनमें से किस प्रकार की कोशिकाएं पादपों में संवहनी ऊतक का भाग नहीं होती हैं?",
@@ -1755,7 +1759,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_tissues_113",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "रेखित पेशियों के बारे में निम्नलिखित में से कौन सा कथन सही है?",
@@ -1973,7 +1977,7 @@
             "examYear": "2018",
             "type": "fillInBlanks",
             "id": "q_tissues_127",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "किसी पदार्थ का वह गुणधर्म कौन सा है, जो इसके घटक में एक चुंबकीय फ्लक्स स्थापित करने की सुगमता का वर्णन करता है?",
@@ -2037,7 +2041,8 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_tissues_131",
-            "answer": "d"
+            "answer": "d",
+            "correct_option": 0
         },
         {
             "question": "________ में, कोशिकाओं को शिथिल रूप से पैक किया जाता है ताकि बड़े अंतरकोशिकीय स्थान प्राप्त हो सकें।",
@@ -2195,7 +2200,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_tissues_141",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "निम्नलिखित में से किस सरल स्थायी ऊतक में कोशिका भित्तियां, लिग्निफाइड (lignified) होती है?",
@@ -2863,7 +2868,7 @@
             "examYear": "2018",
             "type": "fillInBlanks",
             "id": "q_tissues_184",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन-सा ऊतक अंगों और शरीर की गति के लिए उत्तरदायी है?",

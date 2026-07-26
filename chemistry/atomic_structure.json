@@ -64,7 +64,8 @@
             "examName": "RRB JE 27 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_atomic_structure_4"
+            "id": "q_atomic_structure_4",
+            "correct_option": 0
         },
         {
             "question": "कार्बन परमाणुओं के संयोजकता कोश में मौजूद इलेक्ट्रॉनों की कुल संख्या है:",
@@ -282,7 +283,8 @@
             "examName": "RRB Group D 13 /9/2022 Shift 1",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_atomic_structure_18"
+            "id": "q_atomic_structure_18",
+            "correct_option": 0
         },
         {
             "question": "अपचयन अभिक्रिया क्या है?",
@@ -346,7 +348,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_atomic_structure_22",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "परमाणु का आकार मुख्यतः किस पर निर्भर करता है?",
@@ -581,7 +583,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_atomic_structure_37",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौनसी निष्क्रि य गैस के बाहरी कक्ष में केवल दो इलेक्ट्रॉन होते हैं?",
@@ -1055,7 +1057,8 @@
             "examName": "RRB Level 01 Stage I 09/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_atomic_structure_67"
+            "id": "q_atomic_structure_67",
+            "correct_option": 0
         },
         {
             "question": "यदि कार्बन C₄- बनाता है, तो कार्बन आयन में इलेक्ट्रॉनों और प्रोटॉनों की संख्या क्रमशः ___________ और ___________ होगी।",
@@ -1071,7 +1074,7 @@
             "examYear": "2022",
             "type": "fillInBlanks",
             "id": "q_atomic_structure_68",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित का मिलान कीजिए।\n• A. डाल्टन 1. हाइड्रोजन का परमाणु\n• B. 10⁻¹⁰ m 2. पोटैशियम का लैटिन नाम\n• C. कैलियम 3. तत्वों हेतु सवप्रथम चिन्हों का प्रयोग करने वाला",
@@ -1087,7 +1090,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_atomic_structure_69",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "रसायन विज्ञान में समावयवता का सबसे अच्छा वर्णन करने वाला कथन कौन सा है?",
@@ -1118,7 +1121,7 @@
             "examYear": "2026",
             "type": "fillInBlanks",
             "id": "q_atomic_structure_71",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "जिन न्यूक्लाइडों की द्रव्यमान संख्या समान होती है, उन्हें क्या कहा जाता है?",
@@ -1251,7 +1254,8 @@
             "examName": "RRB Level 01 Stage I 19/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_atomic_structure_79"
+            "id": "q_atomic_structure_79",
+            "correct_option": 0
         },
         {
             "question": "किसी तत्व की परमाणु संख्या निम्नलिखित में से किसके बराबर होती है?",
@@ -1267,7 +1271,7 @@
             "examYear": "2026",
             "type": "standard",
             "id": "q_atomic_structure_80",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "O का आणविक द्रव्यमान _______ है",
@@ -1472,7 +1476,7 @@
             "examYear": "2024",
             "type": "fillInBlanks",
             "id": "q_atomic_structure_93",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "कार्बनिक यौगिक के रासायनिक गुणों का निधारण कौन करता है?",
@@ -1943,7 +1947,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_atomic_structure_123",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "जस्ता के 23.3 ग्राम में मोल्स की संख्या है:",
@@ -2338,7 +2342,8 @@
             "examName": "",
             "examYear": "",
             "type": "standard",
-            "id": "q_atomic_structure_148"
+            "id": "q_atomic_structure_148",
+            "correct_option": 0
         },
         {
             "question": "समस्थानिक एक ही तत्व के परमाणु होते हैं, जिनमें _______ होती/होते है/हैं।",
@@ -2384,7 +2389,8 @@
             "examName": "RRB NTPC UG CBT-I : 13 Aug, 2025 Shift 1",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_atomic_structure_151"
+            "id": "q_atomic_structure_151",
+            "correct_option": 0
         },
         {
             "question": "समान द्रव्यमान संख्या वाले न्यूक्लाइड्स _______ कहलाते हैं।",
@@ -2811,7 +2817,7 @@
             "examYear": "2026",
             "type": "fillInBlanks",
             "id": "q_atomic_structure_178",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "CaO का सूत्र इकाई द्रव्यमान हैं-",
@@ -2906,7 +2912,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_atomic_structure_184",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "_______ तत्व में दो कक्षायें हैं जो पूरी तरह से भरी हुई हैं।",
@@ -3015,7 +3021,8 @@
             "examName": "RRB Level 01 Stage I 03/12/2025 9:00 AM - 10:30 AM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_atomic_structure_191"
+            "id": "q_atomic_structure_191",
+            "correct_option": 0
         },
         {
             "question": "कौन-सा कथन, एक परमाणु में प्रोटॉन के अभिलक्षणों का सटीक वर्णन करता है?",
@@ -3124,7 +3131,7 @@
             "examYear": "2025",
             "type": "fillInBlanks",
             "id": "q_atomic_structure_198",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "मान लीजिये किसी दिए गए परमाणु का परमाणु क्रमांक 17 है, इसका इलेक्ट्रॉनिक विन्यास क्या होगा?",
@@ -3140,7 +3147,7 @@
             "examYear": "2018",
             "type": "standard",
             "id": "q_atomic_structure_199",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "किसी परमाणु की द्रव्यमान संख्या की गणना कैसे की जाती है?",
@@ -3485,7 +3492,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_atomic_structure_221",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "जेम्स चैडविक ने किस उप-परमाणु कण की खोज की थी?",
@@ -3578,7 +3585,8 @@
             "examName": "RPF Constable 2018 20 Jan 2019 Shift 3",
             "examYear": "2018",
             "type": "standard",
-            "id": "q_atomic_structure_227"
+            "id": "q_atomic_structure_227",
+            "correct_option": 0
         },
         {
             "question": "ओजोन के एक अणु में ____________ होता है/होते हैं।",
@@ -3688,7 +3696,7 @@
             "examYear": "2019",
             "type": "standard",
             "id": "q_atomic_structure_234",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "क्लोरीन का आंशिक परमाणु द्रव्यमान (fractional atomic mass) निम्नलिखित में से किसके कारण होता है?",
@@ -3829,7 +3837,7 @@
             "examYear": "2026",
             "type": "standard",
             "id": "q_atomic_structure_243",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "ओज़ोन के एक अणु में कितने ऑक्सीजन परमाणु उपस्थित होते हैं?",
@@ -3923,7 +3931,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_atomic_structure_249",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "यदि किसी तत्व ‘ X’ के दो समस्थानिक X-35 और X-37 हैं, तो क्लोरीन (यदि X- 35 = 25% और X-37 = 75%) का औसत परमाणु द्रव्यमान _____ होगा।",
@@ -3938,7 +3946,8 @@
             "examName": "RRB Technician Grade III 10/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "fillInBlanks",
-            "id": "q_atomic_structure_250"
+            "id": "q_atomic_structure_250",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन-सा विकल्प, किसी तत्व की द्रव्यमान संख्या को सही रूप में निरूपित करता है?",
@@ -4222,7 +4231,7 @@
             "examYear": "2021",
             "type": "fillInBlanks",
             "id": "q_atomic_structure_268",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "निम्नलिखित में से कौन सा भौतिक विज्ञानी प्राकृतिक रेडियोधर्मिता पर अपने अभूतपूव शोध के लिए प्रसिद्ध है?",
@@ -4537,7 +4546,8 @@
             "examName": "RRB ALP Fitter 21 Jan 2019 Shift 1",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_atomic_structure_288"
+            "id": "q_atomic_structure_288",
+            "correct_option": 0
         },
         {
             "question": "CI₂ के 71g में परमाणु मौजूद होते हैः।",
@@ -4584,7 +4594,8 @@
             "examName": "RRB NTPC GRADUATE CBT 1 18/03/2026 4:30 PM - 6:00 PM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_atomic_structure_291"
+            "id": "q_atomic_structure_291",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से किस तत्व में तीन संयोजी इलेक्ट्रॉन होते हैं?",
@@ -4852,7 +4863,8 @@
             "examName": "RRB NTPC CBT-I : 17 Feb 2021 Shift 2",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_atomic_structure_308"
+            "id": "q_atomic_structure_308",
+            "correct_option": 0
         },
         {
             "question": "STP पर, 5.6 L O₂ गैस में उपस्थित अणुओं की संख्या है:",
@@ -4963,7 +4975,7 @@
             "examYear": "2019",
             "type": "fillInBlanks",
             "id": "q_atomic_structure_315",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "परमाणु क्रमांक परमाणु केन्द्र पर _____________ की कुल संख्या है।",
@@ -5386,7 +5398,8 @@
             "examName": "RRB Level 01 Stage I 11/12/2025 12:45 PM - 2:15 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_atomic_structure_342"
+            "id": "q_atomic_structure_342",
+            "correct_option": 0
         },
         {
             "question": "एक अणु बनाने वाले परमाणुओं की संख्या को ________ कहा जाता है।",
@@ -5860,7 +5873,7 @@
             "examYear": "2021",
             "type": "fillInBlanks",
             "id": "q_atomic_structure_372",
-            "correct_option": 3
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से किस प्रेक्षण की व्याख्या रदरफोर्ड के परमाणु मॉडल द्वारा नहीं की जा सकी?",

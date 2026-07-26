@@ -222,7 +222,8 @@
             "examName": "RRB Group D 30 /8/2022 Shift 3",
             "examYear": "2022",
             "type": "standard",
-            "id": "q_cell_structure_and_function_14"
+            "id": "q_cell_structure_and_function_14",
+            "correct_option": 0
         },
         {
             "question": "कोशिका के कोशिकाद्रव्य के संबंध में उस कथन का चयन करें, जो गलत है। जाता है।",
@@ -270,7 +271,7 @@
             "examYear": "2019",
             "type": "standard",
             "id": "q_cell_structure_and_function_17",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "यदि कोशिका के अंदर कार्बन डाइऑक्साइड की सांद्रता बाहर की तुलना में अधिक है, तो CO₂ प्लाज्मा झिल्ली के पार कैसे गति करेगी?",
@@ -632,7 +633,8 @@
             "examName": "RRB Technician Grade III 09/03/2026 9:00 AM - 10:30 AM",
             "examYear": "2026",
             "type": "standard",
-            "id": "q_cell_structure_and_function_40"
+            "id": "q_cell_structure_and_function_40",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से किस कोशिका अंगक में अपना DNA और राइबोसोम होता है?",
@@ -680,7 +682,7 @@
             "examYear": "2019",
             "type": "fillInBlanks",
             "id": "q_cell_structure_and_function_43",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "पादप कोशिका में अपशिष्ट उत्पाद कहाँ संचित होते हैं?",
@@ -1138,7 +1140,8 @@
             "examName": "RRB JE 24 May 2019 Shift 1 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_cell_structure_and_function_72"
+            "id": "q_cell_structure_and_function_72",
+            "correct_option": 0
         },
         {
             "question": "इनमें से कौन केवल पौधों में पाया जाता है?",
@@ -2131,7 +2134,7 @@
             "examYear": "2021",
             "type": "standard",
             "id": "q_cell_structure_and_function_135",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "तंत्रिका आवेग संचरण के दौरान, न्यूरोट्रांांसमीटर एक तंत्रिकोशिका से निकलते हैं और दूसरी तंत्रिकोशिका द्वारा ग्रहण किए जाते हैं। तंत्रिकोशिका का कौन-सा भाग मुख्यतः इस रासायनिक संचार में शामिल होता है?",
@@ -2477,7 +2480,7 @@
             "examYear": "2024",
             "type": "fillInBlanks",
             "id": "q_cell_structure_and_function_157",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "कोशिका में लिपिड के निर्माण के लिए कौन-सा कोशिकांग जिम्मेदार है?",
@@ -2620,7 +2623,7 @@
             "examYear": "2021",
             "type": "standard",
             "id": "q_cell_structure_and_function_166",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "ग्लूकोज़ का पाइरुविक अम्ल में रूपांतरण कहाँ होता है?",
@@ -3251,7 +3254,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_cell_structure_and_function_206",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "कौन सी कोशिका अपना आकार बदलती है?",

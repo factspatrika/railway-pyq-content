@@ -64,7 +64,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_digestive_system_4",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "शाकाहारी को _______ को पचाने के लिए छोटी आंत के बड़े होने की आवश्यकता होती है।",
@@ -714,7 +714,7 @@
             "examYear": "2021",
             "type": "fillInBlanks",
             "id": "q_digestive_system_45",
-            "correct_option": 3
+            "correct_option": 2
         },
         {
             "question": "लार में मौजूद कौन-सा एंजाइम, स्टार्च को तोड़ने में सहायक होता है?",
@@ -745,7 +745,7 @@
             "examYear": "2018",
             "type": "fillInBlanks",
             "id": "q_digestive_system_47",
-            "correct_option": 3
+            "correct_option": 1
         },
         {
             "question": "मानव शरीर में भोजन का पाचन _______ में शुरू होता है और _______ में पूरा होता है।",
@@ -918,7 +918,8 @@
             "examName": "RRB NTPC CBT-I : 18 Jan 2021 Shift 1",
             "examYear": "2021",
             "type": "standard",
-            "id": "q_digestive_system_58"
+            "id": "q_digestive_system_58",
+            "correct_option": 0
         },
         {
             "question": "मनुष्यों के पाचन तंत्र में उत्सर्जित अम्ल कौन सा होता है।",
@@ -997,7 +998,7 @@
             "examYear": "2019",
             "type": "fillInBlanks",
             "id": "q_digestive_system_63",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से किस प्रक्रिया में पोषणनाल से अवशोषित पदार्थों का विभिन्न अंगों तक परिवहन होता है जहां उनका उपयोग जटिल पदार्थ के निर्माण हेतु किया जाता है?",
@@ -1045,7 +1046,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_digestive_system_66",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "मुख गयहा मानव ________ तंत्र का एक भाग है।",
@@ -1091,7 +1092,7 @@
             "examYear": "2022",
             "type": "standard",
             "id": "q_digestive_system_69",
-            "correct_option": 1
+            "correct_option": 0
         },
         {
             "question": "नीचे दिया गया चित्र मानव पाचन तंत्र के एक भाग को दर्शाता है। कौन-सी प्रक्रिया हो रही है और कैसे?",
@@ -1317,7 +1318,7 @@
             "examYear": "2022",
             "type": "fillInBlanks",
             "id": "q_digestive_system_83",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन सा एंजाइम स्टार्च को सरल शर्करा (Sugar) में विघटित करता है?",
@@ -1507,7 +1508,7 @@
             "examYear": "2025",
             "type": "standard",
             "id": "q_digestive_system_95",
-            "correct_option": 2
+            "correct_option": 1
         },
         {
             "question": "मानव के आमाशय द्वारा कौन-सा अम्ल उत्पादित होता है?",

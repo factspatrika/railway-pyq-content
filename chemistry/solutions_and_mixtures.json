@@ -269,7 +269,8 @@
             "examName": "RRB Level 01 Stage I 08/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_17"
+            "id": "q_solutions_and_mixtures_17",
+            "correct_option": 0
         },
         {
             "question": "धातु कार्बोनेट की अम्ल के साथ अभिक्रिया से कौन-कौन से उत्पाद बनते हैं?",
@@ -426,7 +427,8 @@
             "examName": "RRB Level 01 Stage I 12/12/2025 4:30 PM - 6:00 PM",
             "examYear": "2025",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_27"
+            "id": "q_solutions_and_mixtures_27",
+            "correct_option": 0
         },
         {
             "question": "________ को विद्युत ऋणात्मक तत्व के रूप में जाना जाता है क्योंकि वे इलेक्ट्रॉनों के लाभ से ऋणावेशित आयन बनाते हैं।",
@@ -472,7 +474,8 @@
             "examName": "RRB JE CBT I - : 31 May 2019 Shift 3",
             "examYear": "2019",
             "type": "fillInBlanks",
-            "id": "q_solutions_and_mixtures_30"
+            "id": "q_solutions_and_mixtures_30",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन सी पृथक्करण तकनीक का उपयोग रेत से लोहे के पिनों के पृथक्करण के लिए किया जा सकता है?",
@@ -2500,7 +2503,8 @@
             "examName": "RRB JE 28 May 2019 Shift 2 CBT 1",
             "examYear": "2019",
             "type": "standard",
-            "id": "q_solutions_and_mixtures_161"
+            "id": "q_solutions_and_mixtures_161",
+            "correct_option": 0
         },
         {
             "question": "निम्नलिखित में से कौन-सा विषमांगी विलयन का उदाहरण है?",
@@ -3101,7 +3105,7 @@
             "examYear": "2024",
             "type": "standard",
             "id": "q_solutions_and_mixtures_200",
-            "correct_option": 2
+            "correct_option": 0
         },
         {
             "question": "यदि विलायक की समान मात्रा में अधिक विलेय मिलाया जाए, तो विलयन की सांद्रता पर क्या प्रभाव पड़ता है?",
