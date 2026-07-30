@@ -1,9 +1,8 @@
 {
-  "razorpayKey": "rzp_test_TJ1mlv2xdSMz2x",
+  "razorpayKey": "rzp_test_TJjusnD7v2YXjq",
   "premiumPriceRs": 29,
   "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbxNeEKyTIToLe_fDyNOSacshyPR88lxss8kxl6QhRK4rFHnMKW6_myJZA4u_V9A_WkN2w/exec",
   "showAds": true,
   "admobAndroidBannerId": "ca-app-pub-3940256099942544/6300978111",
-  "admobIosBannerId": "ca-app-pub-3940256099942544/2934735716",
-  "dataVersion": 2
+  "admobIosBannerId": "ca-app-pub-3940256099942544/2934735716"
 }
