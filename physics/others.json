@@ -13,7 +13,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_1"
+      "id": "q_physics_others_1"
     },
     {
       "question": "निम्न में से कौन-सा ऊतक, ऊतक को सुधारने में मदद करता है?",
@@ -28,7 +28,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_2",
+      "id": "q_physics_others_2",
       "correct_option": 2
     },
     {
@@ -44,7 +44,7 @@
       "examName": "RRB Group D 22/10/2018 Shift 2",
       "examYear": "2018",
       "type": "standard",
-      "id": "q_others_3"
+      "id": "q_physics_others_3"
     },
     {
       "question": "निम्नलिखित में से कौन सा, मानव उत्सर्जन तंत्र का एक अंग नहीं है?",
@@ -59,7 +59,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_4",
+      "id": "q_physics_others_4",
       "correct_option": 1
     },
     {
@@ -75,7 +75,7 @@
       "examName": "RRB Group D 25 /8/2022 Shift 2",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_5"
+      "id": "q_physics_others_5"
     },
     {
       "question": "धातुएँ विद्युतधनात्मक प्रकृति की होती हैं। दिए गए कथन के लिए निम्नलिखित में से कौन-सा स्पष्टीकरण सही है?",
@@ -90,7 +90,7 @@
       "examName": "RRB Group D 19 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_6",
+      "id": "q_physics_others_6",
       "correct_option": 2
     },
     {
@@ -106,7 +106,7 @@
       "examName": "RRB Group D 22 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_7",
+      "id": "q_physics_others_7",
       "answer": "विकल्प 2 (A = माइटोसिस/समसूत्री विभाजन, B = अधसूत्रीविभाजन/मीयोसिस)",
       "correct_option": 1
     },
@@ -123,7 +123,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_8",
+      "id": "q_physics_others_8",
       "correct_option": 3
     },
     {
@@ -139,7 +139,7 @@
       "examName": "RRB Group D 27 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_9"
+      "id": "q_physics_others_9"
     },
     {
       "question": "निम्नलिखित में से कौन-सा तत्वों का युग्म, जो एक ही समूह से संबंधित हैं, समान रासायनिक गुण प्रदर्शित करता है?",
@@ -154,7 +154,7 @@
       "examName": "RRB Group D 22 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_10"
+      "id": "q_physics_others_10"
     },
     {
       "question": "चित्र A तथा B का सावधानीपूवक अध्ययन करें। B वाले आटे की मात्रा बढ़ने का क्या कारण है?",
@@ -169,7 +169,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_11"
+      "id": "q_physics_others_11"
     },
     {
       "question": "पित्त रस के कार्यों का उल्लेख नीचे किया गया है। उस विकल्प को चुनें जो पित्त रस का काय नहीं है।",
@@ -184,7 +184,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_12",
+      "id": "q_physics_others_12",
       "correct_option": 3
     },
     {
@@ -200,7 +200,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_13",
+      "id": "q_physics_others_13",
       "correct_option": 1
     },
     {
@@ -216,7 +216,7 @@
       "examName": "RRB Group D 28 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_14",
+      "id": "q_physics_others_14",
       "correct_option": 3
     },
     {
@@ -232,7 +232,7 @@
       "examName": "RRB Group D 20 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_15"
+      "id": "q_physics_others_15"
     },
     {
       "question": "निम्नलिखित में से कौन सा कीटभक्षी पादप है?",
@@ -247,7 +247,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_16",
+      "id": "q_physics_others_16",
       "correct_option": 1
     },
     {
@@ -263,7 +263,7 @@
       "examName": "RRB Group D 25 /8/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_17"
+      "id": "q_physics_others_17"
     },
     {
       "question": "किसी रासायनिक प्रक्रिया के दौरान एक पदार्थ में हाइड्रोजन की वृद्धि क्या कहलाती है?",
@@ -278,7 +278,7 @@
       "examName": "RRB Group D 13 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_18",
+      "id": "q_physics_others_18",
       "correct_option": 1
     },
     {
@@ -294,7 +294,7 @@
       "examName": "RRB Group D 14 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_19",
+      "id": "q_physics_others_19",
       "correct_option": 1
     },
     {
@@ -310,7 +310,7 @@
       "examName": "RRB Group D 27 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_20",
+      "id": "q_physics_others_20",
       "correct_option": 1
     },
     {
@@ -326,7 +326,7 @@
       "examName": "RRB Group D 23 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_21",
+      "id": "q_physics_others_21",
       "correct_option": 3
     },
     {
@@ -342,7 +342,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_22",
+      "id": "q_physics_others_22",
       "correct_option": 1
     },
     {
@@ -358,7 +358,7 @@
       "examName": "RRB Group D 20 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_23"
+      "id": "q_physics_others_23"
     },
     {
       "question": "भोजन के पाचन में पित्त लवण का क्या प्रभाव पड़ता है?",
@@ -373,7 +373,7 @@
       "examName": "RRB Group D 13 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_24"
+      "id": "q_physics_others_24"
     },
     {
       "question": "मानवों में लक्षणों के वंशागति नियम नीचे वर्णित कुछ तथ्यों से संबंधित हैं। एक को छोड़कर सभी सही हैं। गलत विकल्प का चयन कीजिए।",
@@ -388,7 +388,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_25"
+      "id": "q_physics_others_25"
     },
     {
       "question": "प्रबल क्षार और दुबल अम्ल के मिश्रण वाले लवण का pH मान क्या होता है?",
@@ -403,7 +403,7 @@
       "examName": "RRB Group D 13 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_26",
+      "id": "q_physics_others_26",
       "correct_option": 3
     },
     {
@@ -419,7 +419,7 @@
       "examName": "RRB Group D 26 Sept 2018 Shift 2",
       "examYear": "2018",
       "type": "fillInBlanks",
-      "id": "q_others_27"
+      "id": "q_physics_others_27"
     },
     {
       "question": "निम्नलिखित तत्वों में से अर्ध-धातुओं की सही जोड़ी का चयन करें।",
@@ -434,7 +434,7 @@
       "examName": "RRB Group D 17 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_28",
+      "id": "q_physics_others_28",
       "correct_option": 2
     },
     {
@@ -450,7 +450,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_29",
+      "id": "q_physics_others_29",
       "correct_option": 2
     },
     {
@@ -466,7 +466,7 @@
       "examName": "RRB Group D 13 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_30",
+      "id": "q_physics_others_30",
       "correct_option": 2
     },
     {
@@ -482,7 +482,7 @@
       "examName": "RRB Group D 28 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_31",
+      "id": "q_physics_others_31",
       "correct_option": 1
     },
     {
@@ -498,7 +498,7 @@
       "examName": "RRB Group D 29 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_32"
+      "id": "q_physics_others_32"
     },
     {
       "question": "पादप पोषण के बारे में निम्नलिखित कथन गलत हैं?",
@@ -513,7 +513,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_33"
+      "id": "q_physics_others_33"
     },
     {
       "question": "_______ बनाने में यीस्ट का उपयोग किया जाता है।",
@@ -528,7 +528,7 @@
       "examName": "RRB Group D 22 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_34",
+      "id": "q_physics_others_34",
       "correct_option": 3
     },
     {
@@ -544,7 +544,7 @@
       "examName": "RRB Group D 26 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_35",
+      "id": "q_physics_others_35",
       "correct_option": 1
     },
     {
@@ -560,7 +560,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_36"
+      "id": "q_physics_others_36"
     },
     {
       "question": "यीस्ट में किण्वन और मनुष्य की मांसपेशी कोशिकाओं में होने वाले अवायवीय श्वसन के बीच क्या समानता है? रिया में होता है?",
@@ -575,7 +575,7 @@
       "examName": "RRB Group D 25 /8/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_37",
+      "id": "q_physics_others_37",
       "correct_option": 3
     },
     {
@@ -591,7 +591,7 @@
       "examName": "RRB Group D 26 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_38",
+      "id": "q_physics_others_38",
       "correct_option": 2
     },
     {
@@ -607,7 +607,7 @@
       "examName": "RRB Group D 28 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_39",
+      "id": "q_physics_others_39",
       "correct_option": 2
     },
     {
@@ -623,7 +623,7 @@
       "examName": "RRB Group D 20 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_40",
+      "id": "q_physics_others_40",
       "correct_option": 2
     },
     {
@@ -639,7 +639,7 @@
       "examName": "RRB Group D 26 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_41",
+      "id": "q_physics_others_41",
       "correct_option": 2
     },
     {
@@ -655,7 +655,7 @@
       "examName": "RRB Group D 23 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_42",
+      "id": "q_physics_others_42",
       "correct_option": 3
     },
     {
@@ -671,7 +671,7 @@
       "examName": "RRB Group D 22 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_43"
+      "id": "q_physics_others_43"
     },
     {
       "question": "निम्नलिखित में से किसका उपयोग भोजन में स्टार्च की उपस्थिति का पता लगाने के लिए किया जाता है?",
@@ -686,7 +686,7 @@
       "examName": "RRB Group D 17 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_44"
+      "id": "q_physics_others_44"
     },
     {
       "question": "सोडा-एसिड अग्निशामक यंत्रों में उपयोग किया जाने वाला लवण है?",
@@ -701,7 +701,7 @@
       "examName": "RRB Group D 4 Dec 2018 Shift 2",
       "examYear": "2018",
       "type": "standard",
-      "id": "q_others_45",
+      "id": "q_physics_others_45",
       "correct_option": 2
     },
     {
@@ -717,7 +717,7 @@
       "examName": "RRB Group D 26 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_46"
+      "id": "q_physics_others_46"
     },
     {
       "question": "बबूल के पेड़ जैसे विभिन्न प्रकार के पेड़ों द्वारा उत्पादित गोंद _______ है।",
@@ -732,7 +732,7 @@
       "examName": "RRB Group D 17 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_47",
+      "id": "q_physics_others_47",
       "correct_option": 3
     },
     {
@@ -748,7 +748,7 @@
       "examName": "RRB Group D 22 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_48"
+      "id": "q_physics_others_48"
     },
     {
       "question": "एक सजातीय श्रृंखला के निम्नलिखित योगिकों में से किसका क्वथनांक सबसे कम है?",
@@ -763,7 +763,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_49",
+      "id": "q_physics_others_49",
       "correct_option": 3
     },
     {
@@ -779,7 +779,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_50"
+      "id": "q_physics_others_50"
     },
     {
       "question": "जनवरी 2022 में, Jio ने 6G तकनीक में अनुसंधान और मानकीकरण संबंधी गतिविधियाँ शुरू करने के लिए किस विश्वविद्यालय के साथ एक समझौते पर हस्ताक्षर किए?",
@@ -794,7 +794,7 @@
       "examName": "RRB Group D 25 /8/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_51",
+      "id": "q_physics_others_51",
       "correct_option": 1
     },
     {
@@ -810,7 +810,7 @@
       "examName": "RRB Group D 6 Dec 2018 Shift 1",
       "examYear": "2018",
       "type": "standard",
-      "id": "q_others_52"
+      "id": "q_physics_others_52"
     },
     {
       "question": "आप निम्नलिखित चित्र में दिखाई गई कोशिकाओं के प्रकार को कहाँ से प्राप्त कर सकते हैं?",
@@ -825,7 +825,7 @@
       "examName": "RRB Group D 28 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_53"
+      "id": "q_physics_others_53"
     },
     {
       "question": "आधुनिक आवर्त सारणी में क्रमशः हैलोजन और कार्बन परिवार की वर्ग संख्याएँ क्या हैं?",
@@ -840,7 +840,7 @@
       "examName": "RRB Group D 14 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_54"
+      "id": "q_physics_others_54"
     },
     {
       "question": "डोबेराइनर ने तत्वों के वर्गीकरण की अपनी प्रणाली में कितने त्रिक (ट्रायड) की पहचान की थी?",
@@ -855,7 +855,7 @@
       "examName": "RRB Group D 27 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_55",
+      "id": "q_physics_others_55",
       "correct_option": 3
     },
     {
@@ -871,7 +871,7 @@
       "examName": "RRB Group D 20 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_56",
+      "id": "q_physics_others_56",
       "correct_option": 2
     },
     {
@@ -887,7 +887,7 @@
       "examName": "RRB Group D 17 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_57",
+      "id": "q_physics_others_57",
       "correct_option": 1
     },
     {
@@ -903,7 +903,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_58"
+      "id": "q_physics_others_58"
     },
     {
       "question": "किस तत्व में गैर-धातु गुण पाए जाते हैं?",
@@ -918,7 +918,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_59",
+      "id": "q_physics_others_59",
       "correct_option": 1
     },
     {
@@ -934,7 +934,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_60"
+      "id": "q_physics_others_60"
     },
     {
       "question": "नीचे दिए गए कथनों पर विचार कीजिए, और सही उत्तर का चयन कीजिए। कथन-I: मानब आमाशय, नाइट्रिक अम्ल का उत्पादन करता है। कथन-II: हाइड्रोक्लोरिक अम्ल, आमाशय को क्षति पहुंचाए बिना भोजन के पाचन में मदद करता है।",
@@ -949,7 +949,7 @@
       "examName": "RRB Group D 22 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_61",
+      "id": "q_physics_others_61",
       "correct_option": 3
     },
     {
@@ -965,7 +965,7 @@
       "examName": "RRB Group D 25 /8/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_62",
+      "id": "q_physics_others_62",
       "correct_option": 2
     },
     {
@@ -981,7 +981,7 @@
       "examName": "RRB Group D 27 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_63",
+      "id": "q_physics_others_63",
       "correct_option": 2
     },
     {
@@ -997,7 +997,7 @@
       "examName": "RRB Group D 22 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_64"
+      "id": "q_physics_others_64"
     },
     {
       "question": "दुनिया भर में ऐसे रेफ्रिजरेटर का निर्माण अनिवाय कर दिया गया है जो क्लोरोफ्लोरोकार्बन उत्सर्जित नहीं करते। इससे ओजोन क्षरण को रोकने में कैसे मदद मिलेगी?",
@@ -1012,7 +1012,7 @@
       "examName": "RRB Group D 24 /8/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_65"
+      "id": "q_physics_others_65"
     },
     {
       "question": "श्वेत AgCl किसकी उपस्थिति में धूसर हो जाता है?",
@@ -1027,7 +1027,7 @@
       "examName": "RRB Group D 15 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_66",
+      "id": "q_physics_others_66",
       "correct_option": 3
     },
     {
@@ -1043,7 +1043,7 @@
       "examName": "RRB Group D 20 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_67"
+      "id": "q_physics_others_67"
     },
     {
       "question": "निम्नलिखित में से हाइड्रोकार्बन का कौन सा समूह CₙH₂ₙ के सामान्य सूत्र का अनुसरण करता है?",
@@ -1058,7 +1058,7 @@
       "examName": "RRB Group D 23 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_68"
+      "id": "q_physics_others_68"
     },
     {
       "question": "एक तत्व A जल के साथ अभिक्रिया करके एक विलयन बनाता है, जो फीनॉलफ्थेलिन के विलयन को गुलाबी कर देता है। तत्व A के _______ होने की सर्वाधिक संभावना है।",
@@ -1073,7 +1073,7 @@
       "examName": "RRB Group D 22 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_69",
+      "id": "q_physics_others_69",
       "correct_option": 1
     },
     {
@@ -1089,7 +1089,7 @@
       "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 1",
       "examYear": "2024",
       "type": "fillInBlanks",
-      "id": "q_others_70",
+      "id": "q_physics_others_70",
       "correct_option": 1
     },
     {
@@ -1105,7 +1105,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_71"
+      "id": "q_physics_others_71"
     },
     {
       "question": "निम्नलिखित में से कौन सी रासायनिक प्रतिक्रियाएँ संयोजन अभिक्रियाओं के उदाहरण हैं?\ni) 3Fe (s) + 4H₂O (g) → Fe₃O₄ (s) + 4H₂ (g)\nii) CO (g) + 2H₂ (g) → CH₃OH (l)\niii) 2Mg (s) + O₂ (g) → 2MgO (s)\niv) Zn (s) + 2AgNO₃ (aq) → Zn(NO₃)₂ (aq) + 2Ag (s)",
@@ -1120,7 +1120,7 @@
       "examName": "RRB Group D 27 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_72"
+      "id": "q_physics_others_72"
     },
     {
       "question": "आधुनिक आवर्त सारणी में फॉस्फोरस को _______ में रखा गया है।",
@@ -1135,7 +1135,7 @@
       "examName": "RRB Group D 27 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_73"
+      "id": "q_physics_others_73"
     },
     {
       "question": "क्लोरीन गैस पोटैशियम आयोडाइड विलयन से अभिक्रिया कर पोटैशियम क्लोराइड और आयोडीन बनाती है। यह किस अभिक्रिया का उदाहरण है?",
@@ -1150,7 +1150,7 @@
       "examName": "RRB Group D 25 /8/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_74",
+      "id": "q_physics_others_74",
       "correct_option": 2
     },
     {
@@ -1166,7 +1166,7 @@
       "examName": "RRB Group D 22 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_75"
+      "id": "q_physics_others_75"
     },
     {
       "question": "निम्नलिखित में से किस यौगिक के निर्माण में धावन सोडा का प्रयोग किया जाता है?",
@@ -1181,7 +1181,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_76"
+      "id": "q_physics_others_76"
     },
     {
       "question": "नीचे दिए गए कथनों पर विचार करें और सही उत्तर पहचानें। कथन-I: किसी धातु से गैर-धातु में इलेक्ट्रॉनों के स्थानांतरण से बनने वाले यौगिकों को विद्युतसंयोजी यौगिक के रूप में जाना जाता है। कथन-II: विद्युतसंयोजी यौगिक आम तौर पर जल में विलेय होते हैं और विलायक में अविलेय होते हैं जैसे केरोसिन, पेट्रोल आदि।",
@@ -1196,7 +1196,7 @@
       "examName": "RRB Group D 12 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_77"
+      "id": "q_physics_others_77"
     },
     {
       "question": "निम्नलिखित में से कौन सा पौधा परजीवी है?",
@@ -1211,7 +1211,7 @@
       "examName": "RRB Group D 22 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_78",
+      "id": "q_physics_others_78",
       "correct_option": 3
     },
     {
@@ -1227,7 +1227,7 @@
       "examName": "RRB Group D 26 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_79",
+      "id": "q_physics_others_79",
       "correct_option": 3
     },
     {
@@ -1243,7 +1243,7 @@
       "examName": "RRB Group D 22 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_80",
+      "id": "q_physics_others_80",
       "correct_option": 3
     },
     {
@@ -1259,7 +1259,7 @@
       "examName": "RRB Group D 13 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_81"
+      "id": "q_physics_others_81"
     },
     {
       "question": "एक जलीय विलयन X है, जिसका pH मान 2.6 है। यह प्रदर्शित करता है कि विलयन _______ है।",
@@ -1274,7 +1274,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_82",
+      "id": "q_physics_others_82",
       "correct_option": 1
     },
     {
@@ -1290,7 +1290,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_83"
+      "id": "q_physics_others_83"
     },
     {
       "question": "नीचे दिए गए कथनों पर विचार कीजिए और सही उत्तर की पहचान कीजिए। कथन- I: आधुनिक आवर्त सारणी में 18 ऊर्ध्वावाधर स्तंभ हैं, जिन्हें समूहों के रूप में जाना जाता है। कथन- II: आधुनिक आवर्त सारणी में 7 क्षैतिज पंक्तियाँ होती हैं, जिन्हें आवर्त कहा जाता है।",
@@ -1305,7 +1305,7 @@
       "examName": "RRB Group D 23 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_84",
+      "id": "q_physics_others_84",
       "correct_option": 1
     },
     {
@@ -1321,7 +1321,7 @@
       "examName": "RRB Group D 20 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_85"
+      "id": "q_physics_others_85"
     },
     {
       "question": "ओजोन परत की मोटाई बढ़ाने के लिए निम्नलिखित में से सबसे अच्छा उपाय कौन सा है?",
@@ -1336,7 +1336,7 @@
       "examName": "RRB Group D 22 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_86"
+      "id": "q_physics_others_86"
     },
     {
       "question": "एक आवर्त में, तत्वों को व्यवस्थित किया जाता है-",
@@ -1351,7 +1351,7 @@
       "examName": "RRB JE 25 May 2019 Shift 1 CBT 1",
       "examYear": "2019",
       "type": "standard",
-      "id": "q_others_87",
+      "id": "q_physics_others_87",
       "correct_option": 3
     },
     {
@@ -1367,7 +1367,7 @@
       "examName": "RRB Group D 13 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_88",
+      "id": "q_physics_others_88",
       "correct_option": 3
     },
     {
@@ -1383,7 +1383,7 @@
       "examName": "RRB Group D 25 /8/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_89",
+      "id": "q_physics_others_89",
       "correct_option": 2
     },
     {
@@ -1399,7 +1399,7 @@
       "examName": "RRB Group D 25 /8/2022 Shift 2",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_90",
+      "id": "q_physics_others_90",
       "correct_option": 1
     },
     {
@@ -1415,7 +1415,7 @@
       "examName": "RRB Group D 13 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_91"
+      "id": "q_physics_others_91"
     },
     {
       "question": "ये गभधारण को कैसे रोकते हैं? सही विकल्प चुनिए।",
@@ -1430,7 +1430,7 @@
       "examName": "RRB Group D 23 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_92",
+      "id": "q_physics_others_92",
       "correct_option": 1
     },
     {
@@ -1446,7 +1446,7 @@
       "examName": "RRB Group D 4 Dec 2018 Shift 2",
       "examYear": "2018",
       "type": "fillInBlanks",
-      "id": "q_others_93",
+      "id": "q_physics_others_93",
       "correct_option": 1
     },
     {
@@ -1462,7 +1462,7 @@
       "examName": "RRB Group D 17 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_94",
+      "id": "q_physics_others_94",
       "correct_option": 3
     },
     {
@@ -1478,7 +1478,7 @@
       "examName": "RRB Technician Grade III : 23 Dec, 2024 Shift 1",
       "examYear": "2024",
       "type": "standard",
-      "id": "q_others_95",
+      "id": "q_physics_others_95",
       "correct_option": 3
     },
     {
@@ -1494,7 +1494,7 @@
       "examName": "RRB Group D 14 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_96"
+      "id": "q_physics_others_96"
     },
     {
       "question": "एक संतुलित रासायनिक समीकरण में, अभिकारक को सदैव तीर के निशान के ______ लिखा जाता है।",
@@ -1509,7 +1509,7 @@
       "examName": "RRB Group D 14 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_97",
+      "id": "q_physics_others_97",
       "correct_option": 2
     },
     {
@@ -1525,7 +1525,7 @@
       "examName": "RRB Group D 17 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_98"
+      "id": "q_physics_others_98"
     },
     {
       "question": "निम्नलिखित में से किस रासायनिक यौगिक को संगमरमर के रूप में जाना जाता है?",
@@ -1540,7 +1540,7 @@
       "examName": "RRB Group D 17 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_99"
+      "id": "q_physics_others_99"
     },
     {
       "question": "नीचे दिए गए विकल्पों से, उस जीव को चुनें जिसमें तीन-कक्षीय हृदय हो।",
@@ -1555,7 +1555,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_100",
+      "id": "q_physics_others_100",
       "correct_option": 2
     },
     {
@@ -1571,7 +1571,7 @@
       "examName": "RRB Group D 22 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_101",
+      "id": "q_physics_others_101",
       "answer": "A — रक्त को शरीर के विभिन्न भागों में पंप करता है (बाएँ निलय की मोटी दीवारें), B — रक्त के प्रतिगमन को रोकता है (कपाट/वॉल्व का कार्य)"
     },
     {
@@ -1587,7 +1587,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_102",
+      "id": "q_physics_others_102",
       "correct_option": 2
     },
     {
@@ -1603,7 +1603,7 @@
       "examName": "RRB Group D 22 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_103",
+      "id": "q_physics_others_103",
       "correct_option": 3
     },
     {
@@ -1619,7 +1619,7 @@
       "examName": "RRB Group D 13 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_104"
+      "id": "q_physics_others_104"
     },
     {
       "question": "SO₄, and Ba और Ba₂+ की अभिक्रिया से बनने वाले BaSO₄ की प्रकृति क्या है?? SO₂− 4 2+?",
@@ -1634,7 +1634,7 @@
       "examName": "RRB Group D 12 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_105"
+      "id": "q_physics_others_105"
     },
     {
       "question": "Na₂SO₄ (aq) + BaCl₂ (aq) → BaSO₄ (s) + 2NaCl (aq) दी गई अभिक्रिया में, कौन सा उत्पाद विलयन में रहता है?",
@@ -1649,7 +1649,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_106"
+      "id": "q_physics_others_106"
     },
     {
       "question": "इलेक्ट्रॉन के लिए e/m अनुपात, किसके द्वारा निर्धारित किया गया?",
@@ -1664,7 +1664,7 @@
       "examName": "RRB NTPC GRADUATE CBT 1 19/03/2026 12:45 PM - 2:15 PM",
       "examYear": "2026",
       "type": "standard",
-      "id": "q_others_107",
+      "id": "q_physics_others_107",
       "correct_option": 3
     },
     {
@@ -1680,7 +1680,7 @@
       "examName": "RRB Group D 29 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_108",
+      "id": "q_physics_others_108",
       "correct_option": 2
     },
     {
@@ -1696,7 +1696,7 @@
       "examName": "RRB Group D 23 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_109"
+      "id": "q_physics_others_109"
     },
     {
       "question": "दूसरे आवर्त के तत्वों के लिए कौन सा कथन सही है?",
@@ -1711,7 +1711,7 @@
       "examName": "RRB Group D 12 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_110"
+      "id": "q_physics_others_110"
     },
     {
       "question": "मेंडल के प्रयोगों में, पीले रंग के मटर वाले मटर के पौधे को हरे रंग के मटर वाले पौधे के साथ संकरण करने से ऐसे पौधे मिले जिनमें पीले रंग के मटर थे। यदि इन पौधों को स्व-परागण करने दिया जाए और उनसे 500 मटर एकत्र किए जाएं, तो कितने हरे रंग के होंगे?",
@@ -1726,7 +1726,7 @@
       "examName": "RRB Group D 27 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_111",
+      "id": "q_physics_others_111",
       "correct_option": 3
     },
     {
@@ -1742,7 +1742,7 @@
       "examName": "RRB Group D 23 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_112"
+      "id": "q_physics_others_112"
     },
     {
       "question": "निम्नलिखित में से कौन सा भूतापीय ऊर्जा का स्रोत नहीं है/हैं?",
@@ -1757,7 +1757,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_113",
+      "id": "q_physics_others_113",
       "correct_option": 2
     },
     {
@@ -1773,7 +1773,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_114"
+      "id": "q_physics_others_114"
     },
     {
       "question": "नीचे दिया गया चित्र F₂ पीढ़ी तक के दो पौधों के बीच संकरण को दर्शाता है। इस संकर से जो कुछ निष्कर्ष निकाले जा सकते हैं, वे नीचे दिए गए हैं। कौन सा विकल्प गलत निष्कर्ष देता है?",
@@ -1788,7 +1788,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_115"
+      "id": "q_physics_others_115"
     },
     {
       "question": "निम्नलिखित में से कौन-सा प्रोटीन-विभाजन एंजाइम है?",
@@ -1803,7 +1803,7 @@
       "examName": "RRB Group D 23 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_116",
+      "id": "q_physics_others_116",
       "correct_option": 3
     },
     {
@@ -1819,7 +1819,7 @@
       "examName": "RRB Group D 14 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_117"
+      "id": "q_physics_others_117"
     },
     {
       "question": "तत्व जिनकी परमाणु संख्या क्रमशः 15, 16, 17 और 18 है, हैं।",
@@ -1834,7 +1834,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_118"
+      "id": "q_physics_others_118"
     },
     {
       "question": "नीचे दिए गए चित्र में प्रजनन के दौर से गुजर रहे एक जीव और मामूली अंतर वाली संतति को दिखाया गया है। भिन्नता का कारण क्या हो सकता है?",
@@ -1849,7 +1849,7 @@
       "examName": "RRB Group D 25 /8/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_119"
+      "id": "q_physics_others_119"
     },
     {
       "question": "धारीदार और चिकनी मांसपेशी कोशिकाओं के बीच क्या अंतर है?",
@@ -1864,7 +1864,7 @@
       "examName": "RRB Group D 12 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_120"
+      "id": "q_physics_others_120"
     },
     {
       "question": "एक लंबा वृक्ष अपने अपशिष्ट उत्पादों को कहाँ संचित कर सकता है?",
@@ -1879,7 +1879,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_121"
+      "id": "q_physics_others_121"
     },
     {
       "question": "निम्नलिखित में से कौन सा यौगिक बनता है जब लेड नाइट्रेट को पोटैशियम आयोडाइड के साथ मिलाया जाता है?",
@@ -1894,7 +1894,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_122",
+      "id": "q_physics_others_122",
       "correct_option": 1
     },
     {
@@ -1910,7 +1910,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_123",
+      "id": "q_physics_others_123",
       "correct_option": 2
     },
     {
@@ -1926,7 +1926,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_124",
+      "id": "q_physics_others_124",
       "correct_option": 2
     },
     {
@@ -1942,7 +1942,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_125"
+      "id": "q_physics_others_125"
     },
     {
       "question": "पौधे अतिरिक्त जल को एक प्रक्रिया के माध्यमें से छोड़ते हैं जिसे कहते हैं?",
@@ -1957,7 +1957,7 @@
       "examName": "RRB Group D 27 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_126"
+      "id": "q_physics_others_126"
     },
     {
       "question": "पौधों में परिसंचरण या परिवहन की कुछ विशेषताएँ नीचे दी गई हैं। कौन सा विकल्प गलत विशेषता दर्शाता है?",
@@ -1972,7 +1972,7 @@
       "examName": "RRB Group D 23 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_127"
+      "id": "q_physics_others_127"
     },
     {
       "question": "निम्नलिखित में से कौन सा जलीय विलयन विद्युत अपघटन से सोडियम हाइड्रॉक्साइड बनाता है?",
@@ -1987,7 +1987,7 @@
       "examName": "RRB Group D 22 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_128",
+      "id": "q_physics_others_128",
       "correct_option": 1
     },
     {
@@ -2003,7 +2003,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_129",
+      "id": "q_physics_others_129",
       "correct_option": 2
     },
     {
@@ -2019,7 +2019,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_130",
+      "id": "q_physics_others_130",
       "correct_option": 3
     },
     {
@@ -2035,7 +2035,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_131"
+      "id": "q_physics_others_131"
     },
     {
       "question": "मानव में यौन प्रजनन में महिला की योनि में शुक्राणु की शुरुआत शामिल है। निषेचन कहां होता है?",
@@ -2050,7 +2050,7 @@
       "examName": "RRB Group D 28 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_132"
+      "id": "q_physics_others_132"
     },
     {
       "question": "मेंडेलीव ने अपनी आवर्त सारणी में तत्वों को व्यवस्थित करने के लिए किस मौलिक गुण का उपयोग किया था?",
@@ -2065,7 +2065,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_133",
+      "id": "q_physics_others_133",
       "correct_option": 1
     },
     {
@@ -2081,7 +2081,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_134",
+      "id": "q_physics_others_134",
       "correct_option": 3
     },
     {
@@ -2097,7 +2097,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_135",
+      "id": "q_physics_others_135",
       "correct_option": 2
     },
     {
@@ -2113,7 +2113,7 @@
       "examName": "RRB Group D 23 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_136"
+      "id": "q_physics_others_136"
     },
     {
       "question": "निम्नलिखित में से कौन भ्रूण बनने के लिए अंगों का विकास और वृद्धि करता रहता है?",
@@ -2128,7 +2128,7 @@
       "examName": "RRB Group D 22 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_137"
+      "id": "q_physics_others_137"
     },
     {
       "question": "निम्नलिखित में से कौन सा सोडियम कार्बोनेट का हाइड्रेट है, जिसमें क्रिस्टलीकरण के पानी के दस अणु होते हैं? कपड़े धोने का पाउडर 2 2?",
@@ -2143,7 +2143,7 @@
       "examName": "RRB Group D 20 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_138",
+      "id": "q_physics_others_138",
       "answer": "N/A (विकल्पों में सही उपयुक्त विकल्प नहीं — वास्तव में यह धावन सोडा / Washing soda / Na₂CO₃·10H₂O है)"
     },
     {
@@ -2159,7 +2159,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_139"
+      "id": "q_physics_others_139"
     },
     {
       "question": "निम्नलिखित में से कौन सा कथन पौधों में वाष्पोत्सजन का सही वर्णन करता है?",
@@ -2174,7 +2174,7 @@
       "examName": "RRB Group D 14 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_140"
+      "id": "q_physics_others_140"
     },
     {
       "question": "निम्नलिखित अभिक्रिया में अपचयन होने वाले पदार्थ की पहचान कीजिए। ZnO + C → Zn + CO।",
@@ -2189,7 +2189,7 @@
       "examName": "RRB Group D 27 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_141"
+      "id": "q_physics_others_141"
     },
     {
       "question": "यदि कोई प्रतिक्रियात्मक प्रतिक्रिया में ऑक्सीजन प्राप्त करता है, तो कहा जाता है कि वह इस से गुजर रहा हैः।",
@@ -2204,7 +2204,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_142",
+      "id": "q_physics_others_142",
       "correct_option": 2
     },
     {
@@ -2220,7 +2220,7 @@
       "examName": "RRB Group D 14 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_143",
+      "id": "q_physics_others_143",
       "correct_option": 2
     },
     {
@@ -2236,7 +2236,7 @@
       "examName": "RRB Group D 25 /8/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_144",
+      "id": "q_physics_others_144",
       "correct_option": 1
     },
     {
@@ -2252,7 +2252,7 @@
       "examName": "RRB Group D 23 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_145"
+      "id": "q_physics_others_145"
     },
     {
       "question": "जो अम्ल अधिक H+ आयन देते हैं उन्हें ______ कहा जाता है, जबकि जो कम H+ आयन देते हैं उन्हें ______ कहा जाता है।",
@@ -2267,7 +2267,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_146"
+      "id": "q_physics_others_146"
     },
     {
       "question": "जब किसी पादप कोशिका को उस माध्यम में रखा जाता है जिसमें कोशिका की तुलना में पानी की मात्रा अधिक होती है, तो क्या होगा?",
@@ -2282,7 +2282,7 @@
       "examName": "RRB Technician Grade III : 30 Dec, 2024 Shift 2",
       "examYear": "2024",
       "type": "standard",
-      "id": "q_others_147"
+      "id": "q_physics_others_147"
     },
     {
       "question": "सही विकल्प चुनते हुए अल्कोहल की समजातीय श्रृंखला को पूरा करें। CH₃OH, C₂H₅OH, ________, C₄H₉OH",
@@ -2297,7 +2297,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_148"
+      "id": "q_physics_others_148"
     },
     {
       "question": "जब कोई पदार्थ O₂ के साथ जुड़ता है, तो उसे मिलता है?",
@@ -2312,7 +2312,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_149"
+      "id": "q_physics_others_149"
     },
     {
       "question": "आधुनिक आवर्त सारणी में निम्नलिखित विशेषताओं का मिलान कीजिए: i. न्यूनतम परमाणु a. सीज़ियम ii. उपधातु b. फ़्लोरीन iii. सर्वाधिक धात्विक प्राकृतिक तत्व c. सिलिकॉन iv. सर्वाधिक विद्युत ऋणात्मक d. आयोडीन v. न्यूनतम विद्युत ऋणात्मक e. लिथियम।",
@@ -2327,7 +2327,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_150"
+      "id": "q_physics_others_150"
     },
     {
       "question": "जब कविता ने तांबा सल्फेट का जलीय घोल निकाला और एल्यूमीनियम के कुछ कण जोड़े तो समाधान का रंग बदल गया। इसका कारण है: 3 3 3 3 3 3 2 5 4 9 12 5 10³ 6 3 2 3 2 4 3।",
@@ -2342,7 +2342,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_151"
+      "id": "q_physics_others_151"
     },
     {
       "question": "श्वसन के दौरान बनने वाले तीन-कार्बन अणु निम्नलिखित में से कौन से हैं?",
@@ -2357,7 +2357,7 @@
       "examName": "RRB Group D 27 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_152",
+      "id": "q_physics_others_152",
       "correct_option": 1
     },
     {
@@ -2373,7 +2373,7 @@
       "examName": "RRB Group D 28/9/2018 Shift 1",
       "examYear": "2018",
       "type": "fillInBlanks",
-      "id": "q_others_153",
+      "id": "q_physics_others_153",
       "correct_option": 2
     },
     {
@@ -2389,7 +2389,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_154",
+      "id": "q_physics_others_154",
       "correct_option": 3
     },
     {
@@ -2405,7 +2405,7 @@
       "examName": "RRB Group D 30 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_155"
+      "id": "q_physics_others_155"
     },
     {
       "question": "चयनात्मक पारगम्य झिल्ली वे हैं, जो _____________ प्रवेश की अनुमति नहीं देते हैं।",
@@ -2420,7 +2420,7 @@
       "examName": "RRB Group D 23 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_156"
+      "id": "q_physics_others_156"
     },
     {
       "question": "प्लास्टर ऑफ पेरिस को सीलबंद कंटेनरों में संग्रहित किया जाना चाहिए। निम्नलिखित में से कौन सा दिए गए दावे के लिए सही स्पष्टीकरण है?",
@@ -2435,7 +2435,7 @@
       "examName": "RRB Group D 20 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_157"
+      "id": "q_physics_others_157"
     },
     {
       "question": "निम्नलिखित में से कौन-सा रसायन वायुमंडल में ओजोन परत को नष्ट करने के लिए जाना जाता है?",
@@ -2450,7 +2450,7 @@
       "examName": "RRB Group D 28 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_158",
+      "id": "q_physics_others_158",
       "correct_option": 3
     },
     {
@@ -2466,7 +2466,7 @@
       "examName": "RRB Group D 23 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_159",
+      "id": "q_physics_others_159",
       "correct_option": 1
     },
     {
@@ -2482,7 +2482,7 @@
       "examName": "RRB Group D 22 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_160",
+      "id": "q_physics_others_160",
       "correct_option": 3
     },
     {
@@ -2498,7 +2498,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_161",
+      "id": "q_physics_others_161",
       "correct_option": 2
     },
     {
@@ -2514,7 +2514,7 @@
       "examName": "RRB Group D 22 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_162"
+      "id": "q_physics_others_162"
     },
     {
       "question": "निम्नलिखित आरेखों में से कौन सा मानव उत्सर्जन प्रणाली में मूत्रवाहिनी (नीली रेखाओं के रूप में दिखाया गया है) और मूत्राशय की स्थिति को दर्शाता है?",
@@ -2529,7 +2529,7 @@
       "examName": "RRB Group D 28 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_163",
+      "id": "q_physics_others_163",
       "correct_option": 3
     },
     {
@@ -2545,7 +2545,7 @@
       "examName": "RRB Group D 20 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_164"
+      "id": "q_physics_others_164"
     },
     {
       "question": "ATP का पूरा नाम _______ है।",
@@ -2560,7 +2560,7 @@
       "examName": "RRB Group D 27 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_165",
+      "id": "q_physics_others_165",
       "correct_option": 1
     },
     {
@@ -2576,7 +2576,7 @@
       "examName": "RRB Group D 20 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_166"
+      "id": "q_physics_others_166"
     },
     {
       "question": "द्विविस्थापन अभिक्रिया पूर्ण करें। 2NaOH + CuSO → X + Na SO , यहाँ X ________ होगा।",
@@ -2591,7 +2591,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_167",
+      "id": "q_physics_others_167",
       "correct_option": 1
     },
     {
@@ -2607,7 +2607,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_168"
+      "id": "q_physics_others_168"
     },
     {
       "question": "मस्से किसके कारण होते हैं?",
@@ -2622,7 +2622,7 @@
       "examName": "RRB Group D 17 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_169",
+      "id": "q_physics_others_169",
       "correct_option": 2
     },
     {
@@ -2638,7 +2638,7 @@
       "examName": "RRB NTPC GRADUATE CBT 1 17/03/2026 4:30 PM - 6:00 PM",
       "examYear": "2026",
       "type": "standard",
-      "id": "q_others_170"
+      "id": "q_physics_others_170"
     },
     {
       "question": "पौधों में, विसरण मुख्य रूप से परिवहन की प्रक्रिया के लिए उत्तरदायी होता है। हालांकि, कुछ पदार्थों के परिवहन के लिए ऊर्जा की आवश्यकता होती है। कौन-सा विकल्प ATP से ऊर्जा का उपयोग कर परिवहन किए गए पदार्थों को दर्शाता है?",
@@ -2653,7 +2653,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_171"
+      "id": "q_physics_others_171"
     },
     {
       "question": "नीचे दिए गए कथनों पर विचार कीजिए और सही उत्तर की पहचान कीजिए। कथन-l: अधिकांश कार्बन यौगिक विद्युत के कुचालक होते हैं। कथन-II: कार्बन यौगिकों के गलनांक और क्वथनांक कम होते हैं।",
@@ -2668,7 +2668,7 @@
       "examName": "RRB Group D 23 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_172"
+      "id": "q_physics_others_172"
     },
     {
       "question": "लेड नाइट्रेट के तापीय अपघटन के परिणामस्वरूप निर्मित उत्पाद क्या है?",
@@ -2683,7 +2683,7 @@
       "examName": "RRB Group D 11 Dec 2018 Shift 2",
       "examYear": "2018",
       "type": "standard",
-      "id": "q_others_173",
+      "id": "q_physics_others_173",
       "correct_option": 2
     },
     {
@@ -2699,7 +2699,7 @@
       "examName": "RRB Group D 25 /8/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_174"
+      "id": "q_physics_others_174"
     },
     {
       "question": "डॉबेराइनर के त्रिक में, तत्त्वों को निम्न में से किस प्रकार लिखा गया था?",
@@ -2714,7 +2714,7 @@
       "examName": "RRB Group D 28 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_175",
+      "id": "q_physics_others_175",
       "correct_option": 1
     },
     {
@@ -2730,7 +2730,7 @@
       "examName": "RRB Group D 22 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_176"
+      "id": "q_physics_others_176"
     },
     {
       "question": "न्यूलैंड्स अष्टक नियम के संबंध में निम्नलिखित में से कौन सा कथन सही है?",
@@ -2745,7 +2745,7 @@
       "examName": "RRB Group D 14 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_177"
+      "id": "q_physics_others_177"
     },
     {
       "question": "दसवीं कक्षा के छात्रों द्वारा चार अलग-अलग प्रयोग किए गे। ।. नवीन ने CuSO₄ के कुछ जलीय विलयन वाला एक बीकर लिया और उसमें मैग्नीशियम की पट्टी का एक टुकड़ा डाला। II. आयुष ने CuSO के कुछ जलीय विलयन वाला एक बीकर लिया और उसमें कुछ प्लेटिनम के टुकड़े मिलाए। III. स्नयहा ने एक बीकर लिया जिसमें CuSO का कुछ जलीय विलयन था और उसमें कुछ ताँबे की छीलन मिलाईं। IV. आकृति ने CuSO के कुछ जलीय विलयन वाला एक बीकर लिया और उसमें चांदी के तार का एक टुकड़ा डाला। उनमें से कौन विस्थापन प्रतिक्रिया करने में सक्षम था?",
@@ -2760,7 +2760,7 @@
       "examName": "RRB Group D 25 /8/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_178",
+      "id": "q_physics_others_178",
       "correct_option": 3
     },
     {
@@ -2776,7 +2776,7 @@
       "examName": "RRB Group D 14 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_179"
+      "id": "q_physics_others_179"
     },
     {
       "question": "निम्नलिखित में से कौन सी प्रतिक्रिया पानी में अघुलनशील लवण पैदा करती है?",
@@ -2791,7 +2791,7 @@
       "examName": "RRB Group D 20 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_180"
+      "id": "q_physics_others_180"
     },
     {
       "question": "यौगिक CH OH का अगला सजात सदस्य कौन सा होगा?",
@@ -2806,7 +2806,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_181"
+      "id": "q_physics_others_181"
     },
     {
       "question": "निम्नलिखित में से कौन कार्बन का क्रिस्टलीय अपरूप नहीं है?",
@@ -2821,7 +2821,7 @@
       "examName": "RRB Group D 29 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_182"
+      "id": "q_physics_others_182"
     },
     {
       "question": "समजातीय श्रेणी में क्वथनांक के उन्नयन के बारे में निम्नलिखित में से कौन सा कथन सही है?",
@@ -2836,7 +2836,7 @@
       "examName": "RRB Group D 20 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_183",
+      "id": "q_physics_others_183",
       "correct_option": 2
     },
     {
@@ -2852,7 +2852,7 @@
       "examName": "RRB NTPC Graduate Level CBT-I : 09 Jun, 2025 Shift 3",
       "examYear": "2025",
       "type": "standard",
-      "id": "q_others_184",
+      "id": "q_physics_others_184",
       "correct_option": 1
     },
     {
@@ -2868,7 +2868,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_185"
+      "id": "q_physics_others_185"
     },
     {
       "question": "मेंडल ने अपने प्रयोगों में मटर के पौधे की निम्नलिखित में से किस विशेषता का उपयोग नहीं किया था?",
@@ -2883,7 +2883,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_186",
+      "id": "q_physics_others_186",
       "correct_option": 1
     },
     {
@@ -2899,7 +2899,7 @@
       "examName": "RRB Group D 17 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_187",
+      "id": "q_physics_others_187",
       "correct_option": 2
     },
     {
@@ -2915,7 +2915,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_188",
+      "id": "q_physics_others_188",
       "correct_option": 1
     },
     {
@@ -2931,7 +2931,7 @@
       "examName": "RRB Group D 13 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_189",
+      "id": "q_physics_others_189",
       "correct_option": 3
     },
     {
@@ -2947,7 +2947,7 @@
       "examName": "RRB Group D 22 Sept 2018 Shift 2",
       "examYear": "2018",
       "type": "fillInBlanks",
-      "id": "q_others_190"
+      "id": "q_physics_others_190"
     },
     {
       "question": "नीचे दिखाए गए मानव श्वसन प्रणाली के भागों a, b और c के लिए लेबलिंग विकल्प के रूप में दी गई है। सही विकल्प को पहचानें।",
@@ -2962,7 +2962,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_191"
+      "id": "q_physics_others_191"
     },
     {
       "question": "गर्भनिरोधक का वह रूप क्या है जो यौन संचारित रोगों के प्रसार को कुछ हद तक रोकने में मदद कर सकता है?",
@@ -2977,7 +2977,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_192",
+      "id": "q_physics_others_192",
       "correct_option": 3
     },
     {
@@ -2993,7 +2993,7 @@
       "examName": "RRB Group D 20 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_193",
+      "id": "q_physics_others_193",
       "correct_option": 3
     },
     {
@@ -3009,7 +3009,7 @@
       "examName": "RRB Group D 17 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_194"
+      "id": "q_physics_others_194"
     },
     {
       "question": "निम्नलिखित में से किस अणु में केवल एकल बंध है?",
@@ -3024,7 +3024,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_195",
+      "id": "q_physics_others_195",
       "correct_option": 1
     },
     {
@@ -3040,7 +3040,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_196"
+      "id": "q_physics_others_196"
     },
     {
       "question": "निम्नलिखित का मिलान कीजिए: आयनिक यौगिक गलनांक (K) i. NaCl a. 2850 ii. CaCl₂ b. 10⁷⁴ iii. CaO c. 10⁴⁵।",
@@ -3055,7 +3055,7 @@
       "examName": "RRB Group D 20 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_197"
+      "id": "q_physics_others_197"
     },
     {
       "question": "मनुष्यों में, संतति का लिंग _______ द्वारा निर्धारित किया जाता है।",
@@ -3070,7 +3070,7 @@
       "examName": "RRB Group D 14 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_198"
+      "id": "q_physics_others_198"
     },
     {
       "question": "प्लास्टर ऑफ पेरिस में मौजूद क्रिस्टलीकरण अणुओं के पानी की संख्या कितनी होती है?",
@@ -3085,7 +3085,7 @@
       "examName": "RRB Group D 26 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_199",
+      "id": "q_physics_others_199",
       "answer": "½ (आधा अणु) — अतः विकल्प 3 (प्रश्न में सूचीबद्ध नहीं — POP में ½ H₂O)",
       "correct_option": 2
     },
@@ -3102,7 +3102,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_200",
+      "id": "q_physics_others_200",
       "correct_option": 2
     },
     {
@@ -3118,7 +3118,7 @@
       "examName": "RRB Group D 27 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_201"
+      "id": "q_physics_others_201"
     },
     {
       "question": "प्रोपेनोइक एसिड के नाम में कौन सा प्रत्यय है?",
@@ -3133,7 +3133,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_202"
+      "id": "q_physics_others_202"
     },
     {
       "question": "मेंडल के क्रॉस में, एक शुद्ध लम्बे पौधे (TT) का एक बौने पौधे (t t) के साथ संकरण किया जाता है। F₂ पीढ़ी में फेनोटाइपिक अनुपात है?",
@@ -3148,7 +3148,7 @@
       "examName": "RRB Group D 20 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_203",
+      "id": "q_physics_others_203",
       "correct_option": 2
     },
     {
@@ -3164,7 +3164,7 @@
       "examName": "RRB Group D 27 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_204"
+      "id": "q_physics_others_204"
     },
     {
       "question": "निम्नलिखित रासायनिक प्रतिक्रियाओं में से कौन सी संतुलित है?",
@@ -3179,7 +3179,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_205",
+      "id": "q_physics_others_205",
       "correct_option": 2
     },
     {
@@ -3195,7 +3195,7 @@
       "examName": "RRB Group D 17 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_206"
+      "id": "q_physics_others_206"
     },
     {
       "question": "आधुनिक आवर्त सारणी की सातवीं आवर्त में कितने तत्व मौजूद हैं?",
@@ -3210,7 +3210,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_207",
+      "id": "q_physics_others_207",
       "correct_option": 2
     },
     {
@@ -3226,7 +3226,7 @@
       "examName": "RRB Group D 28 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_208"
+      "id": "q_physics_others_208"
     },
     {
       "question": "जीन __________की गतिविधि के माध्यमें से लक्षणों को नियंत्रित करते हैं?",
@@ -3241,7 +3241,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_209",
+      "id": "q_physics_others_209",
       "correct_option": 2
     },
     {
@@ -3257,7 +3257,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_210"
+      "id": "q_physics_others_210"
     },
     {
       "question": "निम्नलिखित में से किस जानवर के शरीर का तापमान वातावरण के तापमान पर निर्भर नहीं करता है?",
@@ -3272,7 +3272,7 @@
       "examName": "RRB Group D 17 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_211",
+      "id": "q_physics_others_211",
       "correct_option": 3
     },
     {
@@ -3288,7 +3288,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_212",
+      "id": "q_physics_others_212",
       "correct_option": 3
     },
     {
@@ -3304,7 +3304,7 @@
       "examName": "RRB Group D 13 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_213",
+      "id": "q_physics_others_213",
       "correct_option": 1
     },
     {
@@ -3320,7 +3320,7 @@
       "examName": "RRB Group D 28/9/2018 Shift 1",
       "examYear": "2018",
       "type": "standard",
-      "id": "q_others_214",
+      "id": "q_physics_others_214",
       "correct_option": 2
     },
     {
@@ -3336,7 +3336,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_215",
+      "id": "q_physics_others_215",
       "correct_option": 2
     },
     {
@@ -3352,7 +3352,7 @@
       "examName": "RRB Group D 13 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_216",
+      "id": "q_physics_others_216",
       "correct_option": 3
     },
     {
@@ -3368,7 +3368,7 @@
       "examName": "RRB Group D 27 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_217"
+      "id": "q_physics_others_217"
     },
     {
       "question": "निम्नलिखित में से कौन सा कथन ऑक्सीकरण अभिक्रिया के बारे में सही है?",
@@ -3383,7 +3383,7 @@
       "examName": "RRB Group D 12 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_218",
+      "id": "q_physics_others_218",
       "correct_option": 2
     },
     {
@@ -3399,7 +3399,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_219",
+      "id": "q_physics_others_219",
       "correct_option": 2
     },
     {
@@ -3415,7 +3415,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_220"
+      "id": "q_physics_others_220"
     },
     {
       "question": "कीटनाशक, हालांकि गैर-बायोडिग्रेडेबल हैं, कृषि के लिए फायदमेंद और हानिकारक दोनों हैं। कीटनाशकों के संबंध में गलत विकल्प का चयन करें।",
@@ -3430,7 +3430,7 @@
       "examName": "RRB Group D 25 /8/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_221",
+      "id": "q_physics_others_221",
       "correct_option": 3
     },
     {
@@ -3446,7 +3446,7 @@
       "examName": "RRB Group D 12 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_222",
+      "id": "q_physics_others_222",
       "correct_option": 3
     },
     {
@@ -3462,7 +3462,7 @@
       "examName": "RRB Group D 22 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_223"
+      "id": "q_physics_others_223"
     },
     {
       "question": "14 फरवरी 2022 को, इसरो ने 2022 के अपने पहले पृथ्वी अवलोकन उपग्रह, EOS-04 को सफलतापूवक प्रक्षेपित किया। इसे किस रॉकेट द्वारा प्रक्षेपित किया गया?",
@@ -3477,7 +3477,7 @@
       "examName": "RRB Group D 24 /8/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_224",
+      "id": "q_physics_others_224",
       "correct_option": 2
     },
     {
@@ -3493,7 +3493,7 @@
       "examName": "RRB Group D 22 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_225"
+      "id": "q_physics_others_225"
     },
     {
       "question": "क्षुद्रांत्र के अवशोषण के क्षेत्र को बढ़ाने वाले उँगली जैसे संरचनाओं को क्या कहा जाता है?",
@@ -3508,7 +3508,7 @@
       "examName": "RRB Group D 13 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_226",
+      "id": "q_physics_others_226",
       "correct_option": 3
     },
     {
@@ -3524,7 +3524,7 @@
       "examName": "RRB Group D 28 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_227",
+      "id": "q_physics_others_227",
       "correct_option": 2
     },
     {
@@ -3540,7 +3540,7 @@
       "examName": "RRB Group D 17 Dec 2018 Shift 2",
       "examYear": "2018",
       "type": "standard",
-      "id": "q_others_228",
+      "id": "q_physics_others_228",
       "correct_option": 1
     },
     {
@@ -3556,7 +3556,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_229",
+      "id": "q_physics_others_229",
       "correct_option": 3
     },
     {
@@ -3572,7 +3572,7 @@
       "examName": "RRB Group D 22 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_230",
+      "id": "q_physics_others_230",
       "correct_option": 2
     },
     {
@@ -3588,7 +3588,7 @@
       "examName": "RRB Group D 13 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_231"
+      "id": "q_physics_others_231"
     },
     {
       "question": "लाल गोभी एक प्राकृतिक संसूचक है जो अम्ल या क्षार के साथ मिश्रित होने पर अलग रंग देता है। जब इसे क्षारीय विलयन में मिलाया जाता है तो उस रंग में हुए परिवर्तन को पहचानें।",
@@ -3603,7 +3603,7 @@
       "examName": "RRB Group D 17 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_232",
+      "id": "q_physics_others_232",
       "correct_option": 3
     },
     {
@@ -3619,7 +3619,7 @@
       "examName": "RRB Group D 29 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_233"
+      "id": "q_physics_others_233"
     },
     {
       "question": "किस मौसम में जड़ या तने के ऊतकों में संग्रहित शकरा कलियों तक पहुँचेगी जिन्हें कलियों को पादपों में विकसित होने के लिए ऊर्जा की आवश्यकता होती है?",
@@ -3634,7 +3634,7 @@
       "examName": "RRB Group D 16 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_234",
+      "id": "q_physics_others_234",
       "correct_option": 2
     },
     {
@@ -3650,7 +3650,7 @@
       "examName": "RRB Group D 14 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_235"
+      "id": "q_physics_others_235"
     },
     {
       "question": "अमीबा में भोजन ______ द्वारा लिया जाता है।",
@@ -3665,7 +3665,7 @@
       "examName": "RRB Group D 25 /8/2022 Shift 2",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_236",
+      "id": "q_physics_others_236",
       "correct_option": 2
     },
     {
@@ -3681,7 +3681,7 @@
       "examName": "RRB Group D 29 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_237"
+      "id": "q_physics_others_237"
     },
     {
       "question": "तीन कार्बन परमाणुओं की श्रृंखला और एक कीटोन समूह वाले कार्बनिक यौगिक का सही नाम कौन-सा है?",
@@ -3696,7 +3696,7 @@
       "examName": "RRB Group D 22 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_238",
+      "id": "q_physics_others_238",
       "correct_option": 1
     },
     {
@@ -3713,7 +3713,7 @@
       "examName": "RRB Group D",
       "examYear": "05/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0200"
+      "id": "q_physics_others_239"
     },
     {
       "question": "एक जलवायु मॉडलर यह व्याख्या करना चाहता है कि ध्रुवीय क्षेत्रों में वर्ष के दौरान लंबे समय तक अंधेरा और प्रकाश क्यों रहता है? इस परिघटना के लिए कौन-सा कारक सबसे अधिक उत्तरदायी है?",
@@ -3729,7 +3729,7 @@
       "examName": "RRB Group D",
       "examYear": "19/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_926"
+      "id": "q_physics_others_240"
     },
     {
       "question": "एक जलवायु विशेषज्ञ यह विश्लेषण करता है कि क्यों दक्षिणी गोलार्ध गॉयर (gyres) एक विशिष्ट दिशा में घूर्णन करते हैं। निम्नलिखित में से कौन-सा कारक, मुख्य रूप से इन महासागरीय गॉयरों के घूर्णन पैटर्न की व्याख्या करता है?",
@@ -3745,7 +3745,7 @@
       "examName": "RRB Group D",
       "examYear": "19/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_946"
+      "id": "q_physics_others_241"
     }
   ]
 }

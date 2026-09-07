@@ -16,7 +16,7 @@
       "examName": "RRB NTPC Graduate Level CBT-I : 14 Jun, 2025 Shift 2",
       "examYear": "2025",
       "type": "standard",
-      "id": "q_others_1",
+      "id": "q_biology_others_1",
       "correct_option": 3
     },
     {
@@ -32,7 +32,7 @@
       "examName": "RRB Group D 14 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_2"
+      "id": "q_biology_others_2"
     },
     {
       "question": "मधुमक्खी शहद का उत्पादन करती है। इसलिए, मधुमक्खी एक ______ है।",
@@ -47,7 +47,7 @@
       "examName": "RRB Technician Grade III : 29 Dec, 2024 Shift 1",
       "examYear": "2024",
       "type": "fillInBlanks",
-      "id": "q_others_3",
+      "id": "q_biology_others_3",
       "correct_option": 1
     },
     {
@@ -63,7 +63,7 @@
       "examName": "RRB Group D 25/9/2018 Shift 1",
       "examYear": "2018",
       "type": "fillInBlanks",
-      "id": "q_others_4",
+      "id": "q_biology_others_4",
       "correct_option": 1
     },
     {
@@ -79,7 +79,7 @@
       "examName": "RRB Group D 27/9/2018 Shift 1",
       "examYear": "2018",
       "type": "standard",
-      "id": "q_others_5",
+      "id": "q_biology_others_5",
       "correct_option": 3
     },
     {
@@ -95,7 +95,7 @@
       "examName": "RRB Level 01 Stage I 27/11/2025 4:30 PM - 6:00 PM",
       "examYear": "2025",
       "type": "standard",
-      "id": "q_others_6",
+      "id": "q_biology_others_6",
       "correct_option": 0
     },
     {
@@ -111,7 +111,7 @@
       "examName": "RRB Group D 1 Nov 2018 Shift 1",
       "examYear": "2018",
       "type": "fillInBlanks",
-      "id": "q_others_7",
+      "id": "q_biology_others_7",
       "correct_option": 1
     },
     {
@@ -127,7 +127,7 @@
       "examName": "RRB Group D 10/10/2018 Shift 3",
       "examYear": "2018",
       "type": "standard",
-      "id": "q_others_8"
+      "id": "q_biology_others_8"
     },
     {
       "question": "निम्नलिखित में से कौन सा पारिस्थितिकी तंत्र का जैविक घटक नहीं है?",
@@ -142,7 +142,7 @@
       "examName": "RRB Group D 18/8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_9",
+      "id": "q_biology_others_9",
       "correct_option": 3
     },
     {
@@ -158,7 +158,7 @@
       "examName": "RRB Group D 30 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_10",
+      "id": "q_biology_others_10",
       "correct_option": 3
     },
     {
@@ -174,7 +174,7 @@
       "examName": "RRB Level 01 Stage I 26/12/2025 9:00 AM - 10:30 AM",
       "examYear": "2025",
       "type": "standard",
-      "id": "q_others_11",
+      "id": "q_biology_others_11",
       "correct_option": 3
     },
     {
@@ -190,7 +190,7 @@
       "examName": "RRB Group D 15 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_12",
+      "id": "q_biology_others_12",
       "correct_option": 2
     },
     {
@@ -206,7 +206,7 @@
       "examName": "RRB Group D 18 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_13",
+      "id": "q_biology_others_13",
       "correct_option": 2
     },
     {
@@ -222,7 +222,7 @@
       "examName": "RRB JE 19/02/2026 4:30 PM - 6:00 PM",
       "examYear": "2026",
       "type": "standard",
-      "id": "q_others_14",
+      "id": "q_biology_others_14",
       "correct_option": 1
     },
     {
@@ -238,7 +238,7 @@
       "examName": "RRB JE CBT-I 2024 16 Dec 2024 Shift 2",
       "examYear": "2024",
       "type": "standard",
-      "id": "q_others_15",
+      "id": "q_biology_others_15",
       "correct_option": 1
     },
     {
@@ -254,7 +254,7 @@
       "examName": "RRB Group D 15 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_16",
+      "id": "q_biology_others_16",
       "correct_option": 1
     },
     {
@@ -270,7 +270,7 @@
       "examName": "RRB Group D 5/10/2018 Shift 2",
       "examYear": "2018",
       "type": "fillInBlanks",
-      "id": "q_others_17",
+      "id": "q_biology_others_17",
       "correct_option": 2
     },
     {
@@ -286,7 +286,7 @@
       "examName": "RRB Group D 3/10/2018 Shift 2",
       "examYear": "2018",
       "type": "standard",
-      "id": "q_others_18",
+      "id": "q_biology_others_18",
       "correct_option": 2
     },
     {
@@ -302,7 +302,7 @@
       "examName": "RRB Group D 8 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_19",
+      "id": "q_biology_others_19",
       "correct_option": 2
     },
     {
@@ -318,7 +318,7 @@
       "examName": "RRB Group D 18 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_20"
+      "id": "q_biology_others_20"
     },
     {
       "question": "जैव आवर्धन (Biomagnification) द्वारा पीड़कनाशियों की अधिकतम सांद्रता किस पोषण स्तर में पाई जाती है?",
@@ -333,7 +333,7 @@
       "examName": "RRB Level 01 Stage I 10/02/2026 4:30 PM - 6:00 PM",
       "examYear": "2026",
       "type": "standard",
-      "id": "q_others_21"
+      "id": "q_biology_others_21"
     },
     {
       "question": "खाद्य श्रृंखलाएं सामान्यतः चार पोषण स्तरों से आगे क्यों नहीं बढ़ती हैं?",
@@ -348,7 +348,7 @@
       "examName": "RRB Technician Grade III 10/03/2026 12:45 PM - 2:15 PM",
       "examYear": "2026",
       "type": "standard",
-      "id": "q_others_22",
+      "id": "q_biology_others_22",
       "correct_option": 3
     },
     {
@@ -364,7 +364,7 @@
       "examName": "RRB Level 01 Stage I 05/02/2026 4:30 PM - 6:00 PM",
       "examYear": "2026",
       "type": "standard",
-      "id": "q_others_23",
+      "id": "q_biology_others_23",
       "correct_option": 1
     },
     {
@@ -380,7 +380,7 @@
       "examName": "RRB Group D 19/9/2018 Shift 1",
       "examYear": "2018",
       "type": "standard",
-      "id": "q_others_24",
+      "id": "q_biology_others_24",
       "correct_option": 3
     },
     {
@@ -396,7 +396,7 @@
       "examName": "RRB Group D 18 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_25",
+      "id": "q_biology_others_25",
       "correct_option": 0
     },
     {
@@ -412,7 +412,7 @@
       "examName": "RRB Group D 30 /8/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_26",
+      "id": "q_biology_others_26",
       "correct_option": 3
     },
     {
@@ -428,7 +428,7 @@
       "examName": "RRB Group D 19 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_27",
+      "id": "q_biology_others_27",
       "correct_option": 1
     },
     {
@@ -444,7 +444,7 @@
       "examName": "RRB JE 20/02/2026 4:30 PM - 6:00 PM",
       "examYear": "2026",
       "type": "fillInBlanks",
-      "id": "q_others_28",
+      "id": "q_biology_others_28",
       "correct_option": 2
     },
     {
@@ -460,7 +460,7 @@
       "examName": "RRB Group D 18/8/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_29"
+      "id": "q_biology_others_29"
     },
     {
       "question": "निम्नलिखित में से कौन सी सामग्री बायोडिग्रेडेबल नहीं है?",
@@ -475,7 +475,7 @@
       "examName": "RRB Group D 26 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_30",
+      "id": "q_biology_others_30",
       "correct_option": 1
     },
     {
@@ -491,7 +491,7 @@
       "examName": "RRB JE 25 May 2019 Shift 3 CBT 1",
       "examYear": "2019",
       "type": "standard",
-      "id": "q_others_31",
+      "id": "q_biology_others_31",
       "correct_option": 3
     },
     {
@@ -507,7 +507,7 @@
       "examName": "RRB Technician Grade III 09/03/2026 4:30 PM - 6:00 PM",
       "examYear": "2026",
       "type": "standard",
-      "id": "q_others_32"
+      "id": "q_biology_others_32"
     },
     {
       "question": "किसी निश्चित स्थान पर पाए जाने वाले पौधों और जानवरों की प्रजातियों को सामान्यतः क्या कहा जाता है?",
@@ -522,7 +522,7 @@
       "examName": "RPF Constable 2018 10 Feb 2019 Shift 2",
       "examYear": "2018",
       "type": "standard",
-      "id": "q_others_33",
+      "id": "q_biology_others_33",
       "correct_option": 3
     },
     {
@@ -538,7 +538,7 @@
       "examName": "RRB Group D 26 /8/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_34",
+      "id": "q_biology_others_34",
       "correct_option": 2
     },
     {
@@ -554,7 +554,7 @@
       "examName": "RRB Group D 18 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_35",
+      "id": "q_biology_others_35",
       "correct_option": 1
     },
     {
@@ -570,7 +570,7 @@
       "examName": "RRB Group D 18 /9/2022 Shift 3",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_36"
+      "id": "q_biology_others_36"
     },
     {
       "question": "गति (movement) के संबंध में निम्नलिखित में से कौन-सा कथन गलत है? देती।",
@@ -585,7 +585,7 @@
       "examName": "RRB Level 01 Stage I 02/12/2025 4:30 PM - 6:00 PM",
       "examYear": "2025",
       "type": "standard",
-      "id": "q_others_37",
+      "id": "q_biology_others_37",
       "correct_option": 2
     },
     {
@@ -601,7 +601,7 @@
       "examName": "RRB ALP CBT-I 2024 : 25 Nov, 2024 Shift 2",
       "examYear": "2024",
       "type": "standard",
-      "id": "q_others_38",
+      "id": "q_biology_others_38",
       "correct_option": 3
     },
     {
@@ -617,7 +617,7 @@
       "examName": "RRB Group D 6/10/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_39"
+      "id": "q_biology_others_39"
     },
     {
       "question": "कौन-सा कथन सबसे सटीकता से वर्णन करता है, कि एकल खाद्य श्रृंखलाओं की तुलना में खाद्य जाल किसी पारिस्थितिकी तंत्र को अधिक स्थिरता क्यों प्रदान करते हैं?",
@@ -632,7 +632,7 @@
       "examName": "RRB Technician Grade III 10/03/2026 4:30 PM - 6:00 PM",
       "examYear": "2026",
       "type": "standard",
-      "id": "q_others_40",
+      "id": "q_biology_others_40",
       "correct_option": 3
     },
     {
@@ -648,7 +648,7 @@
       "examName": "RRB ALP Fitter 23 Jan 2019 Shift 1",
       "examYear": "2019",
       "type": "fillInBlanks",
-      "id": "q_others_41",
+      "id": "q_biology_others_41",
       "correct_option": 3
     },
     {
@@ -664,7 +664,7 @@
       "examName": "RRB Technician Grade III : 24 Dec, 2024 Shift 1",
       "examYear": "2024",
       "type": "standard",
-      "id": "q_others_42"
+      "id": "q_biology_others_42"
     },
     {
       "question": "पयावरण के विभिन्न घटकों के बीच ऊर्जा के प्रवाह के संबंध में निम्नलिखित में से कौन सा गलत है?",
@@ -679,7 +679,7 @@
       "examName": "RRB Group D 19 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_43",
+      "id": "q_biology_others_43",
       "correct_option": 2
     },
     {
@@ -695,7 +695,7 @@
       "examName": "RRB Level 01 Stage I 05/12/2025 9:00 AM - 10:30 AM",
       "examYear": "2025",
       "type": "standard",
-      "id": "q_others_44"
+      "id": "q_biology_others_44"
     },
     {
       "question": "जब हम जैवनिम्नीकरणीय पदार्थों पर विचार करते हैं, तो हम देखते हैं कि उनका सामान्य गुण यह है कि _________.",
@@ -710,7 +710,7 @@
       "examName": "RRB Group D 11/10/2022 Shift 2",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_45",
+      "id": "q_biology_others_45",
       "correct_option": 1
     },
     {
@@ -726,7 +726,7 @@
       "examName": "RRB JE CBT I - : 31 May 2019 Shift 3",
       "examYear": "2019",
       "type": "standard",
-      "id": "q_others_46",
+      "id": "q_biology_others_46",
       "correct_option": 1
     },
     {
@@ -742,7 +742,7 @@
       "examName": "RRB Level 01 Stage I 19/12/2025 4:30 PM - 6:00 PM",
       "examYear": "2025",
       "type": "standard",
-      "id": "q_others_47",
+      "id": "q_biology_others_47",
       "correct_option": 1
     },
     {
@@ -758,7 +758,7 @@
       "examName": "RRB Group D 9 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_48",
+      "id": "q_biology_others_48",
       "correct_option": 3
     },
     {
@@ -774,7 +774,7 @@
       "examName": "RRB Group D 30 /9/2022 Shift 1",
       "examYear": "2022",
       "type": "fillInBlanks",
-      "id": "q_others_49"
+      "id": "q_biology_others_49"
     },
     {
       "question": "निम्नलिखित में से कौन-सा कथन अजैवनिम्नीकरणीय पदार्थों के बारे में सही है?",
@@ -789,7 +789,7 @@
       "examName": "RRB Group D 20 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_50",
+      "id": "q_biology_others_50",
       "correct_option": 2
     },
     {
@@ -805,7 +805,7 @@
       "examName": "RPF Constable 2018 10 Feb 2019",
       "examYear": "2018",
       "type": "standard",
-      "id": "q_others_51",
+      "id": "q_biology_others_51",
       "correct_option": 1
     },
     {
@@ -821,7 +821,7 @@
       "examName": "RRB Group D 29 /9/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_52",
+      "id": "q_biology_others_52",
       "correct_option": 2
     },
     {
@@ -837,7 +837,7 @@
       "examName": "RRB Group D 18/8/2022 Shift 2",
       "examYear": "2022",
       "type": "standard",
-      "id": "q_others_53",
+      "id": "q_biology_others_53",
       "correct_option": 1
     },
     {
@@ -854,7 +854,7 @@
       "examName": "RRB Group D",
       "examYear": "03/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0019"
+      "id": "q_biology_others_54"
     },
     {
       "question": "गैर-जैव निम्नीकरणीय पदार्थ जैविक आवर्धन क्यों प्रदर्शित करते हैं?",
@@ -870,7 +870,7 @@
       "examName": "RRB Group D",
       "examYear": "03/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0021"
+      "id": "q_biology_others_55"
     },
     {
       "question": "जल चक्र के निम्नलिखित चरणों को सही क्रम में व्यवस्थित कीजिए:\n1. संघनन\n2. वाष्पन\n3. वर्षण\n4. जल निकायों में संग्रह",
@@ -886,7 +886,7 @@
       "examName": "RRB Group D",
       "examYear": "03/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0031"
+      "id": "q_biology_others_56"
     },
     {
       "question": "एक नया सूक्ष्मजीव पाया जाता है जो एककोशिकीय, प्रोकैरियोटिक है और इसमें झिल्ली-बद्ध केंद्रक का अभाव होता है, लेकिन यह प्रकाश-संश्लेषण कर सकता है। पाँच जगत वर्गीकरण के अनुसार, इसे किस जगत में रखा जाएगा?",
@@ -902,7 +902,7 @@
       "examName": "RRB Group D",
       "examYear": "03/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0042"
+      "id": "q_biology_others_57"
     },
     {
       "question": "एक पक्षी विज्ञानी देखता है कि पर्वतीय क्षेत्रों में पाए जाने वाले पक्षियों की वक्ष पेशियां, वनों में पाए जाने वाले पक्षियों की तुलना में अधिक मजबूत होती हैं और उनके पंख बड़े होते हैं। यहाँ कौन-सा संरचनात्मक अनुकूलन प्रदर्शित हो रहा है?",
@@ -918,7 +918,7 @@
       "examName": "RRB Group D",
       "examYear": "03/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0059"
+      "id": "q_biology_others_58"
     },
     {
       "question": "अजैवनिम्नीकरणीय अपशिष्ट से संबंधित मुख्य पर्यावरणीय सरोकार क्या है?",
@@ -934,7 +934,7 @@
       "examName": "RRB Group D",
       "examYear": "03/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0075"
+      "id": "q_biology_others_59"
     },
     {
       "question": "खाद्य श्रृंखलाओं की तुलना में खाद्य जालों को अधिक स्थायी क्यों माना जाता है?",
@@ -950,7 +950,7 @@
       "examName": "RRB Group D",
       "examYear": "04/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0089"
+      "id": "q_biology_others_60"
     },
     {
       "question": "एक जनजातीय समुदाय खाद्य और औषधि के लिए वन्य मशरूमों (wild mushrooms) की पहचान करता है। निम्नलिखित में से कौन-सा गुण, उनके पोषण और औषधीय मूल्य के लिए सबसे अधिक प्रासंगिक है?",
@@ -966,7 +966,7 @@
       "examName": "RRB Group D",
       "examYear": "04/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0104"
+      "id": "q_biology_others_61"
     },
     {
       "question": "प्रयोगशाला में कवक संवर्धन को गर्म और आर्द्र ऊष्मायित्र में रखने पर उसमें उत्तम वृद्धि प्रेक्षित की जाती है। इन स्थितियों से उसकी जैविकी का कौन-सा पहलू प्रत्यक्ष रूप से प्रभावित होता है?",
@@ -982,7 +982,7 @@
       "examName": "RRB Group D",
       "examYear": "04/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0105"
+      "id": "q_biology_others_62"
     },
     {
       "question": "यदि एक अजैव-निम्नीकरणीय रसायन जल में 0.02 ppm की सांद्रता से खाद्य श्रृंखला में प्रवेश करता है, तो समय के साथ क्या होगा?",
@@ -998,7 +998,7 @@
       "examName": "RRB Group D",
       "examYear": "04/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0123"
+      "id": "q_biology_others_63"
     },
     {
       "question": "उद्दीपन के प्रति अनुक्रिया में वृद्धि के कारण किस प्रकार का पादप संचलन होता है?",
@@ -1014,7 +1014,7 @@
       "examName": "RRB Group D",
       "examYear": "04/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0124"
+      "id": "q_biology_others_64"
     },
     {
       "question": "जैवनिम्नीकरणीय अपशिष्ट की तुलना में अजैवनिम्नीकरणीय अपशिष्ट को अधिक संकटपूर्ण क्यों माना जाता है?",
@@ -1030,7 +1030,7 @@
       "examName": "RRB Group D",
       "examYear": "04/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0133"
+      "id": "q_biology_others_65"
     },
     {
       "question": "अभिनेत्र लेन्स की नम्यता (flexibility) में कमी होने के कारण निकट की वस्तुओं पर फोकस करने की उसकी क्षमता में ह्रास होने पर कौन-सा दोष उत्पन्न होता है?",
@@ -1046,7 +1046,7 @@
       "examName": "RRB Group D",
       "examYear": "04/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0137"
+      "id": "q_biology_others_66"
     },
     {
       "question": "हाल ही में सूखे से प्रभावित किसी पर्यावास में, कौन-सी विशेषता अनावृतबीजी (gymnosperms) को तब जीवित रखने में सर्वाधिक सहायक होगी जब अन्य पादप नष्ट हो जाते हैं?",
@@ -1062,7 +1062,7 @@
       "examName": "RRB Group D",
       "examYear": "04/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0141"
+      "id": "q_biology_others_67"
     },
     {
       "question": "जब छुई-मुई (मिमोसा) के पादप की पत्तियों को स्पर्श किया जाता है, तो क्या होता है?",
@@ -1078,7 +1078,7 @@
       "examName": "RRB Group D",
       "examYear": "05/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0156"
+      "id": "q_biology_others_68"
     },
     {
       "question": "जलवायु परिवर्तन से पश्चिमी घाट में वर्षा बढ़ जाती है और पारिस्थितिकी तंत्र में बदलाव आ जाता है। इस क्षेत्र की स्थानिक प्रजातियों पर इसका दीर्घकालिक प्रभाव क्या हो सकता है?",
@@ -1094,7 +1094,7 @@
       "examName": "RRB Group D",
       "examYear": "05/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0162"
+      "id": "q_biology_others_69"
     },
     {
       "question": "पादपों का कौन-सा भाग मुख्यत: मृदा से जल और खनिजों को अवशोषित करता है?",
@@ -1110,7 +1110,7 @@
       "examName": "RRB Group D",
       "examYear": "05/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0175"
+      "id": "q_biology_others_70"
     },
     {
       "question": "एक प्राणिविज्ञानी वृक्षीय और स्थलीय स्तनधारियों के पंजों (claws) की तुलना करता है। निम्नलिखित में से कौन-सा उस संरचनात्मक अंतर को परिभाषित करता है जो मुख्य रूप से उनके अनुकूलन को दर्शाता है?",
@@ -1126,7 +1126,7 @@
       "examName": "RRB Group D",
       "examYear": "05/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0179"
+      "id": "q_biology_others_71"
     },
     {
       "question": "निम्नलिखित में से किस एक को छोड़ कर शेष सभी प्रक्रियाएं वायुमंडलीय ऑक्सीजन का उपभोग करती हैं?",
@@ -1142,7 +1142,7 @@
       "examName": "RRB Group D",
       "examYear": "05/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0180"
+      "id": "q_biology_others_72"
     },
     {
       "question": "घासस्थल की खाद्य श्रृंखला में, रासायनिक पीड़कनाशी का अधिकतम संचय निम्न में से किसमें पाया जाता है?",
@@ -1158,7 +1158,7 @@
       "examName": "RRB Group D",
       "examYear": "05/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0198"
+      "id": "q_biology_others_73"
     },
     {
       "question": "एक रोगी ऐसे सुकेंद्रकी जीव के दीर्घकालिक संक्रमण से ग्रसित है जो बीजाणुओं के माध्यम से प्रजनन करता है और जिसमें काइटिन कोशिका भित्ति होती है। किस प्रकार का जीव इस संक्रमण का सर्वाधिक संभावित कारण हो सकता है?",
@@ -1174,7 +1174,7 @@
       "examName": "RRB Group D",
       "examYear": "05/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0207"
+      "id": "q_biology_others_74"
     },
     {
       "question": "जैवअनिम्ननीय पदार्थ पर्यावरण के लिए हानिकारक क्यों होते हैं?",
@@ -1190,7 +1190,7 @@
       "examName": "RRB Group D",
       "examYear": "05/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0223"
+      "id": "q_biology_others_75"
     },
     {
       "question": "खाद्य श्रृंखलाओं में सामान्यतः केवल 3-4 पोषी स्तर ही क्यों होते हैं?",
@@ -1206,7 +1206,7 @@
       "examName": "RRB Group D",
       "examYear": "06/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0234"
+      "id": "q_biology_others_76"
     },
     {
       "question": "किसी पारिस्थितिकी तंत्र में, अपघटक क्या भूमिका निभाते हैं?",
@@ -1222,7 +1222,7 @@
       "examName": "RRB Group D",
       "examYear": "06/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0255"
+      "id": "q_biology_others_77"
     },
     {
       "question": "निम्नलिखित में से कौन-सा कथन सही ढंग से वर्णन करता है, कि जीवित जीवों के लिए पोषण, श्वसन, परिवहन और उत्सर्जन जैसी जीवन प्रक्रियाएं क्यों आवश्यक हैं?",
@@ -1238,7 +1238,7 @@
       "examName": "RRB Group D",
       "examYear": "06/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0257"
+      "id": "q_biology_others_78"
     },
     {
       "question": "हमारे द्वारा की गई कौन-सी कार्रवाई प्रत्यक्ष रूप से जैविक आवर्धन (biological magnification) को कम कर सकती है?",
@@ -1254,7 +1254,7 @@
       "examName": "RRB Group D",
       "examYear": "09/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0309"
+      "id": "q_biology_others_79"
     },
     {
       "question": "खाद्य श्रृंृंखला: घास → टिड्डा → मेंढक → सर्प → गरुड़ में, DDT का संचय सर्वाधिक __________ में होगा।",
@@ -1270,7 +1270,7 @@
       "examName": "RRB Group D",
       "examYear": "09/08/2026 Shift 1",
       "type": "fillInBlanks",
-      "id": "group_d_0317"
+      "id": "q_biology_others_80"
     },
     {
       "question": "विज्ञान के एक विद्यार्थी से यह स्पष्ट करने के लिए कहा जाता है कि भारतीय भू-दृश्य में उच्च जैव-विविधता क्यों पाई जाती है। कौन-सा स्पष्टीकरण पर्यावास विविधता और स्थानिकता की अवधारणाओं को सर्वोत्तम रूप से एकीकृत करता है?",
@@ -1286,7 +1286,7 @@
       "examName": "RRB Group D",
       "examYear": "09/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0320"
+      "id": "q_biology_others_81"
     },
     {
       "question": "निम्नलिखित में से कौन-सा अनुक्रम, प्रकृति में जल के संचलन को सही रूप से निरूपित करता है?",
@@ -1302,7 +1302,7 @@
       "examName": "RRB Group D",
       "examYear": "09/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0331"
+      "id": "q_biology_others_82"
     },
     {
       "question": "निम्नलिखित में से कौन-सा कथन सर्वोत्तम रूप से यह वर्णित करता है कि केवल दृश्य संचलन, किसी पादप के जीवित होने का निर्धारण नही कर सकता है?",
@@ -1318,7 +1318,7 @@
       "examName": "RRB Group D",
       "examYear": "09/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0347"
+      "id": "q_biology_others_83"
     },
     {
       "question": "निम्नलिखित में से कौन-सा, खाद्य श्रृंृंखला को सटीक रूप से दर्शाता है?",
@@ -1334,7 +1334,7 @@
       "examName": "RRB Group D",
       "examYear": "09/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0366"
+      "id": "q_biology_others_84"
     },
     {
       "question": "किस प्रकार के प्रदूषक मुख्य रूप से जैविक आवर्धन के लिए उत्तरदायी होते हैं?",
@@ -1350,7 +1350,7 @@
       "examName": "RRB Group D",
       "examYear": "09/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0369"
+      "id": "q_biology_others_85"
     },
     {
       "question": "संगम तिनई वर्गीकरण और पवित्र उपवनों ने जैव-विविधता के संरक्षण में किस प्रकार सहायता की?",
@@ -1366,7 +1366,7 @@
       "examName": "RRB Group D",
       "examYear": "09/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0372"
+      "id": "q_biology_others_86"
     },
     {
       "question": "निम्नलिखित में से कौन-सा संयोजन, संधारणीय विकास में सर्वाधिक सहायक होता है?",
@@ -1382,7 +1382,7 @@
       "examName": "RRB Group D",
       "examYear": "10/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0384"
+      "id": "q_biology_others_87"
     },
     {
       "question": "निम्नलिखित में से कौन-सी पर्यावरणीय समस्या हमारे वायुमंडल में हानिकारक UV किरणों के प्रवेश से संबंधित है?",
@@ -1398,7 +1398,7 @@
       "examName": "RRB Group D",
       "examYear": "10/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0413"
+      "id": "q_biology_others_88"
     },
     {
       "question": "एक क्षेत्रीय जीवविज्ञानी वन के एक भूखंड में अपघटक जीवों के प्रवेश के पश्चात मृदा खनिजों में तीव्र वृद्धिका प्रेक्षण करता है। इस जीव की किस विशेषता ने खनिजों की मात्रा में हुई इस वृद्धि को सर्वाधिक संभवतः सुगम बनाया है?",
@@ -1414,7 +1414,7 @@
       "examName": "RRB Group D",
       "examYear": "10/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0423"
+      "id": "q_biology_others_89"
     },
     {
       "question": "स्वपोषियों द्वारा स्थिर की गई अधिकांश ऊर्जा प्रत्येक पोषी स्तर पर _____________।",
@@ -1430,7 +1430,7 @@
       "examName": "RRB Group D",
       "examYear": "10/08/2026 Shift 3",
       "type": "fillInBlanks",
-      "id": "group_d_0430"
+      "id": "q_biology_others_90"
     },
     {
       "question": "निम्नलिखित में से कौन-सा जीवाणु अपनी भूमिका के साथ अनुचित रूप से युग्मित है?",
@@ -1446,7 +1446,7 @@
       "examName": "RRB Group D",
       "examYear": "10/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0436"
+      "id": "q_biology_others_91"
     },
     {
       "question": "ऊंट के कूबड़ (Hump) में वसा संचय के मुख्य विकासीय (विकासवादी) महत्व को निम्नलिखित में से कौन-सा कथन सर्वोत्तम रूप से स्पष्ट करता है?",
@@ -1462,7 +1462,7 @@
       "examName": "RRB Group D",
       "examYear": "11/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0453"
+      "id": "q_biology_others_92"
     },
     {
       "question": "एक संरक्षण जीवविज्ञानी (Conservation Biologist) संरक्षण के लिए भौगोलिक क्षेत्रों को प्राथमिकता दे रही है। उसके अवलोकन में एक ऐसा क्षेत्र आता है जहाँ उस विशिष्ट क्षेत्र तक ही सीमित (स्थानिक / एंडेमिक) कई प्रजातियां पाई जाती हैं और उस क्षेत्र का अधिकांश प्राकृतिक आवास नष्ट हो चुका है। वैज्ञानिक परिभाषा के आधार पर, इस क्षेत्र का सर्वोत्तम वर्णन करने वाला पद कौन-सा है?",
@@ -1478,7 +1478,7 @@
       "examName": "RRB Group D",
       "examYear": "11/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0455"
+      "id": "q_biology_others_93"
     },
     {
       "question": "कौन-सा क्रम खाद्य शृंखला में कीटनाशकों की सांद्रता में होने वाली वृद्धि (जैव आवर्धन / Biomagnification) को सही रूप से दर्शाता है?",
@@ -1494,7 +1494,7 @@
       "examName": "RRB Group D",
       "examYear": "11/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0469"
+      "id": "q_biology_others_94"
     },
     {
       "question": "वायुमंडल के ऊपरी भाग (समताप मंडल) में स्थित ओजोन परत का मुख्य कार्य क्या है?",
@@ -1510,7 +1510,7 @@
       "examName": "RRB Group D",
       "examYear": "11/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0472"
+      "id": "q_biology_others_95"
     },
     {
       "question": "घास स्थल के खाद्य जाल में, घास को खरगोश और कीट खाते हैं। मेंढक, कीटों को खाते हैं, जबकि लोमड़ियां, खरगोशों को खाती है। यदि कीटों की संख्या में तीव्र गिरावट आती है, तो सबसे संभावित प्रभाव क्या हो सकता है?",
@@ -1526,7 +1526,7 @@
       "examName": "RRB Group D",
       "examYear": "11/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0481"
+      "id": "q_biology_others_96"
     },
     {
       "question": "पारिस्थितिकी तंत्र में ऊर्जा प्रवाह के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
@@ -1542,7 +1542,7 @@
       "examName": "RRB Group D",
       "examYear": "11/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0494"
+      "id": "q_biology_others_97"
     },
     {
       "question": "वर्गीकरण प्रणालियों की समीक्षा करते समय, एक जीव विज्ञानी, द्विजगत वर्गीकरण पद्धति (two-kingdom system) में अमीबा को रखने में असमंजस महसूस करता है। किस प्रमुख लक्षण के कारण यह असमंजस उत्पन्न हुआ?",
@@ -1558,7 +1558,7 @@
       "examName": "RRB Group D",
       "examYear": "11/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0500"
+      "id": "q_biology_others_98"
     },
     {
       "question": "कौन-सी मानवीय गतिविधि, कार्बन चक्र में विछिन्नता को कम करने में सहायता करती है?",
@@ -1574,7 +1574,7 @@
       "examName": "RRB Group D",
       "examYear": "11/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0510"
+      "id": "q_biology_others_99"
     },
     {
       "question": "किसी घास के मैदान के पारिस्थितिकी तंत्र में, किस जीव की संख्या सर्वाधिक होगी?",
@@ -1590,7 +1590,7 @@
       "examName": "RRB Group D",
       "examYear": "11/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0511"
+      "id": "q_biology_others_100"
     },
     {
       "question": "जलजनित प्रकोप से पता चलता है कि रोगकारक एकल-कोशिकीय, केंद्रक-रहित जीव हैं जो वाहित मल और जंतुओं की आंत्र में पनपते हैं। ये जीव संभवतः किस समूह से संबंधित हैं?",
@@ -1606,7 +1606,7 @@
       "examName": "RRB Group D",
       "examYear": "12/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0550"
+      "id": "q_biology_others_101"
     },
     {
       "question": "किसी खाद्य श्रृंखला में, अजैवनिम्नीकरणीय प्रदूषकों की अधिकतम सांद्रता निम्नलिखित में से किसमें पाई जाती है?",
@@ -1622,7 +1622,7 @@
       "examName": "RRB Group D",
       "examYear": "12/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0555"
+      "id": "q_biology_others_102"
     },
     {
       "question": "एक वन्यजीव पशु चिकित्सक ने देखा कि एक विशेष प्राणी शरीर का बड़ा आकार बनाए रख सकता है और जटिल व्यवहार प्रदर्शित कर सकता है। इन लक्षणों के लिए निम्नलिखित में से कौन-सी संरचनात्मक विशेषता सबसे महत्वपूर्ण है?",
@@ -1638,7 +1638,7 @@
       "examName": "RRB Group D",
       "examYear": "12/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0571"
+      "id": "q_biology_others_103"
     },
     {
       "question": "खाद्य जाल में, शाकाहारी सामान्यतः ______________ होते हैं।",
@@ -1654,7 +1654,7 @@
       "examName": "RRB Group D",
       "examYear": "12/08/2026 Shift 2",
       "type": "fillInBlanks",
-      "id": "group_d_0573"
+      "id": "q_biology_others_104"
     },
     {
       "question": "एक वैज्ञानिक वन जीवों को पहले उनकी आहार आदतों के अनुसार और फिर उनके पर्यावास के अनुसार वर्गीकृत करता है। इस बहु-मानदंड वर्गीकरण उपागम का मुख्य लाभ क्या है?",
@@ -1670,7 +1670,7 @@
       "examName": "RRB Group D",
       "examYear": "12/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0584"
+      "id": "q_biology_others_105"
     },
     {
       "question": "एक तुलनात्मक अध्ययन में, विभिन्न वातावरणों में एंजियोस्पर्म, जिम्नोस्पर्म की तुलना में अधिक विविध हो सकते हैं क्योंकि _________।",
@@ -1686,7 +1686,7 @@
       "examName": "RRB Group D",
       "examYear": "13/08/2026 Shift 1",
       "type": "fillInBlanks",
-      "id": "group_d_0608"
+      "id": "q_biology_others_106"
     },
     {
       "question": "एक प्राणीविज्ञानी को दो ऐसे जीव मिलते हैं जिनका गण (order) समान है परंतु कुल (family) भिन्न हैं। यह उनके वर्गीकरण के बारे में किस निष्कर्ष को इंगित करता है?",
@@ -1702,7 +1702,7 @@
       "examName": "RRB Group D",
       "examYear": "13/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0615"
+      "id": "q_biology_others_107"
     },
     {
       "question": "तीन सूक्ष्मजीवों को एक साथ वर्गीकृत किया गया था, परंतु DNA अनुक्रमण से पता चलता है कि दो सूक्ष्मजीवों की आनुवंशिक सामग्री में अधिक समानता है। यह निष्कर्ष निम्नलिखित में से किस वर्गीकरण परिवर्तन का सुझाव दे सकता है?",
@@ -1718,7 +1718,7 @@
       "examName": "RRB Group D",
       "examYear": "13/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0637"
+      "id": "q_biology_others_108"
     },
     {
       "question": "निम्नलिखित में से कौन-सा जीव, मृत जीवों के जटिल कार्बनिक पदार्थों को सरल अकार्बनिक पदार्थों में विघटित करता है?",
@@ -1734,7 +1734,7 @@
       "examName": "RRB Group D",
       "examYear": "13/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0638"
+      "id": "q_biology_others_109"
     },
     {
       "question": "शैवाल प्रस्फुटन (Algal bloom) के दौरान, प्रमुख प्रजातियाँ, केंद्रक युक्त ऐसे एककोशिकीय जीव होते हैं जो प्रकाश संश्लेषण कर सकते हैं और भोजन का अंतर्ग्रहण कर सकते हैं। इसके लिए सर्वाधिक उत्तरदायी जीव कौन-सा है?",
@@ -1750,7 +1750,7 @@
       "examName": "RRB Group D",
       "examYear": "13/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0646"
+      "id": "q_biology_others_110"
     },
     {
       "question": "एक वर्गिकीविज्ञ दो जीवाणुओं के DNA अनुक्रमों की जांच करता है और उनमें उच्च समरूपता पाता है। वर्तमान वर्गीकरण सिद्धांतों के आधार पर, यह उनके बीच किस संबंध का सुझाव देता है? ",
@@ -1766,7 +1766,7 @@
       "examName": "RRB Group D",
       "examYear": "13/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0666"
+      "id": "q_biology_others_111"
     },
     {
       "question": "पोषी स्तरों के माध्यम से हानिकारक रसायनों की सांद्रता में क्रमिक रूप से होने वाली वृद्धि को ________ कहा जाता है।",
@@ -1782,7 +1782,7 @@
       "examName": "RRB Group D",
       "examYear": "13/08/2026 Shift 3",
       "type": "fillInBlanks",
-      "id": "group_d_0667"
+      "id": "q_biology_others_112"
     },
     {
       "question": "पारितंत्र में, मृत पदार्थों (dead matter) को विघटित करके पोषक तत्वों का पुनर्चक्रण करने वाले जीवों को ____ कहा जाता है।",
@@ -1798,7 +1798,7 @@
       "examName": "RRB Group D",
       "examYear": "13/08/2026 Shift 3",
       "type": "fillInBlanks",
-      "id": "group_d_0672"
+      "id": "q_biology_others_113"
     },
     {
       "question": "एक विद्यार्थी आरेख में जंतुओं को उनकी गतिविधि के समय (दिन/रात) और दृश्य अभिलक्षणों के आधार पर वर्गीकृत करता है। कौन-सा कथन सर्वोत्तम तरीके से यह दर्शाता है कि इन मानदंडों के संयोजन से वैज्ञानिक वर्गीकरण के बारे में क्या पता चलता है?",
@@ -1814,7 +1814,7 @@
       "examName": "RRB Group D",
       "examYear": "14/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0683"
+      "id": "q_biology_others_114"
     },
     {
       "question": "पारिस्थितिकी तंत्र में अपघटकों की क्या भूमिका है?",
@@ -1830,7 +1830,7 @@
       "examName": "RRB Group D",
       "examYear": "14/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0697"
+      "id": "q_biology_others_115"
     },
     {
       "question": "एक विद्यार्थी नम जंगल में शैलों पर उगने वाली हरी मैट (green mats) का अवलोकन करता है। इनमें मूलाभास जैसी संरचनाएं हैं लेकिन वास्तविक जड़ें नहीं हैं। ये पादप संभवतः किस वर्ग को दर्शाते हैं?",
@@ -1846,7 +1846,7 @@
       "examName": "RRB Group D",
       "examYear": "14/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0699"
+      "id": "q_biology_others_116"
     },
     {
       "question": "निम्नलिखित कथनों पर विचार कीजिए तथा सही विकल्प का चयन कीजिए।",
@@ -1862,7 +1862,7 @@
       "examName": "RRB Group D",
       "examYear": "14/08/2026 Shift 2",
       "type": "multiStatement",
-      "id": "group_d_0708",
+      "id": "q_biology_others_117",
       "statements": [
         "कथन 1: किसी पारितंत्र में खाद्य शृंखलाएं अंतराबंधित होकर एक खाद्य जाल का निर्माण करती हैं।",
         "कथन 2: खाद्य जाल जीवों की परस्पर-निर्भरता को दर्शाते हैं।"
@@ -1882,7 +1882,7 @@
       "examName": "RRB Group D",
       "examYear": "14/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0716"
+      "id": "q_biology_others_118"
     },
     {
       "question": "एक संरक्षण जीवविज्ञानी केवल एक विशिष्ट भारतीय क्षेत्र में पाए जाने वाले नीलगिरी तहर (Nilgiri tahr) की रक्षा के लिए एक रणनीति तैयार कर रहा है। इसके वर्गीकरण के आधार पर इसके संरक्षण के लिए कौन-सा उपागम सबसे उपयुक्त होगा?",
@@ -1898,7 +1898,7 @@
       "examName": "RRB Group D",
       "examYear": "14/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0724"
+      "id": "q_biology_others_119"
     },
     {
       "question": "धावन द्वारा खाद्य पदार्थों से पीड़कनाशी अवशेष सदैव क्यों नहीं हटाए जा सकते है?",
@@ -1914,7 +1914,7 @@
       "examName": "RRB Group D",
       "examYear": "14/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0730"
+      "id": "q_biology_others_120"
     },
     {
       "question": "कंपोस्टन (composting) को पर्यावरण के लिए लाभकारी क्यों माना जाता है?",
@@ -1930,7 +1930,7 @@
       "examName": "RRB Group D",
       "examYear": "14/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0737"
+      "id": "q_biology_others_121"
     },
     {
       "question": "दो संवहनी पौधे: एक शंकु (cones) में बीज पैदा करता है, दूसरे के बीज फलों में हैं। कौन-सा कथन इन समूहों के बीच सटीक अंतर करता है?",
@@ -1946,7 +1946,7 @@
       "examName": "RRB Group D",
       "examYear": "14/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0744"
+      "id": "q_biology_others_122"
     },
     {
       "question": "गुलाब के पौधों, चमेली के पौधों, कीटों, सांप और पक्षियों वाले बगीचे के पारिस्थितिकी तंत्र में कौन-सा समूह, सौर ऊर्जा को अवशोषित करके इसे अन्य जीवों के लिए खाद्य में रूपांतरित करता है?",
@@ -1962,7 +1962,7 @@
       "examName": "RRB Group D",
       "examYear": "17/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0764"
+      "id": "q_biology_others_123"
     },
     {
       "question": "निम्नलिखित में से कौन-सा विकल्प खाद्य जाल का सर्वोत्तम वर्णन करता है?",
@@ -1978,7 +1978,7 @@
       "examName": "RRB Group D",
       "examYear": "17/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0768"
+      "id": "q_biology_others_124"
     },
     {
       "question": "वन में लंबे समय तक सूखे के कारण व्यापक रूप से वनस्पतियों की मृत्यु हो जाती है। पृथ्वी के अंतः सम्बद्ध क्षेत्रों के आधार पर, इसका संभावित परिणाम क्या है?",
@@ -1994,7 +1994,7 @@
       "examName": "RRB Group D",
       "examYear": "17/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0774"
+      "id": "q_biology_others_125"
     },
     {
       "question": "निम्नलिखित में से किस एक को छोड़कर शेष सभी नाइट्रोजन उर्वरकों के अति उपयोग के परिणाम हैं?",
@@ -2010,7 +2010,7 @@
       "examName": "RRB Group D",
       "examYear": "17/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0775"
+      "id": "q_biology_others_126"
     },
     {
       "question": "विज्ञान के एक शिक्षक विद्यार्थियों से सूक्ष्मदर्शी के नीचे एक जीव को पहचानने के लिए कहते हैं। वह जीव एककोशिकीय है और उसकी कोशिका भित्ति दृढ़ है और वह प्रकाश संश्लेषण के माध्यम से ऑक्सीजन उत्पन्न करता है। संभवतः निम्नलिखित में से कौन-सा जीव अवलोकित किया जा रहा है?",
@@ -2026,7 +2026,7 @@
       "examName": "RRB Group D",
       "examYear": "17/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0797"
+      "id": "q_biology_others_127"
     },
     {
       "question": "निम्नलिखित में से कौन-सा युग्म, क्रमशः जैवनिम्नीकरणीय और अजैवनिम्नीकरणीय पदार्थों को सही तरीके से निरूपित करता है?",
@@ -2042,7 +2042,7 @@
       "examName": "RRB Group D",
       "examYear": "17/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0813"
+      "id": "q_biology_others_128"
     },
     {
       "question": "दो नमूने: एक नमूने में जल में रहने वाले अविभेदित काय है, जबकि दूसरे नमूने में वास्तविक जड़ें, तने और पत्तियाँ हैं। निम्नलिखित में से कौन-सा विकल्प उन्हें उनके वर्गों से सुमेलित करता है?",
@@ -2058,7 +2058,7 @@
       "examName": "RRB Group D",
       "examYear": "17/08/2026 Shift 3",
       "type": "matchFollowing",
-      "id": "group_d_0816"
+      "id": "q_biology_others_129"
     },
     {
       "question": "खाद्य जाल, पारिस्थितिकी तंत्र के स्थायित्व को बनाए रखने में सहायता करते हैं क्योंकि वे ___________।",
@@ -2074,7 +2074,7 @@
       "examName": "RRB Group D",
       "examYear": "17/08/2026 Shift 3",
       "type": "fillInBlanks",
-      "id": "group_d_0820"
+      "id": "q_biology_others_130"
     },
     {
       "question": "खाद्य श्रृंखला में, जैविक आवर्धन से शीर्ष-स्तरीय उपभोक्ता सर्वाधिक प्रभावित क्यों होते हैं?",
@@ -2090,7 +2090,7 @@
       "examName": "RRB Group D",
       "examYear": "17/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0822"
+      "id": "q_biology_others_131"
     },
     {
       "question": "जीवों का कौन-सा समूह, भोजन के लिए पूर्णतः और प्रत्यक्ष रूप से उत्पादकों पर निर्भर करता है?",
@@ -2106,7 +2106,7 @@
       "examName": "RRB Group D",
       "examYear": "18/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0833"
+      "id": "q_biology_others_132"
     },
     {
       "question": "एक नैदानिक वनस्पतिज्ञ को किसी पादप को उसके कुल (family) से पहचानना आवश्यक है। वर्गीकरण पदानुक्रम में कुल से ठीक उच्चतर निम्नलिखित में से कौन-सा वर्गिकीय रैंक (taxonomic ranks) है?",
@@ -2122,7 +2122,7 @@
       "examName": "RRB Group D",
       "examYear": "18/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0837"
+      "id": "q_biology_others_133"
     },
     {
       "question": "पश्चिमी घाट के एक वन्यजीव रिजर्व में वन आवरण का तीव्रता से ह्रास हो रहा है। कौन-सा कथन सर्वोत्तम रूप से यह वर्णन करता है कि यह क्षेत्र वैश्विक संरक्षण के लिए प्राथमिकता क्यों है?",
@@ -2138,7 +2138,7 @@
       "examName": "RRB Group D",
       "examYear": "18/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_0842"
+      "id": "q_biology_others_134"
     },
     {
       "question": "खाद्य श्रृंखला और खाद्य जाल के बीच क्‍या अंतर है?",
@@ -2154,7 +2154,7 @@
       "examName": "RRB Group D",
       "examYear": "18/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0857"
+      "id": "q_biology_others_135"
     },
     {
       "question": "जैविक वर्गिकी पदानुक्रम में, नए खोजे गए पादप को वर्गीकृत करते समय कौन-सा वर्गिकी पद (rank) सबसे अंत में निर्धारित किया जाता है?",
@@ -2170,7 +2170,7 @@
       "examName": "RRB Group D",
       "examYear": "18/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_0868"
+      "id": "q_biology_others_136"
     },
     {
       "question": "क्लोरोफ्लोरोकार्बन (CFC) द्वारा ओजोन परत का अवक्षय जीवों के लिए खतरनाक क्यों माना जाता है?",
@@ -2186,7 +2186,7 @@
       "examName": "RRB Group D",
       "examYear": "18/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0877"
+      "id": "q_biology_others_137"
     },
     {
       "question": "एक शोधकर्ता मूल जड़ों, तनों और पत्तियों वाले पादपों की खेती करने का प्रयास करता है, लेकिन पाता है कि पुनरूत्पादन केवल जल की उपस्थिति में ही होता है। कौन-सी विशेषता इन पादपों के वितरण को सीमित करती है?",
@@ -2202,7 +2202,7 @@
       "examName": "RRB Group D",
       "examYear": "18/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0881"
+      "id": "q_biology_others_138"
     },
     {
       "question": "यदि ओजोन परत पतली हो जाए, तो पृथ्वी पर निम्नलिखित में से क्या हो सकता है?",
@@ -2218,7 +2218,7 @@
       "examName": "RRB Group D",
       "examYear": "18/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_0896"
+      "id": "q_biology_others_139"
     },
     {
       "question": "किसी शहर में जीवनशैली में बदलाव और डिस्पोजेबल पैकेजिंग के कारण अपशिष्ट उत्पादन में वृद्धि देखी जाती है। अपशिष्ट प्रबंधन सिद्धांतों के अनुसार पर्यावरणीय प्रभाव को कम करने का सबसे प्रभावी उपाय क्या है?",
@@ -2234,7 +2234,7 @@
       "examName": "RRB Group D",
       "examYear": "19/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_960"
+      "id": "q_biology_others_140"
     },
     {
       "question": "कोई जीवविज्ञानी, महाद्वीपीय तटों के निकट मछलियों की एक बड़ी आबादी का भरण-पोषण करने वाले पोषक-तत्वों से भरपूर जल का अध्ययन करता है। कौन-सी भौतिक क्रियाविधि, प्राकृतिक रूप से पोषक तत्वों को गहरे जल से पृष्ठीय जल पर लाती है?",
@@ -2250,7 +2250,7 @@
       "examName": "RRB Group D",
       "examYear": "19/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_975"
+      "id": "q_biology_others_141"
     },
     {
       "question": "जीवों के निम्नलिखित में से किस समूह को उपभोक्ता के रूप में वर्गीकृत नहीं किया जाता है?",
@@ -2266,7 +2266,7 @@
       "examName": "RRB Group D",
       "examYear": "20/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_992"
+      "id": "q_biology_others_142"
     },
     {
       "question": "कौन-सा कथन पारिस्थितिकी तंत्र में अपघटकों की भूमिका का सही ढंग से वर्णन करता है?",
@@ -2282,7 +2282,7 @@
       "examName": "RRB Group D",
       "examYear": "20/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_1006"
+      "id": "q_biology_others_143"
     },
     {
       "question": "एक शहर वाहनों के उत्सर्जन के कड़े नियम लागू करता है, जिससे धूम और भू-स्तर ओज़ोन (ground-level ozone) का बनना कम हो जाता है। इस नीति से पृथ्वी के कौन-से मंडल सीधे प्रभावित होते हैं?",
@@ -2298,7 +2298,7 @@
       "examName": "RRB Group D",
       "examYear": "20/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_1012"
+      "id": "q_biology_others_144"
     },
     {
       "question": "निम्नलिखित में से किस जीव के एक से अधिक पोषी स्तरों (trophic levels) पर होने की संभावना है?",
@@ -2314,7 +2314,7 @@
       "examName": "RRB Group D",
       "examYear": "20/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_1015"
+      "id": "q_biology_others_145"
     },
     {
       "question": "एक प्राणिविज्ञानी, सिंह-पुच्छी मैकेक (Lion-tailed macaque) की आबादी में उनके वन आवास के विखंडन के कारण गिरावट की पहचान करता है। यदि यह प्रवृत्ति जारी रहती है, तो सबसे संभावित पारिस्थितिक परिणाम क्या होगा?",
@@ -2330,7 +2330,7 @@
       "examName": "RRB Group D",
       "examYear": "20/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_1027"
+      "id": "q_biology_others_146"
     },
     {
       "question": "जैव निम्नीकरणीय अपशिष्ट के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
@@ -2346,7 +2346,7 @@
       "examName": "RRB Group D",
       "examYear": "20/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_1031"
+      "id": "q_biology_others_147"
     },
     {
       "question": "उच्चतर पोषी स्तरों पर जैविक आवर्धन क्यों बढ़ता है?",
@@ -2362,7 +2362,7 @@
       "examName": "RRB Group D",
       "examYear": "21/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_1059"
+      "id": "q_biology_others_148"
     },
     {
       "question": "रसायन विज्ञान की कौन-सी शाखा, सजीव कोशिकाओं के भीतर होने वाली अभिक्रियाओं से सबसे अधिक संबंधित है?",
@@ -2378,7 +2378,7 @@
       "examName": "RRB Group D",
       "examYear": "21/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_1087"
+      "id": "q_biology_others_149"
     },
     {
       "question": "यदि किसी खाद्य श्रृंृंखला के सभी सर्प लुप्‍त हो जाते हैं, तो खाद्य श्रृंृंखला पर तत्कालिक प्रभाव क्या होगा?",
@@ -2394,7 +2394,7 @@
       "examName": "RRB Group D",
       "examYear": "21/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_1109"
+      "id": "q_biology_others_150"
     },
     {
       "question": "निम्नलिखित में से कौन-सा व्यवहार अजैव-निम्नीकरणीय अपशिष्ट की मात्रा को कम कर सकता है?",
@@ -2410,7 +2410,7 @@
       "examName": "RRB Group D",
       "examYear": "25/08/2026 Shift 1",
       "type": "standard",
-      "id": "group_d_1133"
+      "id": "q_biology_others_151"
     },
     {
       "question": "निम्नलिखित में से कौन-सा, पारिस्थितिकी तंत्र को सर्वोत्तम रूप से परिभाषित करता है?",
@@ -2426,7 +2426,7 @@
       "examName": "RRB Group D",
       "examYear": "25/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_1161"
+      "id": "q_biology_others_152"
     },
     {
       "question": "निम्नलिखित में से कौन-सा कृत्रिम पारितंत्र का उदाहरण है?",
@@ -2442,7 +2442,7 @@
       "examName": "RRB Group D",
       "examYear": "25/08/2026 Shift 2",
       "type": "standard",
-      "id": "group_d_1175"
+      "id": "q_biology_others_153"
     },
     {
       "question": "निम्नलिखित में से किसे, अजैवनिम्नीकरणीय पदार्थ माना जाता है?",
@@ -2458,7 +2458,7 @@
       "examName": "RRB Group D",
       "examYear": "25/08/2026 Shift 3",
       "type": "standard",
-      "id": "group_d_1188"
+      "id": "q_biology_others_154"
     }
   ]
 }
